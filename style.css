@@ -23,6 +23,7 @@ body {
 }
 
 .collapsible {
+  padding-top: 25px;
   background-color: #343a40;
   color: #f8f9fa;
   cursor: pointer;
@@ -87,5 +88,13 @@ body {
 }
 
 .content p {
-  margin: 10px 0;
+  padding: 5px 5px;
+  display: inline-block;
+}
+
+.content a {
+  padding: 5px 5px;
+  display: inline-block; 
+  color: #74c0fc;
+  text-decoration: none;
 }
