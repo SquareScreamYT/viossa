@@ -1,22 +1,91 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Lato:wght@300&display=swap');
 
 html {
-    height: 100%;
-    width: 100%;
+  height: 100%;
+  width: 100%;
 }
 
 body {
-        background-color: #343a40;
-        color: #f8f9fa;
-        font-family: "Nunito", "Lato", system-ui, -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serifmonospace, ;
-        margin: 0;
-        padding-left: 20vw;
-        padding-right: 20vw;
-        padding-top: 10vh;
-    }
-    @media screen and (prefers-color-scheme: light) {
-    body {
-        background-color: #f8f9fa;
-        color: #343a40;
-    }
+  background-color: #212529;
+  color: #f8f9fa;
+  font-family: "Nunito", "Lato", system-ui, -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif, monospace;
+  margin: 0;
+  padding-left: 20vw;
+  padding-right: 20vw;
+  padding-top: 10vh;
+}
+
+@media screen and (prefers-color-scheme: light) {
+  body {
+    background-color: #f8f9fa;
+    color: #212529;
+  }
+}
+
+.collapsible {
+  background-color: #343a40;
+  color: #f8f9fa;
+  cursor: pointer;
+  padding: 10px;
+  width: 100%;
+  border: 1px solid #adb5bd;
+  border-radius: 10px;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: background-color 0.3s ease, border-color 0.3s ease, border-radius 0.3s ease;
+  margin-bottom: -1px; 
+  position: relative;
+  z-index: 2; 
+  font-weight: bold;
+  font-family: "Nunito", "Lato", system-ui, -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif, monospace; /* Add your font here */
+}
+
+
+.collapsible::after {
+  content: '>';
+  font-size: 15px;
+  position: absolute;
+  font-weight: bold;
+  right: 10px;
+  transform: rotate(90deg); 
+  transform-origin: center; 
+  transition: transform 0.3s ease;
+}
+
+.collapsible.active::after {
+  content: '>';
+  font-weight: bold;
+  transform: rotate(-90deg); 
+}
+
+.active, .collapsible:hover {
+  background-color: #495057;
+  border-color: #868e96;
+}
+
+.collapsible.active {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.content {
+  padding: 0 10px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease;
+  background-color: #343a40;
+  color: #f8f9fa;
+  border: 1px solid #adb5bd;
+  border-radius: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  position: relative;
+  z-index: 1;
+  font-weight: medium;
+  font-family: "Nunito", "Lato", system-ui, -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif, monospace; /* Add your font here */
+}
+
+.content p {
+  margin: 10px 0;
 }
