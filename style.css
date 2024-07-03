@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Lato:wght@300&display=swap');
+
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+        background-color: #343a40;
+        color: #f8f9fa;
+        font-family: "Nunito", "Lato", system-ui, -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serifmonospace, ;
+        margin: 0;
+        padding-left: 20vw;
+        padding-right: 20vw;
+        padding-top: 10vh;
+    }
+    @media screen and (prefers-color-scheme: light) {
+    body {
+        background-color: #f8f9fa;
+        color: #343a40;
+    }
+}
