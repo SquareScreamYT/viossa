@@ -6,8 +6,8 @@ html {
 }
 
 body {
-  background-color: #212529;
-  color: #f8f9fa;
+  background-color: #ecfeff;
+  color: #083344;
   font-family: "Nunito", "Lato", system-ui, -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif, monospace;
   margin: 0;
   padding-left: 20vw;
@@ -17,12 +17,12 @@ body {
 
 .collapsible {
   padding-top: 25px;
-  background-color: #343a40;
-  color: #f8f9fa;
+  background-color: #cffafe;
+  color: #083344;
   cursor: pointer;
   padding: 10px;
   width: 100%;
-  border: 1px solid #adb5bd;
+  border: 1px solid #22d3ee;
   border-radius: 10px;
   text-align: left;
   outline: none;
@@ -55,7 +55,7 @@ body {
 
 .active, .collapsible:hover {
   background-color: #495057;
-  border-color: #868e96;
+  border-color: #06b6d4;
 }
 
 .collapsible.active {
@@ -68,9 +68,9 @@ body {
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.3s ease;
-  background-color: #343a40;
-  color: #f8f9fa;
-  border: 1px solid #adb5bd;
+  background-color: #cffafe;
+  color: #083344;
+  border: 1px solid #22d3ee;
   border-radius: 10px;
   border-top-left-radius: 0;
   border-top-right-radius: 0;
@@ -88,6 +88,6 @@ body {
 .content a {
   padding: 5px 5px;
   display: inline-block; 
-  color: #74c0fc;
+  color: #34d399;
   text-decoration: none;
 }
