@@ -54,7 +54,7 @@ body {
 }
 
 .active, .collapsible:hover {
-  background-color: #495057;
+  background-color: #a5f3fc;
   border-color: #06b6d4;
 }
 
