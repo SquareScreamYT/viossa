@@ -15,6 +15,16 @@ body {
   padding-top: 10vh;
 }
 
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #ecfeff;
+   color: white;
+   text-align: center;
+}
+
 .collapsible {
   padding-top: 25px;
   background-color: #cffafe;
