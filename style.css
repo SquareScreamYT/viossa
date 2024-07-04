@@ -101,3 +101,30 @@ body {
   color: #84cc16;
   text-decoration: none;
 }
+
+.content table {
+  border-collapse: separate;
+  border-spacing: 0;
+  padding: 5px 5px;
+}
+
+.content th, td {
+  border: 1px solid #06b6d4;
+  padding: 10px;
+}
+
+.content tr:first-child th:first-child {
+  border-top-left-radius: 10px;
+}
+
+.content tr:first-child th:last-child {
+  border-top-right-radius: 10px;
+}
+
+.content tr:last-child td:first-child {
+  border-bottom-left-radius: 10px;
+}
+
+.content tr:last-child td:last-child {
+  border-bottom-right-radius: 10px;
+}
