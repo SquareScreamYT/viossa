@@ -15,16 +15,6 @@ body {
   padding-top: 10vh;
 }
 
-.footer {
-   position: fixed;
-   left: 0;
-   bottom: 0;
-   width: 100%;
-   background-color: #ecfeff;
-   color: white;
-   text-align: center;
-}
-
 .collapsible {
   padding-top: 25px;
   background-color: #cffafe;
@@ -127,4 +117,24 @@ body {
 
 .content tr:last-child td:last-child {
   border-bottom-right-radius: 10px;
+}
+
+footer {
+  text-align: center;
+  padding: 3px 3px;
+  background-color: #a5f3fc;
+  color: #ecfeff;
+  width: 100vw;
+  position: relative;
+  left: 50%; 
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+}
+
+a {
+  padding: 5px 5px;
+  display: inline-block; 
+  color: #84cc16;
+  text-decoration: none;
 }
