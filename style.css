@@ -1,13 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Lato:wght@300&family=Noto+Color+Emoji:wght@400&display=swap');
 
+:root {
+  --bg-color: #ecfeff;
+  --text-color: #083344;
+  --bg-color-dark: #cffafe;
+  --bg-color-darker: #a5f3fc;
+  --border-color: #22d3ee;
+  --border-color-dark: #06b6d4;
+  --link-color: #84cc16;
+}
+
 html {
   height: 100%;
   width: 100%;
 }
 
 body {
-  background-color: #ecfeff;
-  color: #083344;
+  background-color: var(--bg-color);
+  color: var(--text-color);
   font-family: "Nunito", "Noto Color Emoji", "Lato", system-ui, -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif, monospace;
   margin: 0;
   padding-left: 20vw;
@@ -17,12 +27,12 @@ body {
 
 .collapsible {
   padding-top: 25px;
-  background-color: #cffafe;
-  color: #083344;
+  background-color: var(--bg-color-dark);
+  color: var(--text-color);
   cursor: pointer;
   padding: 10px;
   width: 100%;
-  border: 1px solid #22d3ee;
+  border: 1px solid var(--border-color);
   border-radius: 10px;
   text-align: left;
   outline: none;
@@ -32,7 +42,7 @@ body {
   position: relative;
   z-index: 2; 
   font-weight: bold;
-  font-family: "Nunito", "Noto Color Emoji", "Lato", system-ui, -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif, monospace; /* Add your font here */
+  font-family: "Nunito", "Noto Color Emoji", "Lato", system-ui, -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif, monospace;
 }
 
 
@@ -54,8 +64,8 @@ body {
 }
 
 .active, .collapsible:hover {
-  background-color: #a5f3fc;
-  border-color: #06b6d4;
+  background-color: var(--bg-color-darker);
+  border-color: var(--border-color-dark);
 }
 
 .collapsible.active {
@@ -68,16 +78,16 @@ body {
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.3s ease;
-  background-color: #cffafe;
-  color: #083344;
-  border: 1px solid #22d3ee;
+  background-color: var(--bg-color-dark);
+  color: var(--text-color);
+  border: 1px solid var(--border-color);
   border-radius: 10px;
   border-top-left-radius: 0;
   border-top-right-radius: 0;
   position: relative;
   z-index: 1;
   font-weight: medium;
-  font-family: "Nunito", "Noto Color Emoji", "Lato", system-ui, -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif, monospace; /* Add your font here */
+  font-family: "Nunito", "Noto Color Emoji", "Lato", system-ui, -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif, monospace;
 }
 
 .content p {
@@ -88,7 +98,7 @@ body {
 .content a {
   padding: 5px 5px;
   display: inline-block; 
-  color: #84cc16;
+  color: var(--link-color);
   text-decoration: none;
 }
 
@@ -99,7 +109,7 @@ body {
 }
 
 .content th, td {
-  border: 1px solid #06b6d4;
+  border: 1px solid var(--border-color-dark);
   padding: 10px;
 }
 
@@ -122,8 +132,8 @@ body {
 footer {
   text-align: center;
   padding: 3px 3px;
-  background-color: #a5f3fc;
-  color: #ecfeff;
+  background-color: var(--bg-color-darker);
+  color: var(--bg-color);
   width: 100vw;
   position: relative;
   left: 50%; 
@@ -135,6 +145,6 @@ footer {
 a {
   padding: 5px 5px;
   display: inline-block; 
-  color: #84cc16;
+  color: var(--link-color);
   text-decoration: none;
 }
