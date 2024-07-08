@@ -18,7 +18,7 @@ html {
 body {
   background-color: var(--bg-color);
   color: var(--text-color);
-  font-family: "Nunito", local("Apple Color Emoji"), "Noto Color Emoji", "Lato", system-ui, -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif, monospace;
+  font-family: "Nunito", "Noto Color Emoji", "Lato", system-ui, -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif, monospace;
   margin: 0;
   padding-left: 20vw;
   padding-right: 20vw;
@@ -42,7 +42,7 @@ body {
   position: relative;
   z-index: 2; 
   font-weight: bold;
-  font-family: "Nunito", local("Apple Color Emoji"), "Noto Color Emoji", "Lato", system-ui, -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif, monospace;
+  font-family: "Nunito", "Noto Color Emoji", "Lato", system-ui, -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif, monospace;
 }
 
 
@@ -87,7 +87,7 @@ body {
   position: relative;
   z-index: 1;
   font-weight: medium;
-  font-family: "Nunito", local("Apple Color Emoji"), "Noto Color Emoji", "Lato", system-ui, -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif, monospace;
+  font-family: "Nunito", "Noto Color Emoji", "Lato", system-ui, -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif, monospace;
 }
 
 .content p {
