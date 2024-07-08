@@ -80,6 +80,9 @@ setInterval(function() {
   🏞️ — dâg<br>
   🌆 — gvêl<br>
   🌃 — naĉt/nakt<br><br>
+
+  ☀️ sôl<br>
+  🌙 lûna<br><br>
   
   dâg = ${day}/${month}/${year} 12:00 -> ${tomorrow.getDate()}/${tomorrow.getMonth()}/${tomorrow.getFullYear()} 12:00<br><br>
   
@@ -93,6 +96,15 @@ setInterval(function() {
 
   dântâg = ${yesterday.getDate()}/${yesterday.getMonth()}/${yesterday.getFullYear()}<br>
   imåtâg = ${day}/${month}/${year}<br>
-  mirăitâg = ${tomorrow.getDate()}/${tomorrow.getMonth()}/${tomorrow.getFullYear()}
+  mirăitâg = ${tomorrow.getDate()}/${tomorrow.getMonth()}/${tomorrow.getFullYear()}<br><br>
+
+  Dâgnamaj<br>
+  Lundâg<br>
+  Ajfrôjdâg<br>
+  Melån-ujk<br>
+  Airidâg<br>
+  Jaidâg<br>
+  Krendâg<br>
+  Soldâg
   `
 }, 1000);
