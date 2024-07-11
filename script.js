@@ -108,3 +108,19 @@ setInterval(function() {
   Soldâg
   `
 }, 1000);
+
+function changeColorScheme() {
+  var selectedScheme = document.getElementById('color-scheme').value;
+  document.body.className = selectedScheme + '-scheme';
+  localStorage.setItem('colorScheme', selectedScheme);
+}
+
+function loadColorScheme() {
+  var savedScheme = localStorage.getItem('colorScheme');
+  if (savedScheme) {
+    document.body.className = savedScheme + '-scheme';
+    document.getElementById('color-scheme').value = savedScheme;
+  }
+}
+
+document.addEventListener('DOMContentLoaded', loadColorScheme);
