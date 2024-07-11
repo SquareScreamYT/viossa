@@ -19,7 +19,7 @@
   --bg-color-darkest: #cbd5e0;
   --border-color: #64748b;
   --border-color-dark: #475569;
-  --link-color: #2dd4bf;
+  --link-color: #818cf8;
 }
 .black-scheme {
   --bg-color: #0f172a;
@@ -29,7 +29,7 @@
   --bg-color-darkest: #4c586b;
   --border-color: #64748b;
   --border-color-dark: #94a3b8;
-  --link-color: #2dd4bf;
+  --link-color: #818cf8;
 }
 .blue-scheme {
   --bg-color: #ecfeff;
@@ -39,10 +39,31 @@
   --bg-color-darkest: #67e8f9;
   --border-color: #22d3ee;
   --border-color-dark: #06b6d4;
-  --link-color: #84cc16;
+  --link-color: #818cf8;
+}
+.teal-scheme {
+  --bg-color: #f0fdfa;
+  --text-color: #134e4a;
+  --bg-color-dark: #ccfbf1;
+  --bg-color-darker: #99f6e4;
+  --bg-color-darkest: #5eead4;
+  --border-color: #2dd4bf;
+  --border-color-dark: #14b8a6;
+  --link-color: #818cf8;
+}
+.emerald-scheme {
+  --bg-color: #ecfdf5;
+  --text-color: #064e3b;
+  --bg-color-dark: #d1fae5;
+  --bg-color-darker: #a7f3d0;
+  --bg-color-darkest: #6ee7b7;
+  --border-color: #34d399;
+  --border-color-dark: #10b981;
+  --link-color: #818cf8;
 }
 
 select {
+  font-family: "Nunito", "Noto Color Emoji", "Lato", system-ui, -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif, monospace;
   appearance: none;
   -webkit-appearance: none;
   -moz-appearance: none;
