@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>SquareScreamYT's Viossa Dictionary</title>
+  <meta http-equiv='cache-control' content='no-cache'> 
+  <html lang="en" xml:lang="en" xmlns= "http://www.w3.org/1999/xhtml">
+  <meta http-equiv='expires' content='0'> 
+  <meta http-equiv='pragma' content='no-cache'>
+  <meta name="google" content="notranslate">
+  <meta http-equiv="Content-Language" content="en">
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+  <div class="container">
+    <div class="sidebar">
+      <input type="text" id="search" placeholder="Search for words...">
+      <div id="wordList"></div>
+    </div>
+    <div class="content">
+      <div style="display: flex; justify-content: space-between; align-items: center; box-sizing: border-box;">
+        <h1 style="margin: 0;">Word Name</h1>
+        <select id="color-scheme" onchange="changeColorScheme()" style="margin-left: auto;">
+          <option value="white">White</option>
+          <option value="black">Black</option>
+          <option value="blue" selected>Blue (Default)</option>
+          <option value="teal">Teal</option>
+          <option value="emerald">Green</option>
+        </select>
+      </div>
+      <div id="wordDetails"></div>
+    </div>
+  </div>
+  
+  <script src="script.js"></script>
+</body>
+</html>

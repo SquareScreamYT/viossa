@@ -1,0 +1,14 @@
+[
+  {
+    "word1": {
+      "definition1": "First definition",
+      "definition2": "Second definition"
+    }
+  },
+  {
+    "word2": {
+      "definition1": "First definition",
+      "definition2": "Second definition"
+    }
+  }
+]
