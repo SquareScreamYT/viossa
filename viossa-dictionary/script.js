@@ -14,22 +14,24 @@ function loadColorScheme() {
 
 document.addEventListener('DOMContentLoaded', loadColorScheme);
 
-fetch('words.json')
-  .then(response => response.json())
-  .then(data => {
-    const wordsContainer = document.getElementById('sidebar');
-    const definitionsElement = document.getElementById('wordDetails');
-    
-    data.forEach((item, index) => {
-      const button = document.createElement('button');
-      button.textContent = item.word;
-      button.addEventListener('click', () => {
-        definitionsElement.innerHTML = `
-          <p>Definition 1: ${item.word.definition1}</p>
-          <p>Definition 2: ${item.word.definition2}</p>
-        `;
+document.addEventListener('DOMContentLoaded', function() {
+  fetch('words.json')
+    .then(response => response.json())
+    .then(data => {
+      const wordsContainer = document.getElementById('sidebar');
+      const definitionsElement = document.getElementById('wordDetails');
+      
+      data.forEach((item, index) => {
+        const button = document.createElement('button');
+        button.textContent = item.word;
+        button.addEventListener('click', () => {
+          definitionsElement.innerHTML = `
+            <p>Definition 1: ${item.word.definition1}</p>
+            <p>Definition 2: ${item.word.definition2}</p>
+          `;
+        });
+        wordsContainer.appendChild(button);
       });
-      wordsContainer.appendChild(button);
-    });
-  })
-  .catch(error => console.error('Error:', error));
+    })
+    .catch(error => console.error('Error:', error));
+});
