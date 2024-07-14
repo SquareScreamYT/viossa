@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', function() {
             <p>Definition 1: ${item[wordKey].definition1}</p>
             <p>Definition 2: ${item[wordKey].definition2}</p>
           `;
-          titleElement.textContent = wordKey;
+          titleElement.innerHTML = wordKey;
         });
         wordsContainer.appendChild(button);
       });
