@@ -18,9 +18,9 @@ document.addEventListener('DOMContentLoaded', function() {
   fetch('words.json')
     .then(response => response.json())
     .then(data => {
-      console.log('data:', data);
       const wordsContainer = document.getElementById('wordList');
       const definitionsElement = document.getElementById('wordDetails');
+      const titleElement = document.getElementById('wordName');
       
       data.forEach((item) => {
         const wordKey = Object.keys(item)[0];
@@ -31,6 +31,7 @@ document.addEventListener('DOMContentLoaded', function() {
             <p>Definition 1: ${item[wordKey].definition1}</p>
             <p>Definition 2: ${item[wordKey].definition2}</p>
           `;
+          titleElement.textContent = wordKey;
         });
         wordsContainer.appendChild(button);
       });
