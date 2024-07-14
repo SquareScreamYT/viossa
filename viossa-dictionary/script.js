@@ -25,6 +25,7 @@ document.addEventListener('DOMContentLoaded', function() {
       data.forEach((item) => {
         const wordKey = Object.keys(item)[0];
         const button = document.createElement('button');
+        button.className = 'word-button';
         button.textContent = wordKey;
         button.addEventListener('click', () => {
           definitionsElement.innerHTML = `
