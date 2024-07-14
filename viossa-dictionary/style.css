@@ -165,6 +165,7 @@ a {
 }
 
 .word-button {
+  font-family: "Nunito", "SF Pro Rounded", "Apple Color Emoji", "Noto Color Emoji", "Lato", system-ui, -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif, monospace;
   display: block;
   width: 100%;
   padding: 10px 15px;

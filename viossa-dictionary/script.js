@@ -39,3 +39,20 @@ document.addEventListener('DOMContentLoaded', function() {
     })
     .catch(error => console.error('Error:', error));
 });
+
+const searchInput = document.getElementById('search');
+searchInput.addEventListener('input', filterWords);
+
+function filterWords() {
+  const searchTerm = searchInput.value.toLowerCase();
+  const buttons = wordsContainer.getElementsByClassName('word-button');
+  
+  Array.from(buttons).forEach(button => {
+    const word = button.textContent.toLowerCase();
+    if (word.includes(searchTerm)) {
+      button.style.display = 'block';
+    } else {
+      button.style.display = 'none';
+    }
+  });
+}
