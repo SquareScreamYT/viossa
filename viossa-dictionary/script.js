@@ -21,13 +21,14 @@ document.addEventListener('DOMContentLoaded', function() {
       const wordsContainer = document.getElementById('wordList');
       const definitionsElement = document.getElementById('wordDetails');
       
-      data.forEach((item, index) => {
+      data.forEach((item) => {
+        const wordKey = Object.keys(item)[0];
         const button = document.createElement('button');
-        button.textContent = item.word;
+        button.textContent = wordKey;
         button.addEventListener('click', () => {
           definitionsElement.innerHTML = `
-            <p>Definition 1: ${item.word.definition1}</p>
-            <p>Definition 2: ${item.word.definition2}</p>
+            <p>Definition 1: ${item[wordKey].definition1}</p>
+            <p>Definition 2: ${item[wordKey].definition2}</p>
           `;
         });
         wordsContainer.appendChild(button);
