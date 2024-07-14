@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
   fetch('words.json')
     .then(response => response.json())
     .then(data => {
-      const wordsContainer = document.getElementById('sidebar');
+      const wordsContainer = document.getElementById('wordList');
       const definitionsElement = document.getElementById('wordDetails');
       
       data.forEach((item, index) => {
