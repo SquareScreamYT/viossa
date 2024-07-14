@@ -18,6 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
   fetch('words.json')
     .then(response => response.json())
     .then(data => {
+      console.log('data:', data);
       const wordsContainer = document.getElementById('wordList');
       const definitionsElement = document.getElementById('wordDetails');
       
