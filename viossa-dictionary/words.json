@@ -1,12 +1,12 @@
 [
   {
-    "ringo": {
-      "definition": "ros frauta du deki nam",
+    "banan": {
+      "definition": "kjero frauta du deki nam"
     }
   },
   {
-    "banan": {
-      "definition": "kjero frauta du deki nam",
+    "ringo": {
+      "definition": "ros frauta du deki nam"
     }
   }
 ]
