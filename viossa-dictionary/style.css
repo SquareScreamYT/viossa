@@ -142,6 +142,7 @@ a {
   border-width: 0;
   background-color: var(--bg-color-darker);
   transition: background-color 0.3s ease;
+  color: var(--text-color);
 }
 
 #wordList {
