@@ -29,8 +29,7 @@ document.addEventListener('DOMContentLoaded', function() {
         button.textContent = wordKey;
         button.addEventListener('click', () => {
           definitionsElement.innerHTML = `
-            <p>Definition 1: ${item[wordKey].definition1}</p>
-            <p>Definition 2: ${item[wordKey].definition2}</p>
+            <p>${item[wordKey].definition}</p>
           `;
           titleElement.innerHTML = wordKey;
         });
