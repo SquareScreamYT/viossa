@@ -1,14 +1,12 @@
 [
   {
-    "word1": {
-      "definition1": "First definition",
-      "definition2": "Second definition"
+    "ringo": {
+      "definition": "ros frauta du deki nam",
     }
   },
   {
-    "word2": {
-      "definition1": "First definition",
-      "definition2": "Second definition"
+    "banan": {
+      "definition": "kjero frauta du deki nam",
     }
   }
 ]
