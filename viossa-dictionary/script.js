@@ -39,6 +39,7 @@ document.addEventListener('DOMContentLoaded', function() {
     .catch(error => console.error('Error:', error));
 });
 
+const wordsContainer = document.getElementById('wordList');
 const searchInput = document.getElementById('search');
 searchInput.addEventListener('input', filterWords);
 
