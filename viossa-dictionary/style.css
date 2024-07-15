@@ -85,6 +85,7 @@ select {
   text-align: center;
   display: inline-block;
   box-shadow: none;
+  transition: background-color 0.3s ease;
 }
 
 html {
@@ -110,12 +111,14 @@ a {
   display: inline-block; 
   color: var(--link-color);
   text-decoration: none;
+  transition: background-color 0.3s ease;
 }
 
 .container {
   display: flex;
   height: 96vh;
   gap: 10px;
+  transition: background-color 0.3s ease;
 }
 
 .sidebar {
@@ -126,6 +129,7 @@ a {
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
+  transition: background-color 0.3s ease;
 }
 
 #search {
@@ -137,21 +141,25 @@ a {
   border-radius: 25px;
   border-width: 0;
   background-color: var(--bg-color-darker);
+  transition: background-color 0.3s ease;
 }
 
 #wordList {
   flex-grow: 1;
   overflow-y: auto;
+  transition: background-color 0.3s ease;
 }
 
 .word-entry {
   cursor: pointer;
   padding: 10px;
   border-bottom: 1px solid #ddd;
+  transition: background-color 0.3s ease;
 }
 
 .word-entry:last-child {
   border-bottom: none;
+  transition: background-color 0.3s ease;
 }
 
 .content {
@@ -162,6 +170,7 @@ a {
   display: flex;
   flex-direction: column;
   flex-grow: 1;
+  transition: background-color 0.3s ease;
 }
 
 .word-button {
