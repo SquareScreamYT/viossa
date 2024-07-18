@@ -1,7 +1,7 @@
 [
   {
     "ahavja": {
-      "definition": "🫐 - makot frauta du deki nam",
+      "definition": "🫐 - makot, čisai frauta du deki nam",
       "image": "https://img.freepik.com/free-photo/closeup-vertical-shot-blueberries-with-water-droplets-leaves_181624-1115.jpg",
       "image2": "https://img.freepik.com/free-photo/closeup-vertical-shot-blueberries-with-water-droplets-leaves_181624-1166.jpg"
     }
@@ -15,7 +15,7 @@
   },
   {
     "banan": {
-      "definition": "🍌 - pika, kjero frauta du deki nam",
+      "definition": "🍌 - kjero, pika frauta du deki nam",
       "image": "https://img.freepik.com/free-photo/view-banana-fruits_23-2150823149.jpg",
       "image2": "https://img.freepik.com/free-photo/delicious-banana_144627-5374.jpg"
     }
@@ -25,6 +25,13 @@
       "definition": "🍈 - zjelon frauta du deki nam",
       "image": "https://img.freepik.com/free-photo/melon_74190-4894.jpg",
       "image2": "https://img.freepik.com/free-photo/still-life-photorealistic-cantaloupe-melon_23-2151659059.jpg"
+    }
+  },
+  {
+    "kerfrauta": {
+      "definition": "🍓 - roš, čisai frauta du deki nam",
+      "image": "https://img.freepik.com/free-photo/strawberries-cut-half-whole-berries-ripe-berries-top-view-background-ripe-strawberries-delicious-natural-dessert_166373-2358.jpg",
+      "image2": "https://img.freepik.com/free-photo/close-up-fresh-strawberries-small-brown-wooden-box_140725-151137.jpg"
     }
   },
   {
@@ -43,9 +50,23 @@
   },
   {
     "manga": {
-      "definition": "🥭 - ros, kjero os midorii frauta du deki nam",
+      "definition": "🥭 - roš, kjero os midorii frauta du deki nam",
       "image": "https://img.freepik.com/free-photo/mango_1203-8850.jpg",
       "image2": "https://img.freepik.com/free-photo/cut-mango_501050-332.jpg"
+    }
+  },
+  {
+    "njog": {
+      "definition": "🥥 - brun frauta du deki nam",
+      "image": "https://img.freepik.com/free-photo/coconut-fruit_1203-2413.jpg",
+      "image2": "https://img.freepik.com/free-photo/fresh-coconuts-put-white-wooden-background_1150-28236.jpg"
+    }
+  },
+  {
+    "persus": {
+      "definition": "🍑 - rosa frauta du deki nam",
+      "image": "https://img.freepik.com/free-photo/peach-table_144627-17514.jpg",
+      "image2": "https://img.freepik.com/free-photo/nectarines-basket-pink-cutting-board-table-high-angle-view_176474-8583.jpg"
     }
   },
   {
@@ -57,7 +78,7 @@
   },
   {
     "ringo": {
-      "definition": "🍎🍏 - ros os midori frauta du deki nam",
+      "definition": "🍎🍏 - roš os midori frauta du deki nam",
       "image": "https://img.freepik.com/free-photo/two-red-apples-isolated-white_114579-73124.jpg",
       "image2": "https://img.freepik.com/free-photo/green-fresh-apples-as-background_78492-3923.jpg"
     }
