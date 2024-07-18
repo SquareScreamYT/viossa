@@ -30,6 +30,10 @@ document.addEventListener('DOMContentLoaded', function() {
         button.addEventListener('click', () => {
           definitionsElement.innerHTML = `
             <p>${item[wordKey].definition}</p>
+            ${item[wordKey].image ? `<h4>riso:</h4>` : ''}
+            <img src="${item[wordKey].image}" height=200 width=auto>
+            ${item[wordKey].image2 ? `<img src="${item[wordKey].image2}" height=200 width=auto>` : ''}
+            ${item[wordKey].image ? `<h5>riso f'<a href="https://freepik.com">Freepik</a></h5>` : ''}
           `;
           titleElement.innerHTML = wordKey;
         });

@@ -1,42 +1,58 @@
 [
   {
     "ahavja": {
-      "definition": "🫐 - makot frauta du deki nam"
+      "definition": "🫐 - makot frauta du deki nam",
+      "image": "https://img.freepik.com/free-photo/closeup-vertical-shot-blueberries-with-water-droplets-leaves_181624-1115.jpg?w=360&t=st=1721296619~exp=1721297219~hmac=11004b3c765e06f8313f8362968772d8a8ddb89e53276a65eba00bd6cf2bbcf1",
+      "image2": "https://img.freepik.com/free-photo/closeup-vertical-shot-blueberries-with-water-droplets-leaves_181624-1166.jpg?w=996&t=st=1721296651~exp=1721297251~hmac=37afaccc87416cc31988fa133658046aa6ee27797e5a38ec02e83596888107c1"
     }
   },
   {
     "ananas": {
-      "definition": "🍍 - kjero frauta du deki nam"
+      "definition": "🍍 - kjero frauta du deki nam",
+      "image": "",
+      "image2": ""
     }
   },
   {
     "banan": {
-      "definition": "🍌 - pika, kjero frauta du deki nam"
+      "definition": "🍌 - pika, kjero frauta du deki nam",
+      "image": "",
+      "image2": ""
     }
   },
   {
     "kruska": {
-      "definition": "🍐 - midori frauta du deki nam"
+      "definition": "🍐 - midori frauta du deki nam",
+      "image": "",
+      "image2": ""
     }
   },
   {
     "limon": {
-      "definition": "🍋 - kjero frauta du deki nam"
+      "definition": "🍋 - kjero frauta du deki nam",
+      "image": "",
+      "image2": ""
     }
   },
   {
     "manga": {
-      "definition": "🥭 - ros, kjero os midorii frauta du deki nam"
+      "definition": "🥭 - ros, kjero os midorii frauta du deki nam",
+      "image": "",
+      "image2": ""
     }
   },
   {
     "portokali": {
-      "definition": "🍊 - portokali frauta du deki nam"
+      "definition": "🍊 - portokali frauta du deki nam",
+      "image": "",
+      "image2": ""
     }
   },
   {
     "ringo": {
-      "definition": "🍎🍏 - ros os midori frauta du deki nam"
+      "definition": "🍎🍏 - ros os midori frauta du deki nam",
+      "image": "https://img.freepik.com/free-photo/two-red-apples-isolated-white_114579-73124.jpg?t=st=1721296915~exp=1721300515~hmac=21abfefe60c3516aa2d1c7cab72002c4e90cb02738f6e159414f0e884c9d90bf&w=996",
+      "image2": "https://img.freepik.com/free-photo/green-fresh-apples-as-background_78492-3923.jpg?t=st=1721296952~exp=1721300552~hmac=07213ebb3ba3027f1e00d2376f795b49f42d1d4c5ba84ce21d3177559d141294&w=996"
     }
   }
 ]
