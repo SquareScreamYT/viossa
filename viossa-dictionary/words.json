@@ -1,5 +1,12 @@
 [
   {
+    "afrauta": {
+      "definition": "🥝 - brun au midori frauta du deki nam",
+      "image": "https://img.freepik.com/free-photo/close-up-kiwi-slices_23-2148804899.jpg",
+      "image2": "https://img.freepik.com/free-photo/fresh-kiwi-fruit-isolated_144627-30034.jpg"
+    }
+  },
+  {
     "ahavja": {
       "definition": "🫐 - makot, čisai frauta du deki nam",
       "image": "https://img.freepik.com/free-photo/closeup-vertical-shot-blueberries-with-water-droplets-leaves_181624-1115.jpg",
@@ -56,8 +63,15 @@
     }
   },
   {
+    "nihonfrauta": {
+      "definition": "🍒 - roš, čisai frauta du deki nam",
+      "image": "https://img.freepik.com/free-photo/red-cherries-plate-bowl-gray-table_114579-9864.jpg",
+      "image2": "https://img.freepik.com/free-photo/cherries-wooden-plate-pink-surface-flat-lay_176474-6323.jpg"
+    }
+  },
+  {
     "njog": {
-      "definition": "🥥 - brun frauta du deki nam",
+      "definition": "🥥 - brun au širo frauta du deki nam",
       "image": "https://img.freepik.com/free-photo/coconut-fruit_1203-2413.jpg",
       "image2": "https://img.freepik.com/free-photo/fresh-coconuts-put-white-wooden-background_1150-28236.jpg"
     }
@@ -81,6 +95,27 @@
       "definition": "🍎🍏 - roš os midori frauta du deki nam",
       "image": "https://img.freepik.com/free-photo/two-red-apples-isolated-white_114579-73124.jpg",
       "image2": "https://img.freepik.com/free-photo/green-fresh-apples-as-background_78492-3923.jpg"
+    }
+  },
+  {
+    "vestfrauta": {
+      "definition": "🍉 - roš au midori frauta du deki nam",
+      "image": "https://img.freepik.com/free-photo/green-striped-ripe-watermelon-with-slice-cross-section-isolated-white-background-with-copy-space-text-images-special-kind-berry-sweet-pink-flesh-with-black-seeds-side-view_639032-1254.jpg",
+      "image2": "https://img.freepik.com/free-photo/slices-juicy-tasty-watermelon-white-plate_2829-19980.jpg"
+    }
+  },
+  {
+    "vinjafrauta": {
+      "definition": "🍇 - makot, roš au midori frauta du deki nam",
+      "image": "https://img.freepik.com/free-photo/bunch-fresh-grapes-hand-black-background-high-quality-photo_114579-44220.jpg",
+      "image2": "https://img.freepik.com/free-photo/ripe-grapes-wicker-basket-wooden-background-flat-lay_176474-9810.jpg"
+    }
+  },
+  {
+    "voiringo": {
+      "definition": "🥑 - midori frauta du deki nam",
+      "image": "https://img.freepik.com/free-photo/avocado-products-made-from-avocados-food-nutrition-concept_1150-26277.jpg",
+      "image2": "https://img.freepik.com/free-photo/closeup-fresh-avocados-filling-frame_125540-4396.jpg"
     }
   }
 ]
