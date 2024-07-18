@@ -179,6 +179,8 @@ a {
   display: block;
   width: 100%;
   padding: 10px 15px;
+  padding-right: 20px;
+  box-sizing: border-box;
   margin-bottom: 10px;
   background-color: var(--bg-color-darker);
   color: var(--text-color);
@@ -198,4 +200,26 @@ a {
 
 .word-button:focus {
   border-color: var(--border-color-dark);
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-color-darkest);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--bg-color-darker);
+  border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--bg-color-dark);
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--bg-color-darkest) var(--bg-color-darker);
 }
