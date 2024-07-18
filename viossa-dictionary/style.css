@@ -149,6 +149,8 @@ a {
   flex-grow: 1;
   overflow-y: auto;
   transition: background-color 0.3s ease;
+  padding-right: 10px;
+  box-sizing: border-box;
 }
 
 .word-entry {
