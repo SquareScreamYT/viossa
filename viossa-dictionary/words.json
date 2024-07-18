@@ -28,10 +28,30 @@
     }
   },
   {
+    "banan (varge)": {
+      "definition": "<span style=\"color:#fef08a;\">afto varge banan</span>"
+    }
+  },
+  {
+    "blau": {
+      "definition": "<span style=\"color:#38bdf8;\">afto varge blau</span>"
+    }
+  },
+  {
+    "brun": {
+      "definition": "<span style=\"color:#c49058;\">afto varge brun</span>"
+    }
+  },
+  {
     "frauta": {
       "definition": "ringo, banan, portokali al frauta.",
       "image": "https://img.freepik.com/free-photo/grapes-strawberries-pineapple-kiwi-apricot-banana-whole-pineapple_23-2147968680.jpg",
       "image2": "https://img.freepik.com/free-photo/colorful-fruit_1417-1529.jpg"
+    }
+  },
+  {
+    "griš": {
+      "definition": "<span style=\"color:#6b7280;\">afto varge griš</span>"
     }
   },
   {
@@ -42,10 +62,40 @@
     }
   },
   {
+    "harma": {
+      "definition": "<span style=\"color:#adada1;\">afto varge harma</span>"
+    }
+  },
+  {
+    "kafej": {
+      "definition": "<span style=\"color:#78350f;\">afto varge kafej</span>"
+    }
+  },
+  {
+    "kawi": {
+      "definition": "<span style=\"color:#7f1d1d;\">afto varge kawi</span>"
+    }
+  },
+  {
+    "kelt": {
+      "definition": "<span style=\"color:#fbbf24;\">afto varge kelt</span>"
+    }
+  },
+  {
     "kerfrauta": {
       "definition": "🍓 - roš, čisai frauta du deki nam.",
       "image": "https://img.freepik.com/free-photo/strawberries-cut-half-whole-berries-ripe-berries-top-view-background-ripe-strawberries-delicious-natural-dessert_166373-2358.jpg",
       "image2": "https://img.freepik.com/free-photo/close-up-fresh-strawberries-small-brown-wooden-box_140725-151137.jpg"
+    }
+  },
+  {
+    "kulus": {
+      "definition": "<span style=\"color:#34d399;\">afto varge kulus</span>"
+    }
+  },
+  {
+    "kuro": {
+      "definition": "<span style=\"color:#030712;\">afto varge kuro</span>"
     }
   },
   {
@@ -63,10 +113,25 @@
     }
   },
   {
+    "makot": {
+      "definition": "<span style=\"color:#8b5cf6;\">afto varge makot</span>"
+    }
+  },
+  {
     "manga": {
       "definition": "🥭 - roš, kjero os midorii frauta du deki nam.",
       "image": "https://img.freepik.com/free-photo/mango_1203-8850.jpg",
       "image2": "https://img.freepik.com/free-photo/cut-mango_501050-332.jpg"
+    }
+  },
+  {
+    "midori": {
+      "definition": "<span style=\"color:#4ade80;\">afto varge midori</span>"
+    }
+  },
+  {
+    "murasaki": {
+      "definition": "<span style=\"color:#a855f7;\">afto varge murasaki</span>"
     }
   },
   {
@@ -84,10 +149,20 @@
     }
   },
   {
+    "okra": {
+      "definition": "<span style=\"color:#f09d46;\">afto varge okra</span>"
+    }
+  },
+  {
     "persus": {
       "definition": "🍑 - rosa frauta du deki nam.",
       "image": "https://img.freepik.com/free-photo/peach-table_144627-17514.jpg",
       "image2": "https://img.freepik.com/free-photo/nectarines-basket-pink-cutting-board-table-high-angle-view_176474-8583.jpg"
+    }
+  },
+  {
+    "pijo": {
+      "definition": "<span style=\"color:#facc15;\">afto varge pijo</span>"
     }
   },
   {
@@ -98,10 +173,30 @@
     }
   },
   {
+    "portokali (varge)": {
+      "definition": "<span style=\"color:#fb923c;\">afto varge portokali</span>"
+    }
+  },
+  {
     "ringo": {
       "definition": "🍎🍏 - roš os midori frauta du deki nam.",
       "image": "https://img.freepik.com/free-photo/two-red-apples-isolated-white_114579-73124.jpg",
       "image2": "https://img.freepik.com/free-photo/green-fresh-apples-as-background_78492-3923.jpg"
+    }
+  },
+  {
+    "roš": {
+      "definition": "<span style=\"color:#ef4444;\">afto varge roš</span>"
+    }
+  },
+  {
+    "širo": {
+      "definition": "<span style=\"color:#f8fafc;\">afto varge širo</span>"
+    }
+  },
+  {
+    "sini": {
+      "definition": "<span style=\"color:#22d3ee;\">afto varge sini</span>"
     }
   },
   {
@@ -123,6 +218,11 @@
       "definition": "🥑 - midori frauta du deki nam.",
       "image": "https://img.freepik.com/free-photo/avocado-products-made-from-avocados-food-nutrition-concept_1150-26277.jpg",
       "image2": "https://img.freepik.com/free-photo/closeup-fresh-avocados-filling-frame_125540-4396.jpg"
+    }
+  },
+  {
+    "zjelon": {
+      "definition": "<span style=\"color:#a3e635;\">afto varge žjelón</span>"
     }
   }
 ]
