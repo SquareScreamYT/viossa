@@ -27,8 +27,15 @@ document.addEventListener('DOMContentLoaded', function() {
         const button = document.createElement('button');
         button.className = 'word-button';
         button.textContent = wordKey;
+
+        for (let c = 0; c < item[wordKey].category.length; c++) {
+          categoriesFinal = "";
+          categoriesFinal += item[wordKey].category[c];
+        }
+
         button.addEventListener('click', () => {
           definitionsElement.innerHTML = `
+            <h4>klani: ${categoriesFinal}</h4>
             <p>${item[wordKey].definition}</p>
             ${item[wordKey].image ? `<h4>riso:</h4>` : ''}
             ${item[wordKey].image ? `<img src="${item[wordKey].image}" height=200 width=auto>` : ''}
