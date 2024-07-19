@@ -24,6 +24,14 @@
     }
   },
   {
+    "asetona": {
+      "definition": "🫒 - midori, čisai ovošji du deki nam.",
+      "image": "https://img.freepik.com/free-photo/close-up-delicious-olives-bowl_23-2148364448.jpg",
+      "image2": "https://img.freepik.com/free-photo/bowl-olives-isolated-white-background_93675-135071.jpg",
+      "category": ["ovošji", "namting"]
+    }
+  },
+  {
     "banan": {
       "definition": "🍌 - kjero, pika frauta du deki nam.",
       "image": "https://img.freepik.com/free-photo/view-banana-fruits_23-2150823149.jpg",
@@ -47,6 +55,22 @@
     "brun": {
       "definition": "<span style=\"color:#c49058;\">afto varge brun</span>",
       "category": ["varge"]
+    }
+  },
+  {
+    "ehote": {
+      "definition": "🫛 - midori, čisai ovošji du deki nam.",
+      "image": "https://img.freepik.com/free-photo/high-angle-shot-fresh-green-peas-wooden-table_181624-53478.jpg",
+      "image2": "https://img.freepik.com/free-photo/green-peas_144627-34033.jpg",
+      "category": ["ovošji", "namting"]
+    }
+  },
+  {
+    "erba": {
+      "definition": "🥬 - midori ovošji du deki nam.",
+      "image": "https://img.freepik.com/free-photo/fresh-lettuce_1339-2070.jpg",
+      "image2": "https://img.freepik.com/free-photo/vegetable-salad_1388-679.jpg",
+      "category": ["ovošji", "namting"]
     }
   },
   {
@@ -78,9 +102,41 @@
     }
   },
   {
+    "hember": {
+      "definition": "🫚 - brun au kjero ovošji du deki nam.",
+      "image": "https://img.freepik.com/free-photo/assortment-ginger-wooden-board_23-2148799547.jpg",
+      "image2": "https://img.freepik.com/free-photo/fresh-ginger-root-sliced-wooden-table_1150-18399.jpg",
+      "category": ["ovošji", "namting"]
+    }
+  },
+  {
     "kafej": {
       "definition": "<span style=\"color:#78350f;\">afto varge kafej</span>",
       "category": ["varge"]
+    }
+  },
+  {
+    "kapušta": {
+      "definition": "🥦 - midori ovošji du deki nam.",
+      "image": "https://img.freepik.com/free-photo/fresh-broccoli-vegetables_144627-20147.jpg",
+      "image2": "https://img.freepik.com/free-photo/fresh-green-broccoli-gray_179666-46505.jpg",
+      "category": ["ovošji", "namting"]
+    }
+  },
+  {
+    "kartofel": {
+      "definition": "🥔 - brun ovošji du deki nam.",
+      "image": "https://img.freepik.com/free-photo/natural-potatoes-bowl-floor_23-2148540378.jpg",
+      "image2": "https://img.freepik.com/free-photo/rustic-unpeeled-potatoes-table_144627-3908.jpg",
+      "category": ["ovošji", "namting"]
+    }
+  },
+  {
+    "kaukau": {
+      "definition": "🍠 - murasaki au kjero ovošji du deki nam.",
+      "image": "https://img.freepik.com/free-photo/sweet-potatoes-white-surface_144627-45170.jpg",
+      "image2": "https://img.freepik.com/free-photo/sweet-potatoes_144627-33712.jpg",
+      "category": ["ovošji", "namting"]
     }
   },
   {
@@ -132,6 +188,30 @@
     }
   },
   {
+    "luvan": {
+      "definition": "🥕 - portokali ovošji du deki nam.",
+      "image": "https://img.freepik.com/free-photo/realistic-image-carrot-colourful-background_125540-3805.jpg",
+      "image2": "https://img.freepik.com/free-photo/side-view-carrots-wooden-surface-black-background_141793-6444.jpg",
+      "category": ["ovošji", "namting"]
+    }
+  },
+  {
+    "lyk": {
+      "definition": "🧄 - širo ovošji du deki nam.",
+      "image": "https://img.freepik.com/free-photo/fresh-raw-garlic-ready-cook_1150-42637.jpg",
+      "image2": "https://img.freepik.com/free-photo/close-up-view-fresh-garlic-pods-black-background-with-free-space_179666-19922.jpg",
+      "category": ["ovošji", "namting"]
+    }
+  },
+  {
+    "makis": {
+      "definition": "🌽 - kjero ovošji du deki nam.",
+      "image": "https://img.freepik.com/free-photo/realistic-image-ear-corn-yellow-background_125540-3795.jpg",
+      "image2": "https://img.freepik.com/free-photo/fresh-corn-wooden-table_1150-9476.jpg",
+      "category": ["ovošji", "namting"]
+    }
+  },
+  {
     "makot": {
       "definition": "<span style=\"color:#8b5cf6;\">afto varge makot</span>",
       "category": ["varge"]
@@ -149,6 +229,14 @@
     "midori": {
       "definition": "<span style=\"color:#4ade80;\">afto varge midori</span>",
       "category": ["varge"]
+    }
+  },
+  {
+    "miraseň": {
+      "definition": "🍆 - makot, pika ovošji du deki nam.",
+      "image": "https://img.freepik.com/free-photo/side-view-fresh-eggplants-with-slices-board-with-lettuce_141793-7165.jpg",
+      "image2": "https://img.freepik.com/free-photo/top-view-black-eggplants-cutting-board-dark-surface-food-color-dinner-meal-fresh-salad-vegetable_179666-19680.jpg",
+      "category": ["ovošji", "namting"]
     }
   },
   {
@@ -174,9 +262,25 @@
     }
   },
   {
+    "oišifrauta": {
+      "definition": "🧅 - portokali os murasaki ovošji du deki nam.",
+      "image": "https://img.freepik.com/free-photo/close-up-view-basket-onions-sackloth-white-background_141793-5347.jpg",
+      "image2": "https://img.freepik.com/free-photo/close-up-view-basket-red-onions_141793-5351.jpg",
+      "category": ["ovošji", "namting"]
+    }
+  },
+  {
     "okra": {
       "definition": "<span style=\"color:#f09d46;\">afto varge okra</span>",
       "category": ["varge"]
+    }
+  },
+  {
+    "ovošji": {
+      "definition": "pomodoro, erba, kapušta al ovošji..",
+      "image": "https://img.freepik.com/free-photo/bottom-view-fruits-vegetables-radish-cherry-tomatoes-persimmon-tomatoes-kiwi-cucumber-apples-red-cabbage-parsley-quince-aubergines-blue-table_140725-146174.jpg",
+      "image2": "https://img.freepik.com/free-photo/fresh-vegetables-flat-lay-healthy-lifestyle_53876-101580.jpg",
+      "category": ["frauta", "namting"]
     }
   },
   {
@@ -191,6 +295,22 @@
     "pijo": {
       "definition": "<span style=\"color:#facc15;\">afto varge pijo. pijo kjero.</span>",
       "category": ["varge"]
+    }
+  },
+  {
+    "piman": {
+      "definition": "🌶️🫑 - roš, pika os midori ovošji du deki nam.",
+      "image": "https://img.freepik.com/free-photo/top-view-fresh-bell-peppers-inside-basket_140725-57545.jpg",
+      "image2": "https://img.freepik.com/free-photo/side-view-vegetables-as-basket-tomato-with-pepper-garlic-bulb-tomatoes-around-wood_141793-16796.jpg",
+      "category": ["ovošji", "namting"]
+    }
+  },
+  {
+    "pomodoro": {
+      "definition": "🍅 - roš ovošji du deki nam.",
+      "image": "https://img.freepik.com/free-photo/tomatoes_144627-15411.jpg",
+      "image2": "https://img.freepik.com/free-photo/top-view-ripe-fresh-tomatoes-with-water-drops-black-background_141793-3432.jpg",
+      "category": ["ovošji", "namting"]
     }
   },
   {
@@ -231,6 +351,14 @@
     "sini": {
       "definition": "<span style=\"color:#22d3ee;\">afto varge sini</span>",
       "category": ["varge"]
+    }
+  },
+  {
+    "trasak": {
+      "definition": "🥒 - midori ovošji du deki nam.",
+      "image": "https://img.freepik.com/free-photo/closeup-chopped-cucumber-filling-frame_125540-4394.jpg",
+      "image2": "https://img.freepik.com/free-photo/green-cucumber_144627-21625.jpg",
+      "category": ["ovošji", "namting"]
     }
   },
   {
