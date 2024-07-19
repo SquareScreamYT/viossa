@@ -225,3 +225,7 @@ a {
   scrollbar-width: thin;
   scrollbar-color: var(--bg-color-darkest) var(--bg-color-darker);
 }
+
+img {
+  border-radius: 10px;
+}
