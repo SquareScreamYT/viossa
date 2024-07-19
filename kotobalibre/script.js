@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', function() {
             ${item[wordKey].image ? `<h5>riso f'<a href="https://freepik.com">Freepik</a></h5>` : ''}
           `;
           titleElement.innerHTML = wordKey;
-        });
+        } );
         wordsContainer.appendChild(button);
       });
     })
@@ -59,4 +59,46 @@ function filterWords() {
       button.style.display = 'none';
     }
   });
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+  checkUrlAndSearch();
+});
+
+function checkUrlAndSearch() {
+  const currentUrl = new URL(window.location.href);
+  const searchParams = currentUrl.searchParams;
+
+  if (searchParams.has('kotoba')) {
+    const searchWord = searchParams.get('kotoba');
+    if (searchWord) {
+      loadWordDetails(searchWord);
+    }
+  }
+}
+
+function loadWordDetails(word) {
+  fetch('words.json')
+    .then(response => response.json())
+    .then(data => {
+      const wordObject = data.find(item => Object.keys(item)[0].toLowerCase() === word.toLowerCase());
+      
+      if (wordObject) {
+        const wordKey = Object.keys(wordObject)[0];
+        const definitionsElement = document.getElementById('wordDetails');
+        const titleElement = document.getElementById('wordName');
+
+        definitionsElement.innerHTML = `
+          <p>${wordObject[wordKey].definition}</p>
+          ${wordObject[wordKey].image ? `<h4>riso:</h4>` : ''}
+          ${wordObject[wordKey].image ? `<img src="${wordObject[wordKey].image}" height=200 width=auto>` : ''}
+          ${wordObject[wordKey].image2 ? `<img src="${wordObject[wordKey].image2}" height=200 width=auto>` : ''}
+          ${wordObject[wordKey].image ? `<h5>riso f'<a href="https://freepik.com">Freepik</a></h5>` : ''}
+        `;
+        titleElement.innerHTML = wordKey;
+      } else {
+        console.log('kotoba naj jam.');
+      }
+    })
+    .catch(error => console.error('Error:', error));
 }
