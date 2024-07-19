@@ -12,9 +12,53 @@ function loadColorScheme() {
   }
 }
 
-document.addEventListener('DOMContentLoaded', loadColorScheme);
+function populateCategoryDropdown() {
+  const categorySet = new Set();
+  const categoryDropdown = document.getElementById('category-filter');
+
+  fetch('words.json')
+    .then(response => response.json())
+    .then(data => {
+      data.forEach(item => {
+        const categories = Object.values(item)[0].category;
+        categories.forEach(category => categorySet.add(category));
+      });
+
+      Array.from(categorySet).sort().forEach(category => {
+        const option = document.createElement('option');
+        option.value = category;
+        option.textContent = category;
+        categoryDropdown.appendChild(option);
+      });
+    });
+
+  categoryDropdown.addEventListener('change', filterWordsByCategory);
+}
+
+function filterWordsByCategory() {
+  const selectedCategory = document.getElementById('category-filter').value;
+  const buttons = document.getElementsByClassName('word-button');
+
+  Array.from(buttons).forEach(button => {
+    if (selectedCategory === 'all') {
+      button.style.display = 'block';
+    } else {
+      fetch('words.json')
+        .then(response => response.json())
+        .then(data => {
+          const word = button.textContent;
+          const wordData = data.find(item => Object.keys(item)[0] === word);
+          const categories = wordData[word].category;
+          button.style.display = categories.includes(selectedCategory) ? 'block' : 'none';
+        });
+    }
+  });
+}
 
 document.addEventListener('DOMContentLoaded', function() {
+  loadColorScheme();
+  populateCategoryDropdown();
+
   fetch('words.json')
     .then(response => response.json())
     .then(data => {
@@ -42,6 +86,8 @@ document.addEventListener('DOMContentLoaded', function() {
       });
     })
     .catch(error => console.error('Error:', error));
+
+  checkUrlAndSearch();
 });
 
 const wordsContainer = document.getElementById('wordList');
@@ -61,10 +107,6 @@ function filterWords() {
     }
   });
 }
-
-document.addEventListener('DOMContentLoaded', function() {
-  checkUrlAndSearch();
-});
 
 function checkUrlAndSearch() {
   const currentUrl = new URL(window.location.href);

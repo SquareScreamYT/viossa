@@ -134,7 +134,7 @@ a {
 
 #search {
   font-family: "Nunito", "SF Pro Rounded", "Apple Color Emoji", "Noto Color Emoji", "Lato", system-ui, -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif, monospace;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   padding: 10px;
   width: 100%;
   box-sizing: border-box;
@@ -151,6 +151,7 @@ a {
   transition: background-color 0.3s ease;
   padding-right: 10px;
   box-sizing: border-box;
+  margin-bottom: 5px;
 }
 
 .word-entry {
@@ -228,4 +229,20 @@ a {
 
 img {
   border-radius: 10px;
+}
+
+#category-filter {
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  border-width: 0;
+  text-align: left;
+  background-color: var(--bg-color-darker);
+  color: var(--text-color);
+  transition: background-color 0.3s ease;
+  font-family: "Nunito", "SF Pro Rounded", "Apple Color Emoji", "Noto Color Emoji", "Lato", system-ui, -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif, monospace;
+}
+#category-filter:hover {
+  background-color: var(--bg-color-darkest);
 }
