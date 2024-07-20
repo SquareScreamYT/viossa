@@ -145,3 +145,11 @@ function loadWordDetails(word) {
     })
     .catch(error => console.error('Error:', error));
 }
+
+function copyURL() {
+  var wordname = ctrl.getElementByID("wordName")[0].innerHTML;
+
+  var url = window.location.href;
+
+  navigator.clipboard.writeText(url + "?kotoba=" + wordname);
+}

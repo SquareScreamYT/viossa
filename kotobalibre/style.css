@@ -246,3 +246,21 @@ img {
 #category-filter:hover {
   background-color: var(--bg-color-darkest);
 }
+
+#copy-button {
+  font-family: "Nunito", "SF Pro Rounded", "Apple Color Emoji", "Noto Color Emoji", "Lato", system-ui, -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif, monospace;
+  appearance: none;
+  background-color: var(--bg-color-darkest);
+  color: var(--text-color);
+  padding: 10px;
+  font-size: 1em;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  outline: none;
+  width: 100px;
+  text-align: center;
+  display: inline-block;
+  box-shadow: none;
+  transition: background-color 0.3s ease;
+}
