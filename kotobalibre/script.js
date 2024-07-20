@@ -151,5 +151,9 @@ function copyURL() {
 
   var url = window.location.href;
 
-  navigator.clipboard.writeText(url + "?kotoba=" + wordname);
+  var newurl = url + "?kotoba=" + wordname;
+
+  navigator.clipboard.writeText(`${newurl}`);
+
+  window.location.href = `${newurl}`;
 }
