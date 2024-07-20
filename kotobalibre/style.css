@@ -264,3 +264,14 @@ img {
   box-shadow: none;
   transition: background-color 0.3s ease;
 }
+
+.spoiler { 
+  color: var(--text-color); 
+  background-color: var(--text-color);
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.spoiler:hover {
+  background-color: transparent;
+}

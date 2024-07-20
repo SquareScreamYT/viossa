@@ -16,6 +16,13 @@
     }
   },
   {
+    "akurat": {
+      "definition": "✅☑️✔️<br>anglossa: <span class='spoiler' >yes</span>",
+      "image": "https://img.freepik.com/free-vector/check-mark-green-3d_78370-4446.jpg",
+      "category": ["kriz"]
+    }
+  },
+  {
     "ananas": {
       "definition": "🍍 - kjero frauta du deki nam.",
       "image": "https://img.freepik.com/free-photo/pineapple-fruit_1203-7746.jpg",
@@ -82,6 +89,13 @@
     }
   },
   {
+    "fšto": {
+      "definition": "🤔❓❔<br>anglossa: <span class='spoiler' >understand</span>",
+      "image": "https://img.freepik.com/free-photo/excited-woman-pitching-idea-raising-finger-gasping-have-interesting-suggestion-thinkup-great-plan-sharing-her-thoughts-standing-white-background_176420-52872.jpg",
+      "category": ["kriz"]
+    }
+  },
+  {
     "griš": {
       "definition": "<span style=\"color:#6b7280;\">afto varge griš</span>",
       "category": ["varge"]
@@ -107,6 +121,13 @@
       "image": "https://img.freepik.com/free-photo/assortment-ginger-wooden-board_23-2148799547.jpg",
       "image2": "https://img.freepik.com/free-photo/fresh-ginger-root-sliced-wooden-table_1150-18399.jpg",
       "category": ["ovošji", "namting"]
+    }
+  },
+  {
+    "ka": {
+      "definition": "🤔❓❔<br>anglossa: <span class='spoiler' >what</span>",
+      "image": "https://img.freepik.com/free-photo/question-mark-bubble-speech-sign-symbol-icon-3d-rendering_56104-1950.jpg",
+      "category": ["kriz"]
     }
   },
   {
@@ -157,6 +178,12 @@
       "image": "https://img.freepik.com/free-photo/strawberries-cut-half-whole-berries-ripe-berries-top-view-background-ripe-strawberries-delicious-natural-dessert_166373-2358.jpg",
       "image2": "https://img.freepik.com/free-photo/close-up-fresh-strawberries-small-brown-wooden-box_140725-151137.jpg",
       "category": ["frauta", "namting"]
+    }
+  },
+  {
+    "kjero": {
+      "definition": "pijo au banan kjero.",
+      "category": ["varge"]
     }
   },
   {
@@ -243,6 +270,13 @@
     "murasaki": {
       "definition": "<span style=\"color:#a855f7;\">afto varge murasaki</span>",
       "category": ["varge"]
+    }
+  },
+  {
+    "naj": {
+      "definition": "❌🚫<br>anglossa: <span class='spoiler' >no</span>",
+      "image": "https://img.freepik.com/free-vector/no-signs-set_78370-6501.jpg",
+      "category": ["kriz"]
     }
   },
   {
