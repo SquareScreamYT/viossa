@@ -154,10 +154,9 @@ function copyURL() {
 
   navigator.clipboard.writeText(newUrl)
     .then(() => {
-      console.log("URL copied to clipboard");
       window.location.href = newUrl;
     })
     .catch(err => {
-      console.error("Failed to copy URL: ", err);
+      console.error(err);
     });
 }
