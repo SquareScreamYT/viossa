@@ -152,6 +152,8 @@ a {
   padding-right: 10px;
   box-sizing: border-box;
   margin-bottom: 5px;
+  overflow: -moz-scrollbars-vertical; 
+  overflow-y: scroll;
 }
 
 .word-entry {
