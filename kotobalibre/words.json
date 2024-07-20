@@ -53,6 +53,14 @@
     }
   },
   {
+    "bira": {
+      "definition": "🍺 - kjero glugting du deki glug.",
+      "image": "https://img.freepik.com/free-photo/men-toasting-with-beer-white-background_53876-96733.jpg",
+      "image2": "https://img.freepik.com/free-photo/beer-pouring-into-apint-glass-from-beer-bottle_53876-96734.jpg",
+      "category": ["namting", "glugting"]
+    }
+  },
+  {
     "blau": {
       "definition": "<span style=\"color:#38bdf8;\">afto varge blau</span>",
       "category": ["varge"]
@@ -96,6 +104,22 @@
     }
   },
   {
+    "gjunju": {
+      "definition": "🥛 - širo glugting du deki glug.",
+      "image": "https://img.freepik.com/free-photo/close-up-man-with-bottle-goats-milk_23-2148673055.jpg",
+      "image2": "https://img.freepik.com/free-photo/bottles-fresh-milk-with-american-cookies_23-2148239836.jpg",
+      "category": ["namting", "glugting"]
+    }
+  },
+  {
+    "glugting": {
+      "definition": "iške, gjunju, saft al glugting.",
+      "image": "https://img.freepik.com/free-photo/assortment-milkshake-glasses-with-fruits-chocolate_23-2148707756.jpg",
+      "image2": "https://img.freepik.com/free-photo/iced-coffee-drinks-made-with-hot-brewed-coffee-ice_157027-4136.jpg",
+      "category": ["namting", "glugting"]
+    }
+  },
+  {
     "griš": {
       "definition": "<span style=\"color:#6b7280;\">afto varge griš</span>",
       "category": ["varge"]
@@ -124,6 +148,14 @@
     }
   },
   {
+    "iške": {
+      "definition": "💦💧🌊 - klar glugting du deki glug.",
+      "image": "https://img.freepik.com/free-photo/fresh-water-texture-background-transparent-liquid_53876-142911.jpg",
+      "image2": "https://img.freepik.com/free-photo/line-glasses-water_23-2148113534.jpg",
+      "category": ["namting", "glugting"]
+    }
+  },
+  {
     "ka": {
       "definition": "🤔❓❔<br>anglossa: <span class='spoiler' >what</span>",
       "image": "https://img.freepik.com/free-photo/question-mark-bubble-speech-sign-symbol-icon-3d-rendering_56104-1950.jpg",
@@ -132,6 +164,14 @@
   },
   {
     "kafej": {
+      "definition": "☕ - brun glugting du deki glug.",
+      "image": "https://img.freepik.com/free-photo/top-view-cup-tea-hot-inside-white-cup-glass-plate-with-silver-package-candies-light-desk-tea-drink-sweet-chocolate-cookie_140725-33968.jpg",
+      "image2": "https://img.freepik.com/free-photo/coffee-beans-with-props-making-coffee_1220-4536.jpg",
+      "category": ["namting", "glugting"]
+    }
+  },
+  {
+    "kafej (varge)": {
       "definition": "<span style=\"color:#78350f;\">afto varge kafej</span>",
       "category": ["varge"]
     }
@@ -178,6 +218,14 @@
       "image": "https://img.freepik.com/free-photo/strawberries-cut-half-whole-berries-ripe-berries-top-view-background-ripe-strawberries-delicious-natural-dessert_166373-2358.jpg",
       "image2": "https://img.freepik.com/free-photo/close-up-fresh-strawberries-small-brown-wooden-box_140725-151137.jpg",
       "category": ["frauta", "namting"]
+    }
+  },
+  {
+    "kirkas": {
+      "definition": "🍺🍷🥃🍶🍻🥂🍾 - glugting du deki glug.",
+      "image": "https://img.freepik.com/free-photo/barman-filling-glass-alcohol_8353-12083.jpg",
+      "image2": "https://img.freepik.com/free-photo/young-friends-sitting-cafe-while-drinking-alcohol_171337-19774.jpg",
+      "category": ["namting", "glugting"]
     }
   },
   {
@@ -280,11 +328,27 @@
     }
   },
   {
+    "namting": {
+      "definition": "frauta, ovošji, glugting, auauau al namting.",
+      "image": "https://img.freepik.com/free-photo/delicious-vietnamese-food-including-pho-ga-noodles-spring-rolls-white-table_181624-34062.jpg",
+      "image2": "https://img.freepik.com/free-photo/delicious-food-table-view_23-2149139520.jpg",
+      "category": ["namting"]
+    }
+  },
+  {
     "nihonfrauta": {
       "definition": "🍒 - roš, čisai frauta du deki nam.",
       "image": "https://img.freepik.com/free-photo/red-cherries-plate-bowl-gray-table_114579-9864.jpg",
       "image2": "https://img.freepik.com/free-photo/cherries-wooden-plate-pink-surface-flat-lay_176474-6323.jpg",
       "category": ["frauta", "namting"]
+    }
+  },
+  {
+    "nijča": {
+      "definition": "🧋 - širo au brun glugting f'gjunju au tča du deki glug.",
+      "image": "https://img.freepik.com/free-photo/arrangement-with-delicious-traditional-thai-tea_23-2148994370.jpg",
+      "image2": "https://img.freepik.com/free-photo/composition-with-delicious-thai-tea_23-2148994319.jpg",
+      "category": ["namting", "glugting"]
     }
   },
   {
@@ -311,7 +375,7 @@
   },
   {
     "ovošji": {
-      "definition": "pomodoro, erba, kapušta al ovošji..",
+      "definition": "pomodoro, erba, kapušta al ovošji.",
       "image": "https://img.freepik.com/free-photo/bottom-view-fruits-vegetables-radish-cherry-tomatoes-persimmon-tomatoes-kiwi-cucumber-apples-red-cabbage-parsley-quince-aubergines-blue-table_140725-146174.jpg",
       "image2": "https://img.freepik.com/free-photo/fresh-vegetables-flat-lay-healthy-lifestyle_53876-101580.jpg",
       "category": ["frauta", "namting"]
@@ -376,6 +440,14 @@
     }
   },
   {
+    "saft": {
+      "definition": "🧃🍹 - glugting f'frauta du deki glug.",
+      "image": "https://img.freepik.com/free-photo/immunity-boosting-food-healthy-lifestyle-with-citrus_23-2149211498.jpg",
+      "image2": "https://img.freepik.com/free-photo/drink-bottles-wooden-crate_23-2148785356.jpg",
+      "category": ["namting", "glugting"]
+    }
+  },
+  {
     "širo": {
       "definition": "<span style=\"color:#f8fafc;\">afto varge širo</span>",
       "category": ["varge"]
@@ -396,6 +468,14 @@
     }
   },
   {
+    "tča": {
+      "definition": "🍵 - brun os midori glugting du deki glug.",
+      "image": "https://img.freepik.com/free-photo/green-tea-brewed-cup-with-tea-leaves-blue-pastel-background-top-view_1220-5336.jpg",
+      "image2": "https://img.freepik.com/free-photo/hot-green-tea-is-poured-from-teapot-into-blue-bowl_166373-858.jpg",
+      "category": ["namting", "glugting"]
+    }
+  },
+  {
     "varge": {
       "definition": "roš, kjero, blau al varge.",
       "image": "https://img.freepik.com/free-photo/top-view-colorful-paper_23-2148514697.jpg",
@@ -408,6 +488,14 @@
       "image": "https://img.freepik.com/free-photo/green-striped-ripe-watermelon-with-slice-cross-section-isolated-white-background-with-copy-space-text-images-special-kind-berry-sweet-pink-flesh-with-black-seeds-side-view_639032-1254.jpg",
       "image2": "https://img.freepik.com/free-photo/slices-juicy-tasty-watermelon-white-plate_2829-19980.jpg",
       "category": ["frauta", "namting"]
+    }
+  },
+  {
+    "vinja": {
+      "definition": "🍷 - roš os makot glugting f'vinjafrauta du deki glug.",
+      "image": "https://img.freepik.com/free-photo/side-view-woman-hand-pouring-red-wine-into-glass-different-kinds-cheese-olive-walnut-grape-white-surface-black-background_141793-6461.jpg",
+      "image2": "https://img.freepik.com/free-photo/single-glass-red-wine-warm-light-cozy-bar_157027-4464.jpg",
+      "category": ["namting", "glugting"]
     }
   },
   {
