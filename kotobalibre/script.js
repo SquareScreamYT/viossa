@@ -147,13 +147,17 @@ function loadWordDetails(word) {
 }
 
 function copyURL() {
-  var wordname = ctrl.getElementByID("wordName")[0].innerHTML;
+  var wordName = document.getElementById("wordName").textContent;
+  var url = new URL(window.location.href);
+  url.searchParams.set("kotoba", wordName);
+  var newUrl = url.toString();
 
-  var url = window.location.href;
-
-  var newurl = url + "?kotoba=" + wordname;
-
-  navigator.clipboard.writeText(`${newurl}`);
-
-  window.location.href = `${newurl}`;
+  navigator.clipboard.writeText(newUrl)
+    .then(() => {
+      console.log("URL copied to clipboard");
+      window.location.href = newUrl;
+    })
+    .catch(err => {
+      console.error("Failed to copy URL: ", err);
+    });
 }
