@@ -1,5 +1,13 @@
 [
   {
+    "abura": {
+      "definition": "kjero glugting f'asetona, solblum auauau",
+      "image": "https://img.freepik.com/free-photo/sunflower-oil-plastic-bottle-isolated-white-background_123827-21029.jpg",
+      "image2": "https://img.freepik.com/free-photo/olive-oil-bottle-isolated-white-background_93675-135396.jpg",
+      "category": ["namting"]
+    }
+  },
+  {
     "afrauta": {
       "definition": "🥝 - brun au midori frauta du deki nam.",
       "image": "https://img.freepik.com/free-photo/close-up-kiwi-slices_23-2148804899.jpg",
@@ -50,6 +58,14 @@
     "banan (varge)": {
       "definition": "<span style=\"color:#fef08a;\">afto varge banan. banan kjero.</span>",
       "category": ["varge"]
+    }
+  },
+  {
+    "brečeň": {
+      "definition": "🥨 - brun namting du deki nam.",
+      "image": "https://img.freepik.com/free-photo/pretzel-bar-counter_1220-1760.jpg",
+      "image2": "https://img.freepik.com/free-photo/top-view-pretzels-arrangement_23-2148582666.jpg",
+      "category": ["namting"]
     }
   },
   {
@@ -104,6 +120,14 @@
     }
   },
   {
+    "gašepan": {
+      "definition": "🧇 - brun namting du deki nam.",
+      "image": "https://img.freepik.com/free-photo/fruit-sweet-food-bakery-warm_1203-6170.jpg",
+      "image2": "https://img.freepik.com/free-photo/assortment-tasty-breakfast-goodies_23-2148829543.jpg",
+      "category": ["namting"]
+    }
+  },
+  {
     "gjunju": {
       "definition": "🥛 - širo glugting du deki glug.",
       "image": "https://img.freepik.com/free-photo/close-up-man-with-bottle-goats-milk_23-2148673055.jpg",
@@ -117,6 +141,14 @@
       "image": "https://img.freepik.com/free-photo/assortment-milkshake-glasses-with-fruits-chocolate_23-2148707756.jpg",
       "image2": "https://img.freepik.com/free-photo/iced-coffee-drinks-made-with-hot-brewed-coffee-ice_157027-4136.jpg",
       "category": ["namting", "glugting"]
+    }
+  },
+  {
+    "goreňli": {
+      "definition": "🍟 - kjero namting f'kartofel du deki nam.",
+      "image": "https://img.freepik.com/free-photo/crispy-french-fries-with-ketchup-mayonnaise_1150-26588.jpg",
+      "image2": "https://img.freepik.com/free-photo/top-view-french-fries-bowl-with-ketchup-sauce_23-2148701517.jpg",
+      "category": ["namting"]
     }
   },
   {
@@ -148,11 +180,27 @@
     }
   },
   {
+    "ij": {
+      "definition": "🧈 - kjero namting f'gjunju du deki nam.",
+      "image": "https://img.freepik.com/free-photo/arrangement-different-ingredients-delicious-recipe_23-2148882460.jpg",
+      "image2": "https://img.freepik.com/free-photo/close-up-table-full-food_23-2149261011.jpg",
+      "category": ["namting"]
+    }
+  },
+  {
     "iške": {
       "definition": "💦💧🌊 - klar glugting du deki glug.",
       "image": "https://img.freepik.com/free-photo/fresh-water-texture-background-transparent-liquid_53876-142911.jpg",
       "image2": "https://img.freepik.com/free-photo/line-glasses-water_23-2148113534.jpg",
       "category": ["namting", "glugting"]
+    }
+  },
+  {
+    "jaiče": {
+      "definition": "🥚 - brun au širo namting f'kuriča du deki nam.",
+      "image": "https://img.freepik.com/free-photo/eggs-top-view_1417-1530.jpg",
+      "image2": "https://img.freepik.com/free-photo/three-fresh-organic-raw-eggs-isolated-white-surface_114579-43677.jpg",
+      "category": ["namting"]
     }
   },
   {
@@ -352,6 +400,14 @@
     }
   },
   {
+    "nipan": {
+      "definition": "🥪🍔 - namting f' du deki nam.",
+      "image": "https://img.freepik.com/free-photo/mixed-fried-sausages-with-ketchup-mustard_140725-44222.jpg",
+      "image2": "https://img.freepik.com/free-photo/sausages-grill-salad_2829-15833.jpg",
+      "category": ["namting"]
+    }
+  },
+  {
     "njog": {
       "definition": "🥥 - brun au širo frauta du deki nam.",
       "image": "https://img.freepik.com/free-photo/coconut-fruit_1203-2413.jpg",
@@ -379,6 +435,22 @@
       "image": "https://img.freepik.com/free-photo/bottom-view-fruits-vegetables-radish-cherry-tomatoes-persimmon-tomatoes-kiwi-cucumber-apples-red-cabbage-parsley-quince-aubergines-blue-table_140725-146174.jpg",
       "image2": "https://img.freepik.com/free-photo/fresh-vegetables-flat-lay-healthy-lifestyle_53876-101580.jpg",
       "category": ["frauta", "namting"]
+    }
+  },
+  {
+    "pan": {
+      "definition": "🍞🥐🥖 - brun namting du deki nam.",
+      "image": "https://img.freepik.com/free-photo/delicious-bread-table_144627-12454.jpg",
+      "image2": "https://img.freepik.com/free-photo/sweet-pastry-assortment-top-view_23-2148516578.jpg",
+      "category": ["namting"]
+    }
+  },
+  {
+    "paneku": {
+      "definition": "🥞 - brun namting du deki nam.",
+      "image": "https://img.freepik.com/free-photo/composition-tasty-breakfast-pancakes_23-2148829556.jpg",
+      "image2": "https://img.freepik.com/free-photo/pancakes-with-blueberry_1339-4377.jpg",
+      "category": ["namting"]
     }
   },
   {
@@ -460,6 +532,22 @@
     }
   },
   {
+    "sosiž": {
+      "definition": "🌭 - roš namting du deki nam.",
+      "image": "https://img.freepik.com/free-photo/mixed-fried-sausages-with-ketchup-mustard_140725-44222.jpg",
+      "image2": "https://img.freepik.com/free-photo/sausages-grill-salad_2829-15833.jpg",
+      "category": ["namting"]
+    }
+  },
+  {
+    "šyt": {
+      "definition": "🥩 - roš namting du deki nam.",
+      "image": "https://img.freepik.com/free-photo/raw-meats-with-spices-utensils-rustic-cutting-board-dark-wood-top-view-ai-generative_123827-23528.jpg",
+      "image2": "https://img.freepik.com/free-photo/meat_144627-27534.jpg",
+      "category": ["namting"]
+    }
+  },
+  {
     "trasak": {
       "definition": "🥒 - midori ovošji du deki nam.",
       "image": "https://img.freepik.com/free-photo/closeup-chopped-cucumber-filling-frame_125540-4394.jpg",
@@ -473,6 +561,14 @@
       "image": "https://img.freepik.com/free-photo/green-tea-brewed-cup-with-tea-leaves-blue-pastel-background-top-view_1220-5336.jpg",
       "image2": "https://img.freepik.com/free-photo/hot-green-tea-is-poured-from-teapot-into-blue-bowl_166373-858.jpg",
       "category": ["namting", "glugting"]
+    }
+  },
+  {
+    "usčji": {
+      "definition": "🧀 - kjero namting f'gjunju du deki nam.",
+      "image": "https://img.freepik.com/free-photo/beautiful-cheeses-kitchen-cheese-food-preparing-concept_1150-13533.jpg",
+      "image2": "https://img.freepik.com/free-photo/delicious-pieces-cheese_144627-43352.jpg",
+      "category": ["namting"]
     }
   },
   {
