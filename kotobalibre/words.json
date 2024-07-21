@@ -31,6 +31,14 @@
     }
   },
   {
+    "alk": {
+      "definition": "širo pudra mahajena na makis.",
+      "image": "https://img.freepik.com/free-photo/flour-with-ears-wheat-marble-surface_114579-77210.jpg",
+      "image2": "https://img.freepik.com/free-photo/ingredient-bag-full-flour_23-2149482602.jpg",
+      "category": ["namting"]
+    }
+  },
+  {
     "ananas": {
       "definition": "🍍 - kjero frauta du deki nam.",
       "image": "https://img.freepik.com/free-photo/pineapple-fruit_1203-7746.jpg",
@@ -102,6 +110,14 @@
       "image": "https://img.freepik.com/free-photo/fresh-lettuce_1339-2070.jpg",
       "image2": "https://img.freepik.com/free-photo/vegetable-salad_1388-679.jpg",
       "category": ["ovošji", "namting"]
+    }
+  },
+  {
+    "etlet": {
+      "definition": "🍜 - pika namting mahajena na alk.",
+      "image": "https://img.freepik.com/free-photo/flat-lay-uncooked-assortment-noodles-wooden-background_23-2148377401.jpg",
+      "image2": "https://img.freepik.com/free-photo/hand-picks-up-tasty-boiled-noodles-from-opened-wok-takeaway-blank-paper-box-isolated-white-center_346278-915.jpg",
+      "category": ["namting"]
     }
   },
   {
@@ -252,6 +268,14 @@
     "kawi": {
       "definition": "<span style=\"color:#7f1d1d;\">afto varge kawi</span>",
       "category": ["varge"]
+    }
+  },
+  {
+    "kekso": {
+      "definition": "🍪 - brun namting mahajena na alk au čoki du deki nam.",
+      "image": "https://img.freepik.com/free-photo/delicious-cookies-table_23-2148837156.jpg",
+      "image2": "https://img.freepik.com/free-photo/top-view-chocolate-chip-cookies-textured-surface-with-woman-taking-one-cookie_181624-21286.jpg",
+      "category": ["namting"]
     }
   },
   {
@@ -476,6 +500,14 @@
     }
   },
   {
+    "pitča": {
+      "definition": "🍕 - pan f'italjalant mit pomodoro, usčji au šyt.",
+      "image": "https://img.freepik.com/free-photo/pizza-with-salami-tomato-cheese-mushrooms_2829-20005.jpg",
+      "image2": "https://img.freepik.com/free-photo/pizza-pizza-filled-with-tomatoes-salami-olives_140725-1200.jpg",
+      "category": ["namting"]
+    }
+  },
+  {
     "pomodoro": {
       "definition": "🍅 - roš ovošji du deki nam.",
       "image": "https://img.freepik.com/free-photo/tomatoes_144627-15411.jpg",
@@ -540,10 +572,50 @@
     }
   },
   {
+    "sotupaš": {
+      "definition": "🍦🍧🍨 - sot upaš f'gjunju au sokeri.",
+      "image": "https://img.freepik.com/free-photo/delicious-ice-cream-arrangement_23-2150096681.jpg",
+      "image2": "https://img.freepik.com/free-photo/ice-cream-bowl-with-cherry_23-2148107907.jpg",
+      "category": ["namting"]
+    }
+  },
+  {
+    "štau": {
+      "definition": "🥘🍲 - glugting f'iške, erba, šjo, oišifrauta auauau.",
+      "image": "https://img.freepik.com/free-photo/top-view-ingredients-soup-soup_23-2148486502.jpg",
+      "image2": "https://img.freepik.com/free-photo/kimchi-jikae-kimchi-soup-ready-eat-bowl_1150-42851.jpg",
+      "category": ["namting"]
+    }
+  },
+  {
+    "šja": {
+      "definition": "🦐🍤 - roš, čisai maredur du deki nam.",
+      "image": "https://img.freepik.com/free-photo/two-tail-shrimp-with-fresh-lemon-rosemary-white_2829-18154.jpg",
+      "image2": "https://img.freepik.com/free-photo/side-view-tempura-shrimps-with-sweet-chili-sauce-board_141793-5135.jpg",
+      "category": ["namting"]
+    }
+  },
+  {
     "šyt": {
       "definition": "🥩 - roš namting du deki nam.",
       "image": "https://img.freepik.com/free-photo/raw-meats-with-spices-utensils-rustic-cutting-board-dark-wood-top-view-ai-generative_123827-23528.jpg",
       "image2": "https://img.freepik.com/free-photo/meat_144627-27534.jpg",
+      "category": ["namting"]
+    }
+  },
+  {
+    "tori": {
+      "definition": "🐔🍗 - brun namting f'fugel du deki nam.",
+      "image": "https://img.freepik.com/free-photo/close-up-fried-chicken-tray-with-green-onions_23-2148699085.jpg",
+      "image2": "https://img.freepik.com/free-photo/close-up-fried-chicken-tray-with-green-onions_23-2148699085.jpg",
+      "category": ["namting"]
+    }
+  },
+  {
+    "torta": {
+      "definition": "🍰🥧🎂 - brun namting mahajena na alk du deki nam.",
+      "image": "https://img.freepik.com/free-photo/strawberry-cheesecake-isolated-white-background_123827-29174.jpg",
+      "image2": "https://img.freepik.com/free-photo/homemade-newyork-cheesecake-with-frozen-berries-mint-healthy-organic-dessert-top-view_114579-9852.jpg",
       "category": ["namting"]
     }
   },
