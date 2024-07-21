@@ -387,6 +387,14 @@
     }
   },
   {
+    "lapsi": {
+      "definition": "lapsi lapsi pašun.",
+      "image": "https://img.freepik.com/free-photo/children-with-their-hands-up_23-2148022497.jpg",
+      "image2": "https://img.freepik.com/free-photo/cheerful-diverse-kids-holding-hands_53876-148198.jpg",
+      "category": ["pašun"]
+    }
+  },
+  {
     "limon": {
       "definition": "🍋 - kjero frauta du deki nam.",
       "image": "https://img.freepik.com/free-photo/lemon-table_144627-22176.jpg",
@@ -452,6 +460,14 @@
     "midori": {
       "definition": "<span style=\"color:#4ade80;\">afto varge midori</span>",
       "category": ["varge"]
+    }
+  },
+  {
+    "mies": {
+      "definition": "mies ♂️ pašun.",
+      "image": "https://img.freepik.com/free-photo/young-handsome-asian-business-man-black-suit_1303-26721.jpg",
+      "image2": "https://img.freepik.com/free-photo/happy-laughing-young-handsome-southeast-asian-man-isolated-blue-studio-background_74952-3619.jpg",
+      "category": ["pašun"]
     }
   },
   {
@@ -530,6 +546,22 @@
     }
   },
   {
+    "ona": {
+      "definition": "mies ♀️ pašun.",
+      "image": "https://img.freepik.com/free-photo/portrait-young-asia-lady-with-positive-expression-arms-crossed-smile-broadly-dressed-casual-clothing-looking-camera-pink-background_7861-3201.jpg",
+      "image2": "https://img.freepik.com/free-photo/portrait-happy-asian-woman-smiling-posing-confident-cross-arms-chest-standing-against-studio-background_1258-89269.jpg",
+      "category": ["pašun"]
+    }
+  },
+  {
+    "otona": {
+      "definition": "otona gamel pašun.",
+      "image": "https://img.freepik.com/free-photo/lifestyle-beauty-fashion-people-emotions-concept-young-asian-female-office-manager-ceo-with-pleased-expression-standing-white-background-smiling-with-arms-crossed-chest_1258-59329.jpg",
+      "image2": "https://img.freepik.com/free-photo/smart-attractive-asian-glasses-male-standing-smile-with-freshness-joyful-casual-blue-shirt-portrait-white-background_609648-1226.jpg",
+      "category": ["pašun"]
+    }
+  },
+  {
     "ovošji": {
       "definition": "pomodoro, erba, kapušta al ovošji.",
       "image": "https://img.freepik.com/free-photo/bottom-view-fruits-vegetables-radish-cherry-tomatoes-persimmon-tomatoes-kiwi-cucumber-apples-red-cabbage-parsley-quince-aubergines-blue-table_140725-146174.jpg",
@@ -565,6 +597,14 @@
     "pašunkotoba": {
       "definition": "un, du, sore, vi, dok, hej auauau al pašunkotoba.",
       "category": ["pašunkotoba"]
+    }
+  },
+  {
+    "pašun": {
+      "definition": "pašun 🧑",
+      "image": "https://img.freepik.com/free-photo/lifestyle-beauty-fashion-people-emotions-concept-young-asian-female-office-manager-ceo-with-pleased-expression-standing-white-background-smiling-with-arms-crossed-chest_1258-59329.jpg",
+      "image2": "https://img.freepik.com/free-photo/smart-attractive-asian-glasses-male-standing-smile-with-freshness-joyful-casual-blue-shirt-portrait-white-background_609648-1226.jpg",
+      "category": ["pašun"]
     }
   },
   {
