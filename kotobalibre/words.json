@@ -121,6 +121,20 @@
     }
   },
   {
+    "dok": {
+      "definition": "du au sore, du mit plus na ni pašun",
+      "category": ["pašunkotoba"]
+    }
+  },
+  {
+    "du": {
+      "definition": "du 🫵",
+      "image": "https://img.freepik.com/free-photo/korean-young-woman-s-half-length-portrait-blue-space-female-model-white-shirt-showing-pointing-something_155003-26640.jpg",
+      "image2": "https://img.freepik.com/free-photo/image-confident-happy-young-woman-casual-clothes-pointing-finger-camera-laughing_1258-203295.jpg",
+      "category": ["pašunkotoba"]
+    }
+  },
+  {
     "ehote": {
       "definition": "🫛 - midori, čisai ovošji du deki nam.",
       "image": "https://img.freepik.com/free-photo/high-angle-shot-fresh-green-peas-wooden-table_181624-53478.jpg",
@@ -209,6 +223,12 @@
     "harma": {
       "definition": "<span style=\"color:#adada1;\">afto varge harma</span>",
       "category": ["varge"]
+    }
+  },
+  {
+    "hej": {
+      "definition": "sore au sore, sore mit plus na ni pašun",
+      "category": ["pašunkotoba"]
     }
   },
   {
@@ -542,6 +562,12 @@
     }
   },
   {
+    "pašunkotoba": {
+      "definition": "un, du, sore, vi, dok, hej auauau al pašunkotoba.",
+      "category": ["pašunkotoba"]
+    }
+  },
+  {
     "persus": {
       "definition": "🍑 - rosa frauta du deki nam.",
       "image": "https://img.freepik.com/free-photo/peach-table_144627-17514.jpg",
@@ -636,6 +662,14 @@
     }
   },
   {
+    "sore": {
+      "definition": "sore 👉🙂",
+      "image": "https://img.freepik.com/free-photo/man-woman-casual-clothes-posing_273609-19254.jpg",
+      "image2": "https://img.freepik.com/free-photo/happy-couple-pointing-themselves-white_114579-53971.jpg",
+      "category": ["pašunkotoba"]
+    }
+  },
+  {
     "sosiž": {
       "definition": "🌭 - roš namting du deki nam.",
       "image": "https://img.freepik.com/free-photo/mixed-fried-sausages-with-ketchup-mustard_140725-44222.jpg",
@@ -716,6 +750,14 @@
     }
   },
   {
+    "un": {
+      "definition": "un 👉🙂👈",
+      "image": "https://img.freepik.com/free-photo/invest-me-i-m-best_329181-721.jpg",
+      "image2": "https://img.freepik.com/free-photo/surprised-happy-pleased-happy-smiling-young-redhead-girl-getting-awesome-proposal-grinning-questioned-pointing-herself-laughing-full-disbelief-receive-promotion-unbelievable-chance_1258-55201.jpg",
+      "category": ["pašunkotoba"]
+    }
+  },
+  {
     "usčji": {
       "definition": "🧀 - kjero namting f'gjunju du deki nam.",
       "image": "https://img.freepik.com/free-photo/beautiful-cheeses-kitchen-cheese-food-preparing-concept_1150-13533.jpg",
@@ -736,6 +778,12 @@
       "image": "https://img.freepik.com/free-photo/green-striped-ripe-watermelon-with-slice-cross-section-isolated-white-background-with-copy-space-text-images-special-kind-berry-sweet-pink-flesh-with-black-seeds-side-view_639032-1254.jpg",
       "image2": "https://img.freepik.com/free-photo/slices-juicy-tasty-watermelon-white-plate_2829-19980.jpg",
       "category": ["frauta", "namting"]
+    }
+  },
+  {
+    "vi": {
+      "definition": "sore 👉🙂🙂👈, un au du, un au sore",
+      "category": ["pašunkotoba"]
     }
   },
   {
