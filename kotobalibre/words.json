@@ -55,6 +55,14 @@
     }
   },
   {
+    "azuki": {
+      "definition": "🫘 - čisai namting du deki nam.",
+      "image": "https://img.freepik.com/free-photo/red-bean-seeds-wooden-background-kitchen_1150-9968.jpg",
+      "image2": "https://img.freepik.com/free-photo/red-bean-paste-brown-wood-floor_1150-17185.jpg",
+      "category": ["namting"]
+    }
+  },
+  {
     "banan": {
       "definition": "🍌 - kjero, pika frauta du deki nam.",
       "image": "https://img.freepik.com/free-photo/view-banana-fruits_23-2150823149.jpg",
@@ -94,6 +102,22 @@
     "brun": {
       "definition": "<span style=\"color:#c49058;\">afto varge brun</span>",
       "category": ["varge"]
+    }
+  },
+  {
+    "čoki": {
+      "definition": "🍫 - brun, syt namting du deki nam.",
+      "image": "https://img.freepik.com/free-photo/flat-lay-creative-chocolate-composition-dark-background_23-2148549326.jpg",
+      "image2": "https://img.freepik.com/free-photo/flat-lay-delicious-chocolate-tablets-arrangement_23-2149349242.jpg",
+      "category": ["namting"]
+    }
+  },
+  {
+    "dodo": {
+      "definition": "🫘🥜 - čisai namting du deki nam.",
+      "image": "https://img.freepik.com/free-photo/different-dried-fruits_144627-16150.jpg",
+      "image2": "https://img.freepik.com/free-photo/view-allergens-commonly-found-nuts_23-2150170316.jpg",
+      "category": ["namting"]
     }
   },
   {
@@ -196,6 +220,14 @@
     }
   },
   {
+    "hualejň": {
+      "definition": "🥜 - čisai namting du deki nam.",
+      "image": "https://img.freepik.com/free-photo/side-view-peanuts-shell-from-bag-wooden-table_141793-7219.jpg",
+      "image2": "https://img.freepik.com/free-photo/view-allergens-commonly-found-nuts_23-2150170316.jpg",
+      "category": ["namting"]
+    }
+  },
+  {
     "ij": {
       "definition": "🧈 - kjero namting f'gjunju du deki nam.",
       "image": "https://img.freepik.com/free-photo/arrangement-different-ingredients-delicious-recipe_23-2148882460.jpg",
@@ -216,6 +248,14 @@
       "definition": "🥚 - brun au širo namting f'kuriča du deki nam.",
       "image": "https://img.freepik.com/free-photo/eggs-top-view_1417-1530.jpg",
       "image2": "https://img.freepik.com/free-photo/three-fresh-organic-raw-eggs-isolated-white-surface_114579-43677.jpg",
+      "category": ["namting"]
+    }
+  },
+  {
+    "jelo": {
+      "definition": "🧊 - upaš ting hent bli iške.",
+      "image": "https://img.freepik.com/free-photo/ice-cubes-table_144627-8775.jpg",
+      "image2": "https://img.freepik.com/free-photo/ice-cubes-table_144627-8766.jpg",
       "category": ["namting"]
     }
   },
@@ -373,6 +413,22 @@
     }
   },
   {
+    "masala": {
+      "definition": "kuro, piman pudra du deki nam.",
+      "image": "https://img.freepik.com/free-photo/still-life-dispenser-bottle_23-2150992108.jpg",
+      "image2": "https://img.freepik.com/free-photo/closeup-shot-spoon-black-pepper-seeds-table_181624-57747.jpg",
+      "category": ["namting"]
+    }
+  },
+  {
+    "mi": {
+      "definition": "🍚 - širo čisai namting du deki nam.",
+      "image": "https://img.freepik.com/free-photo/rice-bowl_1387-181.jpg",
+      "image2": "https://img.freepik.com/free-photo/jasmine-rice_74190-7260.jpg",
+      "category": ["namting"]
+    }
+  },
+  {
     "midori": {
       "definition": "<span style=\"color:#4ade80;\">afto varge midori</span>",
       "category": ["varge"]
@@ -466,6 +522,14 @@
       "definition": "🍞🥐🥖 - brun namting du deki nam.",
       "image": "https://img.freepik.com/free-photo/delicious-bread-table_144627-12454.jpg",
       "image2": "https://img.freepik.com/free-photo/sweet-pastry-assortment-top-view_23-2148516578.jpg",
+      "category": ["namting"]
+    }
+  },
+  {
+    "pana": {
+      "definition": "🍮 - fuwafuwa namting mahajena na gjunju au sokeri du deki nam.",
+      "image": "https://img.freepik.com/free-photo/spanish-dessert-flan-with-sauce-served-plate-closeup_1220-6710.jpg",
+      "image2": "https://img.freepik.com/free-photo/caramel-custard-white-dish-popular-dessert-cafe_1428-99.jpg",
       "category": ["namting"]
     }
   },
@@ -564,6 +628,14 @@
     }
   },
   {
+    "sokeri": {
+      "definition": "širo, syt pudra du deki nam.",
+      "image": "https://img.freepik.com/free-photo/still-life-dispenser-bottle_23-2150992108.jpg",
+      "image2": "https://img.freepik.com/free-photo/closeup-shot-spoon-black-pepper-seeds-table_181624-57747.jpg",
+      "category": ["namting"]
+    }
+  },
+  {
     "sosiž": {
       "definition": "🌭 - roš namting du deki nam.",
       "image": "https://img.freepik.com/free-photo/mixed-fried-sausages-with-ketchup-mustard_140725-44222.jpg",
@@ -592,6 +664,14 @@
       "definition": "🦐🍤 - roš, čisai maredur du deki nam.",
       "image": "https://img.freepik.com/free-photo/two-tail-shrimp-with-fresh-lemon-rosemary-white_2829-18154.jpg",
       "image2": "https://img.freepik.com/free-photo/side-view-tempura-shrimps-with-sweet-chili-sauce-board_141793-5135.jpg",
+      "category": ["namting"]
+    }
+  },
+  {
+    "šjo": {
+      "definition": "🧂 - širo, šjo pudra du deki nam.",
+      "image": "https://img.freepik.com/free-photo/salt-wooden-small-plate_1150-35681.jpg",
+      "image2": "https://img.freepik.com/free-photo/spa-still-life-with-natural-elements_23-2148201417.jpg",
       "category": ["namting"]
     }
   },
