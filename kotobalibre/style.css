@@ -143,6 +143,11 @@ a {
   background-color: var(--bg-color-darker);
   transition: background-color 0.3s ease;
   color: var(--text-color);
+  outline: none;
+}
+#search:focus {
+  background-color: var(--bg-color-darkest);
+  outline: none;
 }
 
 #wordList {
@@ -205,6 +210,7 @@ a {
 
 .word-button:focus {
   border-color: var(--border-color-dark);
+  outline: none;
 }
 
 ::-webkit-scrollbar {
