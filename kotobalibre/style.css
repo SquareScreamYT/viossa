@@ -149,6 +149,13 @@ a {
   background-color: var(--bg-color-darkest);
   outline: none;
 }
+::placeholder {
+  color: var(--border-color-dark);
+  opacity: 1;
+}
+::-ms-input-placeholder {
+  color: var(--border-color-dark);
+}
 
 #wordList {
   flex-grow: 1;
