@@ -16,6 +16,12 @@
     }
   },
   {
+    "afto": {
+      "definition": "afto riingo —> 🍎<br>tuo riingo ——————> 🍎<br>asoko riingo ————————————————> 🍎",
+      "category": ["glabdelkotoba"]
+    }
+  },
+  {
     "ahavja": {
       "definition": "🫐 - makot, čisai frauta du deki nam.",
       "image": "https://img.freepik.com/free-photo/closeup-vertical-shot-blueberries-with-water-droplets-leaves_181624-1115.jpg",
@@ -52,6 +58,12 @@
       "image": "https://img.freepik.com/free-photo/close-up-delicious-olives-bowl_23-2148364448.jpg",
       "image2": "https://img.freepik.com/free-photo/bowl-olives-isolated-white-background_93675-135071.jpg",
       "category": ["ovošji", "namting"]
+    }
+  },
+  {
+    "asoko": {
+      "definition": "afto riingo —> 🍎<br>tuo riingo ——————> 🍎<br>asoko riingo ————————————————> 🍎",
+      "category": ["glabdelkotoba"]
     }
   },
   {
@@ -102,6 +114,14 @@
     "brun": {
       "definition": "<span style=\"color:#c49058;\">afto varge brun</span>",
       "category": ["varge"]
+    }
+  },
+  {
+    "čigau": {
+      "definition": "lik kondor, men čigau. <br> čigau = ❌🟰 <br> apar kondor au čigau mange, men anglossa čigau men naj kondor italjalant.",
+      "image": "https://img.freepik.com/free-photo/metal-paperclips-rows-one-red-different-from-others_1163-2748.jpg",
+      "image2": "https://img.freepik.com/free-photo/rag-dolls-with-blue-red-flags_1156-180.jpg",
+      "category": ["likkotoba"]
     }
   },
   {
@@ -364,6 +384,14 @@
     "kjero": {
       "definition": "pijo au banan kjero.",
       "category": ["varge"]
+    }
+  },
+  {
+    "kondor": {
+      "definition": "bra kondor waruj<br>stur kondor čisai<br>akurat kondor naj<br>vapa kondor samuj",
+      "image": "https://img.freepik.com/free-photo/check-marks-with-tick-cross-sign_107791-15676.jpg",
+      "image2": "https://img.freepik.com/free-photo/arrangement-with-different-feelings_23-2148860251.jpg",
+      "category": ["likkotoba"]
     }
   },
   {
@@ -758,6 +786,14 @@
     }
   },
   {
+    "tča": {
+      "definition": "🍵 - brun os midori glugting du deki glug.",
+      "image": "https://img.freepik.com/free-photo/green-tea-brewed-cup-with-tea-leaves-blue-pastel-background-top-view_1220-5336.jpg",
+      "image2": "https://img.freepik.com/free-photo/hot-green-tea-is-poured-from-teapot-into-blue-bowl_166373-858.jpg",
+      "category": ["namting", "glugting"]
+    }
+  },
+  {
     "tori": {
       "definition": "🐔🍗 - brun namting f'fugel du deki nam.",
       "image": "https://img.freepik.com/free-photo/close-up-fried-chicken-tray-with-green-onions_23-2148699085.jpg",
@@ -782,11 +818,9 @@
     }
   },
   {
-    "tča": {
-      "definition": "🍵 - brun os midori glugting du deki glug.",
-      "image": "https://img.freepik.com/free-photo/green-tea-brewed-cup-with-tea-leaves-blue-pastel-background-top-view_1220-5336.jpg",
-      "image2": "https://img.freepik.com/free-photo/hot-green-tea-is-poured-from-teapot-into-blue-bowl_166373-858.jpg",
-      "category": ["namting", "glugting"]
+    "tuo": {
+      "definition": "afto riingo —> 🍎<br>tuo riingo ——————> 🍎<br>asoko riingo ————————————————> 🍎",
+      "category": ["glabdelkotoba"]
     }
   },
   {
