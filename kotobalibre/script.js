@@ -187,18 +187,20 @@ function customAlert(message) {
   });
 }
 
-function countJSONItems(jsonData) {
-  let data = typeof jsonData === 'string' ? JSON.parse(jsonData) : jsonData;
-  
-  if (Array.isArray(data)) {
-      return data.length;
-  } else if (typeof data === 'object' && data !== null) {
-      return Object.keys(data).length;
-  } else {
-      return 1;
-  }
+function countWords(data) {
+  return data.length;
+}
+
+function countTotalImages(data) {
+  let imageCount = 0;
+  data.forEach(item => {
+    const word = Object.values(item)[0];
+    if (word.image) imageCount++;
+    if (word.image2) imageCount++;
+  });
+  return imageCount;
 }
 
 function showStats() {
-  customAlert(`jam ${countJSONItems('words.json')} kotoba`);
+  customAlert(`jam ${countWords('words.json')} kotoba<br>jam ${countTotalImages('words.json')} riso`);
 }
