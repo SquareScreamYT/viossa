@@ -27,6 +27,12 @@
         <h1 style="margin: 0;" id="wordName">kotoba</h1>
         <div style="display: flex; align-items: center;">
           <button onclick="copyURL()" id="copy-button">ga zedvera</button>
+          <div id="customAlert" class="custom-alert">
+            <div class="alert-content">
+              <p id="alertMessage"></p>
+              <button id="closeAlert">OK</button>
+            </div>
+          </div>
           <select id="color-scheme" onchange="changeColorScheme()" style="margin-left: 10px;">
             <option value="white">širo</option>
             <option value="black">kuro</option>

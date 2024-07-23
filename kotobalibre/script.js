@@ -161,3 +161,28 @@ function copyURL() {
       console.error(err);
     });
 }
+
+function customAlert(message) {
+  const alertBox = document.getElementById('customAlert');
+  const alertMessage = document.getElementById('alertMessage');
+  const closeButton = document.getElementById('closeAlert');
+
+  alertMessage.textContent = message;
+  alertBox.style.display = 'block';
+
+  closeButton.onclick = function() {
+    alertBox.style.display = 'none';
+  }
+
+  alertBox.onclick = function(event) {
+    if (event.target === alertBox) {
+      alertBox.style.display = 'none';
+    }
+  }
+
+  document.addEventListener('keydown', function(event) {
+    if (event.key === 'Escape') {
+      alertBox.style.display = 'none';
+    }
+  });
+}
