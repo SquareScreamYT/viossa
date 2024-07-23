@@ -295,6 +295,7 @@ img {
   display: inline-block;
   box-shadow: none;
   transition: background-color 0.3s ease;
+  margin-left: 10px;
 }
 
 .spoiler { 
