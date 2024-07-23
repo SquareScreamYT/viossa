@@ -337,7 +337,7 @@ img {
   font-size: 14px;
   margin: 4px 2px;
   cursor: pointer;
-  border-radius: 3px;
+  border-radius: 15px;
   transition: background-color 0.3s ease;
 }
 #closeAlert:hover {

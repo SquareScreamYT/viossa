@@ -186,3 +186,19 @@ function customAlert(message) {
     }
   });
 }
+
+function countJSONItems(jsonData) {
+  let data = typeof jsonData === 'string' ? JSON.parse(jsonData) : jsonData;
+  
+  if (Array.isArray(data)) {
+      return data.length;
+  } else if (typeof data === 'object' && data !== null) {
+      return Object.keys(data).length;
+  } else {
+      return 1;
+  }
+}
+
+function showStats() {
+  customAlert(`jam ${countJSONItems('words.json')} kotoba`);
+}
