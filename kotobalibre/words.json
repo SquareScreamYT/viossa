@@ -447,6 +447,14 @@
     }
   },
   {
+    "maki": {
+      "definition": "namting f'nihonlant mahajena na mi, sakana au mareleti.",
+      "image": "https://img.freepik.com/free-photo/sushi-rolls-topped-with-caviar_140725-4235.jpg",
+      "image2": "https://img.freepik.com/free-photo/mixed-sushi-set-japanese-food_1339-3618.jpg",
+      "category": ["namting"]
+    }
+  },
+  {
     "makis": {
       "definition": "🌽 - kjero ovošji du deki nam.",
       "image": "https://img.freepik.com/free-photo/realistic-image-ear-corn-yellow-background_125540-3795.jpg",
@@ -466,6 +474,14 @@
       "image": "https://img.freepik.com/free-photo/mango_1203-8850.jpg",
       "image2": "https://img.freepik.com/free-photo/cut-mango_501050-332.jpg",
       "category": ["frauta", "namting"]
+    }
+  },
+  {
+    "mareleti": {
+      "definition": "midori os murasaki namting f'mare.",
+      "image": "https://img.freepik.com/free-photo/top-view-delicious-seaweed-eating_23-2150695267.jpg",
+      "image2": "https://img.freepik.com/free-photo/still-life-algae-details_23-2151195079.jpg",
+      "category": ["namting"]
     }
   },
   {
@@ -710,9 +726,19 @@
     }
   },
   {
-    "širo": {
-      "definition": "<span style=\"color:#f8fafc;\">afto varge širo</span>",
-      "category": ["varge"]
+    "sauše": {
+      "definition": "namting f'iške au sokeri, šjo, auauau.",
+      "image": "https://img.freepik.com/free-photo/homemade-ketchup-mustard-mayonnaise-sauce_114579-44514.jpg",
+      "image2": "https://img.freepik.com/free-photo/black-sauce-small-white-cup-placed-cement-floor_1150-22621.jpg?semt=sph",
+      "category": ["namting"]
+    }
+  },
+  {
+    "sjoju": {
+      "definition": "brun glugting du nam mit maki.",
+      "image": "https://img.freepik.com/free-photo/soy-sauce-soy-bean-wooden-table_1150-13412.jpg",
+      "image2": "https://img.freepik.com/free-photo/soy-sauce-soy-bean-wooden-table_1150-13423.jpg",
+      "category": ["namting"]
     }
   },
   {
@@ -751,6 +777,12 @@
       "image": "https://img.freepik.com/free-photo/delicious-ice-cream-arrangement_23-2150096681.jpg",
       "image2": "https://img.freepik.com/free-photo/ice-cream-bowl-with-cherry_23-2148107907.jpg",
       "category": ["namting"]
+    }
+  },
+  {
+    "širo": {
+      "definition": "<span style=\"color:#f8fafc;\">afto varge širo</span>",
+      "category": ["varge"]
     }
   },
   {
