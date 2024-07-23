@@ -515,6 +515,14 @@
     }
   },
   {
+    "minti": {
+      "definition": "midori leti du deki nam.",
+      "image": "https://img.freepik.com/free-photo/closeup-shot-fresh-green-mint-plant-pot_181624-42386.jpg",
+      "image2": "https://img.freepik.com/free-photo/fresh-mint-leaves-isolated_144627-30022.jpg",
+      "category": ["namting"]
+    }
+  },
+  {
     "miraseň": {
       "definition": "🍆 - makot, pika ovošji du deki nam.",
       "image": "https://img.freepik.com/free-photo/side-view-fresh-eggplants-with-slices-board-with-lettuce_141793-7165.jpg",
@@ -634,6 +642,14 @@
       "definition": "🥞 - brun namting du deki nam.",
       "image": "https://img.freepik.com/free-photo/composition-tasty-breakfast-pancakes_23-2148829556.jpg",
       "image2": "https://img.freepik.com/free-photo/pancakes-with-blueberry_1339-4377.jpg",
+      "category": ["namting"]
+    }
+  },
+  {
+    "panisja": {
+      "definition": "širo namting f'brun ruti du deki nam.",
+      "image": "https://img.freepik.com/free-photo/vanilla-stick_144627-27505.jpg",
+      "image2": "https://img.freepik.com/free-photo/top-view-homemade-ice-cream-scoops_23-2148425345.jpg",
       "category": ["namting"]
     }
   },
