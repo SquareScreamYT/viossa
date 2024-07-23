@@ -202,5 +202,5 @@ function countTotalImages(data) {
 }
 
 function showStats() {
-  customAlert(`jam ${countWords('words.json')} kotoba<br>jam ${countTotalImages('words.json')} riso`);
+  customAlert(`jam ${countWords(JSON.parse('words.json'))} kotoba<br>jam ${countTotalImages(JSON.parse('words.json'))} riso`);
 }
