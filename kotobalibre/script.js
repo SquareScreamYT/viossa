@@ -187,6 +187,14 @@ function customAlert(message) {
   });
 }
 
+let wordsData;
+
+fetch('words.json')
+  .then(response => response.json())
+  .then(data => {
+    wordsData = data;
+  });
+
 function countWords(data) {
   return data.length;
 }
@@ -202,5 +210,9 @@ function countTotalImages(data) {
 }
 
 function showStats() {
-  customAlert(`jam ${countWords(JSON.parse('words.json'))} kotoba<br>jam ${countTotalImages(JSON.parse('words.json'))} riso`);
+  if (wordsData) {
+    customAlert(`jam ${countWords(wordsData)} kotoba, jam ${countTotalImages(wordsData)} riso`);
+  } else {
+    console.log('Data not loaded yet');
+  }
 }
