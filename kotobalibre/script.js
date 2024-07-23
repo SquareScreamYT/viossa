@@ -167,7 +167,7 @@ function customAlert(message) {
   const alertMessage = document.getElementById('alertMessage');
   const closeButton = document.getElementById('closeAlert');
 
-  alertMessage.textContent = message;
+  alertMessage.innerHTML = message;
   alertBox.style.display = 'block';
 
   closeButton.onclick = function() {
@@ -211,7 +211,7 @@ function countTotalImages(data) {
 
 function showStats() {
   if (wordsData) {
-    customAlert(`jam ${countWords(wordsData)} kotoba, jam ${countTotalImages(wordsData)} riso`);
+    customAlert(`jam ${countWords(wordsData)} kotoba<br>jam ${countTotalImages(wordsData)} riso`);
   } else {
     console.log('Data not loaded yet');
   }
