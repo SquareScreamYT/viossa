@@ -734,6 +734,12 @@
     }
   },
   {
+    "rosa": {
+      "definition": "<span style=\"color:#ec4899;\">afto varge rosa</span>",
+      "category": ["varge"]
+    }
+  },
+  {
     "saft": {
       "definition": "🧃🍹 - glugting f'frauta du deki glug.",
       "image": "https://img.freepik.com/free-photo/immunity-boosting-food-healthy-lifestyle-with-citrus_23-2149211498.jpg",
