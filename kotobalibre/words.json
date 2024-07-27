@@ -101,6 +101,14 @@
     }
   },
   {
+    "borbor": {
+      "definition": "hund hanu \"borbor!\"",
+      "image": "https://img.freepik.com/free-photo/husky-breed-dog-with-tongue-out_1187-1499.jpg",
+      "image2": "https://img.freepik.com/free-photo/little-dog-park-outdoors-lifestyle-portrait_1150-16986.jpg",
+      "category": ["zamkotoba"]
+    }
+  },
+  {
     "brečeň": {
       "definition": "🥨 - brun namting du deki nam.",
       "image": "https://img.freepik.com/free-photo/pretzel-bar-counter_1220-1760.jpg",
@@ -510,6 +518,14 @@
       "image": "https://img.freepik.com/free-photo/rice-bowl_1387-181.jpg",
       "image2": "https://img.freepik.com/free-photo/jasmine-rice_74190-7260.jpg",
       "category": ["namting"]
+    }
+  },
+  {
+    "miaumiau": {
+      "definition": "kot hanu \"miau!\"",
+      "image": "https://img.freepik.com/free-photo/portrait-adorable-domestic-cat_23-2149167092.jpg",
+      "image2": "https://img.freepik.com/free-photo/cute-cat-spending-time-outside_23-2150649152.jpg",
+      "category": ["zamkotoba"]
     }
   },
   {

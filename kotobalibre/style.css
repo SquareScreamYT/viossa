@@ -345,6 +345,7 @@ img {
 }
 
 #closeAlert {
+  font-family: "Nunito", "SF Pro Rounded", "Apple Color Emoji", "Noto Color Emoji", "Lato", system-ui, -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif, monospace;
   background-color: var(--bg-color-darker);
   color: var(--text-color);
   border: none;
