@@ -6,6 +6,28 @@
     }
   },
   {
+    "-lant": {
+      "definition": "lant lik 🇯🇵 🇰🇷 🇩🇪 🇨🇳 🇺🇸 🇫🇷 🇪🇸 🇮🇹 🇷🇺 🇬🇧, tatoeba anglolant, amerikalant, franslant.",
+      "image": "https://img.freepik.com/free-photo/hands-waving-flags-china-germany-india-south-africa-russia_53876-30888.jpg",
+      "image2": "https://img.freepik.com/free-photo/big-rice-field-morning-thailand_1150-10754.jpg",
+      "category": ["ples", "festakotoba"]
+    }
+  },
+  {
+    "-lantnen": {
+      "definition": "lantnen lik čisai lant ine lant, tatoeba šikagopolis ine ilinojlantnen ine amerikalant.",
+      "category": ["ples", "festakotoba"]
+    }
+  },
+  {
+    "-polis": {
+      "definition": "polis 🏙️🌇🌃🌆 ples ine lant, tatoeba londonpolis, njujorkpolis, berlinpolis.",
+      "image": "https://img.freepik.com/free-photo/tourism-peninsula-urban-scenery-office-river_1417-878.jpg",
+      "image2": "https://img.freepik.com/free-photo/dusk-business-night-sea-architecture_1417-55.jpg",
+      "category": ["ples", "festakotoba"]
+    }
+  },
+  {
     "100100": {
       "definition": "100 lyk 😁😆🤣😂",
       "category": ["zamkotoba"]
@@ -43,7 +65,7 @@
   },
   {
     "akurat": {
-      "definition": "✅☑️✔️<br>anglossa: <span class='spoiler' >yes</span>",
+      "definition": "✅☑️✔️<br>anglosa: <span class='spoiler' >yes</span>",
       "image": "https://img.freepik.com/free-vector/check-mark-green-3d_78370-4446.jpg",
       "category": ["kriz"]
     }
@@ -76,6 +98,12 @@
     "asoko": {
       "definition": "afto ringo —> 🍎<br>tuo ringo ——————> 🍎<br>asoko ringo ————————————————> 🍎",
       "category": ["glabdelkotoba"]
+    }
+  },
+  {
+    "atamapolis": {
+      "definition": "atamapolis atama polis f'lant, tatoeba londonpolis atamapolis f'anglolant.",
+      "category": ["ples"]
     }
   },
   {
@@ -138,7 +166,7 @@
   },
   {
     "čigau": {
-      "definition": "lik kondor, men čigau. <br> čigau = ❌🟰 <br> apar kondor au čigau mange, men anglossa čigau men naj kondor italjalant.",
+      "definition": "lik kondor, men čigau. <br> čigau = ❌🟰 <br> apar kondor au čigau mange, men anglolant čigau men naj kondor italjalant.",
       "image": "https://img.freepik.com/free-photo/metal-paperclips-rows-one-red-different-from-others_1163-2748.jpg",
       "image2": "https://img.freepik.com/free-photo/rag-dolls-with-blue-red-flags_1156-180.jpg",
       "category": ["likkotoba"]
@@ -208,7 +236,7 @@
   },
   {
     "fšto": {
-      "definition": "🤔❓❔<br>anglossa: <span class='spoiler' >understand</span>",
+      "definition": "🤔❓❔<br>anglosa: <span class='spoiler' >understand</span>",
       "image": "https://img.freepik.com/free-photo/excited-woman-pitching-idea-raising-finger-gasping-have-interesting-suggestion-thinkup-great-plan-sharing-her-thoughts-standing-white-background_176420-52872.jpg",
       "category": ["kriz"]
     }
@@ -321,7 +349,7 @@
   },
   {
     "ka": {
-      "definition": "🤔❓❔<br>anglossa: <span class='spoiler' >what</span>",
+      "definition": "🤔❓❔<br>anglosa: <span class='spoiler' >what</span>",
       "image": "https://img.freepik.com/free-photo/question-mark-bubble-speech-sign-symbol-icon-3d-rendering_56104-1950.jpg",
       "category": ["kriz"]
     }
@@ -566,7 +594,7 @@
   },
   {
     "naj": {
-      "definition": "❌🚫<br>anglossa: <span class='spoiler' >no</span>",
+      "definition": "❌🚫<br>anglosa: <span class='spoiler' >no</span>",
       "image": "https://img.freepik.com/free-vector/no-signs-set_78370-6501.jpg",
       "category": ["kriz"]
     }
