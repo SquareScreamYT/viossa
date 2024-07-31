@@ -14,6 +14,14 @@
     }
   },
   {
+    "-lantdai": {
+      "definition": "lantdai lik stur iškelant f'mange lant, tatoeba ašjalantdai, juropalantdai, afrikalantdai.",
+      "image": "https://img.freepik.com/free-photo/free-blank-map-asia_53876-145019.jpg",
+      "image2": "https://img.freepik.com/free-photo/free-blank-map-asia_53876-147535.jpg",
+      "category": ["ples", "festakotoba"]
+    }
+  },
+  {
     "-lantnen": {
       "definition": "lantnen lik čisai lant ine lant, tatoeba šikagopolis ine ilinojlantnen ine amerikalant.",
       "category": ["ples", "festakotoba"]
@@ -242,7 +250,7 @@
     }
   },
   {
-    "gašepan": {
+    "gažepan": {
       "definition": "🧇 - brun namting du deki nam.",
       "image": "https://img.freepik.com/free-photo/fruit-sweet-food-bakery-warm_1203-6170.jpg",
       "image2": "https://img.freepik.com/free-photo/assortment-tasty-breakfast-goodies_23-2148829543.jpg",
