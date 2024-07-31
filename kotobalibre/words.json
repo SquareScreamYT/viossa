@@ -75,11 +75,23 @@
     }
   },
   {
+    "amerika-": {
+      "definition": "amerika- lik ting f'amerikalant 🇺🇸.",
+      "category": ["festakotoba", "ples"]
+    }
+  },
+  {
     "ananas": {
       "definition": "🍍 - kjero frauta du deki nam.",
       "image": "https://img.freepik.com/free-photo/pineapple-fruit_1203-7746.jpg",
       "image2": "https://img.freepik.com/free-photo/pineapples-ready-sale_23-2151526638.jpg",
       "category": ["frauta", "namting"]
+    }
+  },
+  {
+    "anglo-": {
+      "definition": "anglo- lik ting f'anglolant 🇬🇧.",
+      "category": ["festakotoba", "ples"]
     }
   },
   {
@@ -185,6 +197,12 @@
     }
   },
   {
+    "doitš-": {
+      "definition": "doitš- lik ting f'doitšlant 🇩🇪.",
+      "category": ["festakotoba", "ples"]
+    }
+  },
+  {
     "dok": {
       "definition": "du au sore, du mit plus na ni pašun",
       "category": ["pašunkotoba"]
@@ -196,6 +214,12 @@
       "image": "https://img.freepik.com/free-photo/korean-young-woman-s-half-length-portrait-blue-space-female-model-white-shirt-showing-pointing-something_155003-26640.jpg",
       "image2": "https://img.freepik.com/free-photo/image-confident-happy-young-woman-casual-clothes-pointing-finger-camera-laughing_1258-203295.jpg",
       "category": ["pašunkotoba"]
+    }
+  },
+  {
+    "džongkuo-": {
+      "definition": "džongkuo- lik ting f'džongkuolant 🇨🇳.",
+      "category": ["festakotoba", "ples"]
     }
   },
   {
@@ -215,11 +239,23 @@
     }
   },
   {
+    "espanjo-": {
+      "definition": "espanjo- lik ting f'espanjolant 🇪🇸.",
+      "category": ["festakotoba", "ples"]
+    }
+  },
+  {
     "etlet": {
       "definition": "🍜 - pika namting mahajena na alk.",
       "image": "https://img.freepik.com/free-photo/flat-lay-uncooked-assortment-noodles-wooden-background_23-2148377401.jpg",
       "image2": "https://img.freepik.com/free-photo/hand-picks-up-tasty-boiled-noodles-from-opened-wok-takeaway-blank-paper-box-isolated-white-center_346278-915.jpg",
       "category": ["namting"]
+    }
+  },
+  {
+    "frans-": {
+      "definition": "frans- lik ting f'franslant 🇫🇷.",
+      "category": ["festakotoba", "ples"]
     }
   },
   {
@@ -320,6 +356,12 @@
     }
   },
   {
+    "italja-": {
+      "definition": "italja- lik ting f'italjalant 🇮🇹.",
+      "category": ["festakotoba", "ples"]
+    }
+  },
+  {
     "iške": {
       "definition": "💦💧🌊 - klar glugting du deki glug.",
       "image": "https://img.freepik.com/free-photo/fresh-water-texture-background-transparent-liquid_53876-142911.jpg",
@@ -362,6 +404,12 @@
     "kafej (varge)": {
       "definition": "<span style=\"color:#78350f;\">afto varge kafej</span>",
       "category": ["varge"]
+    }
+  },
+  {
+    "kanada-": {
+      "definition": "kanada- lik ting f'kanadalant 🇨🇦.",
+      "category": ["festakotoba", "ples"]
     }
   },
   {
@@ -564,6 +612,12 @@
       "image": "https://img.freepik.com/free-photo/still-life-dispenser-bottle_23-2150992108.jpg",
       "image2": "https://img.freepik.com/free-photo/closeup-shot-spoon-black-pepper-seeds-table_181624-57747.jpg",
       "category": ["namting"]
+    }
+  },
+  {
+    "meksiko-": {
+      "definition": "meksiko- lik ting f'meksikolant 🇲🇽.",
+      "category": ["festakotoba", "ples"]
     }
   },
   {
