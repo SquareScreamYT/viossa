@@ -54,6 +54,12 @@
     }
   },
   {
+    "akote": {
+      "definition": "ni krais akote ⭕ ⭕<br><br>tatoeba: amerikalant au kanadalant akote, doitšlant au franslant akote.",
+      "category": ["ples"]
+    }
+  },
+  {
     "akurat": {
       "definition": "✅☑️✔️<br>anglosa: <span class='spoiler' >yes</span>",
       "image": "https://img.freepik.com/free-vector/check-mark-green-3d_78370-4446.jpg",
@@ -730,6 +736,12 @@
     }
   },
   {
+    "para": {
+      "definition": "ni krais para ⭕     ⭕<br><br>tatoeba: meksikolant au kanadalant para, anglolant au franslant para",
+      "category": ["ples"]
+    }
+  },
+  {
     "pašunkotoba": {
       "definition": "un, du, sore, vi, dok, hej auauau al pašunkotoba.",
       "category": ["pašunkotoba"]
@@ -801,6 +813,12 @@
     "portokali (varge)": {
       "definition": "<span style=\"color:#fb923c;\">afto varge portokali</span>",
       "category": ["varge"]
+    }
+  },
+  {
+    "prapa": {
+      "definition": "ni krais prapa ⭕               ⭕<br><br>tatoeba: amerikalant au džongkuolant prapa, anglolant au kanadalant prapa.",
+      "category": ["ples"]
     }
   },
   {
