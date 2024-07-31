@@ -6,36 +6,6 @@
     }
   },
   {
-    "-lant": {
-      "definition": "lant lik 🇯🇵 🇰🇷 🇩🇪 🇨🇳 🇺🇸 🇫🇷 🇪🇸 🇮🇹 🇷🇺 🇬🇧, tatoeba anglolant, amerikalant, franslant.",
-      "image": "https://img.freepik.com/free-photo/hands-waving-flags-china-germany-india-south-africa-russia_53876-30888.jpg",
-      "image2": "https://img.freepik.com/free-photo/big-rice-field-morning-thailand_1150-10754.jpg",
-      "category": ["ples", "festakotoba"]
-    }
-  },
-  {
-    "-lantdai": {
-      "definition": "lantdai lik stur iškelant f'mange lant, tatoeba ašjalantdai, juropalantdai, afrikalantdai.",
-      "image": "https://img.freepik.com/free-photo/free-blank-map-asia_53876-145019.jpg",
-      "image2": "https://img.freepik.com/free-photo/free-blank-map-asia_53876-147535.jpg",
-      "category": ["ples", "festakotoba"]
-    }
-  },
-  {
-    "-lantnen": {
-      "definition": "lantnen lik čisai lant ine lant, tatoeba šikagopolis ine ilinojlantnen ine amerikalant.",
-      "category": ["ples", "festakotoba"]
-    }
-  },
-  {
-    "-polis": {
-      "definition": "polis 🏙️🌇🌃🌆 ples ine lant, tatoeba londonpolis, njujorkpolis, berlinpolis.",
-      "image": "https://img.freepik.com/free-photo/tourism-peninsula-urban-scenery-office-river_1417-878.jpg",
-      "image2": "https://img.freepik.com/free-photo/dusk-business-night-sea-architecture_1417-55.jpg",
-      "category": ["ples", "festakotoba"]
-    }
-  },
-  {
     "100100": {
       "definition": "100 lyk 😁😆🤣😂",
       "category": ["zamkotoba"]
@@ -479,6 +449,28 @@
     }
   },
   {
+    "lant": {
+      "definition": "lant lik 🇯🇵 🇰🇷 🇩🇪 🇨🇳 🇺🇸 🇫🇷 🇪🇸 🇮🇹 🇷🇺 🇬🇧, tatoeba anglolant, amerikalant, franslant.",
+      "image": "https://img.freepik.com/free-photo/hands-waving-flags-china-germany-india-south-africa-russia_53876-30888.jpg",
+      "image2": "https://img.freepik.com/free-photo/big-rice-field-morning-thailand_1150-10754.jpg",
+      "category": ["ples"]
+    }
+  },
+  {
+    "lantdai": {
+      "definition": "lantdai lik stur iškelant f'mange lant, tatoeba ašjalantdai, juropalantdai, afrikalantdai.",
+      "image": "https://img.freepik.com/free-photo/free-blank-map-asia_53876-145019.jpg",
+      "image2": "https://img.freepik.com/free-photo/free-blank-map-asia_53876-147535.jpg",
+      "category": ["ples"]
+    }
+  },
+  {
+    "lantnen": {
+      "definition": "lantnen lik čisai lant ine lant, tatoeba šikagopolis ine ilinojlantnen ine amerikalant.",
+      "category": ["ples"]
+    }
+  },
+  {
     "lapsi": {
       "definition": "lapsi lapsi pašun.",
       "image": "https://img.freepik.com/free-photo/children-with-their-hands-up_23-2148022497.jpg",
@@ -770,6 +762,14 @@
     }
   },
   {
+    "polis": {
+      "definition": "polis 🏙️🌇🌃🌆 ples ine lant, tatoeba londonpolis, njujorkpolis, berlinpolis.",
+      "image": "https://img.freepik.com/free-photo/tourism-peninsula-urban-scenery-office-river_1417-878.jpg",
+      "image2": "https://img.freepik.com/free-photo/dusk-business-night-sea-architecture_1417-55.jpg",
+      "category": ["ples"]
+    }
+  },
+  {
     "pomodoro": {
       "definition": "🍅 - roš ovošji du deki nam.",
       "image": "https://img.freepik.com/free-photo/tomatoes_144627-15411.jpg",
@@ -877,6 +877,14 @@
     "širo": {
       "definition": "<span style=\"color:#f8fafc;\">afto varge širo</span>",
       "category": ["varge"]
+    }
+  },
+  {
+    "stat": {
+      "definition": "stat lik čisai polis, tatoeba rediňstat (anglolant), santafejstat (njumeksikolantnen, amerikalant), valensiastat (espanjolant).",
+      "image": "https://img.freepik.com/free-photo/aerial-shot-mesmerizing-scenery-waikanae-township-new-zealand_181624-14446.jpg",
+      "image2": "https://img.freepik.com/free-photo/typical-village-street_1417-1435.jpg",
+      "category": ["ples"]
     }
   },
   {
