@@ -55,7 +55,7 @@
   },
   {
     "akote": {
-      "definition": "ni krais akote ⭕ ⭕<br><br>tatoeba: amerikalant au kanadalant akote, doitšlant au franslant akote.",
+      "definition": "ni krais akote ⭕&nbsp;⭕<br><br>tatoeba: amerikalant au kanadalant akote, doitšlant au franslant akote.",
       "category": ["ples"]
     }
   },
@@ -737,7 +737,7 @@
   },
   {
     "para": {
-      "definition": "ni krais para ⭕     ⭕<br><br>tatoeba: meksikolant au kanadalant para, anglolant au franslant para",
+      "definition": "ni krais para ⭕&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭕<br><br>tatoeba: meksikolant au kanadalant para, anglolant au franslant para",
       "category": ["ples"]
     }
   },
@@ -817,7 +817,7 @@
   },
   {
     "prapa": {
-      "definition": "ni krais prapa ⭕               ⭕<br><br>tatoeba: amerikalant au džongkuolant prapa, anglolant au kanadalant prapa.",
+      "definition": "ni krais prapa ⭕&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭕<br><br>tatoeba: amerikalant au džongkuolant prapa, anglolant au kanadalant prapa.",
       "category": ["ples"]
     }
   },
