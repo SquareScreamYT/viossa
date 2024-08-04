@@ -278,7 +278,8 @@ tr:last-child td:last-child {
 }
 
 img {
-  height: 100px;
+  height: auto;
   width: auto;
   border-radius: 5px;
+  max-width: 150px;
 }
