@@ -162,11 +162,13 @@ a {
   flex-grow: 1;
   overflow-y: auto;
   transition: background-color 0.3s ease;
-  padding-right: 10px;
   box-sizing: border-box;
   margin-bottom: 5px;
-  overflow: -moz-scrollbars-vertical; 
-  overflow-y: scroll;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+#wordList::-webkit-scrollbar { 
+  display: none;
 }
 
 .word-entry {
@@ -221,23 +223,6 @@ a {
   outline: none;
 }
 
-::-webkit-scrollbar {
-  width: 12px;
-}
-
-::-webkit-scrollbar-track {
-  background: var(--bg-color-darkest);
-}
-
-::-webkit-scrollbar-thumb {
-  background: var(--bg-color-darker);
-  border-radius: 6px;
-}
-
-::-webkit-scrollbar-thumb:hover {
-  background: var(--bg-color-dark);
-}
-
 * {
   scrollbar-width: thin;
   scrollbar-color: var(--bg-color-darkest) var(--bg-color-darker);
@@ -250,10 +235,11 @@ img {
 #category-filter {
   width: 100%;
   margin-bottom: 10px;
-  margin-right: 10px;
+  margin-left: 0px;
   padding: 10px;
   border-radius: 10px;
   border-width: 0;
+  box-sizing: border-box;
   text-align: left;
   background-color: var(--bg-color-darker);
   color: var(--text-color);

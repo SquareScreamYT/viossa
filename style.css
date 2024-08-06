@@ -218,11 +218,11 @@ body {
   border-top-right-radius: 10px;
 }
 
-.content tbody:last-child td:first-child {
+.content tr:last-child td:first-child {
   border-bottom-left-radius: 10px;
 }
 
-.content tbody:last-child td:last-child {
+.content tr:last-child td:last-child {
   border-bottom-right-radius: 10px;
 }
 
