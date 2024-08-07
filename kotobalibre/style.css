@@ -202,8 +202,7 @@ a {
   font-family: "Nunito", "SF Pro Rounded", "Apple Color Emoji", "Noto Color Emoji", "Lato", system-ui, -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif, monospace;
   display: block;
   width: 100%;
-  padding: 10px 15px;
-  padding-right: 20px;
+  padding: 10px;
   flex: 1 0 30%;
   box-sizing: border-box;
   background-color: var(--bg-color-darker);
