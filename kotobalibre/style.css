@@ -123,7 +123,7 @@ a {
 }
 
 .sidebar {
-  width: 250px;
+  width: 500px;
   background-color: var(--bg-color-dark);
   border-radius: 30px;
   padding: 10px;
@@ -159,11 +159,15 @@ a {
 }
 
 #wordList {
-  flex-grow: 1;
   overflow-y: auto;
   transition: background-color 0.3s ease;
   box-sizing: border-box;
   margin-bottom: 5px;
+  display: flex;
+  flex-wrap: wrap;   
+  gap: 10px;
+  justify-content: space-between; 
+  max-width: 800px;
   -ms-overflow-style: none;
   scrollbar-width: none;
 }
@@ -200,8 +204,8 @@ a {
   width: 100%;
   padding: 10px 15px;
   padding-right: 20px;
+  flex: 1 0 30%;
   box-sizing: border-box;
-  margin-bottom: 10px;
   background-color: var(--bg-color-darker);
   color: var(--text-color);
   border: none;
