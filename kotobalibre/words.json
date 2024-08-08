@@ -189,6 +189,12 @@
     }
   },
   {
+    "deki": {
+      "definition": "du deki nam ringo, men du dekinaj nam auto.",
+      "category": ["surukotoba"]
+    }
+  },
+  {
     "dodo": {
       "definition": "🫘🥜 - čisai namting du deki nam.",
       "image": "https://img.freepik.com/free-photo/different-dried-fruits_144627-16150.jpg",
@@ -1100,6 +1106,12 @@
     "vi": {
       "definition": "sore 👉🙂🙂👈, un au du, un au sore",
       "category": ["pašunkotoba"]
+    }
+  },
+  {
+    "vil": {
+      "definition": "du mude lik du vil kola.",
+      "category": ["surukotoba"]
     }
   },
   {
