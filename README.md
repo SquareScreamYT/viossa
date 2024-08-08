@@ -1,5 +1,7 @@
 # Viossa Website
 
+<img src="/viossa.png">
+
 ## Main Journal
 
 https://squarescreamyt.github.io/viossa
