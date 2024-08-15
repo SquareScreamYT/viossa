@@ -22,8 +22,8 @@ fetch('words.json')
           <td>${wordKey}</td>
           <td>${wordObject[wordKey].category.join(", ")}</td>
           <td>${wordObject[wordKey].definition}</td>
-          <td>${wordObject[wordKey].image ? `<img src="${wordObject[wordKey].image}" height="50" width="auto">` : ''}</td>
-          <td>${wordObject[wordKey].image2 ? `<img src="${wordObject[wordKey].image2}" height="50" width="auto">` : ''}</td>
+          <td>${wordObject[wordKey].image ? `<img src="${wordObject[wordKey].image}" height="50" width="auto">` : 'jam naj riso'}</td>
+          <td>${wordObject[wordKey].image2 ? `<img src="${wordObject[wordKey].image2}" height="50" width="auto">` : 'jam naj riso'}</td>
         </tr>
       `;
     });
