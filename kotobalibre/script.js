@@ -132,7 +132,7 @@ function loadWordDetails(word) {
         const titleElement = document.getElementById('wordName');
 
         definitionsElement.innerHTML = `
-          <h4>klani: ${item[wordKey].category.join(", ")}</h4>
+          <h4>klani: ${wordObject[wordKey].category.join(", ")}</h4>
           <p>${wordObject[wordKey].definition}</p>
           ${wordObject[wordKey].image ? `<h4>riso:</h4>` : ''}
           ${wordObject[wordKey].image ? `<img src="${wordObject[wordKey].image}" height=200 width=auto>` : ''}
