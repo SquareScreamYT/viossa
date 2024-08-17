@@ -535,6 +535,14 @@
     }
   },
   {
+    "kunja": {
+      "definition": "kunja lik maha namting.",
+      "image": "https://img.freepik.com/free-photo/boiling-pot-with-cooking-spaghetti-pasta-kitchen-closeup_1220-5519.jpg",
+      "image2": "https://img.freepik.com/free-photo/couple-preparing-vegetable-salad_23-2148114114.jpg",
+      "category": ["namting", "glugting"]
+    }
+  },
+  {
     "kuro": {
       "definition": "<span style=\"color:#030712;\">afto varge kuro</span>",
       "category": ["varge"]
