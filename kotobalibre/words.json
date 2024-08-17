@@ -42,7 +42,7 @@
   {
     "afto": {
       "definition": "afto ringo —> 🍎<br>tuo ringo ——————> 🍎<br>asoko ringo ————————————————> 🍎",
-      "category": ["glabdelkotoba"]
+      "category": ["likkotoba"]
     }
   },
   {
@@ -105,13 +105,19 @@
   {
     "asoko": {
       "definition": "afto ringo —> 🍎<br>tuo ringo ——————> 🍎<br>asoko ringo ————————————————> 🍎",
-      "category": ["glabdelkotoba"]
+      "category": ["likkotoba"]
     }
   },
   {
     "atamapolis": {
       "definition": "atamapolis atama polis f'lant, tatoeba londonpolis atamapolis f'anglolant.",
       "category": ["ples"]
+    }
+  },
+  {
+    "au": {
+      "definition": "au lik +, tatoeba: \"un nam tča. un nam kekso.\" sama \"un nam tča au kekso\"",
+      "category": ["etunikotoba"]
     }
   },
   {
@@ -323,6 +329,12 @@
     "griš": {
       "definition": "<span style=\"color:#6b7280;\">afto varge griš</span>",
       "category": ["varge"]
+    }
+  },
+  {
+    "grun": {
+      "definition": "grun lik ∵, tatoeba: \"du kola grun du mude\"",
+      "category": ["etunikotoba"]
     }
   },
   {
@@ -651,6 +663,12 @@
     }
   },
   {
+    "men": {
+      "definition": "tatoeba: \"du deki nam ringo, men du dekinaj nam auto.\"",
+      "category": ["etunikotoba"]
+    }
+  },
+  {
     "mi": {
       "definition": "🍚 - širo čisai namting du deki nam.",
       "image": "https://img.freepik.com/free-photo/rice-bowl_1387-181.jpg",
@@ -785,6 +803,12 @@
       "image": "https://img.freepik.com/free-photo/portrait-young-asia-lady-with-positive-expression-arms-crossed-smile-broadly-dressed-casual-clothing-looking-camera-pink-background_7861-3201.jpg",
       "image2": "https://img.freepik.com/free-photo/portrait-happy-asian-woman-smiling-posing-confident-cross-arms-chest-standing-against-studio-background_1258-89269.jpg",
       "category": ["pašun"]
+    }
+  },
+  {
+    "os": {
+      "definition": "os lik /, tatoeba: \"du vil ringo os banan?\"",
+      "category": ["etunikotoba"]
     }
   },
   {
@@ -1092,7 +1116,7 @@
   {
     "tuo": {
       "definition": "afto ringo —> 🍎<br>tuo ringo ——————> 🍎<br>asoko ringo ————————————————> 🍎",
-      "category": ["glabdelkotoba"]
+      "category": ["likkotoba"]
     }
   },
   {
