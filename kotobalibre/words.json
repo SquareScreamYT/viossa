@@ -587,6 +587,12 @@
     }
   },
   {
+    "li": {
+      "definition": "tatoeba: \"li mude, de kola.\"",
+      "category": ["etunikotoba"]
+    }
+  },
+  {
     "limon": {
       "definition": "🍋 - kjero frauta du deki nam.",
       "image": "https://img.freepik.com/free-photo/lemon-table_144627-22176.jpg",
@@ -993,6 +999,12 @@
     "sini": {
       "definition": "<span style=\"color:#22d3ee;\">afto varge sini</span>",
       "category": ["varge"]
+    }
+  },
+  {
+    "sit": {
+      "definition": "sit lik ∴. tatoeba: \"du mude, sit du kola.\"",
+      "category": ["etunikotoba"]
     }
   },
   {
