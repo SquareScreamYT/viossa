@@ -129,6 +129,14 @@
     }
   },
   {
+    "baba": {
+      "definition": "🐸 - dur",
+      "image": "https://img.freepik.com/free-photo/borneo-eared-frog-stone_488145-996.jpg",
+      "image2": "https://img.freepik.com/free-photo/dumpy-frog-litoria-caerulea-green-leaves-dumpy-frog-yellow-bud-tree-frog-branch-amphibian-closeup_488145-3344.jpg",
+      "category": ["dur"]
+    }
+  },
+  {
     "banan": {
       "definition": "🍌 - kjero, pika frauta du deki nam.",
       "image": "https://img.freepik.com/free-photo/view-banana-fruits_23-2150823149.jpg",
@@ -300,6 +308,14 @@
     }
   },
   {
+    "fugel": {
+      "definition": "🐦🕊️🦉🦜🦢🐔 - dur",
+      "image": "https://img.freepik.com/free-photo/closeup-shot-hummingbird-perched-tree-branch_181624-50947.jpg",
+      "image2": "https://img.freepik.com/free-photo/seagulls-birds-fly-blue-sky_127675-2484.jpg",
+      "category": ["dur"]
+    }
+  },
+  {
     "gažepan": {
       "definition": "🧇 - brun namting du deki nam.",
       "image": "https://img.freepik.com/free-photo/fruit-sweet-food-bakery-warm_1203-6170.jpg",
@@ -397,6 +413,14 @@
       "image": "https://img.freepik.com/free-photo/side-view-peanuts-shell-from-bag-wooden-table_141793-7219.jpg",
       "image2": "https://img.freepik.com/free-photo/fresh-peanuts_144627-16153.jpg",
       "category": ["namting"]
+    }
+  },
+  {
+    "hund": {
+      "definition": "🐕🐶🐕‍🦺🐩 - dur",
+      "image": "https://img.freepik.com/free-photo/cute-dog-outdoors_23-2149004543.jpg",
+      "image2": "https://img.freepik.com/free-photo/beautiful-pet-portrait-dog_23-2149218450.jpg",
+      "category": ["dur"]
     }
   },
   {
@@ -552,6 +576,14 @@
       "image": "https://img.freepik.com/free-photo/check-marks-with-tick-cross-sign_107791-15676.jpg",
       "image2": "https://img.freepik.com/free-photo/arrangement-with-different-feelings_23-2148860251.jpg",
       "category": ["lykkotoba"]
+    }
+  },
+  {
+    "kot": {
+      "definition": "🐈😺🐱🐈‍⬛ - dur",
+      "image": "https://img.freepik.com/free-photo/closeup-shot-one-ginger-cat-hugging-licking-other-isolated-white-wall_181624-32893.jpg",
+      "image2": "https://img.freepik.com/free-photo/close-up-portrait-beautiful-cat_23-2149214373.jpg",
+      "category": ["dur"]
     }
   },
   {
@@ -1011,6 +1043,14 @@
       "image": "https://img.freepik.com/free-photo/immunity-boosting-food-healthy-lifestyle-with-citrus_23-2149211498.jpg",
       "image2": "https://img.freepik.com/free-photo/drink-bottles-wooden-crate_23-2148785356.jpg",
       "category": ["namting", "glugting"]
+    }
+  },
+  {
+    "sakana": {
+      "definition": "🐟🐠🎣 - dur",
+      "image": "https://img.freepik.com/free-photo/top-view-fish-lemon_23-2148708633.jpg",
+      "image2": "https://img.freepik.com/free-photo/beautiful-fish-seabed-coral-reefs-underwater-beauty-fish-coral-reefs_488145-1048.jpg",
+      "category": ["dur"]
     }
   },
   {
