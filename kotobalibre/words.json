@@ -209,6 +209,12 @@
     }
   },
   {
+    "der": {
+      "definition": "der lyk tuo ples.",
+      "category": ["ples"]
+    }
+  },
+  {
     "dodo": {
       "definition": "🫘🥜 - čisai namting du deki nam.",
       "image": "https://img.freepik.com/free-photo/different-dried-fruits_144627-16150.jpg",
@@ -354,6 +360,12 @@
     }
   },
   {
+    "hapigo": {
+      "definition": "hapigo lyk asoko ples.",
+      "category": ["ples"]
+    }
+  },
+  {
     "harma": {
       "definition": "<span style=\"color:#adada1;\">afto varge harma</span>",
       "category": ["varge"]
@@ -371,6 +383,12 @@
       "image": "https://img.freepik.com/free-photo/assortment-ginger-wooden-board_23-2148799547.jpg",
       "image2": "https://img.freepik.com/free-photo/fresh-ginger-root-sliced-wooden-table_1150-18399.jpg",
       "category": ["ovošji", "namting"]
+    }
+  },
+  {
+    "her": {
+      "definition": "her lyk afto ples.",
+      "category": ["ples"]
     }
   },
   {
@@ -1115,6 +1133,13 @@
       "image": "https://img.freepik.com/free-photo/raw-meats-with-spices-utensils-rustic-cutting-board-dark-wood-top-view-ai-generative_123827-23528.jpg",
       "image2": "https://img.freepik.com/free-photo/meat_144627-27534.jpg",
       "category": ["namting"]
+    }
+  },
+  {
+    "tabun": {
+      "definition": "akurat 100%<br>tabun 50%<br>naj 0%",
+      "image": "https://img.freepik.com/free-vector/check-mark-green-3d_78370-4446.jpg",
+      "category": ["svarekotoba"]
     }
   },
   {
