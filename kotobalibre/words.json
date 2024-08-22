@@ -1,19 +1,19 @@
 [
   {
     "-dai": {
-      "definition": "-dai lik ting stur au džong, -dai kondor -nen.",
+      "definition": "-dai lyk ting stur au džong, -dai kondor -nen.",
       "category": ["festakotoba"]
     }
   },
   {
     "-džin": {
-      "definition": "-džin lik pašun, tatoeba: <br>🧑‍🏫 opetadžin<br>🧑‍🎓 leradžin",
+      "definition": "-džin lyk pašun, tatoeba: <br>🧑‍🏫 opetadžin<br>🧑‍🎓 leradžin",
       "category": ["pašun", "festakotoba"]
     }
   },
   {
     "-nen": {
-      "definition": "-nen lik ting čisai au kawai, -nen kondor -dai.",
+      "definition": "-nen lyk ting čisai au kawai, -nen kondor -dai.",
       "category": ["festakotoba"]
     }
   },
@@ -76,7 +76,7 @@
   },
   {
     "amerika-": {
-      "definition": "amerika- lik ting f'amerikalant 🇺🇸.",
+      "definition": "amerika- lyk ting f'amerikalant 🇺🇸.",
       "category": ["festakotoba", "ples"]
     }
   },
@@ -90,7 +90,7 @@
   },
   {
     "anglo-": {
-      "definition": "anglo- lik ting f'anglolant 🇬🇧.",
+      "definition": "anglo- lyk ting f'anglolant 🇬🇧.",
       "category": ["festakotoba", "ples"]
     }
   },
@@ -116,7 +116,7 @@
   },
   {
     "au": {
-      "definition": "au lik +, tatoeba: \"un nam tča. un nam kekso.\" sama \"un nam tča au kekso\"",
+      "definition": "au lyk +, tatoeba: \"un nam tča. un nam kekso.\" sama \"un nam tča au kekso\"",
       "category": ["etunikotoba"]
     }
   },
@@ -151,6 +151,14 @@
     }
   },
   {
+    "bračuri": {
+      "definition": "🧄 - širo ovošji du deki nam.",
+      "image": "https://img.freepik.com/free-photo/fresh-raw-garlic-ready-cook_1150-42637.jpg",
+      "image2": "https://img.freepik.com/free-photo/close-up-view-fresh-garlic-pods-black-background-with-free-space_179666-19922.jpg",
+      "category": ["ovošji", "namting"]
+    }
+  },
+  {
     "brečeň": {
       "definition": "🥨 - brun namting du deki nam.",
       "image": "https://img.freepik.com/free-photo/pretzel-bar-counter_1220-1760.jpg",
@@ -180,10 +188,10 @@
   },
   {
     "čigau": {
-      "definition": "lik kondor, men čigau. <br> čigau = ❌🟰 <br> apar kondor au čigau mange, men anglolant čigau men naj kondor italjalant.",
+      "definition": "lyk kondor, men čigau. <br> čigau = ❌🟰 <br> apar kondor au čigau mange, men anglolant čigau men naj kondor italjalant.",
       "image": "https://img.freepik.com/free-photo/metal-paperclips-rows-one-red-different-from-others_1163-2748.jpg",
       "image2": "https://img.freepik.com/free-photo/rag-dolls-with-blue-red-flags_1156-180.jpg",
-      "category": ["likkotoba"]
+      "category": ["lykkotoba"]
     }
   },
   {
@@ -210,7 +218,7 @@
   },
   {
     "doitš-": {
-      "definition": "doitš- lik ting f'doitšlant 🇩🇪.",
+      "definition": "doitš- lyk ting f'doitšlant 🇩🇪.",
       "category": ["festakotoba", "ples"]
     }
   },
@@ -230,7 +238,7 @@
   },
   {
     "džongkuo-": {
-      "definition": "džongkuo- lik ting f'džongkuolant 🇨🇳.",
+      "definition": "džongkuo- lyk ting f'džongkuolant 🇨🇳.",
       "category": ["festakotoba", "ples"]
     }
   },
@@ -252,7 +260,7 @@
   },
   {
     "espanjo-": {
-      "definition": "espanjo- lik ting f'espanjolant 🇪🇸.",
+      "definition": "espanjo- lyk ting f'espanjolant 🇪🇸.",
       "category": ["festakotoba", "ples"]
     }
   },
@@ -266,7 +274,7 @@
   },
   {
     "frans-": {
-      "definition": "frans- lik ting f'franslant 🇫🇷.",
+      "definition": "frans- lyk ting f'franslant 🇫🇷.",
       "category": ["festakotoba", "ples"]
     }
   },
@@ -333,7 +341,7 @@
   },
   {
     "grun": {
-      "definition": "grun lik ∵, tatoeba: \"du kola grun du mude\"",
+      "definition": "grun lyk ∵, tatoeba: \"du kola grun du mude\"",
       "category": ["etunikotoba"]
     }
   },
@@ -383,7 +391,7 @@
   },
   {
     "italja-": {
-      "definition": "italja- lik ting f'italjalant 🇮🇹.",
+      "definition": "italja- lyk ting f'italjalant 🇮🇹.",
       "category": ["festakotoba", "ples"]
     }
   },
@@ -413,7 +421,7 @@
   },
   {
     "jiňsai": {
-      "definition": "jiňsai lik 🏃‍♂️🏃‍♀️🏃",
+      "definition": "jiňsai lyk 🏃‍♂️🏃‍♀️🏃",
       "image": "https://img.freepik.com/free-photo/happy-runner-woman-runs-park-jogging-exercise_1150-4179.jpg",
       "image2": "https://img.freepik.com/free-photo/young-fitness-woman-runner_1150-10571.jpg",
       "category": ["surukotoba"]
@@ -442,7 +450,7 @@
   },
   {
     "kanada-": {
-      "definition": "kanada- lik ting f'kanadalant 🇨🇦.",
+      "definition": "kanada- lyk ting f'kanadalant 🇨🇦.",
       "category": ["festakotoba", "ples"]
     }
   },
@@ -456,7 +464,7 @@
   },
   {
     "karta": {
-      "definition": "karta lik 🗺️ riso f'lant",
+      "definition": "karta lyk 🗺️ riso f'lant",
       "image": "https://img.freepik.com/free-photo/3d-render-red-location-pin-map-with-route_107791-14915.jpg",
       "image2": "https://img.freepik.com/free-photo/cute-paper-boats-map_23-2148256044.jpg",
       "category": ["ples"]
@@ -525,7 +533,7 @@
       "definition": "bra kondor waruj<br>stur kondor čisai<br>akurat kondor naj<br>vapa kondor samuj",
       "image": "https://img.freepik.com/free-photo/check-marks-with-tick-cross-sign_107791-15676.jpg",
       "image2": "https://img.freepik.com/free-photo/arrangement-with-different-feelings_23-2148860251.jpg",
-      "category": ["likkotoba"]
+      "category": ["lykkotoba"]
     }
   },
   {
@@ -536,7 +544,7 @@
   },
   {
     "kunja": {
-      "definition": "kunja lik maha namting.",
+      "definition": "kunja lyk maha namting.",
       "image": "https://img.freepik.com/free-photo/boiling-pot-with-cooking-spaghetti-pasta-kitchen-closeup_1220-5519.jpg",
       "image2": "https://img.freepik.com/free-photo/couple-preparing-vegetable-salad_23-2148114114.jpg",
       "category": ["namting", "glugting"]
@@ -566,7 +574,7 @@
   },
   {
     "lant": {
-      "definition": "lant lik 🇯🇵 🇰🇷 🇩🇪 🇨🇳 🇺🇸 🇫🇷 🇪🇸 🇮🇹 🇷🇺 🇬🇧, tatoeba anglolant, amerikalant, franslant.",
+      "definition": "lant lyk 🇯🇵 🇰🇷 🇩🇪 🇨🇳 🇺🇸 🇫🇷 🇪🇸 🇮🇹 🇷🇺 🇬🇧, tatoeba anglolant, amerikalant, franslant.",
       "image": "https://img.freepik.com/free-photo/hands-waving-flags-china-germany-india-south-africa-russia_53876-30888.jpg",
       "image2": "https://img.freepik.com/free-photo/big-rice-field-morning-thailand_1150-10754.jpg",
       "category": ["ples"]
@@ -574,7 +582,7 @@
   },
   {
     "lantdai": {
-      "definition": "lantdai lik stur iškelant f'mange lant, tatoeba ašjalantdai, juropalantdai, afrikalantdai.",
+      "definition": "lantdai lyk stur iškelant f'mange lant, tatoeba ašjalantdai, juropalantdai, afrikalantdai.",
       "image": "https://img.freepik.com/free-photo/free-blank-map-asia_53876-145019.jpg",
       "image2": "https://img.freepik.com/free-photo/free-blank-map-asia_53876-147535.jpg",
       "category": ["ples"]
@@ -582,7 +590,7 @@
   },
   {
     "lantnen": {
-      "definition": "lantnen lik čisai lant ine lant, tatoeba šikagopolis ine ilinojlantnen ine amerikalant.",
+      "definition": "lantnen lyk čisai lant ine lant, tatoeba šikagopolis ine ilinojlantnen ine amerikalant.",
       "category": ["ples"]
     }
   },
@@ -613,14 +621,6 @@
       "definition": "🥕 - portokali ovošji du deki nam.",
       "image": "https://img.freepik.com/free-photo/realistic-image-carrot-colourful-background_125540-3805.jpg",
       "image2": "https://img.freepik.com/free-photo/side-view-carrots-wooden-surface-black-background_141793-6444.jpg",
-      "category": ["ovošji", "namting"]
-    }
-  },
-  {
-    "lyk": {
-      "definition": "🧄 - širo ovošji du deki nam.",
-      "image": "https://img.freepik.com/free-photo/fresh-raw-garlic-ready-cook_1150-42637.jpg",
-      "image2": "https://img.freepik.com/free-photo/close-up-view-fresh-garlic-pods-black-background-with-free-space_179666-19922.jpg",
       "category": ["ovošji", "namting"]
     }
   },
@@ -672,7 +672,7 @@
   },
   {
     "meksiko-": {
-      "definition": "meksiko- lik ting f'meksikolant 🇲🇽.",
+      "definition": "meksiko- lyk ting f'meksikolant 🇲🇽.",
       "category": ["festakotoba", "ples"]
     }
   },
@@ -799,7 +799,7 @@
   },
   {
     "ojoi": {
-      "definition": "ojoi lik 🏊🏊‍♂️🏊‍♀️",
+      "definition": "ojoi lyk 🏊🏊‍♂️🏊‍♀️",
       "image": "https://img.freepik.com/free-photo/boy-goggles-swimming-pool_259150-60549.jpg",
       "image2": "https://img.freepik.com/free-photo/man-swimming-pool_23-2147664394.jpg",
       "category": ["surukotoba"]
@@ -821,7 +821,7 @@
   },
   {
     "os": {
-      "definition": "os lik /, tatoeba: \"du vil ringo os banan?\"",
+      "definition": "os lyk /, tatoeba: \"du vil ringo os banan?\"",
       "category": ["etunikotoba"]
     }
   },
@@ -960,6 +960,14 @@
     }
   },
   {
+    "ring": {
+      "definition": "ring lyk bruk ahoj os denwa.",
+      "image": "https://img.freepik.com/free-photo/asian-woman-chatting-phone-relaxing-sofa-looking-away_1098-17982.jpg",
+      "image2": "https://img.freepik.com/free-photo/smiling-young-lady-holding-red-handset-isolated_171337-6653.jpg",
+      "category": ["surukotoba"]
+    }
+  },
+  {
     "ringo": {
       "definition": "🍎🍏 - roš os midori frauta du deki nam.",
       "image": "https://img.freepik.com/free-photo/two-red-apples-isolated-white_114579-73124.jpg",
@@ -1019,7 +1027,7 @@
   },
   {
     "sit": {
-      "definition": "sit lik ∴. tatoeba: \"du mude, sit du kola.\"",
+      "definition": "sit lyk ∴. tatoeba: \"du mude, sit du kola.\"",
       "category": ["etunikotoba"]
     }
   },
@@ -1063,7 +1071,7 @@
   },
   {
     "stat": {
-      "definition": "stat lik čisai polis, tatoeba rediňstat (anglolant), santafejstat (njumeksikolantnen, amerikalant), valensiastat (espanjolant).",
+      "definition": "stat lyk čisai polis, tatoeba rediňstat (anglolant), santafejstat (njumeksikolantnen, amerikalant), valensiastat (espanjolant).",
       "image": "https://img.freepik.com/free-photo/aerial-shot-mesmerizing-scenery-waikanae-township-new-zealand_181624-14446.jpg",
       "image2": "https://img.freepik.com/free-photo/typical-village-street_1417-1435.jpg",
       "category": ["ples"]
@@ -1095,7 +1103,7 @@
   },
   {
     "škoj": {
-      "definition": "škoj lik 🚶🚶‍♂️🚶‍♀️",
+      "definition": "škoj lyk 🚶🚶‍♂️🚶‍♀️",
       "image": "https://img.freepik.com/free-photo/family-going-walk-with-dog_259150-57257.jpg",
       "image2": "https://img.freepik.com/free-photo/young-woman-having-walk-while-wearing-medical-mask_23-2148767473.jpg",
       "category": ["surukotoba"]
@@ -1186,7 +1194,7 @@
   },
   {
     "vil": {
-      "definition": "du mude lik du vil kola.",
+      "definition": "du mude lyk du vil kola.",
       "category": ["surukotoba"]
     }
   },
@@ -1216,7 +1224,7 @@
   },
   {
     "xnopyt": {
-      "definition": "xnopyt lik bli naj, zam lik \"knopit\".",
+      "definition": "xnopyt lyk bli naj, zam lyk \"knopit\".",
       "category": ["surukotoba"]
     }
   },
