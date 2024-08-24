@@ -418,6 +418,14 @@
     }
   },
   {
+    "henžest": {
+      "definition": "🐴🏇🐎 - dur",
+      "image": "https://img.freepik.com/free-photo/horse-iceland_658691-460.jpg",
+      "image2": "https://img.freepik.com/free-photo/woman-petting-adorable-horse_23-2148740518.jpg",
+      "category": ["dur"]
+    }
+  },
+  {
     "hember": {
       "definition": "🫚 - brun au kjero ovošji du deki nam.",
       "image": "https://img.freepik.com/free-photo/assortment-ginger-wooden-board_23-2148799547.jpg",
@@ -707,6 +715,14 @@
     }
   },
   {
+    "lupo": {
+      "definition": "🐺 - dur",
+      "image": "https://img.freepik.com/free-photo/grey-wolf-canis-lupus-standing-winter_167946-137.jpg",
+      "image2": "https://img.freepik.com/free-photo/eurasian-wolf-white-winter-habitat-beautiful-winter-forest_475641-682.jpg",
+      "category": ["dur"]
+    }
+  },
+  {
     "luvan": {
       "definition": "🥕 - portokali ovošji du deki nam.",
       "image": "https://img.freepik.com/free-photo/realistic-image-carrot-colourful-background_125540-3805.jpg",
@@ -803,6 +819,14 @@
     }
   },
   {
+    "milita": {
+      "definition": "🐝 - dur",
+      "image": "https://img.freepik.com/free-photo/vibrant-yellow-bee-pollinating-beautiful-flower-generative-ai_188544-9096.jpg",
+      "image2": "https://img.freepik.com/free-photo/closeup-shot-bee-chamomile-flower_181624-31930.jpg",
+      "category": ["dur"]
+    }
+  },
+  {
     "minti": {
       "definition": "midori leti du deki nam.",
       "image": "https://img.freepik.com/free-photo/closeup-shot-fresh-green-mint-plant-pot_181624-42386.jpg",
@@ -885,6 +909,14 @@
       "image": "https://img.freepik.com/free-photo/coconut-fruit_1203-2413.jpg",
       "image2": "https://img.freepik.com/free-photo/fresh-coconuts-put-white-wooden-background_1150-28236.jpg",
       "category": ["frauta", "namting"]
+    }
+  },
+  {
+    "norhenžest": {
+      "definition": "🦄 - dur",
+      "image": "https://img.freepik.com/free-photo/magnificent-unicorn-nature_23-2149547486.jpg",
+      "image2": "https://img.freepik.com/free-photo/fairytale-unicorn-ai-generated_268835-10010.jpg",
+      "category": ["dur"]
     }
   },
   {
