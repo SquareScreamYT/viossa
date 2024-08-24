@@ -32,6 +32,14 @@
     }
   },
   {
+    "afe": {
+      "definition": "🐒🐵🙊🙉🙈 - dur",
+      "image": "https://img.freepik.com/free-photo/monkey-sri-lanka_658691-536.jpg",
+      "image2": "https://img.freepik.com/free-photo/majestic-hamadryas-baboon-captivity_475641-1379.jpg",
+      "category": ["dur"]
+    }
+  },
+  {
     "afefrauta": {
       "definition": "🥝 - brun au midori frauta du deki nam.",
       "image": "https://img.freepik.com/free-photo/close-up-kiwi-slices_23-2148804899.jpg",
@@ -92,6 +100,14 @@
     "anglo-": {
       "definition": "anglo- lyk ting f'anglolant 🇬🇧.",
       "category": ["festakotoba", "ples"]
+    }
+  },
+  {
+    "arje": {
+      "definition": "🦁 - dur",
+      "image": "https://img.freepik.com/free-photo/closeup-shot-lion-laying-ground-while-looking-aside_181624-16734.jpg",
+      "image2": "https://img.freepik.com/free-photo/african-lion-portrait-warm-light_475641-46.jpg",
+      "category": ["dur"]
     }
   },
   {
@@ -379,6 +395,14 @@
     "hapigo": {
       "definition": "hapigo lyk asoko ples.",
       "category": ["ples"]
+    }
+  },
+  {
+    "harimau": {
+      "definition": "🐯🐅 - dur",
+      "image": "https://img.freepik.com/free-photo/selective-focus-shot-tiger_181624-19226.jpg",
+      "image2": "https://img.freepik.com/free-photo/wide-selective-focus-shot-orange-tiger-rocky-surface_181624-4082.jpg",
+      "category": ["dur"]
     }
   },
   {
@@ -990,6 +1014,14 @@
     }
   },
   {
+    "pinguin": {
+      "definition": "🐧 - dur",
+      "image": "https://img.freepik.com/free-photo/rockhopper_658691-212.jpg",
+      "image2": "https://img.freepik.com/free-photo/great-capture-gentoo-penguin-standing-front-body-water_493961-586.jpg",
+      "category": ["dur"]
+    }
+  },
+  {
     "pitča": {
       "definition": "🍕 - pan f'italjalant mit pomodoro, usčji au šyt.",
       "image": "https://img.freepik.com/free-photo/pizza-with-salami-tomato-cheese-mushrooms_2829-20005.jpg",
@@ -1219,7 +1251,7 @@
       "definition": "🐔🍗 - brun namting f'fugel du deki nam.",
       "image": "https://img.freepik.com/free-photo/close-up-fried-chicken-tray-with-green-onions_23-2148699085.jpg",
       "image2": "https://img.freepik.com/free-photo/delicious-chicken-table_144627-8758.jpg",
-      "category": ["namting"]
+      "category": ["namting", "dur"]
     }
   },
   {
