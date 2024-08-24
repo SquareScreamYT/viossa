@@ -505,6 +505,14 @@
     }
   },
   {
+    "kargu": {
+      "definition": "🐻 - dur",
+      "image": "https://img.freepik.com/free-photo/brown-bear-catching-fish-river-alaska_181624-25518.jpg",
+      "image2": "https://img.freepik.com/free-photo/close-wild-big-brown-bear-near-forest-lake_167946-84.jpg",
+      "category": ["dur"]
+    }
+  },
+  {
     "karta": {
       "definition": "karta lyk 🗺️ riso f'lant",
       "image": "https://img.freepik.com/free-photo/3d-render-red-location-pin-map-with-route_107791-14915.jpg",
@@ -590,6 +598,14 @@
     "kulus": {
       "definition": "<span style=\"color:#34d399;\">afto varge kulus</span>",
       "category": ["varge"]
+    }
+  },
+  {
+    "kuneli": {
+      "definition": "🐇🐰 - dur",
+      "image": "https://img.freepik.com/free-photo/portrait-cute-fluffy-gray-rabbit-with-ears-natural-green_78492-3801.jpg",
+      "image2": "https://img.freepik.com/free-photo/furry-cute-rabbit-isolated_78492-3950.jpg",
+      "category": ["dur"]
     }
   },
   {
@@ -776,6 +792,14 @@
       "image": "https://img.freepik.com/free-photo/side-view-fresh-eggplants-with-slices-board-with-lettuce_141793-7165.jpg",
       "image2": "https://img.freepik.com/free-photo/top-view-black-eggplants-cutting-board-dark-surface-food-color-dinner-meal-fresh-salad-vegetable_179666-19680.jpg",
       "category": ["ovošji", "namting"]
+    }
+  },
+  {
+    "miš": {
+      "definition": "🐭🐁 - dur. deki awen impuku.",
+      "image": "https://img.freepik.com/free-photo/retro-nature-picture-fauna_23-2149728472.jpg",
+      "image2": "https://img.freepik.com/free-photo/close-up-view-cute-hamster-plate_23-2148637696.jpg",
+      "category": ["dur"]
     }
   },
   {
