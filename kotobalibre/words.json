@@ -131,6 +131,14 @@
     }
   },
   {
+    "atekši": {
+      "definition": "🦎 - dur",
+      "image": "https://img.freepik.com/free-photo/freak-tailed-maltese-wall-lizard_181624-1032.jpg",
+      "image2": "https://img.freepik.com/free-photo/brown-black-lizard-gray-rock_209690-77.jpg",
+      "category": ["dur"]
+    }
+  },
+  {
     "au": {
       "definition": "au lyk +, tatoeba: \"un nam tča. un nam kekso.\" sama \"un nam tča au kekso\"",
       "category": ["etunikotoba"]
@@ -278,6 +286,14 @@
     "džongkuo-": {
       "definition": "džongkuo- lyk ting f'džongkuolant 🇨🇳.",
       "category": ["festakotoba", "ples"]
+    }
+  },
+  {
+    "džarper": {
+      "definition": "🐍 - dur",
+      "image": "https://img.freepik.com/free-photo/head-gonyosoma-snake-green-gonyosoma-snake-looking-around-gonyosoma-oxycephalum_488145-1864.jpg",
+      "image2": "https://img.freepik.com/free-photo/female-ball-python-firefly-morph-mutation_155003-438.jpg",
+      "category": ["dur"]
     }
   },
   {
