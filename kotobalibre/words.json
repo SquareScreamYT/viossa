@@ -303,6 +303,14 @@
     }
   },
   {
+    "fluter": {
+      "definition": "🦋 - dur",
+      "image": "https://img.freepik.com/free-photo/common-blue-butterfly-craspedia-sunlight-garden-with-blurry_181624-36772.jpg",
+      "image2": "https://img.freepik.com/free-photo/shallow-focus-shot-orange-butterfly-yellow-flower_181624-40605.jpg",
+      "category": ["dur"]
+    }
+  },
+  {
     "frans-": {
       "definition": "frans- lyk ting f'franslant 🇫🇷.",
       "category": ["festakotoba", "ples"]
@@ -904,6 +912,14 @@
     }
   },
   {
+    "njočilpig": {
+      "definition": "🐞 - dur",
+      "image": "https://img.freepik.com/free-photo/closeup-ladybug-green-leaf_181624-35314.jpg",
+      "image2": "https://img.freepik.com/free-photo/beetle-ladybug_181624-36386.jpg",
+      "category": ["dur"]
+    }
+  },
+  {
     "njog": {
       "definition": "🥥 - brun au širo frauta du deki nam.",
       "image": "https://img.freepik.com/free-photo/coconut-fruit_1203-2413.jpg",
@@ -1279,6 +1295,14 @@
     }
   },
   {
+    "terbage": {
+      "definition": "🐛 - dur. bli fluter.",
+      "image": "https://img.freepik.com/free-photo/worm-caterpillars-isolated-white-background_1150-7922.jpg",
+      "image2": "https://img.freepik.com/free-photo/closeup-shot-caterpillar-nutritional-plant_181624-60491.jpg",
+      "category": ["dur"]
+    }
+  },
+  {
     "tori": {
       "definition": "🐔🍗 - brun namting f'fugel du deki nam.",
       "image": "https://img.freepik.com/free-photo/close-up-fried-chicken-tray-with-green-onions_23-2148699085.jpg",
@@ -1373,6 +1397,14 @@
       "image": "https://img.freepik.com/free-photo/avocado-products-made-from-avocados-food-nutrition-concept_1150-26277.jpg",
       "image2": "https://img.freepik.com/free-photo/closeup-fresh-avocados-filling-frame_125540-4396.jpg",
       "category": ["frauta", "namting"]
+    }
+  },
+  {
+    "wonju": {
+      "definition": "🐌 - dur",
+      "image": "https://img.freepik.com/free-photo/giant-snail-side-view-moss_488145-584.jpg",
+      "image2": "https://img.freepik.com/free-photo/snail-crawling-small-wet-rocks-ground_181624-60380.jpg",
+      "category": ["dur"]
     }
   },
   {
