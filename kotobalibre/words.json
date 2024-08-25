@@ -205,6 +205,14 @@
     }
   },
   {
+    "breska": {
+      "definition": "🐢 - dur",
+      "image": "https://img.freepik.com/free-photo/tortoise-pauses-by-waters-edge-its-shell-bathed-golden-glow-from-evening-light_91128-4629.jpg",
+      "image2": "https://img.freepik.com/free-photo/tortoise-its-shell_1308-42898.jpg",
+      "category": ["dur"]
+    }
+  },
+  {
     "brun": {
       "definition": "<span style=\"color:#c49058;\">afto varge brun</span>",
       "category": ["varge"]
@@ -472,6 +480,14 @@
     }
   },
   {
+    "inuri": {
+      "definition": "🐜 - dur",
+      "image": "https://img.freepik.com/free-photo/brown-ant-white-background_1112-478.jpg",
+      "image2": "https://img.freepik.com/free-photo/black-ant-flower_1150-7957.jpg",
+      "category": ["dur"]
+    }
+  },
+  {
     "italja-": {
       "definition": "italja- lyk ting f'italjalant 🇮🇹.",
       "category": ["festakotoba", "ples"]
@@ -616,6 +632,14 @@
     "kjero": {
       "definition": "pijo au banan kjero.",
       "category": ["varge"]
+    }
+  },
+  {
+    "kokosila": {
+      "definition": "🐊 - dur",
+      "image": "https://img.freepik.com/free-photo/alligator-closeup-sand_649448-4938.jpg",
+      "image2": "https://img.freepik.com/free-photo/crocodile_23-2148167354.jpg",
+      "category": ["dur"]
     }
   },
   {
@@ -885,6 +909,14 @@
       "image": "https://img.freepik.com/free-photo/delicious-vietnamese-food-including-pho-ga-noodles-spring-rolls-white-table_181624-34062.jpg",
       "image2": "https://img.freepik.com/free-photo/delicious-food-table-view_23-2149139520.jpg",
       "category": ["namting"]
+    }
+  },
+  {
+    "nene": {
+      "definition": "🦦 - dur",
+      "image": "https://img.freepik.com/free-photo/asian-smallclawed-otter-nature-habitat_475641-737.jpg",
+      "image2": "https://img.freepik.com/free-photo/giant-river-otter-nature-habitat_475641-1049.jpg",
+      "category": ["dur"]
     }
   },
   {
