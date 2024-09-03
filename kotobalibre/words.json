@@ -68,6 +68,14 @@
     }
   },
   {
+    "akrep": {
+      "definition": "🦞 - dur",
+      "image": "https://img.freepik.com/free-photo/close-up-red-lobster-placed-ice-surrounded-with-fruit-slices_140725-2631.jpg",
+      "image2": "https://img.freepik.com/free-photo/delicious-crayfish_144627-21708.jpg",
+      "category": ["dur"]
+    }
+  },
+  {
     "akurat": {
       "definition": "✅☑️✔️, awen deki ak.<br>anglosa: <span class='spoiler' >yes</span>",
       "image": "https://img.freepik.com/free-vector/check-mark-green-3d_78370-4446.jpg",
@@ -86,6 +94,14 @@
     "amerika-": {
       "definition": "amerika- lyk ting f'amerikalant 🇺🇸.",
       "category": ["festakotoba", "ples"]
+    }
+  },
+  {
+    "amušpe": {
+      "definition": "🦀 - dur",
+      "image": "https://img.freepik.com/free-photo/close-up-raw-crab_1203-1785.jpg",
+      "image2": "https://img.freepik.com/free-photo/steamed-crabs_1387-219.jpg",
+      "category": ["dur"]
     }
   },
   {
@@ -252,6 +268,14 @@
     "der": {
       "definition": "der lyk tuo ples.",
       "category": ["ples"]
+    }
+  },
+  {
+    "dino": {
+      "definition": "🦖 - dur",
+      "image": "https://img.freepik.com/free-photo/dinosaur-toy_1203-3098.jpg",
+      "image2": "https://img.freepik.com/free-photo/gold-aesthetic-wallpaper-with-dinosaurs_23-2149872227.jpg",
+      "category": ["dur"]
     }
   },
   {
@@ -472,6 +496,14 @@
     }
   },
   {
+    "hoz": {
+      "definition": "🐷 - dur",
+      "image": "https://img.freepik.com/free-photo/selective-closeup-shot-pink-pigs-barn_181624-4482.jpg",
+      "image2": "https://img.freepik.com/free-photo/newborn-piglet-spring-green-grass_167946-97.jpg",
+      "category": ["dur"]
+    }
+  },
+  {
     "hualejň": {
       "definition": "🥜 - brun, čisai dodo du deki nam.",
       "image": "https://img.freepik.com/free-photo/side-view-peanuts-shell-from-bag-wooden-table_141793-7219.jpg",
@@ -645,6 +677,14 @@
     }
   },
   {
+    "kitsune": {
+      "definition": "🦊 - dur",
+      "image": "https://img.freepik.com/free-photo/beautiful-shot-black-backed-sand-fox-her-baby-playing-sand-covered-ground_181624-6263.jpg",
+      "image2": "https://img.freepik.com/free-photo/beautiful-long-nose-red-fox_493961-190.jpg",
+      "category": ["dur"]
+    }
+  },
+  {
     "kjero": {
       "definition": "pijo au banan kjero.",
       "category": ["varge"]
@@ -671,6 +711,14 @@
       "definition": "🐈😺🐱🐈‍⬛ - dur",
       "image": "https://img.freepik.com/free-photo/closeup-shot-one-ginger-cat-hugging-licking-other-isolated-white-wall_181624-32893.jpg",
       "image2": "https://img.freepik.com/free-photo/close-up-portrait-beautiful-cat_23-2149214373.jpg",
+      "category": ["dur"]
+    }
+  },
+  {
+    "ku": {
+      "definition": "🐮 - dur",
+      "image": "https://img.freepik.com/free-photo/closeup-shot-cows-grazing-field-sunny-afternoon_181624-40286.jpg",
+      "image2": "https://img.freepik.com/free-photo/closeup-shot-cow-calf-green-field-with-fence_181624-49369.jpg",
       "category": ["dur"]
     }
   },
@@ -1178,6 +1226,13 @@
     }
   },
   {
+    "rju": {
+      "definition": "🐉 - dur",
+      "image": "https://img.freepik.com/free-photo/multi-colored-dragon-statue-symbolizes-chinese-spirituality-generated-by-ai_188544-41837.jpg",
+      "category": ["dur"]
+    }
+  },
+  {
     "roš": {
       "definition": "<span style=\"color:#ef4444;\">afto varge roš</span>",
       "category": ["varge"]
@@ -1222,14 +1277,6 @@
     }
   },
   {
-    "sjoju": {
-      "definition": "brun glugting du nam mit maki.",
-      "image": "https://img.freepik.com/free-photo/soy-sauce-soy-bean-wooden-table_1150-13412.jpg",
-      "image2": "https://img.freepik.com/free-photo/soy-sauce-soy-bean-wooden-table_1150-13423.jpg",
-      "category": ["namting"]
-    }
-  },
-  {
     "sini": {
       "definition": "<span style=\"color:#22d3ee;\">afto varge sini</span>",
       "category": ["varge"]
@@ -1239,6 +1286,22 @@
     "sit": {
       "definition": "sit lyk ∴. tatoeba: \"du mude, sit du kola.\"",
       "category": ["etunikotoba"]
+    }
+  },
+  {
+    "sjoju": {
+      "definition": "brun glugting du nam mit maki.",
+      "image": "https://img.freepik.com/free-photo/soy-sauce-soy-bean-wooden-table_1150-13412.jpg",
+      "image2": "https://img.freepik.com/free-photo/soy-sauce-soy-bean-wooden-table_1150-13423.jpg",
+      "category": ["namting"]
+    }
+  },
+  {
+    "skwalo": {
+      "definition": "🦈 - dur",
+      "image": "https://img.freepik.com/free-photo/view-shark-swimming-underwater_23-2148976501.jpg",
+      "image2": "https://img.freepik.com/free-photo/shark-sea_181624-17254.jpg",
+      "category": ["dur"]
     }
   },
   {
@@ -1378,6 +1441,14 @@
     "tuo": {
       "definition": "afto ringo —> 🍎<br>tuo ringo ——————> 🍎<br>asoko ringo ————————————————> 🍎",
       "category": ["ples"]
+    }
+  },
+  {
+    "ulu": {
+      "definition": "🦉 - dur",
+      "image": "https://img.freepik.com/free-photo/closeup-shot-screech-owl_181624-25631.jpg",
+      "image2": "https://img.freepik.com/free-photo/closeup-shot-great-grey-owl-with-closed-eyes-perched-tree-branch_181624-21982.jpg",
+      "category": ["dur"]
     }
   },
   {
