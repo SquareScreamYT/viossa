@@ -528,6 +528,14 @@
     }
   },
   {
+    "ikor": {
+      "definition": "🐿️ - dur",
+      "image": "https://img.freepik.com/free-photo/vertical-selective-focus-shot-squirrel-forest_181624-32397.jpg",
+      "image2": "https://img.freepik.com/free-photo/cute-squirrel-looking-food-forest_181624-12294.jpg",
+      "category": ["dur"]
+    }
+  },
+  {
     "inuri": {
       "definition": "🐜 - dur",
       "image": "https://img.freepik.com/free-photo/brown-ant-white-background_1112-478.jpg",
@@ -1403,6 +1411,14 @@
       "image": "https://img.freepik.com/free-photo/green-tea-brewed-cup-with-tea-leaves-blue-pastel-background-top-view_1220-5336.jpg",
       "image2": "https://img.freepik.com/free-photo/hot-green-tea-is-poured-from-teapot-into-blue-bowl_166373-858.jpg",
       "category": ["namting", "glugting"]
+    }
+  },
+  {
+    "tembo": {
+      "definition": "🐘 - dur",
+      "image": "https://img.freepik.com/free-photo/closeup-shot-cute-elephant-walking-dry-grass-with-its-baby-wilderness_181624-15530.jpg",
+      "image2": "https://img.freepik.com/free-photo/big-small-african-elephant-walking-together_181624-10319.jpg",
+      "category": ["dur"]
     }
   },
   {
