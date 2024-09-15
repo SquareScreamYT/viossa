@@ -2,18 +2,10 @@
 
 <img src="/viossa.png">
 
-## Main Journal
+## Links
 
-https://squarescreamyt.github.io/viossa
+<a href="https://squarescreamyt.github.io/viossa">Main Journal<a>
 
-## Dictionary
+<a href="https://squarescreamyt.github.io/viossa/kotobalibre">Dictionary<a>
 
-https://squarescreamyt.github.io/viossa/kotobalibre
-
-## Verbs
-
-https://squarescreamyt.github.io/viossa/surukotoba
-
-## Stuff
-
-https://squarescreamyt.github.io/viossa/stuff
+<a href="https://squarescreamyt.github.io/viossa/stuff">Other Stuff<a>
