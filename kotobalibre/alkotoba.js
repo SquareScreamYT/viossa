@@ -1,4 +1,4 @@
-fetch('viossako/kotoba.json')
+fetch('words.json')
   .then(response => response.json())
   .then(data => {
     var wordTable = document.getElementById('wordTable');
