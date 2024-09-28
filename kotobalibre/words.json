@@ -456,6 +456,14 @@
     }
   },
   {
+    "hamtaro": {
+      "definition": "🐹 - dur",
+      "image": "https://img.freepik.com/free-photo/cute-gerbil-fat-tail-crawls-red-flower-garbil-fat-tail-flower_488145-3228.jpg",
+      "image2": "https://img.freepik.com/free-photo/side-view-hamster-eating-hazelnut-dark-brown_176474-7537.jpg",
+      "category": ["dur"]
+    }
+  },
+  {
     "hapigo": {
       "definition": "hapigo lyk asoko ples.",
       "category": ["ples"]
@@ -501,6 +509,14 @@
     "her": {
       "definition": "her lyk afto ples.",
       "category": ["ples"]
+    }
+  },
+  {
+    "hiraskaban": {
+      "definition": "🐨 - dur",
+      "image": "https://img.freepik.com/free-photo/koala-bear-tree-branch_1268-30481.jpg",
+      "image2": "https://img.freepik.com/free-photo/koala-bear-tree_475641-122.jpg",
+      "category": ["dur"]
     }
   },
   {
@@ -1282,6 +1298,14 @@
       "image": "https://img.freepik.com/free-photo/frame-healthy-salad_23-2148515423.jpg",
       "image2": "https://img.freepik.com/free-photo/top-view-tasty-salad-with-vegetables_23-2148515491.jpg",
       "category": ["namting"]
+    }
+  },
+  {
+    "saubwa": {
+      "definition": "🐼 - dur (stur au baka wa)",
+      "image": "https://img.freepik.com/free-photo/gorgeous-giant-panda-bear-sitting-down_493961-16.jpg",
+      "image2": "https://img.freepik.com/free-photo/panda-bear-leaning-against-tree-eating-bamboo-shoots_493961-7.jpg",
+      "category": ["dur"]
     }
   },
   {
