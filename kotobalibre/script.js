@@ -16,7 +16,7 @@ function populateCategoryDropdown() {
   const categorySet = new Set();
   const categoryDropdown = document.getElementById('category-filter');
 
-  fetch('/viossako/kotoba.json')
+  fetch('words.json')
     .then(response => response.json())
     .then(data => {
       data.forEach(item => {
@@ -43,7 +43,7 @@ function filterWordsByCategory() {
     if (selectedCategory === 'all') {
       button.style.display = 'block';
     } else {
-      fetch('/viossako/kotoba.json')
+      fetch('words.json')
         .then(response => response.json())
         .then(data => {
           const word = button.textContent;
@@ -121,7 +121,7 @@ function checkUrlAndSearch() {
 }
 
 function loadWordDetails(word) {
-  fetch('/viossako/kotoba.json')
+  fetch('words.json')
     .then(response => response.json())
     .then(data => {
       const wordObject = data.find(item => Object.keys(item)[0].toLowerCase() === word.toLowerCase());
@@ -189,7 +189,7 @@ function customAlert(message) {
 
 let wordsData;
 
-fetch('/viossako/kotoba.json')
+fetch('words.json')
   .then(response => response.json())
   .then(data => {
     wordsData = data;
