@@ -59,7 +59,7 @@ document.addEventListener('DOMContentLoaded', function() {
   loadColorScheme();
   populateCategoryDropdown();
 
-  fetch('viossako/kotoba.json')
+  fetch('words.json')
     .then(response => response.json())
     .then(data => {
       const wordsContainer = document.getElementById('wordList');
