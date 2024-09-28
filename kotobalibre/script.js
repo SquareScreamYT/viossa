@@ -16,7 +16,7 @@ function populateCategoryDropdown() {
   const categorySet = new Set();
   const categoryDropdown = document.getElementById('category-filter');
 
-  fetch('words.json')
+  fetch('/viossako/kotoba.json')
     .then(response => response.json())
     .then(data => {
       data.forEach(item => {
@@ -59,7 +59,7 @@ document.addEventListener('DOMContentLoaded', function() {
   loadColorScheme();
   populateCategoryDropdown();
 
-  fetch('words.json')
+  fetch('viossako/kotoba.json')
     .then(response => response.json())
     .then(data => {
       const wordsContainer = document.getElementById('wordList');
