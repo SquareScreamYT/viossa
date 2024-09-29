@@ -171,6 +171,7 @@ function normalizeDigraphs(text) {
     'sh': 'š',
     'zh': 'ž',
     'tj': 'č',
+    'ng': 'ň',
     'dj': 'dž',
   };
 
