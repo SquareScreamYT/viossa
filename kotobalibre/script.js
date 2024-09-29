@@ -139,28 +139,48 @@ function calculateRelevanceScore(word, definition, searchTerm) {
   let score = 0;
   const wordLower = word.toLowerCase();
   const definitionLower = definition.toLowerCase();
+  const normalizedWord = normalizeDigraphs(wordLower);
+  const normalizedSearchTerm = normalizeDigraphs(searchTerm);
 
-  // Check if the word starts with the search term
-  if (wordLower.startsWith(searchTerm)) {
+  // Check if the normalized word starts with the normalized search term
+  if (normalizedWord.startsWith(normalizedSearchTerm)) {
     score += 10;
   }
 
-  // Check if the word contains the search term
-  if (wordLower.includes(searchTerm)) {
+  // Check if the normalized word contains the normalized search term
+  if (normalizedWord.includes(normalizedSearchTerm)) {
     score += 5;
   }
 
-  // Check if the definition contains the search term
-  if (definitionLower.includes(searchTerm)) {
+  // Check if the normalized definition contains the normalized search term
+  if (normalizeDigraphs(definitionLower).includes(normalizedSearchTerm)) {
     score += 3;
   }
 
-  // Calculate the Levenshtein distance for the word
-  const wordDistance = levenshteinDistance(wordLower, searchTerm);
+  // Calculate the Levenshtein distance for the normalized word
+  const wordDistance = levenshteinDistance(normalizedWord, normalizedSearchTerm);
   score += Math.max(0, 5 - wordDistance);
 
   return score;
 }
+
+function normalizeDigraphs(text) {
+  const digraphs = {
+    'ph': 'f',
+    'ch': 'č',
+    'sh': 'š',
+    'zh': 'ž',
+    'tj': 'č',
+    'dj': 'dž',
+  };
+
+  Object.entries(digraphs).forEach(([digraph, replacement]) => {
+    text = text.replace(new RegExp(digraph, 'g'), replacement);
+  });
+
+  return text;
+}
+
 
 function levenshteinDistance(a, b) {
   if (a.length === 0) return b.length;
