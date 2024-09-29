@@ -62,6 +62,7 @@ document.addEventListener('DOMContentLoaded', function() {
   fetch('words.json')
     .then(response => response.json())
     .then(data => {
+      wordsData = data;
       const wordsContainer = document.getElementById('wordList');
       const definitionsElement = document.getElementById('wordDetails');
       const titleElement = document.getElementById('wordName');
@@ -88,6 +89,9 @@ document.addEventListener('DOMContentLoaded', function() {
     .catch(error => console.error('Error:', error));
 
   checkUrlAndSearch();
+
+  const searchInput = document.getElementById('search');
+  searchInput.addEventListener('input', filterWords);
 });
 
 const wordsContainer = document.getElementById('wordList');
@@ -96,16 +100,97 @@ searchInput.addEventListener('input', filterWords);
 
 function filterWords() {
   const searchTerm = searchInput.value.toLowerCase();
-  const buttons = wordsContainer.getElementsByClassName('word-button');
+  const buttons = document.getElementsByClassName('word-button');
+  const threshold = 2; // Adjust this value to change the sensitivity
   
+  if (searchTerm === '') {
+    Array.from(buttons).forEach(button => {
+      button.style.display = 'block';
+      button.style.order = 0;
+    });
+    return;
+  }
+
+  const scoredWords = wordsData.map(item => {
+    const word = Object.keys(item)[0];
+    const definition = item[word].definition;
+    const score = calculateRelevanceScore(word, definition, searchTerm);
+    return { word, score };
+  });
+
+  scoredWords.sort((a, b) => b.score - a.score);
+
   Array.from(buttons).forEach(button => {
-    const word = button.textContent.toLowerCase();
-    if (word.includes(searchTerm)) {
+    const word = button.textContent;
+    const index = scoredWords.findIndex(item => item.word === word);
+    const score = scoredWords[index].score;
+    
+    if (score >= threshold) {
+      button.style.order = index;
       button.style.display = 'block';
     } else {
       button.style.display = 'none';
     }
   });
+}
+
+
+function calculateRelevanceScore(word, definition, searchTerm) {
+  let score = 0;
+  const wordLower = word.toLowerCase();
+  const definitionLower = definition.toLowerCase();
+
+  // Check if the word starts with the search term
+  if (wordLower.startsWith(searchTerm)) {
+    score += 10;
+  }
+
+  // Check if the word contains the search term
+  if (wordLower.includes(searchTerm)) {
+    score += 5;
+  }
+
+  // Check if the definition contains the search term
+  if (definitionLower.includes(searchTerm)) {
+    score += 3;
+  }
+
+  // Calculate the Levenshtein distance for the word
+  const wordDistance = levenshteinDistance(wordLower, searchTerm);
+  score += Math.max(0, 5 - wordDistance);
+
+  return score;
+}
+
+function levenshteinDistance(a, b) {
+  if (a.length === 0) return b.length;
+  if (b.length === 0) return a.length;
+
+  const matrix = [];
+
+  for (let i = 0; i <= b.length; i++) {
+    matrix[i] = [i];
+  }
+
+  for (let j = 0; j <= a.length; j++) {
+    matrix[0][j] = j;
+  }
+
+  for (let i = 1; i <= b.length; i++) {
+    for (let j = 1; j <= a.length; j++) {
+      if (b.charAt(i - 1) === a.charAt(j - 1)) {
+        matrix[i][j] = matrix[i - 1][j - 1];
+      } else {
+        matrix[i][j] = Math.min(
+          matrix[i - 1][j - 1] + 1,
+          matrix[i][j - 1] + 1,
+          matrix[i - 1][j] + 1
+        );
+      }
+    }
+  }
+
+  return matrix[b.length][a.length];
 }
 
 function checkUrlAndSearch() {
