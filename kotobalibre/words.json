@@ -259,6 +259,12 @@
     }
   },
   {
+    "dare": {
+      "definition": "🕰️🧍 ka pašun?",
+      "category": ["sporekotoba", "pašun", "pašunkotoba"]
+    }
+  },
+  {
     "deki": {
       "definition": "du deki nam ringo, men du dekinaj nam auto.",
       "category": ["surukotoba"]
@@ -296,6 +302,12 @@
     "dok": {
       "definition": "du au sore, du mit plus na ni pašun",
       "category": ["pašunkotoba"]
+    }
+  },
+  {
+    "doko": {
+      "definition": "🤔📍 ka ples?",
+      "category": ["sporekotoba", "ples"]
     }
   },
   {
@@ -544,6 +556,12 @@
     }
   },
   {
+    "hur": {
+      "definition": "🤔🛣️ ka tropos?",
+      "category": ["sporekotoba"]
+    }
+  },
+  {
     "ij": {
       "definition": "🧈 - kjero namting f'gjunju du deki nam.",
       "image": "https://img.freepik.com/free-photo/arrangement-different-ingredients-delicious-recipe_23-2148882460.jpg",
@@ -665,6 +683,12 @@
     }
   },
   {
+    "kataj": {
+      "definition": "🤔🔢 ka mange? (ka ataj)",
+      "category": ["sporekotoba"]
+    }
+  },
+  {
     "kaukau": {
       "definition": "🍠 - murasaki au kjero ovošji du deki nam.",
       "image": "https://img.freepik.com/free-photo/sweet-potatoes-white-surface_144627-45170.jpg",
@@ -736,6 +760,12 @@
       "image": "https://img.freepik.com/free-photo/check-marks-with-tick-cross-sign_107791-15676.jpg",
       "image2": "https://img.freepik.com/free-photo/arrangement-with-different-feelings_23-2148860251.jpg",
       "category": ["lykkotoba"]
+    }
+  },
+  {
+    "koske": {
+      "definition": "🤔🕰️ ka tyd?",
+      "category": ["sporekotoba"]
     }
   },
   {
@@ -1005,6 +1035,12 @@
       "image": "https://img.freepik.com/free-photo/delicious-vietnamese-food-including-pho-ga-noodles-spring-rolls-white-table_181624-34062.jpg",
       "image2": "https://img.freepik.com/free-photo/delicious-food-table-view_23-2149139520.jpg",
       "category": ["namting"]
+    }
+  },
+  {
+    "naze": {
+      "definition": "🤔 ka grun?",
+      "category": ["sporekotoba"]
     }
   },
   {
