@@ -102,6 +102,7 @@ function filterWords() {
   const searchTerm = searchInput.value.toLowerCase();
   const buttons = document.getElementsByClassName('word-button');
   const threshold = 2; // Adjust this value to change the sensitivity
+  const maxResults = 10; // Maximum number of results to display
   
   if (searchTerm === '') {
     Array.from(buttons).forEach(button => {
@@ -120,20 +121,21 @@ function filterWords() {
 
   scoredWords.sort((a, b) => b.score - a.score);
 
+  let displayedCount = 0;
   Array.from(buttons).forEach(button => {
     const word = button.textContent;
     const index = scoredWords.findIndex(item => item.word === word);
     const score = scoredWords[index].score;
     
-    if (score >= threshold) {
+    if (score >= threshold && (displayedCount < maxResults || score > 10 || word.toLowerCase() === searchTerm)) {
       button.style.order = index;
       button.style.display = 'block';
+      displayedCount++;
     } else {
       button.style.display = 'none';
     }
   });
 }
-
 
 function calculateRelevanceScore(word, definition, searchTerm) {
   let score = 0;
