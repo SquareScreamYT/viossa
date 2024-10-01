@@ -568,6 +568,15 @@
 		}
 	},
 	{
+		"glaubi": {
+			"category": [
+				"svarekotoba"
+			],
+			"definition": "akurat 100%<br>tabun 75%<br>glaubi 50%<br>tabunnaj 25%<br>naj 0%",
+			"image": "https://img.freepik.com/free-photo/portrait-confused-asian-woman_171337-3530.jpg"
+		}
+	},
+	{
 		"glug": {
 			"category": [
 				"surukotoba"
@@ -2006,7 +2015,7 @@
 			"category": [
 				"svarekotoba"
 			],
-			"definition": "akurat 100%<br>tabun 50%<br>naj 0%",
+			"definition": "akurat 100%<br>tabun 75%<br>glaubi 50%<br>tabunnaj 25%<br>naj 0%",
 			"image": "https://img.freepik.com/free-vector/check-mark-green-3d_78370-4446.jpg"
 		}
 	},
