@@ -17,11 +17,29 @@
 		}
 	},
 	{
+		"-ena": {
+			"category": [
+				"festakotoba",
+				"surukotoba"
+			],
+			"definition": "deki -jena. <br><br>un nam ringo.<br>sama<br>ringo namena na un."
+		}
+	},
+	{
 		"-nen": {
 			"category": [
 				"festakotoba"
 			],
 			"definition": "-nen lyk ting tjisai au kawai, -nen kondor -dai."
+		}
+	},
+	{
+		"-tel": {
+			"category": [
+				"festakotoba",
+				"lasku"
+			],
+			"definition": "⅓ = tretel, ⅔ = ni tretel, ⅕ = gotel, auauau"
 		}
 	},
 	{
@@ -544,6 +562,14 @@
 			"definition": "🐦🕊️🦉🦜🦢🐔 - dur",
 			"image": "https://img.freepik.com/free-photo/closeup-shot-hummingbird-perched-tree-branch_181624-50947.jpg",
 			"image2": "https://img.freepik.com/free-photo/seagulls-birds-fly-blue-sky_127675-2484.jpg"
+		}
+	},
+	{
+		"fu": {
+			"category": [
+				"mitkotoba"
+			],
+			"definition": "du har ringo, ringo f'du. deki f'."
 		}
 	},
 	{
