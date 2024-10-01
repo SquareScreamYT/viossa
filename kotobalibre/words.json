@@ -980,7 +980,7 @@
 				"frauta",
 				"namting"
 			],
-			"definition": "🍓 - rosj, tjisai frauta du deki nam.",
+			"definition": "🍓 - ros, tjisai frauta du deki nam.",
 			"image": "https://img.freepik.com/free-photo/strawberries-cut-half-whole-berries-ripe-berries-top-view-background-ripe-strawberries-delicious-natural-dessert_166373-2358.jpg",
 			"image2": "https://img.freepik.com/free-photo/close-up-fresh-strawberries-small-brown-wooden-box_140725-151137.jpg"
 		}
@@ -1249,7 +1249,7 @@
 				"frauta",
 				"namting"
 			],
-			"definition": "🥭 - rosj, kjero os midorii frauta du deki nam.",
+			"definition": "🥭 - ros, kjero os midorii frauta du deki nam.",
 			"image": "https://img.freepik.com/free-photo/mango_1203-8850.jpg",
 			"image2": "https://img.freepik.com/free-photo/cut-mango_501050-332.jpg"
 		}
@@ -1379,6 +1379,14 @@
 		}
 	},
 	{
+		"mono": {
+			"category": [
+				"lykkotoba"
+			],
+			"definition": "🍎 🍎 🍎 🍎 🍎 🍎 🍎 🍎 - mono ros ringo.<br>🍎 🍎 🍎 🍏 🍎 🍎 🍏 🍎 - mono ringo, mononaj ros ringo. apar ringo midori.<br>🍎 🍏 🍎 🍍 🍏 🍏 🥕 🍎 - mononaj ringo. apar afto tjigau."
+		}
+	},
+	{
 		"murasaki": {
 			"category": [
 				"varge"
@@ -1463,7 +1471,7 @@
 				"frauta",
 				"namting"
 			],
-			"definition": "🍒 - rosj, tjisai frauta du deki nam.",
+			"definition": "🍒 - ros, tjisai frauta du deki nam.",
 			"image": "https://img.freepik.com/free-photo/red-cherries-plate-bowl-gray-table_114579-9864.jpg",
 			"image2": "https://img.freepik.com/free-photo/cherries-wooden-plate-pink-surface-flat-lay_176474-6323.jpg"
 		}
@@ -1679,7 +1687,7 @@
 				"namting",
 				"ovosji"
 			],
-			"definition": "🌶️🫑 - rosj, pika os midori ovosji du deki nam.",
+			"definition": "🌶️🫑 - ros, pika os midori ovosji du deki nam.",
 			"image": "https://img.freepik.com/free-photo/top-view-fresh-bell-peppers-inside-basket_140725-57545.jpg",
 			"image2": "https://img.freepik.com/free-photo/side-view-vegetables-as-basket-tomato-with-pepper-garlic-bulb-tomatoes-around-wood_141793-16796.jpg"
 		}
@@ -1720,7 +1728,7 @@
 				"namting",
 				"ovosji"
 			],
-			"definition": "🍅 - rosj ovosji du deki nam.",
+			"definition": "🍅 - ros ovosji du deki nam.",
 			"image": "https://img.freepik.com/free-photo/tomatoes_144627-15411.jpg",
 			"image2": "https://img.freepik.com/free-photo/top-view-ripe-fresh-tomatoes-with-water-drops-black-background_141793-3432.jpg"
 		}
@@ -1768,7 +1776,7 @@
 				"frauta",
 				"namting"
 			],
-			"definition": "🍎🍏 - rosj os midori frauta du deki nam.",
+			"definition": "🍎🍏 - ros os midori frauta du deki nam.",
 			"image": "https://img.freepik.com/free-photo/two-red-apples-isolated-white_114579-73124.jpg",
 			"image2": "https://img.freepik.com/free-photo/green-fresh-apples-as-background_78492-3923.jpg"
 		}
@@ -1791,11 +1799,11 @@
 		}
 	},
 	{
-		"rosj": {
+		"ros": {
 			"category": [
 				"varge"
 			],
-			"definition": "<span style=\"color:#ef4444;\">afto varge rosj</span>"
+			"definition": "<span style=\"color:#ef4444;\">afto varge ros</span>"
 		}
 	},
 	{
@@ -1870,7 +1878,7 @@
 			"category": [
 				"namting"
 			],
-			"definition": "🦐🍤 - rosj, tjisai maredur du deki nam.",
+			"definition": "🦐🍤 - ros, tjisai maredur du deki nam.",
 			"image": "https://img.freepik.com/free-photo/two-tail-shrimp-with-fresh-lemon-rosemary-white_2829-18154.jpg",
 			"image2": "https://img.freepik.com/free-photo/side-view-tempura-shrimps-with-sweet-chili-sauce-board_141793-5135.jpg"
 		}
@@ -1928,7 +1936,7 @@
 			"category": [
 				"namting"
 			],
-			"definition": "🥩 - rosj namting du deki nam.",
+			"definition": "🥩 - ros namting du deki nam.",
 			"image": "https://img.freepik.com/free-photo/raw-meats-with-spices-utensils-rustic-cutting-board-dark-wood-top-view-ai-generative_123827-23528.jpg",
 			"image2": "https://img.freepik.com/free-photo/meat_144627-27534.jpg"
 		}
@@ -1968,7 +1976,7 @@
 			"category": [
 				"namting"
 			],
-			"definition": "🌭 - rosj namting du deki nam.",
+			"definition": "🌭 - ros namting du deki nam.",
 			"image": "https://img.freepik.com/free-photo/mixed-fried-sausages-with-ketchup-mustard_140725-44222.jpg",
 			"image2": "https://img.freepik.com/free-photo/sausages-grill-salad_2829-15833.jpg"
 		}
@@ -2160,7 +2168,7 @@
 			"category": [
 				"varge"
 			],
-			"definition": "rosj, kjero, blau al varge.",
+			"definition": "ros, kjero, blau al varge.",
 			"image": "https://img.freepik.com/free-photo/top-view-colorful-paper_23-2148514697.jpg"
 		}
 	},
@@ -2170,7 +2178,7 @@
 				"frauta",
 				"namting"
 			],
-			"definition": "🍉 - rosj au midori frauta du deki nam.",
+			"definition": "🍉 - ros au midori frauta du deki nam.",
 			"image": "https://img.freepik.com/free-photo/green-striped-ripe-watermelon-with-slice-cross-section-isolated-white-background-with-copy-space-text-images-special-kind-berry-sweet-pink-flesh-with-black-seeds-side-view_639032-1254.jpg",
 			"image2": "https://img.freepik.com/free-photo/slices-juicy-tasty-watermelon-white-plate_2829-19980.jpg"
 		}
@@ -2197,7 +2205,7 @@
 				"glugting",
 				"namting"
 			],
-			"definition": "🍷 - rosj os makot glugting f'vinjafrauta du deki glug.",
+			"definition": "🍷 - ros os makot glugting f'vinjafrauta du deki glug.",
 			"image": "https://img.freepik.com/free-photo/side-view-woman-hand-pouring-red-wine-into-glass-different-kinds-cheese-olive-walnut-grape-white-surface-black-background_141793-6461.jpg",
 			"image2": "https://img.freepik.com/free-photo/single-glass-red-wine-warm-light-cozy-bar_157027-4464.jpg"
 		}
@@ -2208,7 +2216,7 @@
 				"frauta",
 				"namting"
 			],
-			"definition": "🍇 - makot, rosj au midori frauta du deki nam.",
+			"definition": "🍇 - makot, ros au midori frauta du deki nam.",
 			"image": "https://img.freepik.com/free-photo/bunch-fresh-grapes-hand-black-background-high-quality-photo_114579-44220.jpg",
 			"image2": "https://img.freepik.com/free-photo/ripe-grapes-wicker-basket-wooden-background-flat-lay_176474-9810.jpg"
 		}
