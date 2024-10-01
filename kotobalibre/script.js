@@ -169,12 +169,6 @@ function calculateRelevanceScore(word, definition, searchTerm) {
 function normalizeDigraphs(text) {
   const digraphs = {
     'ph': 'f',
-    'ch': 'č',
-    'sh': 'š',
-    'zh': 'ž',
-    'tj': 'č',
-    'ng': 'ň',
-    'dj': 'dž',
   };
 
   Object.entries(digraphs).forEach(([digraph, replacement]) => {
