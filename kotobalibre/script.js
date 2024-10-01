@@ -1,3 +1,10 @@
+// i like this json sorter
+// it also beautifulieses it or whatever the word is
+// https://novicelab.org/jsonabc/
+// gu
+// also use tab for indentation otherwise it look too wide
+// ok the end
+
 function changeColorScheme() {
   var selectedScheme = document.getElementById('color-scheme').value;
   document.body.className = selectedScheme + '-scheme';
