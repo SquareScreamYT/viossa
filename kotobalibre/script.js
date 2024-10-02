@@ -74,21 +74,27 @@ document.addEventListener('DOMContentLoaded', function() {
       const definitionsElement = document.getElementById('wordDetails');
       const titleElement = document.getElementById('wordName');
       
-      data.forEach((item) => {
-        const wordKey = Object.keys(item)[0];
+      // Create an array of word objects and sort it
+      const sortedWords = data.map(item => ({
+        word: Object.keys(item)[0],
+        data: Object.values(item)[0]
+      })).sort((a, b) => a.word.localeCompare(b.word));
+      
+      // Create and append buttons based on the sorted array
+      sortedWords.forEach((item) => {
         const button = document.createElement('button');
         button.className = 'word-button';
-        button.textContent = wordKey;
+        button.textContent = item.word;
         button.addEventListener('click', () => {
           definitionsElement.innerHTML = `
-            <h4>klani: ${item[wordKey].category.join(", ")}</h4>
-            <p>${item[wordKey].definition}</p>
-            ${item[wordKey].image ? `<h4>riso:</h4>` : ''}
-            ${item[wordKey].image ? `<img src="${item[wordKey].image}" height=200 width=auto>` : ''}
-            ${item[wordKey].image2 ? `<img src="${item[wordKey].image2}" height=200 width=auto>` : ''}
-            ${item[wordKey].image ? `<h5>riso f'<a href="https://freepik.com">Freepik</a></h5>` : ''}
+            <h4>klani: ${item.data.category.join(", ")}</h4>
+            <p>${item.data.definition}</p>
+            ${item.data.image ? `<h4>riso:</h4>` : ''}
+            ${item.data.image ? `<img src="${item.data.image}" height=200 width=auto>` : ''}
+            ${item.data.image2 ? `<img src="${item.data.image2}" height=200 width=auto>` : ''}
+            ${item.data.image ? `<h5>riso f'<a href="https://freepik.com">Freepik</a></h5>` : ''}
           `;
-          titleElement.innerHTML = wordKey;
+          titleElement.innerHTML = item.word;
         });
         wordsContainer.appendChild(button);
       });
