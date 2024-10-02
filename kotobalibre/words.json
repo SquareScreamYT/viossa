@@ -43,6 +43,14 @@
 		}
 	},
 	{
+		"-tsa": {
+			"category": [
+				"festakotoba"
+			],
+			"definition": "\"x-tsa\" sama \"un vil du har x\""
+		}
+	},
+	{
 		"100100": {
 			"category": [
 				"zamkotoba"
@@ -478,6 +486,14 @@
 		}
 	},
 	{
+		"ekso": {
+			"category": [
+				"mitkotoba"
+			],
+			"definition": "<-- [🚶] pasjun skoj ekso boksu. ekso kondor ine."
+		}
+	},
+	{
 		"en": {
 			"category": [
 				"lasku"
@@ -818,6 +834,14 @@
 		}
 	},
 	{
+		"ine": {
+			"category": [
+				"mitkotoba"
+			],
+			"definition": "[.] jam en pik ine boksu.<br>[ ] jam nil pik ine boksu.<br><br>[ ]<--🚶 pasjun skoj ine boksu."
+		}
+	},
+	{
 		"inuri": {
 			"category": [
 				"dur"
@@ -862,7 +886,7 @@
 			"category": [
 				"namting"
 			],
-			"definition": "🧊 - upasj ting hent bli isjke.",
+			"definition": "🧊 - upas ting hent bli isjke.",
 			"image": "https://img.freepik.com/free-photo/ice-cubes-table_144627-8775.jpg",
 			"image2": "https://img.freepik.com/free-photo/ice-cubes-table_144627-8766.jpg"
 		}
@@ -1411,6 +1435,14 @@
 			"definition": "🐭🐁 - dur. deki awen impuku.",
 			"image": "https://img.freepik.com/free-photo/closeup-marsh-rice-rat-sunlight-with-blurry-background_181624-36058.jpg",
 			"image2": "https://img.freepik.com/free-photo/close-up-view-cute-hamster-plate_23-2148637696.jpg"
+		}
+	},
+	{
+		"mit": {
+			"category": [
+				"mitkotoba"
+			],
+			"definition": "du kaku mit hant, du nam au hanu mit kutji, du hore mit korva, du spil mit mik auauau"
 		}
 	},
 	{
@@ -2021,7 +2053,7 @@
 			"category": [
 				"namting"
 			],
-			"definition": "🍦🍧🍨 - sot upasj f'gjunju au sokeri.",
+			"definition": "🍦🍧🍨 - sot upas f'gjunju au sokeri.",
 			"image": "https://img.freepik.com/free-photo/delicious-ice-cream-arrangement_23-2150096681.jpg",
 			"image2": "https://img.freepik.com/free-photo/ice-cream-bowl-with-cherry_23-2148107907.jpg"
 		}
@@ -2291,6 +2323,36 @@
 				"varge"
 			],
 			"definition": "<span style=\"color:#a3e635;\">afto varge zjelon</span>"
+		}
+	},
+	{
+		"pio": {
+			"category": [
+				"dur"
+			],
+			"definition": "🐤 - dur",
+			"image": "https://img.freepik.com/free-photo/closeup-shot-brown-chick-cloth_181624-53564.jpg",
+			"image2": "https://img.freepik.com/free-photo/closeup-shot-brown-chicks-cloth-with-white-space_181624-47459.jpg"
+		}
+	},
+	{
+		"pjedur": {
+			"category": [
+				"dur"
+			],
+			"definition": "🐚 - dur",
+			"image": "https://img.freepik.com/free-photo/seashell-isolated-white-background_181624-47937.jpg",
+			"image2": "https://img.freepik.com/free-photo/layout-seashells-sand_23-2148122271.jpg"
+		}
+	},
+	{
+		"tjesapi": {
+			"category": [
+				"dur"
+			],
+			"definition": "🦙 - dur",
+			"image": "https://img.freepik.com/free-photo/closeup-shot-llama-field-covered-greenery-sunlight-daytime_181624-31749.jpg",
+			"image2": "https://img.freepik.com/free-photo/llama_658691-494.jpg"
 		}
 	}
 ]
