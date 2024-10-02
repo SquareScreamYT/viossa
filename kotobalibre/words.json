@@ -571,6 +571,14 @@
 		}
 	},
 	{
+		"fu": {
+			"category": [
+				"mitkotoba"
+			],
+			"definition": "du har ringo, ringo f'du. deki f'."
+		}
+	},
+	{
 		"fugel": {
 			"category": [
 				"dur"
@@ -578,14 +586,6 @@
 			"definition": "🐦🕊️🦉🦜🦢🐔 - dur",
 			"image": "https://img.freepik.com/free-photo/closeup-shot-hummingbird-perched-tree-branch_181624-50947.jpg",
 			"image2": "https://img.freepik.com/free-photo/seagulls-birds-fly-blue-sky_127675-2484.jpg"
-		}
-	},
-	{
-		"fu": {
-			"category": [
-				"mitkotoba"
-			],
-			"definition": "du har ringo, ringo f'du. deki f'."
 		}
 	},
 	{
@@ -930,12 +930,32 @@
 		}
 	},
 	{
+		"kamome": {
+			"category": [
+				"dur"
+			],
+			"definition": "🦆 - dur",
+			"image": "https://img.freepik.com/free-photo/view-mallard-duck-lake_181624-46715.jpg",
+			"image2": "https://img.freepik.com/free-photo/duck-swimming-lake_1161-7.jpg"
+		}
+	},
+	{
 		"kanada-": {
 			"category": [
 				"festakotoba",
 				"ples"
 			],
 			"definition": "kanada- lyk ting f'kanadalant 🇨🇦."
+		}
+	},
+	{
+		"kanak": {
+			"category": [
+				"dur"
+			],
+			"definition": "🦭 - dur",
+			"image": "https://img.freepik.com/free-photo/seal-beach-dune-island-near-helgoland_475641-192.jpg",
+			"image2": "https://img.freepik.com/free-photo/seal-beach-dune-island-near-helgoland_475641-144.jpg"
 		}
 	},
 	{
@@ -1324,6 +1344,16 @@
 		}
 	},
 	{
+		"maresvinja": {
+			"category": [
+				"dur"
+			],
+			"definition": "🐬 - dur",
+			"image": "https://img.freepik.com/free-photo/dolphin-with-ball_1160-93.jpg",
+			"image2": "https://img.freepik.com/free-photo/beautiful-dolphin-smiling-blue-swimming-pool-water-clear-sunny-day_661209-16.jpg"
+		}
+	},
+	{
 		"masala": {
 			"category": [
 				"namting"
@@ -1664,6 +1694,16 @@
 		}
 	},
 	{
+		"palaina": {
+			"category": [
+				"dur"
+			],
+			"definition": "🐋 - dur",
+			"image": "https://img.freepik.com/free-photo/female-diver-water-with-whale-sharks-rhincodon-typus_181624-57183.jpg",
+			"image2": "https://img.freepik.com/free-photo/beautiful-whale-tail-blue-body-water-with-mountain_181624-5426.jpg"
+		}
+	},
+	{
 		"pan": {
 			"category": [
 				"namting"
@@ -1770,6 +1810,16 @@
 		}
 	},
 	{
+		"pio": {
+			"category": [
+				"dur"
+			],
+			"definition": "🐤 - dur",
+			"image": "https://img.freepik.com/free-photo/closeup-shot-brown-chick-cloth_181624-53564.jpg",
+			"image2": "https://img.freepik.com/free-photo/closeup-shot-brown-chicks-cloth-with-white-space_181624-47459.jpg"
+		}
+	},
+	{
 		"pitja": {
 			"category": [
 				"namting"
@@ -1777,6 +1827,16 @@
 			"definition": "🍕 - pan f'italjalant mit pomodoro, ustji au sjyt.",
 			"image": "https://img.freepik.com/free-photo/pizza-with-salami-tomato-cheese-mushrooms_2829-20005.jpg",
 			"image2": "https://img.freepik.com/free-photo/pizza-pizza-filled-with-tomatoes-salami-olives_140725-1200.jpg"
+		}
+	},
+	{
+		"pjedur": {
+			"category": [
+				"dur"
+			],
+			"definition": "🐚 - dur",
+			"image": "https://img.freepik.com/free-photo/seashell-isolated-white-background_181624-47937.jpg",
+			"image2": "https://img.freepik.com/free-photo/layout-seashells-sand_23-2148122271.jpg"
 		}
 	},
 	{
@@ -1858,19 +1918,19 @@
 		}
 	},
 	{
-		"rosa": {
-			"category": [
-				"varge"
-			],
-			"definition": "<span style=\"color:#ec4899;\">afto varge rosa</span>"
-		}
-	},
-	{
 		"ros": {
 			"category": [
 				"varge"
 			],
 			"definition": "<span style=\"color:#ef4444;\">afto varge ros</span>"
+		}
+	},
+	{
+		"rosa": {
+			"category": [
+				"varge"
+			],
+			"definition": "<span style=\"color:#ec4899;\">afto varge rosa</span>"
 		}
 	},
 	{
@@ -2117,6 +2177,16 @@
 		}
 	},
 	{
+		"tjesapi": {
+			"category": [
+				"dur"
+			],
+			"definition": "🦙 - dur",
+			"image": "https://img.freepik.com/free-photo/closeup-shot-llama-field-covered-greenery-sunlight-daytime_181624-31749.jpg",
+			"image2": "https://img.freepik.com/free-photo/llama_658691-494.jpg"
+		}
+	},
+	{
 		"tjigau": {
 			"category": [
 				"lykkotoba"
@@ -2323,56 +2393,6 @@
 				"varge"
 			],
 			"definition": "<span style=\"color:#a3e635;\">afto varge zjelon</span>"
-		}
-	},
-	{
-		"pio": {
-			"category": [
-				"dur"
-			],
-			"definition": "🐤 - dur",
-			"image": "https://img.freepik.com/free-photo/closeup-shot-brown-chick-cloth_181624-53564.jpg",
-			"image2": "https://img.freepik.com/free-photo/closeup-shot-brown-chicks-cloth-with-white-space_181624-47459.jpg"
-		}
-	},
-	{
-		"pjedur": {
-			"category": [
-				"dur"
-			],
-			"definition": "🐚 - dur",
-			"image": "https://img.freepik.com/free-photo/seashell-isolated-white-background_181624-47937.jpg",
-			"image2": "https://img.freepik.com/free-photo/layout-seashells-sand_23-2148122271.jpg"
-		}
-	},
-	{
-		"tjesapi": {
-			"category": [
-				"dur"
-			],
-			"definition": "🦙 - dur",
-			"image": "https://img.freepik.com/free-photo/closeup-shot-llama-field-covered-greenery-sunlight-daytime_181624-31749.jpg",
-			"image2": "https://img.freepik.com/free-photo/llama_658691-494.jpg"
-		}
-	},
-	{
-		"maresvinja": {
-			"category": [
-				"dur"
-			],
-			"definition": "🐬 - dur",
-			"image": "https://img.freepik.com/free-photo/dolphin-with-ball_1160-93.jpg",
-			"image2": "https://img.freepik.com/free-photo/beautiful-dolphin-smiling-blue-swimming-pool-water-clear-sunny-day_661209-16.jpg"
-		}
-	},
-	{
-		"kanak": {
-			"category": [
-				"dur"
-			],
-			"definition": "🦭 - dur",
-			"image": "https://img.freepik.com/free-photo/seal-beach-dune-island-near-helgoland_475641-192.jpg",
-			"image2": "https://img.freepik.com/free-photo/seal-beach-dune-island-near-helgoland_475641-144.jpg"
 		}
 	}
 ]
