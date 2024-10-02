@@ -2354,5 +2354,25 @@
 			"image": "https://img.freepik.com/free-photo/closeup-shot-llama-field-covered-greenery-sunlight-daytime_181624-31749.jpg",
 			"image2": "https://img.freepik.com/free-photo/llama_658691-494.jpg"
 		}
+	},
+	{
+		"maresvinja": {
+			"category": [
+				"dur"
+			],
+			"definition": "🐬 - dur",
+			"image": "https://img.freepik.com/free-photo/dolphin-with-ball_1160-93.jpg",
+			"image2": "https://img.freepik.com/free-photo/beautiful-dolphin-smiling-blue-swimming-pool-water-clear-sunny-day_661209-16.jpg"
+		}
+	},
+	{
+		"kanak": {
+			"category": [
+				"dur"
+			],
+			"definition": "🦭 - dur",
+			"image": "https://img.freepik.com/free-photo/seal-beach-dune-island-near-helgoland_475641-192.jpg",
+			"image2": "https://img.freepik.com/free-photo/seal-beach-dune-island-near-helgoland_475641-144.jpg"
+		}
 	}
 ]
