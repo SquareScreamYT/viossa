@@ -146,6 +146,16 @@
 		}
 	},
 	{
+		"alta": {
+			"category": [
+				"dur"
+			],
+			"definition": "🦅 - dur",
+			"image": "https://img.freepik.com/free-photo/focused-shot-majestic-eagle-winter-day_181624-9253.jpg",
+			"image2": "https://img.freepik.com/free-photo/vertical-closeup-shot-bald-eagle-while-flying-sky_181624-57221.jpg"
+		}
+	},
+	{
 		"amerika-": {
 			"category": [
 				"festakotoba",
