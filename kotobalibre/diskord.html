@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <!-- i made this with ai lol -->
-  <!-- embed thing for discord -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Viossa Kotobalibre</title>
@@ -10,35 +8,10 @@
   
   <meta property="og:title" content="Viossa Kotobalibre">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://yourdomain.com">
+  <meta property="og:url" content="https://sq.is-a.dev/viossa/kotobalibre">
   <meta property="og:image" content="">
   <meta property="og:description" content="">
   <meta property="og:site_name" content="Viossa Kotobalibre">
-
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-      text-align: center;
-    }
-
-    h1 {
-      color: #333;
-    }
-
-    #content {
-      margin-top: 20px;
-    }
-
-    #wordImage {
-      max-width: 100%;
-      height: auto;
-      margin-top: 20px;
-      display: none;
-    }
-  </style>
 </head>
 <body>
   <h1>Viossa Kotobalibre</h1>
@@ -46,6 +19,7 @@
     <p id="subtext"></p>
     <img id="wordImage" src="" alt="">
   </div>
+  
   <script>
 
 document.addEventListener('DOMContentLoaded', function() {
@@ -53,6 +27,7 @@ document.addEventListener('DOMContentLoaded', function() {
   const kotoba = urlParams.get('kotoba');
   const subtext = document.getElementById('subtext');
   const wordImage = document.getElementById('wordImage');
+  const content = document.getElementById('content');
 
   if (kotoba) {
     fetch('words.json')
@@ -75,19 +50,31 @@ document.addEventListener('DOMContentLoaded', function() {
           if (wordData.image) {
             wordImage.src = wordData.image;
             wordImage.style.display = 'block';
+          } else {
+            wordImage.style.display = 'none';
           }
         } else {
           subtext.textContent = 'Word not found';
+          wordImage.style.display = 'none';
         }
+      })
+      .catch(error => {
+        console.error('Error fetching word data:', error);
+        subtext.textContent = 'Error loading word data';
+        wordImage.style.display = 'none';
       });
   } else {
     const link = document.createElement('a');
     link.href = 'https://sq.is-a.dev/viossa/kotobalibre';
     link.textContent = 'Viossa Kotobalibre';
-    document.getElementById('content').appendChild(link);
+    content.innerHTML = '';
+    content.appendChild(link);
     subtext.textContent = 'Made by SquareScreamYT';
+    wordImage.style.display = 'none';
   }
 });
+
   </script>
 </body>
 </html>
+
