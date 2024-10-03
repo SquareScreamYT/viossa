@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- i made this with ai lol -->
+  <!-- embed thing for discord -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Viossa Kotobalibre</title>
+  <link rel="stylesheet" href="style.css">
+  
+  <meta property="og:title" content="Viossa Kotobalibre">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://yourdomain.com">
+  <meta property="og:image" content="">
+  <meta property="og:description" content="">
+  <meta property="og:site_name" content="Viossa Kotobalibre">
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      text-align: center;
+    }
+
+    h1 {
+      color: #333;
+    }
+
+    #content {
+      margin-top: 20px;
+    }
+
+    #wordImage {
+      max-width: 100%;
+      height: auto;
+      margin-top: 20px;
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>Viossa Kotobalibre</h1>
+  <div id="content">
+    <p id="subtext"></p>
+    <img id="wordImage" src="" alt="">
+  </div>
+  <script>
+
+document.addEventListener('DOMContentLoaded', function() {
+  const urlParams = new URLSearchParams(window.location.search);
+  const kotoba = urlParams.get('kotoba');
+  const subtext = document.getElementById('subtext');
+  const wordImage = document.getElementById('wordImage');
+
+  if (kotoba) {
+    fetch('words.json')
+      .then(response => response.json())
+      .then(data => {
+        const word = data.find(item => Object.keys(item)[0].toLowerCase() === kotoba.toLowerCase());
+        if (word) {
+          const wordKey = Object.keys(word)[0];
+          const wordData = word[wordKey];
+          
+          // Update Open Graph meta tags
+          document.querySelector('meta[property="og:title"]').setAttribute('content', `Viossa Kotobalibre - ${wordKey}`);
+          document.querySelector('meta[property="og:description"]').setAttribute('content', `${wordData.category.join(", ")} - ${wordData.definition}`);
+          if (wordData.image) {
+            document.querySelector('meta[property="og:image"]').setAttribute('content', wordData.image);
+          }
+
+          // Update page content
+          subtext.textContent = `${wordData.category.join(", ")} - ${wordData.definition}`;
+          if (wordData.image) {
+            wordImage.src = wordData.image;
+            wordImage.style.display = 'block';
+          }
+        } else {
+          subtext.textContent = 'Word not found';
+        }
+      });
+  } else {
+    const link = document.createElement('a');
+    link.href = 'https://sq.is-a.dev/viossa/kotobalibre';
+    link.textContent = 'Viossa Kotobalibre';
+    document.getElementById('content').appendChild(link);
+    subtext.textContent = 'Made by SquareScreamYT';
+  }
+});
+  </script>
+</body>
+</html>
