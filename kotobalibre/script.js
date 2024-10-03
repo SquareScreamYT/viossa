@@ -182,7 +182,8 @@ function calculateRelevanceScore(word, definition, searchTerm) {
 function normalizeDigraphs(text) {
   const digraphs = {
     'ph': 'f',
-    'ch': 'tj',
+    'ch': 'c',
+    'tj': 'c',
     'sh': 'sj',
     'zh': 'zj',
     'dzh': 'dj',

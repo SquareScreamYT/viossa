@@ -1,5 +1,13 @@
 [
 	{
+		"-ca": {
+			"category": [
+				"festakotoba"
+			],
+			"definition": "\"x-ca\" sama \"un vil du har x\""
+		}
+	},
+	{
 		"-dai": {
 			"category": [
 				"festakotoba"
@@ -30,7 +38,7 @@
 			"category": [
 				"festakotoba"
 			],
-			"definition": "-nen lyk ting tjisai au kawai, -nen kondor -dai."
+			"definition": "-nen lyk ting cisai au kawai, -nen kondor -dai."
 		}
 	},
 	{
@@ -40,14 +48,6 @@
 				"lasku"
 			],
 			"definition": "⅓ = tretel, ⅔ = ni tretel, ⅕ = gotel, auauau"
-		}
-	},
-	{
-		"-tsa": {
-			"category": [
-				"festakotoba"
-			],
-			"definition": "\"x-tsa\" sama \"un vil du har x\""
 		}
 	},
 	{
@@ -103,7 +103,7 @@
 				"frauta",
 				"namting"
 			],
-			"definition": "🫐 - makot, tjisai frauta du deki nam.",
+			"definition": "🫐 - makot, cisai frauta du deki nam.",
 			"image": "https://img.freepik.com/free-photo/closeup-vertical-shot-blueberries-with-water-droplets-leaves_181624-1115.jpg",
 			"image2": "https://img.freepik.com/free-photo/closeup-vertical-shot-blueberries-with-water-droplets-leaves_181624-1166.jpg"
 		}
@@ -210,7 +210,7 @@
 				"namting",
 				"ovosji"
 			],
-			"definition": "🫒 - midori, tjisai ovosji du deki nam.",
+			"definition": "🫒 - midori, cisai ovosji du deki nam.",
 			"image": "https://img.freepik.com/free-photo/close-up-delicious-olives-bowl_23-2148364448.jpg",
 			"image2": "https://img.freepik.com/free-photo/bowl-olives-isolated-white-background_93675-135071.jpg"
 		}
@@ -246,7 +246,7 @@
 			"category": [
 				"melankotoba"
 			],
-			"definition": "au lyk +, tatoeba: \"un nam tja. un nam kekso.\" sama \"un nam tja au kekso\""
+			"definition": "au lyk +, tatoeba: \"un nam ca. un nam kekso.\" sama \"un nam ca au kekso\""
 		}
 	},
 	{
@@ -254,7 +254,7 @@
 			"category": [
 				"namting"
 			],
-			"definition": "🫘 - tjisai dodo du deki nam.",
+			"definition": "🫘 - cisai dodo du deki nam.",
 			"image": "https://img.freepik.com/free-photo/red-bean-seeds-wooden-background-kitchen_1150-9968.jpg",
 			"image2": "https://img.freepik.com/free-photo/red-bean-paste-brown-wood-floor_1150-17185.jpg"
 		}
@@ -326,7 +326,7 @@
 		}
 	},
 	{
-		"bratjuri": {
+		"bracuri": {
 			"category": [
 				"namting",
 				"ovosji"
@@ -334,6 +334,16 @@
 			"definition": "🧄 - sjiro ovosji du deki nam.",
 			"image": "https://img.freepik.com/free-photo/fresh-raw-garlic-ready-cook_1150-42637.jpg",
 			"image2": "https://img.freepik.com/free-photo/close-up-view-fresh-garlic-pods-black-background-with-free-space_179666-19922.jpg"
+		}
+	},
+	{
+		"breceng": {
+			"category": [
+				"namting"
+			],
+			"definition": "🥨 - brun namting du deki nam.",
+			"image": "https://img.freepik.com/free-photo/pretzel-bar-counter_1220-1760.jpg",
+			"image2": "https://img.freepik.com/free-photo/top-view-pretzels-arrangement_23-2148582666.jpg"
 		}
 	},
 	{
@@ -347,21 +357,52 @@
 		}
 	},
 	{
-		"bretjeng": {
-			"category": [
-				"namting"
-			],
-			"definition": "🥨 - brun namting du deki nam.",
-			"image": "https://img.freepik.com/free-photo/pretzel-bar-counter_1220-1760.jpg",
-			"image2": "https://img.freepik.com/free-photo/top-view-pretzels-arrangement_23-2148582666.jpg"
-		}
-	},
-	{
 		"brun": {
 			"category": [
 				"varge"
 			],
 			"definition": "<span style=\"color:#c49058;\">afto varge brun</span>"
+		}
+	},
+	{
+		"ca": {
+			"category": [
+				"glugting",
+				"namting"
+			],
+			"definition": "🍵 - brun os midori glugting du deki glug.",
+			"image": "https://img.freepik.com/free-photo/green-tea-brewed-cup-with-tea-leaves-blue-pastel-background-top-view_1220-5336.jpg",
+			"image2": "https://img.freepik.com/free-photo/hot-green-tea-is-poured-from-teapot-into-blue-bowl_166373-858.jpg"
+		}
+	},
+	{
+		"cesapi": {
+			"category": [
+				"dur"
+			],
+			"definition": "🦙 - dur",
+			"image": "https://img.freepik.com/free-photo/closeup-shot-llama-field-covered-greenery-sunlight-daytime_181624-31749.jpg",
+			"image2": "https://img.freepik.com/free-photo/llama_658691-494.jpg"
+		}
+	},
+	{
+		"cigau": {
+			"category": [
+				"lykkotoba"
+			],
+			"definition": "lyk kondor, men cigau. <br> cigau = ❌🟰 <br> apar kondor au cigau mange, men anglolant cigau men naj kondor italjalant.",
+			"image": "https://img.freepik.com/free-photo/metal-paperclips-rows-one-red-different-from-others_1163-2748.jpg",
+			"image2": "https://img.freepik.com/free-photo/rag-dolls-with-blue-red-flags_1156-180.jpg"
+		}
+	},
+	{
+		"coki": {
+			"category": [
+				"namting"
+			],
+			"definition": "🍫 - brun, syt namting du deki nam.",
+			"image": "https://img.freepik.com/free-photo/flat-lay-creative-chocolate-composition-dark-background_23-2148549326.jpg",
+			"image2": "https://img.freepik.com/free-photo/flat-lay-delicious-chocolate-tablets-arrangement_23-2149349242.jpg"
 		}
 	},
 	{
@@ -424,7 +465,7 @@
 			"category": [
 				"namting"
 			],
-			"definition": "🫘🥜 - tjisai namting du deki nam.",
+			"definition": "🫘🥜 - cisai namting du deki nam.",
 			"image": "https://img.freepik.com/free-photo/different-dried-fruits_144627-16150.jpg",
 			"image2": "https://img.freepik.com/free-photo/view-allergens-commonly-found-nuts_23-2150170316.jpg"
 		}
@@ -482,7 +523,7 @@
 				"namting",
 				"ovosji"
 			],
-			"definition": "🫛 - midori, tjisai ovosji du deki nam.",
+			"definition": "🫛 - midori, cisai ovosji du deki nam.",
 			"image": "https://img.freepik.com/free-photo/high-angle-shot-fresh-green-peas-wooden-table_181624-53478.jpg",
 			"image2": "https://img.freepik.com/free-photo/green-peas_144627-34033.jpg"
 		}
@@ -820,7 +861,7 @@
 			"category": [
 				"namting"
 			],
-			"definition": "🥜 - brun, tjisai dodo du deki nam.",
+			"definition": "🥜 - brun, cisai dodo du deki nam.",
 			"image": "https://img.freepik.com/free-photo/side-view-peanuts-shell-from-bag-wooden-table_141793-7219.jpg",
 			"image2": "https://img.freepik.com/free-photo/fresh-peanuts_144627-16153.jpg"
 		}
@@ -912,11 +953,11 @@
 		}
 	},
 	{
-		"jaitje": {
+		"jaice": {
 			"category": [
 				"namting"
 			],
-			"definition": "🥚 - brun au sjiro namting f'kuritja du deki nam.",
+			"definition": "🥚 - brun au sjiro namting f'kurica du deki nam.",
 			"image": "https://img.freepik.com/free-photo/eggs-top-view_1417-1530.jpg",
 			"image2": "https://img.freepik.com/free-photo/three-fresh-organic-raw-eggs-isolated-white-surface_114579-43677.jpg"
 		}
@@ -1090,7 +1131,7 @@
 			"category": [
 				"namting"
 			],
-			"definition": "🍪 - brun namting mahajena na alk au tjoki du deki nam.",
+			"definition": "🍪 - brun namting mahajena na alk au coki du deki nam.",
 			"image": "https://img.freepik.com/free-photo/delicious-cookies-table_23-2148837156.jpg",
 			"image2": "https://img.freepik.com/free-photo/top-view-chocolate-chip-cookies-textured-surface-with-woman-taking-one-cookie_181624-21286.jpg"
 		}
@@ -1109,7 +1150,7 @@
 				"frauta",
 				"namting"
 			],
-			"definition": "🍓 - ros, tjisai frauta du deki nam.",
+			"definition": "🍓 - ros, cisai frauta du deki nam.",
 			"image": "https://img.freepik.com/free-photo/strawberries-cut-half-whole-berries-ripe-berries-top-view-background-ripe-strawberries-delicious-natural-dessert_166373-2358.jpg",
 			"image2": "https://img.freepik.com/free-photo/close-up-fresh-strawberries-small-brown-wooden-box_140725-151137.jpg"
 		}
@@ -1186,7 +1227,7 @@
 			"category": [
 				"lykkotoba"
 			],
-			"definition": "bra kondor waruj<br>stur kondor tjisai<br>akurat kondor naj<br>vapa kondor samuj",
+			"definition": "bra kondor waruj<br>stur kondor cisai<br>akurat kondor naj<br>vapa kondor samuj",
 			"image": "https://img.freepik.com/free-photo/check-marks-with-tick-cross-sign_107791-15676.jpg",
 			"image2": "https://img.freepik.com/free-photo/arrangement-with-different-feelings_23-2148860251.jpg"
 		}
@@ -1302,7 +1343,7 @@
 			"category": [
 				"ples"
 			],
-			"definition": "lantnen lyk tjisai lant ine lant, tatoeba sjikagopolis ine ilinojlantnen ine amerikalant."
+			"definition": "lantnen lyk cisai lant ine lant, tatoeba sjikagopolis ine ilinojlantnen ine amerikalant."
 		}
 	},
 	{
@@ -1475,7 +1516,7 @@
 			"category": [
 				"namting"
 			],
-			"definition": "🍚 - sjiro tjisai namting du deki nam.",
+			"definition": "🍚 - sjiro cisai namting du deki nam.",
 			"image": "https://img.freepik.com/free-photo/rice-bowl_1387-181.jpg",
 			"image2": "https://img.freepik.com/free-photo/jasmine-rice_74190-7260.jpg"
 		}
@@ -1562,7 +1603,7 @@
 			"category": [
 				"mitkotoba"
 			],
-			"definition": "du kaku mit hant, du nam au hanu mit kutji, du hore mit korva, du spil mit mik auauau"
+			"definition": "du kaku mit hant, du nam au hanu mit kuci, du hore mit korva, du spil mit mik auauau"
 		}
 	},
 	{
@@ -1570,7 +1611,7 @@
 			"category": [
 				"lykkotoba"
 			],
-			"definition": "🍎 🍎 🍎 🍎 🍎 🍎 🍎 🍎 - mono ros ringo.<br>🍎 🍎 🍎 🍏 🍎 🍎 🍏 🍎 - mono ringo, mononaj ros ringo. apar ringo midori.<br>🍎 🍏 🍎 🍍 🍏 🍏 🥕 🍎 - mononaj ringo. apar afto tjigau."
+			"definition": "🍎 🍎 🍎 🍎 🍎 🍎 🍎 🍎 - mono ros ringo.<br>🍎 🍎 🍎 🍏 🍎 🍎 🍏 🍎 - mono ringo, mononaj ros ringo. apar ringo midori.<br>🍎 🍏 🍎 🍍 🍏 🍏 🥕 🍎 - mononaj ringo. apar afto cigau."
 		}
 	},
 	{
@@ -1668,18 +1709,18 @@
 				"frauta",
 				"namting"
 			],
-			"definition": "🍒 - ros, tjisai frauta du deki nam.",
+			"definition": "🍒 - ros, cisai frauta du deki nam.",
 			"image": "https://img.freepik.com/free-photo/red-cherries-plate-bowl-gray-table_114579-9864.jpg",
 			"image2": "https://img.freepik.com/free-photo/cherries-wooden-plate-pink-surface-flat-lay_176474-6323.jpg"
 		}
 	},
 	{
-		"nijtja": {
+		"nijca": {
 			"category": [
 				"glugting",
 				"namting"
 			],
-			"definition": "🧋 - sjiro au brun glugting f'gjunju au tja du deki glug.",
+			"definition": "🧋 - sjiro au brun glugting f'gjunju au ca du deki glug.",
 			"image": "https://img.freepik.com/free-photo/arrangement-with-delicious-traditional-thai-tea_23-2148994370.jpg",
 			"image2": "https://img.freepik.com/free-photo/composition-with-delicious-thai-tea_23-2148994319.jpg"
 		}
@@ -1705,6 +1746,16 @@
 		}
 	},
 	{
+		"njocilpig": {
+			"category": [
+				"dur"
+			],
+			"definition": "🐞 - dur",
+			"image": "https://img.freepik.com/free-photo/closeup-ladybug-green-leaf_181624-35314.jpg",
+			"image2": "https://img.freepik.com/free-photo/beetle-ladybug_181624-36386.jpg"
+		}
+	},
+	{
 		"njog": {
 			"category": [
 				"frauta",
@@ -1713,16 +1764,6 @@
 			"definition": "🥥 - brun au sjiro frauta du deki nam.",
 			"image": "https://img.freepik.com/free-photo/coconut-fruit_1203-2413.jpg",
 			"image2": "https://img.freepik.com/free-photo/fresh-coconuts-put-white-wooden-background_1150-28236.jpg"
-		}
-	},
-	{
-		"njotjilpig": {
-			"category": [
-				"dur"
-			],
-			"definition": "🐞 - dur",
-			"image": "https://img.freepik.com/free-photo/closeup-ladybug-green-leaf_181624-35314.jpg",
-			"image2": "https://img.freepik.com/free-photo/beetle-ladybug_181624-36386.jpg"
 		}
 	},
 	{
@@ -1911,6 +1952,16 @@
 		}
 	},
 	{
+		"pica": {
+			"category": [
+				"namting"
+			],
+			"definition": "🍕 - pan f'italjalant mit pomodoro, usci au sjyt.",
+			"image": "https://img.freepik.com/free-photo/pizza-with-salami-tomato-cheese-mushrooms_2829-20005.jpg",
+			"image2": "https://img.freepik.com/free-photo/pizza-pizza-filled-with-tomatoes-salami-olives_140725-1200.jpg"
+		}
+	},
+	{
 		"pijo": {
 			"category": [
 				"varge"
@@ -1947,16 +1998,6 @@
 			"definition": "🐤 - dur",
 			"image": "https://img.freepik.com/free-photo/closeup-shot-brown-chick-cloth_181624-53564.jpg",
 			"image2": "https://img.freepik.com/free-photo/closeup-shot-brown-chicks-cloth-with-white-space_181624-47459.jpg"
-		}
-	},
-	{
-		"pitja": {
-			"category": [
-				"namting"
-			],
-			"definition": "🍕 - pan f'italjalant mit pomodoro, ustji au sjyt.",
-			"image": "https://img.freepik.com/free-photo/pizza-with-salami-tomato-cheese-mushrooms_2829-20005.jpg",
-			"image2": "https://img.freepik.com/free-photo/pizza-pizza-filled-with-tomatoes-salami-olives_140725-1200.jpg"
 		}
 	},
 	{
@@ -2108,7 +2149,7 @@
 			"category": [
 				"namting"
 			],
-			"definition": "sama sjutjai. namting f'mange ovosji.",
+			"definition": "sama sjucai. namting f'mange ovosji.",
 			"image": "https://img.freepik.com/free-photo/frame-healthy-salad_23-2148515423.jpg",
 			"image2": "https://img.freepik.com/free-photo/top-view-tasty-salad-with-vegetables_23-2148515491.jpg"
 		}
@@ -2164,7 +2205,7 @@
 			"category": [
 				"namting"
 			],
-			"definition": "🦐🍤 - ros, tjisai maredur du deki nam.",
+			"definition": "🦐🍤 - ros, cisai maredur du deki nam.",
 			"image": "https://img.freepik.com/free-photo/two-tail-shrimp-with-fresh-lemon-rosemary-white_2829-18154.jpg",
 			"image2": "https://img.freepik.com/free-photo/side-view-tempura-shrimps-with-sweet-chili-sauce-board_141793-5135.jpg"
 		}
@@ -2292,7 +2333,7 @@
 			"category": [
 				"ples"
 			],
-			"definition": "stat lyk tjisai polis, tatoeba redingstat (anglolant), santafejstat (njumeksikolantnen, amerikalant), valensiastat (espanjolant).",
+			"definition": "stat lyk cisai polis, tatoeba redingstat (anglolant), santafejstat (njumeksikolantnen, amerikalant), valensiastat (espanjolant).",
 			"image": "https://img.freepik.com/free-photo/aerial-shot-mesmerizing-scenery-waikanae-township-new-zealand_181624-14446.jpg",
 			"image2": "https://img.freepik.com/free-photo/typical-village-street_1417-1435.jpg"
 		}
@@ -2332,47 +2373,6 @@
 			"definition": "🐛 - dur. bli fluter.",
 			"image": "https://img.freepik.com/free-photo/worm-caterpillars-isolated-white-background_1150-7922.jpg",
 			"image2": "https://img.freepik.com/free-photo/closeup-shot-caterpillar-nutritional-plant_181624-60491.jpg"
-		}
-	},
-	{
-		"tja": {
-			"category": [
-				"glugting",
-				"namting"
-			],
-			"definition": "🍵 - brun os midori glugting du deki glug.",
-			"image": "https://img.freepik.com/free-photo/green-tea-brewed-cup-with-tea-leaves-blue-pastel-background-top-view_1220-5336.jpg",
-			"image2": "https://img.freepik.com/free-photo/hot-green-tea-is-poured-from-teapot-into-blue-bowl_166373-858.jpg"
-		}
-	},
-	{
-		"tjesapi": {
-			"category": [
-				"dur"
-			],
-			"definition": "🦙 - dur",
-			"image": "https://img.freepik.com/free-photo/closeup-shot-llama-field-covered-greenery-sunlight-daytime_181624-31749.jpg",
-			"image2": "https://img.freepik.com/free-photo/llama_658691-494.jpg"
-		}
-	},
-	{
-		"tjigau": {
-			"category": [
-				"lykkotoba"
-			],
-			"definition": "lyk kondor, men tjigau. <br> tjigau = ❌🟰 <br> apar kondor au tjigau mange, men anglolant tjigau men naj kondor italjalant.",
-			"image": "https://img.freepik.com/free-photo/metal-paperclips-rows-one-red-different-from-others_1163-2748.jpg",
-			"image2": "https://img.freepik.com/free-photo/rag-dolls-with-blue-red-flags_1156-180.jpg"
-		}
-	},
-	{
-		"tjoki": {
-			"category": [
-				"namting"
-			],
-			"definition": "🍫 - brun, syt namting du deki nam.",
-			"image": "https://img.freepik.com/free-photo/flat-lay-creative-chocolate-composition-dark-background_23-2148549326.jpg",
-			"image2": "https://img.freepik.com/free-photo/flat-lay-delicious-chocolate-tablets-arrangement_23-2149349242.jpg"
 		}
 	},
 	{
@@ -2460,7 +2460,7 @@
 		}
 	},
 	{
-		"ustji": {
+		"usci": {
 			"category": [
 				"namting"
 			],
