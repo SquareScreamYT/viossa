@@ -170,7 +170,7 @@ function calculateRelevanceScore(word, definition, searchTerm) {
   // Check if the normalized definition contains the normalized search term
   if (normalizeDigraphs(definitionLower).includes(normalizedSearchTerm)) {
     score += 3;
-  }
+  } 
 
   // Calculate the Levenshtein distance for the normalized word
   const wordDistance = levenshteinDistance(normalizedWord, normalizedSearchTerm);
