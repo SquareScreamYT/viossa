@@ -1235,7 +1235,8 @@
 	{
 		"koske": {
 			"category": [
-				"sporekotoba"
+				"sporekotoba",
+				"tyd"
 			],
 			"definition": "🤔🕰️ ka tyd?"
 		}
@@ -2572,6 +2573,38 @@
 				"varge"
 			],
 			"definition": "<span style=\"color:#a3e635;\">afto varge zjelon</span>"
+		}
+	},
+	{
+		"tyd": {
+			"category": [
+				"tyd"
+			],
+			"definition": "tyd lyk 🕐🕑🕒🕓🕔🕕🕖🕗🕘🕙🕚🕛🕜🕝🕞🕟🕠🕡🕢🕣🕤🕥🕦🕧<br>se<a href='/viossa#tyd'>tyd ine viossalibre</a>"
+		}
+	},
+	{
+		"ima": {
+			"category": [
+				"tyd"
+			],
+			"definition": "tyd lyk 🕰️⬇️<br>se<a href='/viossa#tyd'>ima ine viossalibre</a>"
+		}
+	},
+	{
+		"dan": {
+			"category": [
+				"tyd"
+			],
+			"definition": "tyd lyk ⬅️🕰️<br>se<a href='/viossa#tyd'>dan ine viossalibre</a>"
+		}
+	},
+	{
+		"miraj": {
+			"category": [
+				"tyd"
+			],
+			"definition": "tyd lyk 🕰️➡️<br>se<a href='/viossa#tyd'>miraj ine viossalibre</a>"
 		}
 	}
 ]
