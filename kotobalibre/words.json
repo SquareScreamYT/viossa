@@ -406,6 +406,24 @@
 		}
 	},
 	{
+		"dag": {
+			"category": [
+				"tyd"
+			],
+			"definition": "dag lyk 🏞️ os 24 djikan<br>se<a href='/viossa/tyd'>dag ine viossalibre</a>",
+			"image": "https://img.freepik.com/free-photo/sun-rays-cloudy-sky_23-2148824930.jpg",
+			"image2": "https://img.freepik.com/free-photo/forest-mountain-landscape-view_1150-10915.jpg"
+		}
+	},
+	{
+		"dan": {
+			"category": [
+				"tyd"
+			],
+			"definition": "tyd lyk ⬅️🕰️<br>se<a href='/viossa/tyd'>dan ine viossalibre</a>"
+		}
+	},
+	{
 		"dare": {
 			"category": [
 				"pasjun",
@@ -449,6 +467,14 @@
 			"definition": "🐍 - dur",
 			"image": "https://img.freepik.com/free-photo/head-gonyosoma-snake-green-gonyosoma-snake-looking-around-gonyosoma-oxycephalum_488145-1864.jpg",
 			"image2": "https://img.freepik.com/free-photo/female-ball-python-firefly-morph-mutation_155003-438.jpg"
+		}
+	},
+	{
+		"djikan": {
+			"category": [
+				"tyd"
+			],
+			"definition": "24 djikan = 1 dag"
 		}
 	},
 	{
@@ -650,6 +676,14 @@
 		}
 	},
 	{
+		"fun": {
+			"category": [
+				"tyd"
+			],
+			"definition": "60 fun = 1 djikan"
+		}
+	},
+	{
 		"gazjepan": {
 			"category": [
 				"namting"
@@ -743,6 +777,16 @@
 			"definition": "🍈 - zjelon frauta du deki nam.",
 			"image": "https://img.freepik.com/free-photo/melon_74190-4894.jpg",
 			"image2": "https://img.freepik.com/free-photo/still-life-photorealistic-cantaloupe-melon_23-2151659059.jpg"
+		}
+	},
+	{
+		"gvel": {
+			"category": [
+				"tyd"
+			],
+			"definition": "gvel lyk 🌆",
+			"image": "https://img.freepik.com/free-photo/sunset-time-tropical-beach-sea-with-coconut-palm-tree_74190-1075.jpg",
+			"image2": "https://img.freepik.com/free-photo/sunrise-city_1353-55.jpg"
 		}
 	},
 	{
@@ -912,6 +956,14 @@
 			"definition": "🐿️ - dur",
 			"image": "https://img.freepik.com/free-photo/vertical-selective-focus-shot-squirrel-forest_181624-32397.jpg",
 			"image2": "https://img.freepik.com/free-photo/cute-squirrel-looking-food-forest_181624-12294.jpg"
+		}
+	},
+	{
+		"ima": {
+			"category": [
+				"tyd"
+			],
+			"definition": "tyd lyk 🕰️⬇️<br>se<a href='/viossa/tyd'>ima ine viossalibre</a>"
 		}
 	},
 	{
@@ -1579,6 +1631,14 @@
 		}
 	},
 	{
+		"miraj": {
+			"category": [
+				"tyd"
+			],
+			"definition": "tyd lyk 🕰️➡️<br>se<a href='/viossa/tyd'>miraj ine viossalibre</a>"
+		}
+	},
+	{
 		"miraseng": {
 			"category": [
 				"namting",
@@ -1616,6 +1676,24 @@
 		}
 	},
 	{
+		"mora": {
+			"category": [
+				"tyd"
+			],
+			"definition": "mora lyk 🌅",
+			"image": "https://img.freepik.com/free-photo/view-foggy-mountain-landscape_1359-740.jpg",
+			"image2": "https://img.freepik.com/free-photo/rear-view-woman-sitting-bed-stretching-her-arms_23-2148161142.jpg"
+		}
+	},
+	{
+		"muaj": {
+			"category": [
+				"tyd"
+			],
+			"definition": "28/29/30/31 dag = 1 muaj"
+		}
+	},
+	{
 		"murasaki": {
 			"category": [
 				"varge"
@@ -1640,6 +1718,26 @@
 			],
 			"definition": "❌🚫<br>anglosa: <span class='spoiler' >no</span>",
 			"image": "https://img.freepik.com/free-vector/no-signs-set_78370-6501.jpg"
+		}
+	},
+	{
+		"nakt": {
+			"category": [
+				"tyd"
+			],
+			"definition": "nakt lyk 🌃",
+			"image": "https://img.freepik.com/free-photo/beautiful-sky-full-stars-trona-ca_181624-31703.jpg",
+			"image2": "https://img.freepik.com/free-photo/3d-render-abstract-tree-landscape-with-space-sky_1048-14314.jpg"
+		}
+	},
+	{
+		"nakt": {
+			"category": [
+				"tyd"
+			],
+			"definition": "nakt lyk 🌃",
+			"image": "https://img.freepik.com/free-photo/beautiful-sky-full-stars-trona-ca_181624-31703.jpg",
+			"image2": "https://img.freepik.com/free-photo/3d-render-abstract-tree-landscape-with-space-sky_1048-14314.jpg"
 		}
 	},
 	{
@@ -2250,6 +2348,14 @@
 		}
 	},
 	{
+		"sjoi": {
+			"category": [
+				"tyd"
+			],
+			"definition": "60 sjoi = 1 fun"
+		}
+	},
+	{
 		"sjoju": {
 			"category": [
 				"namting"
@@ -2398,6 +2504,14 @@
 		}
 	},
 	{
+		"tosji": {
+			"category": [
+				"tyd"
+			],
+			"definition": "12 muaj = 1 tosji"
+		}
+	},
+	{
 		"trasak": {
 			"category": [
 				"namting",
@@ -2438,6 +2552,14 @@
 				"ples"
 			],
 			"definition": "afto ringo —> 🍎<br>tuo ringo ——————> 🍎<br>asoko ringo ————————————————> 🍎"
+		}
+	},
+	{
+		"tyd": {
+			"category": [
+				"tyd"
+			],
+			"definition": "tyd lyk 🕐🕑🕒🕓🕔🕕🕖🕗🕘🕙🕚🕛🕜🕝🕞🕟🕠🕡🕢🕣🕤🕥🕦🕧<br>se<a href='/viossa/tyd'>tyd ine viossalibre</a>"
 		}
 	},
 	{
@@ -2550,6 +2672,14 @@
 		}
 	},
 	{
+		"wik": {
+			"category": [
+				"tyd"
+			],
+			"definition": "7 dag = 1 wik<br><br>wiknamaj:<br>lundag, afrojdag, melanwik, airidag, jaidag, krendag, soldag."
+		}
+	},
+	{
 		"wonju": {
 			"category": [
 				"dur"
@@ -2573,38 +2703,6 @@
 				"varge"
 			],
 			"definition": "<span style=\"color:#a3e635;\">afto varge zjelon</span>"
-		}
-	},
-	{
-		"tyd": {
-			"category": [
-				"tyd"
-			],
-			"definition": "tyd lyk 🕐🕑🕒🕓🕔🕕🕖🕗🕘🕙🕚🕛🕜🕝🕞🕟🕠🕡🕢🕣🕤🕥🕦🕧<br>se<a href='/viossa#tyd'>tyd ine viossalibre</a>"
-		}
-	},
-	{
-		"ima": {
-			"category": [
-				"tyd"
-			],
-			"definition": "tyd lyk 🕰️⬇️<br>se<a href='/viossa#tyd'>ima ine viossalibre</a>"
-		}
-	},
-	{
-		"dan": {
-			"category": [
-				"tyd"
-			],
-			"definition": "tyd lyk ⬅️🕰️<br>se<a href='/viossa#tyd'>dan ine viossalibre</a>"
-		}
-	},
-	{
-		"miraj": {
-			"category": [
-				"tyd"
-			],
-			"definition": "tyd lyk 🕰️➡️<br>se<a href='/viossa#tyd'>miraj ine viossalibre</a>"
 		}
 	}
 ]
