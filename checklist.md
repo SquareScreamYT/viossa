@@ -6,7 +6,6 @@
 - Feelings https://sq.is-a.dev/viossa#kokoro
 - Add everything from https://sq.is-a.dev/viossa
 - Verbs
-- Weather
 - Celestial Objects
 - Plants
 - Office Supplies
