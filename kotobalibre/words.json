@@ -365,6 +365,16 @@
 		}
 	},
 	{
+		"bura": {
+			"category": [
+				"pogoda"
+			],
+			"definition": "bura lyk ⛈️",
+			"image": "https://img.freepik.com/free-photo/weather-effects-collage-concept_23-2150062065.jpg",
+			"image2": "https://img.freepik.com/free-photo/weather-effects-composition_23-2149853295.jpg"
+		}
+	},
+	{
 		"ca": {
 			"category": [
 				"glugting",
@@ -616,6 +626,17 @@
 			"definition": "🍜 - pika namting mahajena na alk.",
 			"image": "https://img.freepik.com/free-photo/flat-lay-uncooked-assortment-noodles-wooden-background_23-2148377401.jpg",
 			"image2": "https://img.freepik.com/free-photo/hand-picks-up-tasty-boiled-noodles-from-opened-wok-takeaway-blank-paper-box-isolated-white-center_346278-915.jpg"
+		}
+	},
+	{
+		"feri": {
+			"category": [
+				"pogoda",
+				"varge"
+			],
+			"definition": "feri lyk 🌈, mange varge.",
+			"image": "https://img.freepik.com/free-photo/beautiful-natural-landscape-with-rainbow_23-2150169056.jpg",
+			"image2": "https://img.freepik.com/free-photo/beautiful-natural-landscape-with-rainbow_23-2150169061.jpg"
 		}
 	},
 	{
@@ -1333,6 +1354,16 @@
 		}
 	},
 	{
+		"kumo": {
+			"category": [
+				"pogoda"
+			],
+			"definition": "kumo lyk ☁️",
+			"image": "https://img.freepik.com/free-photo/cumulus-cloudscape-day-beautiful-blue_1323-41.jpg",
+			"image2": "https://img.freepik.com/free-photo/blue-clear-sky_1136-172.jpg"
+		}
+	},
+	{
 		"kuneli": {
 			"category": [
 				"dur"
@@ -1444,6 +1475,16 @@
 			"definition": "🦇 - dur",
 			"image": "https://img.freepik.com/free-photo/full-moon-night-sky_53876-139860.jpg",
 			"image2": "https://img.freepik.com/free-photo/black-flying-foxes-hanging-tree_167946-161.jpg"
+		}
+	},
+	{
+		"luna": {
+			"category": [
+				"pogoda"
+			],
+			"definition": "luna lyk 🌙🌑🌒🌓🌔🌕🌖🌗🌘🌚🌝🌛🌛",
+			"image": "https://img.freepik.com/free-photo/landscape-shot-white-full-moon-with-black-color-background_181624-11907.jpg",
+			"image2": "https://img.freepik.com/free-photo/beautiful-moon-black-night-sky_181624-31517.jpg"
 		}
 	},
 	{
@@ -2040,6 +2081,16 @@
 		}
 	},
 	{
+		"pasmurna": {
+			"category": [
+				"pogoda"
+			],
+			"definition": "pasmurna lyk 🌫️. deki keninil.",
+			"image": "https://img.freepik.com/free-photo/forest-landscape-with-dense-fog_181624-811.jpg",
+			"image2": "https://img.freepik.com/free-photo/mountain-with-fog_198169-216.jpg"
+		}
+	},
+	{
 		"persus": {
 			"category": [
 				"frauta",
@@ -2117,6 +2168,26 @@
 			"definition": "🐚 - dur",
 			"image": "https://img.freepik.com/free-photo/seashell-isolated-white-background_181624-47937.jpg",
 			"image2": "https://img.freepik.com/free-photo/layout-seashells-sand_23-2148122271.jpg"
+		}
+	},
+	{
+		"pluj": {
+			"category": [
+				"pogoda"
+			],
+			"definition": "pluj lyk 🌧️",
+			"image": "https://img.freepik.com/free-photo/urban-clear-scratched-window-cement_1123-101.jpg",
+			"image2": "https://img.freepik.com/free-photo/vertical-shot-raindrops-pouring-down-glass-window_181624-3625.jpg"
+		}
+	},
+	{
+		"pogoda": {
+			"category": [
+				"pogoda"
+			],
+			"definition": "pogoda lyk ☀️☁️⛈️🌧️🌨️❄️💨🌪️🌫️⚡🌈",
+			"image": "https://img.freepik.com/free-photo/3d-weather-forecast-icons-set-white-background_107791-17771.jpg",
+			"image2": "https://img.freepik.com/free-photo/dark-stormy-clouds_181624-61.jpg"
 		}
 	},
 	{
@@ -2310,6 +2381,16 @@
 		}
 	},
 	{
+		"sjalgan": {
+			"category": [
+				"pogoda"
+			],
+			"definition": "sjalgan lyk ⚡",
+			"image": "https://img.freepik.com/free-photo/lightning-night-sky-mountains-with-trees_181624-4597.jpg",
+			"image2": "https://img.freepik.com/free-photo/weather-effects-composition_23-2149853298.jpg"
+		}
+	},
+	{
 		"sjenhenzjest": {
 			"category": [
 				"dur"
@@ -2403,6 +2484,16 @@
 			"definition": "sjiro, syt pudra du deki nam.",
 			"image": "https://img.freepik.com/free-photo/still-life-dispenser-bottle_23-2150992108.jpg",
 			"image2": "https://img.freepik.com/free-photo/closeup-shot-spoon-black-pepper-seeds-table_181624-57747.jpg"
+		}
+	},
+	{
+		"sol": {
+			"category": [
+				"pogoda"
+			],
+			"definition": "sol lyk ☀️🌞🔆",
+			"image": "https://img.freepik.com/free-photo/sun-rays-cloudy-sky_23-2148824932.jpg",
+			"image2": "https://img.freepik.com/free-photo/shining-sun-clear-blue-sky_1160-293.jpg"
 		}
 	},
 	{
@@ -2583,6 +2674,26 @@
 		}
 	},
 	{
+		"upas": {
+			"category": [
+				"pogoda"
+			],
+			"definition": "upas lyk 🌨️",
+			"image": "https://img.freepik.com/free-photo/3d-winter-landscape-with-snowy-tree_1048-9648.jpg",
+			"image2": "https://img.freepik.com/free-photo/mysterious-winter-landscape-majestic-mountains-winter_146671-14057.jpg"
+		}
+	},
+	{
+		"upaslule": {
+			"category": [
+				"pogoda"
+			],
+			"definition": "upaslule lyk ❄️",
+			"image": "https://img.freepik.com/free-photo/winter-snowflake-christmas-ornament-macro-photography-remix-photography-by-wilson-bentley_53876-95365.jpg",
+			"image2": "https://img.freepik.com/free-photo/snowflakes-blue-surface_144627-33732.jpg"
+		}
+	},
+	{
 		"usci": {
 			"category": [
 				"namting"
@@ -2590,6 +2701,15 @@
 			"definition": "🧀 - kjero namting f'gjunju du deki nam.",
 			"image": "https://img.freepik.com/free-photo/beautiful-cheeses-kitchen-cheese-food-preparing-concept_1150-13533.jpg",
 			"image2": "https://img.freepik.com/free-photo/delicious-pieces-cheese_144627-43352.jpg"
+		}
+	},
+	{
+		"vapazma": {
+			"category": [
+				"pogoda"
+			],
+			"definition": "vapazma lyk 🌡️, tatoeba 30°C, 88°F, 304°K",
+			"image": "https://img.freepik.com/free-photo/close-up-thermometer-showing-high-temperature_23-2149456737.jpg"
 		}
 	},
 	{
@@ -2658,6 +2778,26 @@
 			"definition": "🍇 - makot, ros au midori frauta du deki nam.",
 			"image": "https://img.freepik.com/free-photo/bunch-fresh-grapes-hand-black-background-high-quality-photo_114579-44220.jpg",
 			"image2": "https://img.freepik.com/free-photo/ripe-grapes-wicker-basket-wooden-background-flat-lay_176474-9810.jpg"
+		}
+	},
+	{
+		"vint": {
+			"category": [
+				"pogoda"
+			],
+			"definition": "vint lyk 💨",
+			"image": "https://img.freepik.com/free-photo/low-angle-shot-bird-flying-cloudy-sky-daytime_181624-18823.jpg",
+			"image2": "https://img.freepik.com/free-photo/medium-shot-happy-woman-beach_23-2148748761.jpg"
+		}
+	},
+	{
+		"vintkrol": {
+			"category": [
+				"pogoda"
+			],
+			"definition": "vintkrol lyk 🌪️",
+			"image": "https://img.freepik.com/free-photo/weather-effects-composition_23-2149853297.jpg",
+			"image2": "https://img.freepik.com/free-photo/weather-effects-collage_23-2149719097.jpg"
 		}
 	},
 	{
