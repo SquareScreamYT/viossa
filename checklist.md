@@ -2,7 +2,6 @@
 
 ### To do:
 
-- Finish up time https://sq.is-a.dev/viossa#tyd
 - Feelings https://sq.is-a.dev/viossa#kokoro
 - Add everything from https://sq.is-a.dev/viossa
 - Verbs
