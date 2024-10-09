@@ -238,8 +238,6 @@ img {
 
 #category-filter {
   max-height: 50px;
-  overflow: auto;
-  scrollbar-color: --border-color var(--bg-color-darkest);
   width: 100%;
   margin-bottom: 10px;
   margin-left: 0px;
@@ -251,21 +249,14 @@ img {
   text-align: left;
   background-color: var(--bg-color-darker);
   color: var(--text-color);
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
   transition: background-color 0.3s ease;
   font-family: "Nunito", "SF Pro Rounded", "Apple Color Emoji", "Noto Color Emoji", "Lato", system-ui, -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif, monospace;
 }
-
-#category-filter option {
-  background-color: var(--bg-color-darker);
-  color: var(--text-color);
-  transition: background-color 0.3s ease;
-}
-#category-filter option:hover {
-  background-color: var(--bg-color-darkest);
-}
-
-#category-filter-container {
-  height: fit-content;
+#category-filter::-ms-expand {
+  display: none;
 }
 
 #copy-button {
