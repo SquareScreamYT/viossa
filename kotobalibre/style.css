@@ -237,6 +237,9 @@ img {
 }
 
 #category-filter {
+  max-height: 50px;
+  overflow: auto;
+  scrollbar-color: --border-color var(--bg-color-darkest);
   width: 100%;
   margin-bottom: 10px;
   margin-left: 0px;
