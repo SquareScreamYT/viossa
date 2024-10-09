@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tyd ine Viossa</title>
+</head>
+<body>
+    <h1>Tyd</h1>
+    <p id="time"></p>
+
+    <script>
+        function updateTime() {
+            const now = new Date();
+            const yesterday = new Date(now.getFullYear(), now.getMonth(), now.getDate() - 1);
+            const tomorrow = new Date(now.getFullYear(), now.getMonth(), now.getDate() + 1);
+            const hours = now.getHours();
+            const minutes = String(now.getMinutes()).padStart(2, '0');
+            const seconds = String(now.getSeconds()).padStart(2, '0');
+            const year = now.getFullYear();
+            const month = now.getMonth() + 1;
+            const day = now.getDate();
+
+            const timetext = document.getElementById("time");
+            timetext.innerHTML = `
+                tyd = 🕐🕑🕒🕓🕔🕕🕖🕗🕘🕙🕚🕛🕜🕝🕞🕟🕠🕡🕢🕣🕤🕥🕦🕧<br>
+                tydkrais = 🕓⏰⏳⏱<br><br>
+                ima = ${hours}:${minutes}:${seconds}<br>
+                ⬅️🕰️ dan (ine dantyd)<br>
+                🕰️➡️ miraj (ine mirajtyd)<br><br>
+                
+                dag = ${day}/${month}/${year} 12:00 -> ${tomorrow.getDate()}/${tomorrow.getMonth() + 1}/${tomorrow.getFullYear()} 12:00<br><br>
+                1 dag = 24 djikan<br>
+                1 djikan = 60 fun<br>
+                1 fun = 60 sjoi<br><br>
+                7 dag = 1 wik<br>
+                28/29/30/31 dag = 1 muaj<br>
+                12 muaj = 1 tosji<br><br>
+                dandag = ${yesterday.getDate()}/${yesterday.getMonth() + 1}/${yesterday.getFullYear()}<br>
+                imadag = ${day}/${month}/${year}<br>
+                miraidag = ${tomorrow.getDate()}/${tomorrow.getMonth() + 1}/${tomorrow.getFullYear()}
+            `;
+        }
+
+        updateTime();
+        setInterval(updateTime, 1000);
+    </script>
+</body>
+</html>
