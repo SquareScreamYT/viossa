@@ -4,6 +4,8 @@
 
 - Feelings https://sq.is-a.dev/viossa#kokoro
 - Add everything from https://sq.is-a.dev/viossa
+- Seasons
+    - Toshitel: pranvera - vera - suksu - talvi
 - Verbs
 - Celestial Objects
 - Plants
