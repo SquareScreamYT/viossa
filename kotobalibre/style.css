@@ -490,3 +490,28 @@ label {
   background-color: var(--bg-color-dark);
   border-radius: 15px;
 }
+
+.checkbox-controls {
+  display: flex;
+  justify-content: left;
+  margin-top: 10px;
+  gap: 10px;
+}
+
+#check-all, #uncheck-all {
+  font-family: "Nunito", "SF Pro Rounded", "Apple Color Emoji", "Noto Color Emoji", "Lato", system-ui, -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif, monospace;
+  appearance: none;
+  background-color: var(--bg-color-darker);
+  color: var(--text-color);
+  padding: 8px 12px;
+  font-size: 0.9em;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  outline: none;
+  transition: background-color 0.3s ease;
+}
+
+#check-all:hover, #uncheck-all:hover {
+  background-color: var(--bg-color-darkest);
+}

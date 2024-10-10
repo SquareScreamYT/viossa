@@ -455,3 +455,27 @@ function levenshteinDistance(a, b) {
 
   return matrix[b.length][a.length];
 }
+
+function checkAllCategories() {
+  const checkboxes = document.querySelectorAll('#category-checkboxes input[type="checkbox"]');
+  checkboxes.forEach(checkbox => {
+    checkbox.checked = true;
+  });
+  applyFilters();
+}
+
+function uncheckAllCategories() {
+  const checkboxes = document.querySelectorAll('#category-checkboxes input[type="checkbox"]');
+  checkboxes.forEach(checkbox => {
+    checkbox.checked = false;
+  });
+  applyFilters();
+}
+
+// Add these event listeners in the DOMContentLoaded event listener
+document.addEventListener('DOMContentLoaded', function() {
+  // ... existing code ...
+
+  document.getElementById('check-all').addEventListener('click', checkAllCategories);
+  document.getElementById('uncheck-all').addEventListener('click', uncheckAllCategories);
+});
