@@ -11,3 +11,5 @@
 - Common Items
 - Add everything from https://v8.zsnout.com/vjosali
 - Search Descriptions
+- Viossa sentence collection with search function for words
+- Integrate sentence collection into dictionary
