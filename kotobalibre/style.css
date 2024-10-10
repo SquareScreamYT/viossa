@@ -159,20 +159,35 @@ a {
 }
 
 #wordList {
-  overflow-y: auto;
+  overflow-y: scroll;
   transition: background-color 0.3s ease;
   box-sizing: border-box;
   margin-bottom: 5px;
   display: flex;
   flex-wrap: wrap;   
   gap: 10px;
-  justify-content: space-between; 
+  justify-content: flex-start; 
   max-width: 800px;
   -ms-overflow-style: none;
-  scrollbar-width: none;
+  scrollbar-width: thin;
+  scrollbar-color: var(--bg-color-darkest) var(--bg-color-darker);
+  -webkit-overflow-scrolling: touch;
+  padding-right: 10px;
 }
-#wordList::-webkit-scrollbar { 
-  display: none;
+
+#wordList::-webkit-scrollbar {
+  -webkit-appearance: none;
+  width: 7px;
+}
+
+#wordList::-webkit-scrollbar-thumb {
+  border-radius: 4px;
+  background-color: var(--bg-color-darkest);
+}
+
+#wordList::-webkit-scrollbar-track {
+  background-color: var(--bg-color-darker);
+  border-radius: 4px;
 }
 
 .word-entry {
@@ -184,7 +199,6 @@ a {
 
 .word-entry:last-child {
   border-bottom: none;
-  transition: background-color 0.3s ease;
 }
 
 .content {
@@ -201,10 +215,10 @@ a {
 .word-button {
   font-family: "Nunito", "SF Pro Rounded", "Apple Color Emoji", "Noto Color Emoji", "Lato", system-ui, -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif, monospace;
   display: block;
-  width: 100%;
+  width: calc(33.33% - 6.67px);
   padding: 10px;
   padding-left: 15px;
-  flex: 1 0 30%;
+  flex: 0 0 calc(33.33% - 6.67px);
   box-sizing: border-box;
   background-color: var(--bg-color-darker);
   color: var(--text-color);
