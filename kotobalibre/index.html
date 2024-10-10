@@ -29,10 +29,17 @@
   <div class="container">
     <div class="sidebar">
       <input type="text" id="search" placeholder="suha per kotoba...">
-      <div id="category-filter-container">
-        <select id="category-filter">
-          <option value="all">al klani</option>
-        </select>
+      <button id="category-filter-button">sentaku klani</button>
+      <div id="category-popup" class="popup">
+        <div class="popup-content">
+          <h2>sentaku klani</h2>
+          <div id="category-checkboxes"></div>
+          <div class="search-toggle">
+            <input type="checkbox" id="fuzzy-search-toggle" checked>
+            <label for="fuzzy-search-toggle">laki mangeplus kotoba</label>
+          </div>
+          <button id="apply-filters">owari</button>
+        </div>
       </div>
       <div id="wordList"></div>
     </div>

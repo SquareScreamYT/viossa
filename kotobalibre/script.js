@@ -5,6 +5,7 @@
 // also use tab for indentation otherwise it look too wide
 // ok the end
 
+// Color scheme functions
 function changeColorScheme() {
   var selectedScheme = document.getElementById('color-scheme').value;
   document.body.className = selectedScheme + '-scheme';
@@ -19,104 +20,160 @@ function loadColorScheme() {
   }
 }
 
+// Category and filtering functions
 function populateCategoryDropdown() {
   const categorySet = new Set();
-  const categoryDropdown = document.getElementById('category-filter');
+  const categoryCheckboxes = document.getElementById('category-checkboxes');
 
   fetch('words.json')
     .then(response => response.json())
     .then(data => {
+      wordsData = data; // Store the data globally
       data.forEach(item => {
         const categories = Object.values(item)[0].category;
         categories.forEach(category => categorySet.add(category));
       });
 
       Array.from(categorySet).sort().forEach(category => {
-        const option = document.createElement('option');
-        option.value = category;
-        option.textContent = category;
-        categoryDropdown.appendChild(option);
+        const checkboxWrapper = document.createElement('div');
+        checkboxWrapper.className = 'checkbox-wrapper';
+
+        const checkbox = document.createElement('input');
+        checkbox.type = 'checkbox';
+        checkbox.id = `category-${category}`;
+        checkbox.value = category;
+        checkbox.checked = true;
+
+        // Add event listener to each checkbox
+        checkbox.addEventListener('change', () => {
+          const selectedCategories = Array.from(document.querySelectorAll('#category-checkboxes input:checked')).map(cb => cb.value);
+          filterWords(selectedCategories);
+        });
+
+        const label = document.createElement('label');
+        label.htmlFor = `category-${category}`;
+        label.textContent = category;
+
+        checkboxWrapper.appendChild(checkbox);
+        checkboxWrapper.appendChild(label);
+        categoryCheckboxes.appendChild(checkboxWrapper);
+        checkbox.addEventListener('change', applyFilters);
       });
+
+      populateWordList(data); // Populate the word list initially
     });
 
-  categoryDropdown.addEventListener('change', filterWordsByCategory);
+  document.getElementById('category-filter-button').addEventListener('click', showCategoryPopup);
+  document.getElementById('apply-filters').addEventListener('click', applyFilters);
+  document.getElementById('fuzzy-search-toggle').addEventListener('change', applyFilters);
+  document.getElementById('apply-filters').addEventListener('click', closeCategoryPopup);
 }
 
-function filterWordsByCategory() {
-  const selectedCategory = document.getElementById('category-filter').value;
+function closeCategoryPopup() {
+  document.getElementById('category-popup').style.display = 'none';
+}
+
+function showCategoryPopup() {
+  document.getElementById('category-popup').style.display = 'block';
+}
+
+function applyFilters() {
+  const selectedCategories = Array.from(document.querySelectorAll('#category-checkboxes input:checked')).map(cb => cb.value);
+  const fuzzySearch = document.getElementById('fuzzy-search-toggle').checked;
+  const searchTerm = document.getElementById('search').value.toLowerCase();
   const buttons = document.getElementsByClassName('word-button');
 
   Array.from(buttons).forEach(button => {
-    if (selectedCategory === 'all') {
-      button.style.display = 'block';
-    } else {
-      fetch('words.json')
-        .then(response => response.json())
-        .then(data => {
-          const word = button.textContent;
-          const wordData = data.find(item => Object.keys(item)[0] === word);
-          const categories = wordData[word].category;
-          button.style.display = categories.includes(selectedCategory) ? 'block' : 'none';
-        });
-    }
+    const word = button.textContent;
+    const wordData = wordsData.find(item => Object.keys(item)[0] === word);
+    const categories = wordData[word].category;
+
+    const categoryMatch = selectedCategories.length === 0 || categories.some(cat => selectedCategories.includes(cat));
+    const searchMatch = fuzzySearch 
+      ? calculateRelevanceScore(word, wordData[word].definition, searchTerm) > 0 
+      : word.toLowerCase().startsWith(searchTerm);
+
+    button.style.display = (categoryMatch && (searchMatch || searchTerm === '')) ? 'block' : 'none';
   });
 }
 
+
+function filterWords(selectedCategories) {
+  const searchTerm = document.getElementById('search').value.toLowerCase();
+  const buttons = document.getElementsByClassName('word-button');
+
+  Array.from(buttons).forEach(button => {
+    const word = button.textContent;
+    const wordData = wordsData.find(item => Object.keys(item)[0] === word);
+    const categories = wordData[word].category;
+
+    const categoryMatch = selectedCategories.length === 0 || categories.some(cat => selectedCategories.includes(cat));
+    const searchMatch = word.toLowerCase().startsWith(searchTerm);
+
+    button.style.display = (categoryMatch && (searchMatch || searchTerm === '')) ? 'block' : 'none';
+  });
+}
+
+// Word list and details functions
+function populateWordList(data) {
+  const wordsContainer = document.getElementById('wordList');
+  wordsContainer.innerHTML = ''; // Clear existing content
+
+  const sortedWords = data.map(item => ({
+    word: Object.keys(item)[0],
+    data: Object.values(item)[0]
+  })).sort((a, b) => a.word.localeCompare(b.word));
+
+  sortedWords.forEach((item) => {
+    const button = document.createElement('button');
+    button.className = 'word-button';
+    button.textContent = item.word;
+    button.addEventListener('click', () => {
+      displayWordDetails(item);
+    });
+    wordsContainer.appendChild(button);
+  });
+}
+
+function displayWordDetails(item) {
+  const definitionsElement = document.getElementById('wordDetails');
+  const titleElement = document.getElementById('wordName');
+
+  definitionsElement.innerHTML = `
+    <h4>klani: ${item.data.category.join(", ")}</h4>
+    <p>${item.data.definition}</p>
+    ${item.data.image ? `<h4>riso:</h4>` : ''}
+    ${item.data.image ? `<img src="${item.data.image}" height=200 width=auto>` : ''}
+    ${item.data.image2 ? `<img src="${item.data.image2}" height=200 width=auto>` : ''}
+    ${item.data.image ? `<h5>riso f'<a href="https://freepik.com">Freepik</a></h5>` : ''}
+  `;
+  titleElement.innerHTML = item.word;
+}
+
+// Event listeners and initialization
 document.addEventListener('DOMContentLoaded', function() {
   loadColorScheme();
   populateCategoryDropdown();
-
-  fetch('words.json')
-    .then(response => response.json())
-    .then(data => {
-      wordsData = data;
-      const wordsContainer = document.getElementById('wordList');
-      const definitionsElement = document.getElementById('wordDetails');
-      const titleElement = document.getElementById('wordName');
-      
-      // Create an array of word objects and sort it
-      const sortedWords = data.map(item => ({
-        word: Object.keys(item)[0],
-        data: Object.values(item)[0]
-      })).sort((a, b) => a.word.localeCompare(b.word));
-      
-      // Create and append buttons based on the sorted array
-      sortedWords.forEach((item) => {
-        const button = document.createElement('button');
-        button.className = 'word-button';
-        button.textContent = item.word;
-        button.addEventListener('click', () => {
-          definitionsElement.innerHTML = `
-            <h4>klani: ${item.data.category.join(", ")}</h4>
-            <p>${item.data.definition}</p>
-            ${item.data.image ? `<h4>riso:</h4>` : ''}
-            ${item.data.image ? `<img src="${item.data.image}" height=200 width=auto>` : ''}
-            ${item.data.image2 ? `<img src="${item.data.image2}" height=200 width=auto>` : ''}
-            ${item.data.image ? `<h5>riso f'<a href="https://freepik.com">Freepik</a></h5>` : ''}
-          `;
-          titleElement.innerHTML = item.word;
-        });
-        wordsContainer.appendChild(button);
-      });
-    })
-    .catch(error => console.error('Error:', error));
-
   checkUrlAndSearch();
 
   const searchInput = document.getElementById('search');
-  searchInput.addEventListener('input', filterWords);
+  searchInput.addEventListener('input', applyFilters);
 });
+
+const filterButton = document.getElementById('category-filter-button');
+filterButton.style.display = 'block';
 
 const wordsContainer = document.getElementById('wordList');
 const searchInput = document.getElementById('search');
 searchInput.addEventListener('input', filterWords);
 
+// Fuzzy search functions
 function filterWords() {
   const searchTerm = searchInput.value.toLowerCase();
   const buttons = document.getElementsByClassName('word-button');
   const threshold = 2; // Adjust this value to change the sensitivity
   const maxResults = 10; // Maximum number of results to display
-  
+
   if (searchTerm === '') {
     Array.from(buttons).forEach(button => {
       button.style.display = 'block';
@@ -139,7 +196,7 @@ function filterWords() {
     const word = button.textContent;
     const index = scoredWords.findIndex(item => item.word === word);
     const score = scoredWords[index].score;
-    
+
     if (score >= threshold && (displayedCount < maxResults || score > 10 || word.toLowerCase() === searchTerm)) {
       button.style.order = index;
       button.style.display = 'block';
@@ -170,7 +227,7 @@ function calculateRelevanceScore(word, definition, searchTerm) {
   // Check if the normalized definition contains the normalized search term
   if (normalizeDigraphs(definitionLower).includes(normalizedSearchTerm)) {
     score += 3;
-  } 
+  }
 
   // Calculate the Levenshtein distance for the normalized word
   const wordDistance = levenshteinDistance(normalizedWord, normalizedSearchTerm);
@@ -195,7 +252,6 @@ function normalizeDigraphs(text) {
 
   return text;
 }
-
 
 function levenshteinDistance(a, b) {
   if (a.length === 0) return b.length;
@@ -228,6 +284,7 @@ function levenshteinDistance(a, b) {
   return matrix[b.length][a.length];
 }
 
+// URL and search functions
 function checkUrlAndSearch() {
   const currentUrl = new URL(window.location.href);
   const searchParams = currentUrl.searchParams;
@@ -245,7 +302,7 @@ function loadWordDetails(word) {
     .then(response => response.json())
     .then(data => {
       const wordObject = data.find(item => Object.keys(item)[0].toLowerCase() === word.toLowerCase());
-      
+
       if (wordObject) {
         const wordKey = Object.keys(wordObject)[0];
         const definitionsElement = document.getElementById('wordDetails');
@@ -282,6 +339,7 @@ function copyURL() {
     });
 }
 
+// Custom alert function
 function customAlert(message) {
   const alertBox = document.getElementById('customAlert');
   const alertMessage = document.getElementById('alertMessage');
@@ -307,6 +365,7 @@ function customAlert(message) {
   });
 }
 
+// Global variables and data loading
 let wordsData;
 
 fetch('words.json')
@@ -315,6 +374,7 @@ fetch('words.json')
     wordsData = data;
   });
 
+// Statistics functions
 function countWords(data) {
   return data.length;
 }
@@ -335,4 +395,63 @@ function showStats() {
   } else {
     console.log('Data not loaded yet');
   }
+}
+
+function calculateRelevanceScore(word, definition, searchTerm) {
+  let score = 0;
+  const wordLower = word.toLowerCase();
+  const definitionLower = definition.toLowerCase();
+
+  // Check if the word starts with the search term
+  if (wordLower.startsWith(searchTerm)) {
+    score += 10;
+  }
+
+  // Check if the word contains the search term
+  if (wordLower.includes(searchTerm)) {
+    score += 5;
+  }
+
+  // Check if the definition contains the search term
+  if (definitionLower.includes(searchTerm)) {
+    score += 3;
+  }
+
+  // Calculate the Levenshtein distance
+  const distance = levenshteinDistance(wordLower, searchTerm);
+  score += Math.max(0, 5 - distance);
+
+  return score;
+}
+
+// Helper function to calculate Levenshtein distance
+function levenshteinDistance(a, b) {
+  if (a.length === 0) return b.length;
+  if (b.length === 0) return a.length;
+
+  const matrix = [];
+
+  for (let i = 0; i <= b.length; i++) {
+    matrix[i] = [i];
+  }
+
+  for (let j = 0; j <= a.length; j++) {
+    matrix[0][j] = j;
+  }
+
+  for (let i = 1; i <= b.length; i++) {
+    for (let j = 1; j <= a.length; j++) {
+      if (b.charAt(i - 1) === a.charAt(j - 1)) {
+        matrix[i][j] = matrix[i - 1][j - 1];
+      } else {
+        matrix[i][j] = Math.min(
+          matrix[i - 1][j - 1] + 1,
+          matrix[i][j - 1] + 1,
+          matrix[i - 1][j] + 1
+        );
+      }
+    }
+  }
+
+  return matrix[b.length][a.length];
 }
