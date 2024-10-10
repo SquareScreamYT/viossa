@@ -410,8 +410,11 @@ img {
 }
 
 .popup-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   background-color: var(--bg-color);
-  margin: 15% auto;
   padding: 20px;
   border-radius: 15px;
   width: 80%;
