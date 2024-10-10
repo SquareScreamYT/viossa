@@ -2231,6 +2231,16 @@
 		}
 	},
 	{
+		"pranvera": {
+			"category": [
+				"tyd"
+			],
+			"definition": "pranvera lyk tosjitel fu 🌸🌷🌳.",
+			"image": "https://img.freepik.com/free-photo/cherry-blossoms-fuji-mountain-spring-sunrise-shizuoka-japan_335224-110.jpg",
+			"image2": "https://img.freepik.com/free-photo/mustard-field-with-beautiful-snow-covered-mountains-landscape-kashmir-state-india_1232-4823.jpg"
+		}
+	},
+	{
 		"prapa": {
 			"category": [
 				"ples"
@@ -2537,12 +2547,32 @@
 		}
 	},
 	{
+		"suksa": {
+			"category": [
+				"tyd"
+			],
+			"definition": "suksa lyk tosjitel fu 🍂🥮🍁.",
+			"image": "https://img.freepik.com/free-photo/park-sunset_1160-774.jpg",
+			"image2": "https://img.freepik.com/free-photo/tree-with-bright-orange-leaves-daytime-autumn_181624-19605.jpg"
+		}
+	},
+	{
 		"tabun": {
 			"category": [
 				"svarekotoba"
 			],
 			"definition": "akurat 100%<br>tabun 75%<br>glaubi 50%<br>tabunnaj 25%<br>naj 0%",
 			"image": "https://img.freepik.com/free-vector/check-mark-green-3d_78370-4446.jpg"
+		}
+	},
+	{
+		"talvi": {
+			"category": [
+				"tyd"
+			],
+			"definition": "talvi lyk tosjitel fu 🏂❄️⛄.",
+			"image": "https://img.freepik.com/free-photo/mysterious-winter-landscape-majestic-mountains-winter_146671-14057.jpg",
+			"image2": "https://img.freepik.com/free-photo/overhead-view-snow-covered-trees-winter_23-2148153660.jpg"
 		}
 	},
 	{
@@ -2592,6 +2622,14 @@
 			"definition": "🍰🥧🎂 - brun namting mahajena na alk du deki nam.",
 			"image": "https://img.freepik.com/free-photo/strawberry-cheesecake-isolated-white-background_123827-29174.jpg",
 			"image2": "https://img.freepik.com/free-photo/homemade-newyork-cheesecake-with-frozen-berries-mint-healthy-organic-dessert-top-view_114579-9852.jpg"
+		}
+	},
+	{
+		"tosjitel": {
+			"category": [
+				"tyd"
+			],
+			"definition": "jam 4 tosjitel ine 1 tosji: pranvera, vera, suksa, talvi."
 		}
 	},
 	{
@@ -2729,6 +2767,16 @@
 			"definition": "🦌 - dur",
 			"image": "https://img.freepik.com/free-photo/deer-captured-wild-forest_23-2148866334.jpg",
 			"image2": "https://img.freepik.com/free-photo/wild-deer-captured-forest_23-2148866330.jpg"
+		}
+	},
+	{
+		"vera": {
+			"category": [
+				"tyd"
+			],
+			"definition": "vera lyk tosjitel fu 🌳☀️🏖️.",
+			"image": "https://img.freepik.com/free-photo/beautiful_1203-2633.jpg",
+			"image2": "https://img.freepik.com/free-photo/elder-woman-struggling-with-high-temperature_23-2149456747.jpg"
 		}
 	},
 	{
