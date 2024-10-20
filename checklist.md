@@ -8,6 +8,7 @@
 - Celestial Objects
 - Plants
 - Office Supplies
+- Push and Pull https://discord.com/channels/193915435123474432/750379757799211190/1297420382466342922
 - Common Items
 - Basic English Words https://en.wiktionary.org/wiki/Appendix:Basic_English_word_list
 - More Namting https://discord.com/channels/193915435123474432/1119138979573399594
