@@ -18,3 +18,4 @@
 - Search Descriptions
 - Viossa sentence collection with search function for words
 - Integrate sentence collection into dictionary
+- Labeled Images
