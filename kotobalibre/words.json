@@ -289,11 +289,44 @@
 		}
 	},
 	{
+		"baungua": {
+			"category": [
+				"frauta",
+				"namting"
+			],
+			"definition": "portokali frauta mit midori piel du deki nam",
+			"image": "https://img.freepik.com/free-photo/fresh-papaya-fruit_144627-34201.jpg",
+			"image2": "https://img.freepik.com/free-photo/papaya-juice-serve-with-fresh-papaya-chopped_1150-28069.jpg"
+		}
+	},
+	{
+		"beawog": {
+			"category": [
+				"namting",
+				"ovosji"
+			],
+			"definition": "beawog rosa ovosji mit midori leti du deki nam",
+			"image": "https://img.freepik.com/free-photo/rhubarb_144627-15117.jpg",
+			"image2": "https://img.freepik.com/free-photo/green-leaf-vegetable_198174-34.jpg"
+		}
+	},
+	{
 		"biljon": {
 			"category": [
 				"lasku"
 			],
 			"definition": "biljon lyk 1000000000"
+		}
+	},
+	{
+		"bingas": {
+			"category": [
+				"frauta",
+				"namting"
+			],
+			"definition": "sot sjiro frauta mit ros os midori piel",
+			"image": "https://img.freepik.com/free-photo/juicy-food-fresh-fruit-nutrition_1203-5398.jpg",
+			"image2": "https://img.freepik.com/free-photo/rambutan_1388-565.jpg"
 		}
 	},
 	{
@@ -423,6 +456,16 @@
 			"definition": "dag lyk 🏞️ os 24 djikan<br>se<a href='/viossa/tyd'>dag ine viossalibre</a>",
 			"image": "https://img.freepik.com/free-photo/sun-rays-cloudy-sky_23-2148824930.jpg",
 			"image2": "https://img.freepik.com/free-photo/forest-mountain-landscape-view_1150-10915.jpg"
+		}
+	},
+	{
+		"dalacini": {
+			"category": [
+				"namting"
+			],
+			"definition": "brun masala fu eksoting fu jokubaum",
+			"image": "https://img.freepik.com/free-photo/cinnamon-its-dust-around-it_144627-448.jpg",
+			"image2": "https://img.freepik.com/free-photo/high-angle-bowl-with-cinnamon-sticks-nutmeg_23-2148426076.jpg"
 		}
 	},
 	{
@@ -1094,6 +1137,17 @@
 		}
 	},
 	{
+		"kalamansi": {
+			"category": [
+				"frauta",
+				"namting"
+			],
+			"definition": "🍋‍🟩 - syr midori frauta du deki nam",
+			"image": "https://img.freepik.com/free-photo/fresh-lime-fruit-isolated_144627-30038.jpg",
+			"image2": "https://img.freepik.com/free-photo/closeup-fresh-lime_53876-31680.jpg"
+		}
+	},
+	{
 		"kamome": {
 			"category": [
 				"dur"
@@ -1488,6 +1542,16 @@
 		}
 	},
 	{
+		"lunapan": {
+			"category": [
+				"namting"
+			],
+			"definition": "🥐 - pan mit lunafal kara franslant",
+			"image": "https://img.freepik.com/free-photo/fresh-french-croissants-tablecloth_144627-4424.jpg",
+			"image2": "https://img.freepik.com/free-photo/fresh-french-croissants-tablecloth_144627-4417.jpg"
+		}
+	},
+	{
 		"lupo": {
 			"category": [
 				"dur"
@@ -1546,6 +1610,17 @@
 			"definition": "🥭 - ros, kjero os midorii frauta du deki nam.",
 			"image": "https://img.freepik.com/free-photo/mango_1203-8850.jpg",
 			"image2": "https://img.freepik.com/free-photo/cut-mango_501050-332.jpg"
+		}
+	},
+	{
+		"mangis": {
+			"category": [
+				"frauta",
+				"namting"
+			],
+			"definition": "sot sjiro frauta mit makot isjilyk piel",
+			"image": "https://img.freepik.com/free-photo/mangosteen-thai-popular-fruits-tropical-fruit-with-sweet-juicy-white-segments-flesh-inside-thick-reddish-brown-rind_1150-13543.jpg",
+			"image2": "https://img.freepik.com/free-photo/mangosteen-wood-table_1388-211.jpg"
 		}
 	},
 	{
@@ -1995,6 +2070,16 @@
 		}
 	},
 	{
+		"ovosjiusci": {
+			"category": [
+				"namting"
+			],
+			"definition": "usci men shiro, fuwafuwa au mahajena na ovosji",
+			"image": "https://img.freepik.com/free-photo/tofu-made-from-soybeans-food-nutrition-concept_1150-26360.jpg",
+			"image2": "https://img.freepik.com/free-photo/pngcubes-tofu-bowl-with-leaves-isolated-white-background_185193-163134.jpg"
+		}
+	},
+	{
 		"palaina": {
 			"category": [
 				"dur"
@@ -2267,6 +2352,17 @@
 			"definition": "🍎🍏 - ros os midori frauta du deki nam.",
 			"image": "https://img.freepik.com/free-photo/two-red-apples-isolated-white_114579-73124.jpg",
 			"image2": "https://img.freepik.com/free-photo/green-fresh-apples-as-background_78492-3923.jpg"
+		}
+	},
+	{
+		"rime": {
+			"category": [
+				"frauta",
+				"namting"
+			],
+			"definition": "sot sjiro frauta mit brun isjilyk piel",
+			"image": "https://img.freepik.com/free-photo/sugary-delicious-yellow-tropic-isolate_1417-311.jpg",
+			"image2": "https://img.freepik.com/free-photo/fruit-group-tropical-agriculture-freshness_1417-312.jpg"
 		}
 	},
 	{
@@ -2604,6 +2700,16 @@
 		}
 	},
 	{
+		"togepan": {
+			"category": [
+				"namting"
+			],
+			"definition": "🍩 - pan mit gormoj ine mellan",
+			"image": "https://img.freepik.com/free-photo/purple-pink-donuts-white-background_23-2148166195.jpg",
+			"image2": "https://img.freepik.com/free-photo/elevated-view-tasty-donut-with-sprinkle-isolated-pink-background_23-2147909385.jpg"
+		}
+	},
+	{
 		"tori": {
 			"category": [
 				"dur",
@@ -2891,6 +2997,17 @@
 				"varge"
 			],
 			"definition": "<span style=\"color:#a3e635;\">afto varge zjelon</span>"
+		}
+	},
+	{
+		"zvezdafrauta": {
+			"category": [
+				"frauta",
+				"namting"
+			],
+			"definition": "syr au sot kjero frauta mit zvezda-lyk fal",
+			"image": "https://img.freepik.com/free-photo/starfruit_23-2148167222.jpg",
+			"image2": "https://img.freepik.com/free-photo/star-fruit-carambola_2829-14483.jpg"
 		}
 	}
 ]
