@@ -89,21 +89,32 @@ function applyFilters() {
   const searchDescription = document.getElementById("search-description").checked;
   const fuzzyStrength = parseInt(document.getElementById("fuzzy-strength").value);
   const searchTerm = document.getElementById("search").value.toLowerCase();
-  const buttons = document.getElementsByClassName("word-button");
-
-  Array.from(buttons).forEach((button) => {
+  
+  // Create array of buttons with their scores
+  const buttonArray = Array.from(document.getElementsByClassName("word-button"));
+  
+  buttonArray.forEach(button => {
     const word = button.textContent;
     const wordData = wordsData.find((item) => Object.keys(item)[0] === word);
     const categories = wordData[word].category;
-
+    
+    button.relevanceScore = calculateRelevanceScore(word, searchDescription ? wordData[word].definition : "", searchTerm);
+    
     const categoryMatch = selectedCategories.length === 0 || 
                          categories.some((cat) => selectedCategories.includes(cat));
     const searchMatch = fuzzySearch
-      ? calculateRelevanceScore(word, searchDescription ? wordData[word].definition : "", searchTerm) > 10 / fuzzyStrength
+      ? button.relevanceScore > 10 / fuzzyStrength
       : word.toLowerCase().startsWith(searchTerm);
-
+      
     button.style.display = categoryMatch && (searchMatch || searchTerm === "") ? "block" : "none";
   });
+
+  // Sort visible buttons by relevance score
+  if (searchTerm) {
+    buttonArray
+      .sort((a, b) => b.relevanceScore - a.relevanceScore)
+      .forEach(button => button.parentNode.appendChild(button));
+  }
 }
 
 // Word display and population
@@ -157,6 +168,10 @@ function calculateRelevanceScore(word, definition, searchTerm) {
   const normalizedWord = normalizeDigraphs(wordLower);
   const normalizedSearchTerm = normalizeDigraphs(searchTerm);
   const fuzzyStrength = parseInt(document.getElementById("fuzzy-strength").value);
+
+  if (normalizedWord == normalizedSearchTerm) {
+    score += 15 * fuzzyStrength;
+  }
 
   if (normalizedWord.startsWith(normalizedSearchTerm)) {
     score += 10 * fuzzyStrength;
