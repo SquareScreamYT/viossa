@@ -7,20 +7,24 @@
 // make code pretty
 // https://prettier.io/playground
 
+let wordsData;
+
+// Color scheme handling
 function changeColorScheme() {
-  var selectedScheme = document.getElementById("color-scheme").value;
+  const selectedScheme = document.getElementById("color-scheme").value;
   document.body.className = selectedScheme + "-scheme";
   localStorage.setItem("colorScheme", selectedScheme);
 }
 
 function loadColorScheme() {
-  var savedScheme = localStorage.getItem("colorScheme");
+  const savedScheme = localStorage.getItem("colorScheme");
   if (savedScheme) {
     document.body.className = savedScheme + "-scheme";
     document.getElementById("color-scheme").value = savedScheme;
   }
 }
 
+// Category handling
 function populateCategoryDropdown() {
   const categorySet = new Set();
   const categoryCheckboxes = document.getElementById("category-checkboxes");
@@ -28,7 +32,7 @@ function populateCategoryDropdown() {
   fetch("words.json")
     .then((response) => response.json())
     .then((data) => {
-      wordsData = data; 
+      wordsData = data;
       data.forEach((item) => {
         const categories = Object.values(item)[0].category;
         categories.forEach((category) => categorySet.add(category));
@@ -45,13 +49,7 @@ function populateCategoryDropdown() {
           checkbox.id = `category-${category}`;
           checkbox.value = category;
           checkbox.checked = true;
-
-          checkbox.addEventListener("change", () => {
-            const selectedCategories = Array.from(
-              document.querySelectorAll("#category-checkboxes input:checked"),
-            ).map((cb) => cb.value);
-            filterWords(selectedCategories);
-          });
+          checkbox.addEventListener("change", applyFilters);
 
           const label = document.createElement("label");
           label.htmlFor = `category-${category}`;
@@ -60,43 +58,36 @@ function populateCategoryDropdown() {
           checkboxWrapper.appendChild(checkbox);
           checkboxWrapper.appendChild(label);
           categoryCheckboxes.appendChild(checkboxWrapper);
-          checkbox.addEventListener("change", applyFilters);
         });
 
       populateWordList(data);
     });
-
-  document
-    .getElementById("category-filter-button")
-    .addEventListener("click", showCategoryPopup);
-  document
-    .getElementById("apply-filters")
-    .addEventListener("click", applyFilters);
-  document
-    .getElementById("fuzzy-search-toggle")
-    .addEventListener("change", applyFilters);
-  document
-    .getElementById("apply-filters")
-    .addEventListener("click", closeCategoryPopup);
 }
 
-function closeCategoryPopup() {
-  document.getElementById("category-popup").style.display = "none";
+function checkAllCategories() {
+  const checkboxes = document.querySelectorAll('#category-checkboxes input[type="checkbox"]');
+  checkboxes.forEach((checkbox) => {
+    checkbox.checked = true;
+  });
+  applyFilters();
 }
 
-function showCategoryPopup() {
-  document.getElementById("category-popup").style.display = "block";
+function uncheckAllCategories() {
+  const checkboxes = document.querySelectorAll('#category-checkboxes input[type="checkbox"]');
+  checkboxes.forEach((checkbox) => {
+    checkbox.checked = false;
+  });
+  applyFilters();
 }
 
+// Search and filter functionality
 function applyFilters() {
   const selectedCategories = Array.from(
-    document.querySelectorAll("#category-checkboxes input:checked"),
+    document.querySelectorAll("#category-checkboxes input:checked")
   ).map((cb) => cb.value);
   const fuzzySearch = document.getElementById("fuzzy-search-toggle").checked;
   const searchDescription = document.getElementById("search-description").checked;
-  const fuzzyStrength = parseInt(
-    document.getElementById("fuzzy-strength").value,
-  );
+  const fuzzyStrength = parseInt(document.getElementById("fuzzy-strength").value);
   const searchTerm = document.getElementById("search").value.toLowerCase();
   const buttons = document.getElementsByClassName("word-button");
 
@@ -105,58 +96,17 @@ function applyFilters() {
     const wordData = wordsData.find((item) => Object.keys(item)[0] === word);
     const categories = wordData[word].category;
 
-    const categoryMatch =
-      selectedCategories.length === 0 ||
-      categories.some((cat) => selectedCategories.includes(cat));
+    const categoryMatch = selectedCategories.length === 0 || 
+                         categories.some((cat) => selectedCategories.includes(cat));
     const searchMatch = fuzzySearch
-      ? calculateRelevanceScore(word, searchDescription ? wordData[word].definition : "", searchTerm) >
-        10 / fuzzyStrength
+      ? calculateRelevanceScore(word, searchDescription ? wordData[word].definition : "", searchTerm) > 10 / fuzzyStrength
       : word.toLowerCase().startsWith(searchTerm);
 
-    button.style.display =
-      categoryMatch && (searchMatch || searchTerm === "") ? "block" : "none";
+    button.style.display = categoryMatch && (searchMatch || searchTerm === "") ? "block" : "none";
   });
 }
 
-function filterWords() {
-  const searchTerm = searchInput.value.toLowerCase();
-  const buttons = document.getElementsByClassName("word-button");
-  const threshold = 2 / parseInt(document.getElementById("fuzzy-strength").value);
-  const searchDescription = document.getElementById("search-description").checked;
-  const maxResults = 10;
-
-  if (searchTerm === "") {
-    Array.from(buttons).forEach((button) => {
-      button.style.display = "block";
-      button.style.order = 0;
-    });
-    return;
-  }
-
-  const scoredWords = wordsData.map((item) => {
-    const word = Object.keys(item)[0];
-    const definition = item[word].definition;
-    const score = searchDescription 
-      ? calculateRelevanceScore(word, definition, searchTerm)
-      : calculateRelevanceScore(word, "", searchTerm);
-    return { word, score };
-  });
-
-  Array.from(buttons).forEach((button) => {
-    const word = button.textContent;
-    const wordData = wordsData.find((item) => Object.keys(item)[0] === word);
-    const categories = wordData[word].category;
-
-    const categoryMatch =
-      selectedCategories.length === 0 ||
-      categories.some((cat) => selectedCategories.includes(cat));
-    const searchMatch = word.toLowerCase().startsWith(searchTerm);
-
-    button.style.display =
-      categoryMatch && (searchMatch || searchTerm === "") ? "block" : "none";
-  });
-}
-
+// Word display and population
 function populateWordList(data) {
   const wordsContainer = document.getElementById("wordList");
   wordsContainer.innerHTML = "";
@@ -172,116 +122,56 @@ function populateWordList(data) {
     const button = document.createElement("button");
     button.className = "word-button";
     button.textContent = item.word;
-    button.addEventListener("click", () => {
-      displayWordDetails(item);
-    });
+    button.addEventListener("click", () => displayWordDetails(item));
     wordsContainer.appendChild(button);
   });
 }
 
-function displayWordDetails(item) {
-  const definitionsElement = document.getElementById("wordDetails");
-  const titleElement = document.getElementById("wordName");
-
-  definitionsElement.innerHTML = `
-    <h4>klani: ${item.data.category.join(", ")}</h4>
-    <p>${item.data.definition}</p>
-    ${item.data.image ? `<h4>riso:</h4>` : ""}
-    ${item.data.image ? `<img src="${item.data.image}" height=200 width=auto>` : ""}
-    ${item.data.image2 ? `<img src="${item.data.image2}" height=200 width=auto>` : ""}
-    ${item.data.image ? `<h5>riso f'<a href="https://freepik.com">Freepik</a></h5>` : ""}
-  `;
-  titleElement.innerHTML = item.word;
-}
-
+// Initialize everything when DOM is loaded
 document.addEventListener("DOMContentLoaded", function () {
   loadColorScheme();
   populateCategoryDropdown();
   checkUrlAndSearch();
 
-  const searchInput = document.getElementById("search");
-  searchInput.addEventListener("input", applyFilters);
+  // Event listeners
+  document.getElementById("search").addEventListener("input", applyFilters);
+  document.getElementById("category-filter-button").addEventListener("click", () => {
+    document.getElementById("category-popup").style.display = "block";
+  });
+  document.getElementById("apply-filters").addEventListener("click", () => {
+    document.getElementById("category-popup").style.display = "none";
+    applyFilters();
+  });
+  document.getElementById("fuzzy-search-toggle").addEventListener("change", applyFilters);
+  document.getElementById("fuzzy-strength").addEventListener("input", applyFilters);
+  document.getElementById("search-description").addEventListener("change", applyFilters);
+  document.getElementById("check-all").addEventListener("click", checkAllCategories);
+  document.getElementById("uncheck-all").addEventListener("click", uncheckAllCategories);
 });
 
-const filterButton = document.getElementById("category-filter-button");
-filterButton.style.display = "block";
-
-const wordsContainer = document.getElementById("wordList");
-const searchInput = document.getElementById("search");
-searchInput.addEventListener("input", filterWords);
-function filterWords() {
-  const searchTerm = searchInput.value.toLowerCase();
-  const buttons = document.getElementsByClassName("word-button");
-  const threshold =
-    2 / parseInt(document.getElementById("fuzzy-strength").value);
-  const maxResults = 10;
-
-  if (searchTerm === "") {
-    Array.from(buttons).forEach((button) => {
-      button.style.display = "block";
-      button.style.order = 0;
-    });
-    return;
-  }
-
-  const scoredWords = wordsData.map((item) => {
-    const word = Object.keys(item)[0];
-    const definition = item[word].definition;
-    const score = calculateRelevanceScore(word, definition, searchTerm);
-    return { word, score };
-  });
-
-  scoredWords.sort((a, b) => b.score - a.score);
-
-  let displayedCount = 0;
-  Array.from(buttons).forEach((button) => {
-    const word = button.textContent;
-    const index = scoredWords.findIndex((item) => item.word === word);
-    const score = scoredWords[index].score;
-
-    if (
-      score >= threshold &&
-      (displayedCount < maxResults ||
-        score > 10 ||
-        word.toLowerCase() === searchTerm)
-    ) {
-      button.style.order = index;
-      button.style.display = "block";
-      displayedCount++;
-    } else {
-      button.style.display = "none";
-    }
-  });
-}
+// Utility functions
 function calculateRelevanceScore(word, definition, searchTerm) {
   let score = 0;
   const wordLower = word.toLowerCase();
   const definitionLower = definition.toLowerCase();
   const normalizedWord = normalizeDigraphs(wordLower);
   const normalizedSearchTerm = normalizeDigraphs(searchTerm);
+  const fuzzyStrength = parseInt(document.getElementById("fuzzy-strength").value);
 
-  document.addEventListener("DOMContentLoaded", function () {
-    document
-      .getElementById("fuzzy-strength")
-      .addEventListener("input", applyFilters);
-  });
   if (normalizedWord.startsWith(normalizedSearchTerm)) {
-    score += 10;
+    score += 10 * fuzzyStrength;
   }
 
   if (normalizedWord.includes(normalizedSearchTerm)) {
-    score += 5;
+    score += 5 * fuzzyStrength;
   }
 
   if (normalizeDigraphs(definitionLower).includes(normalizedSearchTerm)) {
-    score += 3;
+    score += 3 * fuzzyStrength;
   }
 
-  const wordDistance = levenshteinDistance(
-    normalizedWord,
-    normalizedSearchTerm,
-  );
-  score += Math.max(0, 5 - wordDistance);
+  const distance = levenshteinDistance(normalizedWord, normalizedSearchTerm);
+  score += Math.max(0, fuzzyStrength * (5 - distance));
 
   return score;
 }
@@ -325,13 +215,29 @@ function levenshteinDistance(a, b) {
         matrix[i][j] = Math.min(
           matrix[i - 1][j - 1] + 1,
           matrix[i][j - 1] + 1,
-          matrix[i - 1][j] + 1,
+          matrix[i - 1][j] + 1
         );
       }
     }
   }
 
   return matrix[b.length][a.length];
+}
+
+// Word details and URL handling
+function displayWordDetails(item) {
+  const definitionsElement = document.getElementById("wordDetails");
+  const titleElement = document.getElementById("wordName");
+
+  definitionsElement.innerHTML = `
+    <h4>klani: ${item.data.category.join(", ")}</h4>
+    <p>${item.data.definition}</p>
+    ${item.data.image ? `<h4>riso:</h4>` : ""}
+    ${item.data.image ? `<img src="${item.data.image}" height=200 width=auto>` : ""}
+    ${item.data.image2 ? `<img src="${item.data.image2}" height=200 width=auto>` : ""}
+    ${item.data.image ? `<h5>riso f'<a href="https://freepik.com">Freepik</a></h5>` : ""}
+  `;
+  titleElement.innerHTML = item.word;
 }
 
 function checkUrlAndSearch() {
@@ -351,23 +257,15 @@ function loadWordDetails(word) {
     .then((response) => response.json())
     .then((data) => {
       const wordObject = data.find(
-        (item) => Object.keys(item)[0].toLowerCase() === word.toLowerCase(),
+        (item) => Object.keys(item)[0].toLowerCase() === word.toLowerCase()
       );
 
       if (wordObject) {
         const wordKey = Object.keys(wordObject)[0];
-        const definitionsElement = document.getElementById("wordDetails");
-        const titleElement = document.getElementById("wordName");
-
-        definitionsElement.innerHTML = `
-          <h4>klani: ${wordObject[wordKey].category.join(", ")}</h4>
-          <p>${wordObject[wordKey].definition}</p>
-          ${wordObject[wordKey].image ? `<h4>riso:</h4>` : ""}
-          ${wordObject[wordKey].image ? `<img src="${wordObject[wordKey].image}" height=200 width=auto>` : ""}
-          ${wordObject[wordKey].image2 ? `<img src="${wordObject[wordKey].image2}" height=200 width=auto>` : ""}
-          ${wordObject[wordKey].image ? `<h5>riso f'<a href="https://freepik.com">Freepik</a></h5>` : ""}
-        `;
-        titleElement.innerHTML = wordKey;
+        displayWordDetails({
+          word: wordKey,
+          data: wordObject[wordKey]
+        });
       } else {
         console.log("kotoba naj jam.");
       }
@@ -375,54 +273,14 @@ function loadWordDetails(word) {
     .catch((error) => console.error("Error:", error));
 }
 
-function copyURL() {
-  var wordName = document.getElementById("wordName").textContent;
-  var url = new URL(window.location.href);
-  url.searchParams.set("kotoba", wordName);
-  var newUrl = url.toString();
-
-  navigator.clipboard
-    .writeText(newUrl)
-    .then(() => {
-      window.location.href = newUrl;
-    })
-    .catch((err) => {
-      console.error(err);
-    });
+// Stats and alerts
+function showStats() {
+  if (wordsData) {
+    customAlert(
+      `jam ${countWords(wordsData)} kotoba<br>jam ${countTotalImages(wordsData)} riso`
+    );
+  }
 }
-
-function customAlert(message) {
-  const alertBox = document.getElementById("customAlert");
-  const alertMessage = document.getElementById("alertMessage");
-  const closeButton = document.getElementById("closeAlert");
-
-  alertMessage.innerHTML = message;
-  alertBox.style.display = "block";
-
-  closeButton.onclick = function () {
-    alertBox.style.display = "none";
-  };
-
-  alertBox.onclick = function (event) {
-    if (event.target === alertBox) {
-      alertBox.style.display = "none";
-    }
-  };
-
-  document.addEventListener("keydown", function (event) {
-    if (event.key === "Escape") {
-      alertBox.style.display = "none";
-    }
-  });
-}
-
-let wordsData;
-
-fetch("words.json")
-  .then((response) => response.json())
-  .then((data) => {
-    wordsData = data;
-  });
 
 function countWords(data) {
   return data.length;
@@ -438,105 +296,40 @@ function countTotalImages(data) {
   return imageCount;
 }
 
-function showStats() {
-  if (wordsData) {
-    customAlert(
-      `jam ${countWords(wordsData)} kotoba<br>jam ${countTotalImages(wordsData)} riso`,
-    );
-  } else {
-    console.log("Data not loaded yet");
-  }
-}
+function customAlert(message) {
+  const alertBox = document.getElementById("customAlert");
+  const alertMessage = document.getElementById("alertMessage");
+  const closeButton = document.getElementById("closeAlert");
 
-function calculateRelevanceScore(word, definition, searchTerm) {
-  let score = 0;
-  const wordLower = word.toLowerCase();
-  const definitionLower = definition.toLowerCase();
-  const fuzzyStrength = parseInt(
-    document.getElementById("fuzzy-strength").value,
-  );
+  alertMessage.innerHTML = message;
+  alertBox.style.display = "block";
 
-  if (wordLower.startsWith(searchTerm)) {
-    score += 10 * fuzzyStrength;
-  }
-
-  if (wordLower.includes(searchTerm)) {
-    score += 5 * fuzzyStrength;
-  }
-
-  if (definitionLower.includes(searchTerm)) {
-    score += 3 * fuzzyStrength;
-  }
-
-  const distance = levenshteinDistance(wordLower, searchTerm);
-  score += Math.max(0, fuzzyStrength * (5 - distance));
-
-  return score;
-}
-
-function levenshteinDistance(a, b) {
-  if (a.length === 0) return b.length;
-  if (b.length === 0) return a.length;
-
-  const matrix = [];
-
-  for (let i = 0; i <= b.length; i++) {
-    matrix[i] = [i];
-  }
-
-  for (let j = 0; j <= a.length; j++) {
-    matrix[0][j] = j;
-  }
-
-  for (let i = 1; i <= b.length; i++) {
-    for (let j = 1; j <= a.length; j++) {
-      if (b.charAt(i - 1) === a.charAt(j - 1)) {
-        matrix[i][j] = matrix[i - 1][j - 1];
-      } else {
-        matrix[i][j] = Math.min(
-          matrix[i - 1][j - 1] + 1,
-          matrix[i][j - 1] + 1,
-          matrix[i - 1][j] + 1,
-        );
-      }
+  closeButton.onclick = () => alertBox.style.display = "none";
+  alertBox.onclick = (event) => {
+    if (event.target === alertBox) {
+      alertBox.style.display = "none";
     }
-  }
+  };
 
-  return matrix[b.length][a.length];
-}
-
-function checkAllCategories() {
-  const checkboxes = document.querySelectorAll(
-    '#category-checkboxes input[type="checkbox"]',
-  );
-  checkboxes.forEach((checkbox) => {
-    checkbox.checked = true;
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape") {
+      alertBox.style.display = "none";
+    }
   });
-  applyFilters();
 }
 
-function uncheckAllCategories() {
-  const checkboxes = document.querySelectorAll(
-    '#category-checkboxes input[type="checkbox"]',
-  );
-  checkboxes.forEach((checkbox) => {
-    checkbox.checked = false;
-  });
-  applyFilters();
+function copyURL() {
+  const wordName = document.getElementById("wordName").textContent;
+  const url = new URL(window.location.href);
+  url.searchParams.set("kotoba", wordName);
+  const newUrl = url.toString();
+
+  navigator.clipboard
+    .writeText(newUrl)
+    .then(() => {
+      window.location.href = newUrl;
+    })
+    .catch((err) => {
+      console.error(err);
+    });
 }
-
-document.addEventListener("DOMContentLoaded", function () {
-  document
-    .getElementById("check-all")
-    .addEventListener("click", checkAllCategories);
-  document
-    .getElementById("uncheck-all")
-    .addEventListener("click", uncheckAllCategories);
-});
-
-document.addEventListener("DOMContentLoaded", function () {
-  const searchInput = document.getElementById("search");
-  const searchDescription = document.getElementById("search-description");
-  searchInput.addEventListener("input", applyFilters);
-  searchDescription.addEventListener("change", applyFilters);
-});
