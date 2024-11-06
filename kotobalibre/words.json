@@ -1522,6 +1522,15 @@
 		}
 	},
 	{
+		"lit": {
+			"category": [
+				"surukotoba"
+			],
+			"definition": "lit lyk gakara ting. lit kondor vet.",
+			"image": "https://img.freepik.com/free-photo/rag-doll-pulling-large-box_1156-176.jpg"
+		}
+	},
+	{
 		"ljetamys": {
 			"category": [
 				"dur"
@@ -2894,6 +2903,15 @@
 			"definition": "🍉 - ros au midori frauta du deki nam.",
 			"image": "https://img.freepik.com/free-photo/green-striped-ripe-watermelon-with-slice-cross-section-isolated-white-background-with-copy-space-text-images-special-kind-berry-sweet-pink-flesh-with-black-seeds-side-view_639032-1254.jpg",
 			"image2": "https://img.freepik.com/free-photo/slices-juicy-tasty-watermelon-white-plate_2829-19980.jpg"
+		}
+	},
+	{
+		"vet": {
+			"category": [
+				"surukotoba"
+			],
+			"definition": "vet lyk nasimade ting. vet kondor lit",
+			"image": "https://img.freepik.com/free-vector/push-competition-two-business-people-efficient-businessman-pushing-ball-smarter-winner-working-better-leading-race-flat-illustration_74855-20697.jpg"
 		}
 	},
 	{
