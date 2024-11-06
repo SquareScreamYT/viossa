@@ -8,7 +8,6 @@
 - Adjectives
 - Celestial Objects
 - Plants
-- Update days of the week to Japanese System
 - Office Supplies
 - Push and Pull https://discord.com/channels/193915435123474432/750379757799211190/1297420382466342922
 - Common Items
