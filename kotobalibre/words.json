@@ -672,12 +672,21 @@
 		}
 	},
 	{
-		"feri": {
+		"fen": {
 			"category": [
-				"pogoda",
 				"varge"
 			],
-			"definition": "feri lyk 🌈, mange varge.",
+			"definition": "fen har mange varge, tatoeba: feri fen.",
+			"image": "https://img.freepik.com/free-photo/vivid-blurred-colorful-background_58702-2622.jpg",
+			"image2": "https://img.freepik.com/free-photo/rainbow-colored-watercolor-painting_125540-4466.jpg"
+		}
+	},
+	{
+		"feri": {
+			"category": [
+				"pogoda"
+			],
+			"definition": "feri 🌈. (naj fein)",
 			"image": "https://img.freepik.com/free-photo/beautiful-natural-landscape-with-rainbow_23-2150169056.jpg",
 			"image2": "https://img.freepik.com/free-photo/beautiful-natural-landscape-with-rainbow_23-2150169061.jpg"
 		}
@@ -1052,7 +1061,8 @@
 		"isjke": {
 			"category": [
 				"glugting",
-				"namting"
+				"namting",
+				"stofvas"
 			],
 			"definition": "💦💧🌊 - klar glugting du deki glug.",
 			"image": "https://img.freepik.com/free-photo/fresh-water-texture-background-transparent-liquid_53876-142911.jpg",
@@ -1324,6 +1334,15 @@
 		}
 	},
 	{
+		"kiwen": {
+			"category": [
+				"stofvas"
+			],
+			"definition": "kiwen vas f'isjke jelo. kiwen isjkelyk.",
+			"image": "https://img.freepik.com/free-vector/state-matter-science-experiment-solid-liquid-gas_1308-153860.jpg"
+		}
+	},
+	{
 		"kjere": {
 			"category": [
 				"lasku"
@@ -1538,6 +1557,16 @@
 			"definition": "🦇 - dur",
 			"image": "https://img.freepik.com/free-photo/full-moon-night-sky_53876-139860.jpg",
 			"image2": "https://img.freepik.com/free-photo/black-flying-foxes-hanging-tree_167946-161.jpg"
+		}
+	},
+	{
+		"luft": {
+			"category": [
+				"stofvas"
+			],
+			"definition": "luft vas f'isjke isjkeluft (vapadai luft f'isjke).",
+			"image": "https://img.freepik.com/free-photo/blue-smoke-collection-white-background_1112-1486.jpg",
+			"image2": "https://img.freepik.com/free-photo/boiling-hot-water-tea-arrangement_23-2149088646.jpg?semt=ais_hybrid"
 		}
 	},
 	{
@@ -2872,6 +2901,15 @@
 			],
 			"definition": "ros, kjero, blau al varge.",
 			"image": "https://img.freepik.com/free-photo/top-view-colorful-paper_23-2148514697.jpg"
+		}
+	},
+	{
+		"stofvas": {
+			"category": [
+				"stofvas"
+			],
+			"definition": "stofvas lyk jamtropos f'stof.",
+			"image": "https://img.freepik.com/free-vector/state-matter-science-experiment-solid-liquid-gas_1308-153860.jpg"
 		}
 	},
 	{
