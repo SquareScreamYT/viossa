@@ -104,7 +104,7 @@ function applyFilters() {
                          categories.some((cat) => selectedCategories.includes(cat));
     const searchMatch = fuzzySearch
       ? button.relevanceScore > 10 / fuzzyStrength
-      : word.toLowerCase().startsWith(searchTerm);
+      : word.toLowerCase().includes(searchTerm);
       
     button.style.display = categoryMatch && (searchMatch || searchTerm === "") ? "block" : "none";
   });
