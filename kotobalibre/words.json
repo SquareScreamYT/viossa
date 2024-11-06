@@ -270,20 +270,13 @@
 		}
 	},
 	{
-		"banan (varge)": {
-			"category": [
-				"varge"
-			],
-			"definition": "<span style=\"color:#fef08a;\">afto varge banan. banan kjero.</span>"
-		}
-	},
-	{
 		"banan": {
 			"category": [
 				"frauta",
-				"namting"
+				"namting",
+				"varge"
 			],
-			"definition": "🍌 - kjero, pika frauta du deki nam.",
+			"definition": "🍌 - kjero, pika frauta du deki nam.<br><span style=\"color:#fef08a;\">afto varge banan. banan kjero.</span>",
 			"image": "https://img.freepik.com/free-photo/view-banana-fruits_23-2150823149.jpg",
 			"image2": "https://img.freepik.com/free-photo/delicious-banana_144627-5374.jpg"
 		}
@@ -1128,20 +1121,13 @@
 		}
 	},
 	{
-		"kafej (varge)": {
-			"category": [
-				"varge"
-			],
-			"definition": "<span style=\"color:#78350f;\">afto varge kafej</span>"
-		}
-	},
-	{
 		"kafej": {
 			"category": [
 				"glugting",
-				"namting"
+				"namting",
+				"varge"
 			],
-			"definition": "☕ - brun glugting du deki glug.",
+			"definition": "☕ - brun glugting du deki glug.<br><span style=\"color:#78350f;\">afto varge kafej</span>",
 			"image": "https://img.freepik.com/free-photo/top-view-cup-tea-hot-inside-white-cup-glass-plate-with-silver-package-candies-light-desk-tea-drink-sweet-chocolate-cookie_140725-33968.jpg",
 			"image2": "https://img.freepik.com/free-photo/coffee-beans-with-props-making-coffee_1220-4536.jpg"
 		}
@@ -2335,20 +2321,13 @@
 		}
 	},
 	{
-		"portokali (varge)": {
-			"category": [
-				"varge"
-			],
-			"definition": "<span style=\"color:#fb923c;\">afto varge portokali</span>"
-		}
-	},
-	{
 		"portokali": {
 			"category": [
 				"frauta",
-				"namting"
+				"namting",
+				"varge"
 			],
-			"definition": "🍊 - portokali frauta du deki nam.",
+			"definition": "🍊 - portokali frauta du deki nam.<br><span style=\"color:#fb923c;\">afto varge portokali</span>",
 			"image": "https://img.freepik.com/free-photo/top-view-many-round-orange-slices_74855-5425.jpg",
 			"image2": "https://img.freepik.com/free-photo/tasty-tangerines-oranges_23-2147717607.jpg"
 		}
