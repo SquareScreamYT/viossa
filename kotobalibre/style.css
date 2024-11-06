@@ -434,6 +434,7 @@ img {
   border-radius: 15px;
   width: 80%;
   max-width: 500px;
+  animation: popIn 0.3s ease-out;
 }
 
 #category-checkboxes {
