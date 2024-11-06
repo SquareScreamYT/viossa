@@ -178,7 +178,7 @@ function calculateRelevanceScore(word, definition, searchTerm) {
   }
 
   if (normalizedWord.includes(normalizedSearchTerm)) {
-    score += 5 * fuzzyStrength;
+    score += 8 * fuzzyStrength;
   }
 
   if (normalizeDigraphs(definitionLower).includes(normalizedSearchTerm)) {
