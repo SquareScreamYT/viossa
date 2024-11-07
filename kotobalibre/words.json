@@ -165,7 +165,7 @@
 		}
 	},
 	{
-		"amusjpe": {
+		"amuspe": {
 			"category": [
 				"dur"
 			],
@@ -322,9 +322,10 @@
 	{
 		"ber": {
 			"category": [
-				"stofvas"
+				"stofvas",
+				"surukotoba"
 			],
-			"definition": "isjke ber au bli luft",
+			"definition": "iske ber au bli luft",
 			"image": "https://img.freepik.com/free-photo/steam-from-geyser-coffee-maker_23-2148180173.jpg"
 		}
 	},
@@ -439,9 +440,10 @@
 	{
 		"cjeping": {
 			"category": [
-				"stofvas"
+				"stofvas",
+				"surukotoba"
 			],
-			"definition": "kiwen cjeping au bli isjke",
+			"definition": "kiwen cjeping au bli iske",
 			"image": "https://img.freepik.com/free-photo/ice-cube-white-table_144627-30602.jpg"
 		}
 	},
@@ -719,6 +721,14 @@
 		}
 	},
 	{
+		"floreg": {
+			"category": [
+				"lykkotoba"
+			],
+			"definition": "floreg lyk bra per njoi"
+		}
+	},
+	{
 		"fluter": {
 			"category": [
 				"dur"
@@ -749,7 +759,7 @@
 		}
 	},
 	{
-		"fsjto": {
+		"fsto": {
 			"category": [
 				"surukotoba"
 			],
@@ -829,7 +839,7 @@
 				"glugting",
 				"namting"
 			],
-			"definition": "isjke, gjunju, saft al glugting.",
+			"definition": "iske, gjunju, saft al glugting.",
 			"image": "https://img.freepik.com/free-photo/assortment-milkshake-glasses-with-fruits-chocolate_23-2148707756.jpg",
 			"image2": "https://img.freepik.com/free-photo/iced-coffee-drinks-made-with-hot-brewed-coffee-ice_157027-4136.jpg"
 		}
@@ -853,7 +863,7 @@
 		}
 	},
 	{
-		"grisj": {
+		"gris": {
 			"category": [
 				"varge"
 			],
@@ -944,6 +954,14 @@
 		}
 	},
 	{
+		"helena": {
+			"category": [
+				"lykkotoba"
+			],
+			"definition": "helena lyk bra per se"
+		}
+	},
+	{
 		"hember": {
 			"category": [
 				"namting",
@@ -957,9 +975,10 @@
 	{
 		"hent": {
 			"category": [
-				"stofvas"
+				"stofvas",
+				"surukotoba"
 			],
-			"definition": "isjke hent au bli kiwen",
+			"definition": "iske hent au bli kiwen",
 			"image": "https://img.freepik.com/free-photo/arrangement-healthy-food-fridge_23-2149022057.jpg"
 		}
 	},
@@ -997,6 +1016,16 @@
 				"lasku"
 			],
 			"definition": "hjaku lyk 100"
+		}
+	},
+	{
+		"hore": {
+			"category": [
+				"surukotoba"
+			],
+			"definition": "hore 🔊------>👂. du bruk korva per hore.",
+			"image": "https://img.freepik.com/free-photo/nosy-curiosity-ear-young-interesting_1127-2623.jpg",
+			"image2": "https://img.freepik.com/free-photo/close-up-charming-elderly-woman-holding-hand-by-her-ear-struggling-hear-something_171337-7913.jpg"
 		}
 	},
 	{
@@ -1094,7 +1123,7 @@
 		}
 	},
 	{
-		"isjke": {
+		"iske": {
 			"category": [
 				"glugting",
 				"namting",
@@ -1139,7 +1168,7 @@
 			"category": [
 				"namting"
 			],
-			"definition": "🧊 - upas ting hent bli isjke.",
+			"definition": "🧊 - upas ting hent bli iske.",
 			"image": "https://img.freepik.com/free-photo/ice-cubes-table_144627-8775.jpg",
 			"image2": "https://img.freepik.com/free-photo/ice-cubes-table_144627-8766.jpg"
 		}
@@ -1216,7 +1245,7 @@
 		}
 	},
 	{
-		"kapusjta": {
+		"kapusta": {
 			"category": [
 				"namting",
 				"ovosji"
@@ -1367,7 +1396,7 @@
 			"category": [
 				"stofvas"
 			],
-			"definition": "kiwen vas f'isjke jelo. kiwen isjkelyk.",
+			"definition": "kiwen vas f'iske jelo. kiwen iskelyk.",
 			"image": "https://img.freepik.com/free-vector/state-matter-science-experiment-solid-liquid-gas_1308-153860.jpg"
 		}
 	},
@@ -1519,7 +1548,7 @@
 			"category": [
 				"ples"
 			],
-			"definition": "lantdai lyk stur isjkelant f'mange lant, tatoeba asjalantdai, juropalantdai, afrikalantdai.",
+			"definition": "lantdai lyk stur iskelant f'mange lant, tatoeba asjalantdai, juropalantdai, afrikalantdai.",
 			"image": "https://img.freepik.com/free-photo/free-blank-map-asia_53876-145019.jpg",
 			"image2": "https://img.freepik.com/free-photo/free-blank-map-asia_53876-147535.jpg"
 		}
@@ -1593,7 +1622,7 @@
 			"category": [
 				"stofvas"
 			],
-			"definition": "luft vas f'isjke isjkeluft (vapadai luft f'isjke).",
+			"definition": "luft vas f'iske iskeluft (vapadai luft f'iske).",
 			"image": "https://img.freepik.com/free-photo/blue-smoke-collection-white-background_1112-1486.jpg",
 			"image2": "https://img.freepik.com/free-photo/boiling-hot-water-tea-arrangement_23-2149088646.jpg?semt=ais_hybrid"
 		}
@@ -1637,6 +1666,24 @@
 			"definition": "🥕 - portokali ovosji du deki nam.",
 			"image": "https://img.freepik.com/free-photo/realistic-image-carrot-colourful-background_125540-3805.jpg",
 			"image2": "https://img.freepik.com/free-photo/side-view-carrots-wooden-surface-black-background_141793-6444.jpg"
+		}
+	},
+	{
+		"mahaklar": {
+			"category": [
+				"surukotoba"
+			],
+			"definition": "mahaklar lyk maha ting simper per du sit du deki fsto",
+			"image": "https://img.freepik.com/free-photo/asian-businessman-presenting-his-work-corporate-colleagues-meeting-office_74952-3054.jpg",
+			"image2": "https://img.freepik.com/free-photo/financial-consultant-doing-sales-presentation-discuss-business-growth-company-employee-explaining-graphs-charts-brainstorm-ideas-teamwork-project-successful-partnership_482257-40542.jpg"
+		}
+	},
+	{
+		"maha": {
+			"category": [
+				"surukotoba"
+			],
+			"definition": "maha lyk du bruk ting au maha ting, tatoeba tomas edisondjin maha kirkasfrauta, alexander grejem beldjin maha denwa auauau."
 		}
 	},
 	{
@@ -1833,7 +1880,7 @@
 		}
 	},
 	{
-		"misj": {
+		"mis": {
 			"category": [
 				"dur"
 			],
@@ -2010,7 +2057,8 @@
 	{
 		"ningket": {
 			"category": [
-				"stofvas"
+				"stofvas",
+				"surukotoba"
 			],
 			"definition": "luft ningket au bli kiwen"
 		}
@@ -2059,10 +2107,12 @@
 	{
 		"njoi": {
 			"category": [
-				"stofvas"
+				"stofvas",
+				"surukotoba"
 			],
-			"definition": "luft njoi au bli isjke",
-			"image": "https://img.freepik.com/free-photo/glass-window-reflecting-light-through-its-wet-texture_181624-8917.jpg"
+			"definition": "luft njoi au bli iske. du awen njoi mit hana.",
+			"image": "https://img.freepik.com/free-photo/glass-window-reflecting-light-through-its-wet-texture_181624-8917.jpg",
+			"image2": "https://img.freepik.com/free-photo/pleased-attractive-woman-smells-cherry-blossom_176532-8111.jpg"
 		}
 	},
 	{
@@ -2073,6 +2123,14 @@
 			"definition": "🦄 - dur",
 			"image": "https://img.freepik.com/free-photo/magnificent-unicorn-nature_23-2149547486.jpg",
 			"image2": "https://img.freepik.com/free-photo/fairytale-unicorn-ai-generated_268835-10010.jpg"
+		}
+	},
+	{
+		"oisji": {
+			"category": [
+				"lykkotoba"
+			],
+			"definition": "😋🤤 oisji lyk bra per smak"
 		}
 	},
 	{
@@ -2148,7 +2206,7 @@
 				"frauta",
 				"namting"
 			],
-			"definition": "pomodoro, erba, kapusjta al ovosji.",
+			"definition": "pomodoro, erba, kapusta al ovosji.",
 			"image": "https://img.freepik.com/free-photo/bottom-view-fruits-vegetables-radish-cherry-tomatoes-persimmon-tomatoes-kiwi-cucumber-apples-red-cabbage-parsley-quince-aubergines-blue-table_140725-146174.jpg",
 			"image2": "https://img.freepik.com/free-photo/fresh-vegetables-flat-lay-healthy-lifestyle_53876-101580.jpg"
 		}
@@ -2469,6 +2527,16 @@
 		}
 	},
 	{
+		"rore": {
+			"category": [
+				"surukotoba"
+			],
+			"definition": "rore 🫳📦. du rore mit hant.",
+			"image": "https://img.freepik.com/free-photo/businessman-with-digital-technology_1112-277.jpg",
+			"image2": "https://img.freepik.com/free-photo/female-hand-holding-white-blank-styrofoam-oval_155003-4682.jpg"
+		}
+	},
+	{
 		"ros": {
 			"category": [
 				"varge"
@@ -2482,6 +2550,14 @@
 				"varge"
 			],
 			"definition": "<span style=\"color:#ec4899;\">afto varge rosa</span>"
+		}
+	},
+	{
+		"ruma": {
+			"category": [
+				"lykkotoba"
+			],
+			"definition": "ruma lyk bra per hore"
 		}
 	},
 	{
@@ -2540,9 +2616,19 @@
 			"category": [
 				"namting"
 			],
-			"definition": "namting f'isjke au sokeri, sjo, auauau.",
+			"definition": "namting f'iske au sokeri, sjo, auauau.",
 			"image": "https://img.freepik.com/free-photo/homemade-ketchup-mustard-mayonnaise-sauce_114579-44514.jpg",
 			"image2": "https://img.freepik.com/free-photo/black-sauce-small-white-cup-placed-cement-floor_1150-22621.jpg?semt=sph"
+		}
+	},
+	{
+		"se": {
+			"category": [
+				"surukotoba"
+			],
+			"definition": "se <------👀. du bruk me per se.",
+			"image": "https://img.freepik.com/free-photo/close-up-young-woman-using-binoculars-sightseeing_482257-15676.jpg",
+			"image2": "https://img.freepik.com/free-photo/funny-cute-young-dark-haired-male-casual-t-shirt-holding-palm-forehead-squinting-eyes_343059-1177.jpg"
 		}
 	},
 	{
@@ -2600,11 +2686,11 @@
 		}
 	},
 	{
-		"sjkoj": {
+		"skoj": {
 			"category": [
 				"surukotoba"
 			],
-			"definition": "sjkoj lyk 🚶🚶‍♂️🚶‍♀️",
+			"definition": "skoj lyk 🚶🚶‍♂️🚶‍♀️",
 			"image": "https://img.freepik.com/free-photo/family-going-walk-with-dog_259150-57257.jpg",
 			"image2": "https://img.freepik.com/free-photo/young-woman-having-walk-while-wearing-medical-mask_23-2148767473.jpg"
 		}
@@ -2638,11 +2724,11 @@
 		}
 	},
 	{
-		"sjtau": {
+		"stau": {
 			"category": [
 				"namting"
 			],
-			"definition": "🥘🍲 - glugting f'isjke, erba, sjo, oisjifrauta auauau.",
+			"definition": "🥘🍲 - glugting f'iske, erba, sjo, oisjifrauta auauau.",
 			"image": "https://img.freepik.com/free-photo/top-view-ingredients-soup-soup_23-2148486502.jpg",
 			"image2": "https://img.freepik.com/free-photo/kimchi-jikae-kimchi-soup-ready-eat-bowl_1150-42851.jpg"
 		}
@@ -2665,6 +2751,16 @@
 			"definition": "🦈 - dur",
 			"image": "https://img.freepik.com/free-photo/view-shark-swimming-underwater_23-2148976501.jpg",
 			"image2": "https://img.freepik.com/free-photo/shark-sea_181624-17254.jpg"
+		}
+	},
+	{
+		"smak": {
+			"category": [
+				"surukotoba"
+			],
+			"definition": "smak 👅🍎. du smak mit glosa au kuci.",
+			"image": "https://img.freepik.com/free-photo/beautiful-girl-with-lollipop_144627-24325.jpg",
+			"image2": "https://img.freepik.com/free-photo/portrait-cafe-adult-pretty-brown_1262-2912.jpg"
 		}
 	},
 	{
@@ -2708,7 +2804,7 @@
 		}
 	},
 	{
-		"sotupasj": {
+		"sotupas": {
 			"category": [
 				"namting"
 			],
@@ -2982,7 +3078,8 @@
 	{
 		"vere": {
 			"category": [
-				"stofvas"
+				"stofvas",
+				"surukotoba"
 			],
 			"definition": "kiwen vere au bli luft"
 		}
@@ -3081,7 +3178,7 @@
 			"category": [
 				"tyd"
 			],
-			"definition": "7 dag = 1 wik<br><br>wiknamaj:<br>lunadag, honodag, isjkedag/melanwik, baumdag, jerkatdag, terdag, soldag."
+			"definition": "7 dag = 1 wik<br><br>wiknamaj:<br>lunadag, honodag, iskedag/melanwik, baumdag, jerkatdag, terdag, soldag."
 		}
 	},
 	{
