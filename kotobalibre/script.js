@@ -296,7 +296,10 @@ function loadWordDetails(word) {
 function showStats() {
   if (wordsData) {
     customAlert(
-      `jam ${countWords(wordsData)} kotoba<br>jam ${countTotalImages(wordsData)} riso`
+      `jam ${countWords(wordsData)} kotoba<br>
+      jam ${countTotalImages(wordsData)} riso<br>
+      jam ${countWordsWithImages(wordsData)} kotoba mit riso<br>
+      jam ${countCategories(wordsData)} klani`
     );
   }
 }
@@ -313,6 +316,24 @@ function countTotalImages(data) {
     if (word.image2) imageCount++;
   });
   return imageCount;
+}
+
+function countWordsWithImages(data) {
+  let imageCount = 0;
+  data.forEach((item) => {
+    const word = Object.values(item)[0];
+    if (word.image) imageCount++;
+  });
+  return imageCount;
+}
+
+function countCategories(data) {
+  const categorySet = new Set();
+  data.forEach(item => {
+    const categories = Object.values(item)[0].category;
+    categories.forEach(category => categorySet.add(category));
+  });
+  return categorySet.size;
 }
 
 function customAlert(message) {
