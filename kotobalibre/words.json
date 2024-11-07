@@ -304,6 +304,15 @@
 		}
 	},
 	{
+		"ber": {
+			"category": [
+				"stofvas"
+			],
+			"definition": "isjke ber au bli luft",
+			"image": "https://img.freepik.com/free-photo/steam-from-geyser-coffee-maker_23-2148180173.jpg"
+		}
+	},
+	{
 		"biljon": {
 			"category": [
 				"lasku"
@@ -409,6 +418,15 @@
 			"definition": "🍵 - brun os midori glugting du deki glug.",
 			"image": "https://img.freepik.com/free-photo/green-tea-brewed-cup-with-tea-leaves-blue-pastel-background-top-view_1220-5336.jpg",
 			"image2": "https://img.freepik.com/free-photo/hot-green-tea-is-poured-from-teapot-into-blue-bowl_166373-858.jpg"
+		}
+	},
+	{
+		"cjeping": {
+			"category": [
+				"stofvas"
+			],
+			"definition": "kiwen cjeping au bli isjke",
+			"image": "https://img.freepik.com/free-photo/ice-cube-white-table_144627-30602.jpg"
 		}
 	},
 	{
@@ -918,6 +936,15 @@
 			"definition": "🫚 - brun au kjero ovosji du deki nam.",
 			"image": "https://img.freepik.com/free-photo/assortment-ginger-wooden-board_23-2148799547.jpg",
 			"image2": "https://img.freepik.com/free-photo/fresh-ginger-root-sliced-wooden-table_1150-18399.jpg"
+		}
+	},
+	{
+		"hent": {
+			"category": [
+				"stofvas"
+			],
+			"definition": "isjke hent au bli kiwen",
+			"image": "https://img.freepik.com/free-photo/arrangement-healthy-food-fridge_23-2149022057.jpg"
 		}
 	},
 	{
@@ -1965,6 +1992,14 @@
 		}
 	},
 	{
+		"ningket": {
+			"category": [
+				"stofvas"
+			],
+			"definition": "luft ningket au bli kiwen"
+		}
+	},
+	{
 		"nipan": {
 			"category": [
 				"namting"
@@ -2003,6 +2038,15 @@
 			"definition": "🥥 - brun au sjiro frauta du deki nam.",
 			"image": "https://img.freepik.com/free-photo/coconut-fruit_1203-2413.jpg",
 			"image2": "https://img.freepik.com/free-photo/fresh-coconuts-put-white-wooden-background_1150-28236.jpg"
+		}
+	},
+	{
+		"njoi": {
+			"category": [
+				"stofvas"
+			],
+			"definition": "luft njoi au bli isjke",
+			"image": "https://img.freepik.com/free-photo/glass-window-reflecting-light-through-its-wet-texture_181624-8917.jpg"
 		}
 	},
 	{
@@ -2909,6 +2953,14 @@
 			"definition": "vera lyk tosjitel fu 🌳☀️🏖️.",
 			"image": "https://img.freepik.com/free-photo/beautiful_1203-2633.jpg",
 			"image2": "https://img.freepik.com/free-photo/elder-woman-struggling-with-high-temperature_23-2149456747.jpg"
+		}
+	},
+	{
+		"vere": {
+			"category": [
+				"stofvas"
+			],
+			"definition": "kiwen vere au bli luft"
 		}
 	},
 	{
