@@ -109,10 +109,14 @@ function applyFilters() {
     button.style.display = categoryMatch && (searchMatch || searchTerm === "") ? "block" : "none";
   });
 
-  // Sort visible buttons by relevance score
+  // Sort visible buttons by relevance score if there's a search term, otherwise restore alphabetical order
   if (searchTerm) {
     buttonArray
       .sort((a, b) => b.relevanceScore - a.relevanceScore)
+      .forEach(button => button.parentNode.appendChild(button));
+  } else {
+    buttonArray
+      .sort((a, b) => a.textContent.localeCompare(b.textContent))
       .forEach(button => button.parentNode.appendChild(button));
   }
 }

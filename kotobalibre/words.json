@@ -250,6 +250,22 @@
 		}
 	},
 	{
+		"auauau": {
+			"category": [
+				"mitkotoba"
+			],
+			"definition": "abc auauau sama abcdefghijklmnopqrstuvwxyz"
+		}
+	},
+	{
+		"awen": {
+			"category": [
+				"mitkotoba"
+			],
+			"definition": "du lera viossa. un lera viossa awen. vi lera viossa."
+		}
+	},
+	{
 		"azuki": {
 			"category": [
 				"namting"
@@ -2424,6 +2440,14 @@
 			"definition": "sot sjiro frauta mit brun isjilyk piel",
 			"image": "https://img.freepik.com/free-photo/sugary-delicious-yellow-tropic-isolate_1417-311.jpg",
 			"image2": "https://img.freepik.com/free-photo/fruit-group-tropical-agriculture-freshness_1417-312.jpg"
+		}
+	},
+	{
+		"rjoho": {
+			"category": [
+				"mitkotoba"
+			],
+			"definition": "pasjun a: \"du vil ringo os banan?\"<br>pasjun b: \"un vil rjoho!\"<br>sama<br>pasjun b: \"un vil ringo au banan!\""
 		}
 	},
 	{
