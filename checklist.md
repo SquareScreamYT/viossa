@@ -8,6 +8,7 @@
 - Adjectives
 - Celestial Objects
 - Plants
+- 5 senses https://discord.com/channels/193915435123474432/750379757799211190/1268270699684823154
 - Office Supplies
 - Common Items
 - Basic English Words https://en.wiktionary.org/wiki/Appendix:Basic_English_word_list
