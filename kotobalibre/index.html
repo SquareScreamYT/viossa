@@ -47,6 +47,14 @@
               <input type="range" id="fuzzy-strength" min="1" max="10" value="2">
               <label for="fuzzy-strength">laki kataj kotoba: mono pravda kotoba <--> mange kotoba</label>
             </div>
+            <label>sentaku varge</label>
+            <select id="color-scheme" onchange="changeColorScheme()">
+              <option value="white">sjiro</option>
+              <option value="black">kuro</option>
+              <option value="blue" selected>sini</option>
+              <option value="teal">kulus</option>
+              <option value="emerald">midori</option>
+            </select>
           </div>
           <button id="apply-filters">owari</button>
         </div>
@@ -65,13 +73,6 @@
             </div>
           </div>
           <button onclick="showStats()" id="stats-button" title="kotoba ataj">kotobataj</button>
-          <select id="color-scheme" onchange="changeColorScheme()">
-            <option value="white">sjiro</option>
-            <option value="black">kuro</option>
-            <option value="blue" selected>sini</option>
-            <option value="teal">kulus</option>
-            <option value="emerald">midori</option>
-          </select>
         </div>
       </div>
       <div id="wordDetails">

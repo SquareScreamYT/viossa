@@ -73,7 +73,7 @@ select {
   appearance: none;
   -webkit-appearance: none;
   -moz-appearance: none;
-  background-color: var(--bg-color-darkest);
+  background-color: var(--bg-color-dark);
   color: var(--text-color);
   padding: 10px;
   font-size: 1em;
@@ -87,6 +87,12 @@ select {
   box-shadow: none;
   transition: background-color 0.3s ease;
   margin-left: 10px;
+}
+select:hover {
+  background-color: var(--bg-color-darker);
+}
+select:focus {
+  outline: none;
 }
 
 html {
