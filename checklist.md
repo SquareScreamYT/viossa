@@ -10,7 +10,6 @@
 - Plants
 - Office Supplies
 - Common Items
-- States of Matter https://discord.com/channels/193915435123474432/750379757799211190/1298552072437891093
 - Basic English Words https://en.wiktionary.org/wiki/Appendix:Basic_English_word_list
 - Add everything from https://v8.zsnout.com/vjosali
 - Viossa sentence collection with search function for words
