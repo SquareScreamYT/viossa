@@ -19,7 +19,8 @@
 		"-djin": {
 			"category": [
 				"festakotoba",
-				"pasjun"
+				"pasjun",
+				"tingkotoba"
 			],
 			"definition": "-djin lyk pasjun, tatoeba: <br>🧑‍🏫 opetadjin<br>🧑‍🎓 leradjin"
 		}
@@ -61,7 +62,7 @@
 	{
 		"abura": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "kjero glugting f'asetona, solblum auauau.",
 			"image": "https://img.freepik.com/free-photo/sunflower-oil-plastic-bottle-isolated-white-background_123827-21029.jpg",
@@ -71,7 +72,7 @@
 	{
 		"afe": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐒🐵🙊🙉🙈 - dur",
 			"image": "https://img.freepik.com/free-photo/monkey-sri-lanka_658691-536.jpg",
@@ -82,7 +83,7 @@
 		"afefrauta": {
 			"category": [
 				"frauta",
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🥝 - brun au midori frauta du deki nam.",
 			"image": "https://img.freepik.com/free-photo/close-up-kiwi-slices_23-2148804899.jpg",
@@ -101,7 +102,7 @@
 		"ahavja": {
 			"category": [
 				"frauta",
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🫐 - makot, cisai frauta du deki nam.",
 			"image": "https://img.freepik.com/free-photo/closeup-vertical-shot-blueberries-with-water-droplets-leaves_181624-1115.jpg",
@@ -119,7 +120,7 @@
 	{
 		"akrep": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🦞 - dur",
 			"image": "https://img.freepik.com/free-photo/close-up-red-lobster-placed-ice-surrounded-with-fruit-slices_140725-2631.jpg",
@@ -138,7 +139,7 @@
 	{
 		"alk": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "sjiro pudra mahajena na makis.",
 			"image": "https://img.freepik.com/free-photo/flour-with-ears-wheat-marble-surface_114579-77210.jpg",
@@ -148,7 +149,7 @@
 	{
 		"alta": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🦅 - dur",
 			"image": "https://img.freepik.com/free-photo/focused-shot-majestic-eagle-winter-day_181624-9253.jpg",
@@ -159,7 +160,8 @@
 		"amerika-": {
 			"category": [
 				"festakotoba",
-				"ples"
+				"ples",
+				"tingkotoba"
 			],
 			"definition": "amerika- lyk ting f'amerikalant 🇺🇸."
 		}
@@ -167,7 +169,7 @@
 	{
 		"amuspe": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🦀 - dur",
 			"image": "https://img.freepik.com/free-photo/close-up-raw-crab_1203-1785.jpg",
@@ -178,7 +180,7 @@
 		"ananas": {
 			"category": [
 				"frauta",
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🍍 - kjero frauta du deki nam.",
 			"image": "https://img.freepik.com/free-photo/pineapple-fruit_1203-7746.jpg",
@@ -189,7 +191,8 @@
 		"anglo-": {
 			"category": [
 				"festakotoba",
-				"ples"
+				"ples",
+				"tingkotoba"
 			],
 			"definition": "anglo- lyk ting f'anglolant 🇬🇧."
 		}
@@ -197,7 +200,7 @@
 	{
 		"arje": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🦁 - dur",
 			"image": "https://img.freepik.com/free-photo/closeup-shot-lion-laying-ground-while-looking-aside_181624-16734.jpg",
@@ -207,7 +210,7 @@
 	{
 		"asetona": {
 			"category": [
-				"namting",
+				"namting", "tingkotoba",
 				"ovosji"
 			],
 			"definition": "🫒 - midori, cisai ovosji du deki nam.",
@@ -226,7 +229,8 @@
 	{
 		"atamapolis": {
 			"category": [
-				"ples"
+				"ples",
+				"tingkotoba"
 			],
 			"definition": "atamapolis atama polis f'lant, tatoeba londonpolis atamapolis f'anglolant."
 		}
@@ -234,7 +238,7 @@
 	{
 		"ateksji": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🦎 - dur",
 			"image": "https://img.freepik.com/free-photo/freak-tailed-maltese-wall-lizard_181624-1032.jpg",
@@ -268,7 +272,7 @@
 	{
 		"azuki": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🫘 - cisai dodo du deki nam.",
 			"image": "https://img.freepik.com/free-photo/red-bean-seeds-wooden-background-kitchen_1150-9968.jpg",
@@ -278,7 +282,7 @@
 	{
 		"baba": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐸 - dur",
 			"image": "https://img.freepik.com/free-photo/borneo-eared-frog-stone_488145-996.jpg",
@@ -289,7 +293,7 @@
 		"banan": {
 			"category": [
 				"frauta",
-				"namting",
+				"namting", "tingkotoba",
 				"varge"
 			],
 			"definition": "🍌 - kjero, pika frauta du deki nam.<br><span style=\"color:#fef08a;\">afto varge banan. banan kjero.</span>",
@@ -301,7 +305,7 @@
 		"baungua": {
 			"category": [
 				"frauta",
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "portokali frauta mit midori piel du deki nam",
 			"image": "https://img.freepik.com/free-photo/fresh-papaya-fruit_144627-34201.jpg",
@@ -311,7 +315,7 @@
 	{
 		"beawog": {
 			"category": [
-				"namting",
+				"namting", "tingkotoba",
 				"ovosji"
 			],
 			"definition": "beawog rosa ovosji mit midori leti du deki nam",
@@ -341,7 +345,7 @@
 		"bingas": {
 			"category": [
 				"frauta",
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "sot sjiro frauta mit ros os midori piel",
 			"image": "https://img.freepik.com/free-photo/juicy-food-fresh-fruit-nutrition_1203-5398.jpg",
@@ -352,7 +356,7 @@
 		"bira": {
 			"category": [
 				"glugting",
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🍺 - kjero glugting du deki glug.",
 			"image": "https://img.freepik.com/free-photo/men-toasting-with-beer-white-background_53876-96733.jpg",
@@ -380,7 +384,7 @@
 	{
 		"bracuri": {
 			"category": [
-				"namting",
+				"namting", "tingkotoba",
 				"ovosji"
 			],
 			"definition": "🧄 - sjiro ovosji du deki nam.",
@@ -391,7 +395,7 @@
 	{
 		"breceng": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🥨 - brun namting du deki nam.",
 			"image": "https://img.freepik.com/free-photo/pretzel-bar-counter_1220-1760.jpg",
@@ -401,7 +405,7 @@
 	{
 		"breska": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐢 - dur",
 			"image": "https://img.freepik.com/free-photo/tortoise-pauses-by-waters-edge-its-shell-bathed-golden-glow-from-evening-light_91128-4629.jpg",
@@ -419,7 +423,8 @@
 	{
 		"bura": {
 			"category": [
-				"pogoda"
+				"pogoda",
+				"tingkotoba"
 			],
 			"definition": "bura lyk ⛈️",
 			"image": "https://img.freepik.com/free-photo/weather-effects-collage-concept_23-2150062065.jpg",
@@ -430,7 +435,7 @@
 		"ca": {
 			"category": [
 				"glugting",
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🍵 - brun os midori glugting du deki glug.",
 			"image": "https://img.freepik.com/free-photo/green-tea-brewed-cup-with-tea-leaves-blue-pastel-background-top-view_1220-5336.jpg",
@@ -450,7 +455,7 @@
 	{
 		"cesapi": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🦙 - dur",
 			"image": "https://img.freepik.com/free-photo/closeup-shot-llama-field-covered-greenery-sunlight-daytime_181624-31749.jpg",
@@ -470,7 +475,7 @@
 	{
 		"coki": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🍫 - brun, syt namting du deki nam.",
 			"image": "https://img.freepik.com/free-photo/flat-lay-creative-chocolate-composition-dark-background_23-2148549326.jpg",
@@ -490,7 +495,7 @@
 	{
 		"dalacini": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "brun masala fu eksoting fu jokubaum",
 			"image": "https://img.freepik.com/free-photo/cinnamon-its-dust-around-it_144627-448.jpg",
@@ -534,9 +539,9 @@
 	{
 		"dino": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
-			"definition": "🦖 - dur",
+			"definition": "🦖 - dur. awen protofugel.",
 			"image": "https://img.freepik.com/free-photo/dinosaur-toy_1203-3098.jpg",
 			"image2": "https://img.freepik.com/free-photo/gold-aesthetic-wallpaper-with-dinosaurs_23-2149872227.jpg"
 		}
@@ -544,7 +549,7 @@
 	{
 		"djarper": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐍 - dur",
 			"image": "https://img.freepik.com/free-photo/head-gonyosoma-snake-green-gonyosoma-snake-looking-around-gonyosoma-oxycephalum_488145-1864.jpg",
@@ -554,7 +559,8 @@
 	{
 		"djikan": {
 			"category": [
-				"tyd"
+				"tyd",
+				"tingkotoba"
 			],
 			"definition": "24 djikan = 1 dag"
 		}
@@ -563,7 +569,8 @@
 		"djongkuo-": {
 			"category": [
 				"festakotoba",
-				"ples"
+				"ples",
+				"tingkotoba"
 			],
 			"definition": "djongkuo- lyk ting f'djongkuolant 🇨🇳."
 		}
@@ -571,7 +578,7 @@
 	{
 		"dodo": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🫘🥜 - cisai namting du deki nam.",
 			"image": "https://img.freepik.com/free-photo/different-dried-fruits_144627-16150.jpg",
@@ -582,7 +589,8 @@
 		"doitsj-": {
 			"category": [
 				"festakotoba",
-				"ples"
+				"ples",
+				"tingkotoba"
 			],
 			"definition": "doitsj- lyk ting f'doitsjlant 🇩🇪."
 		}
@@ -590,7 +598,8 @@
 	{
 		"dok": {
 			"category": [
-				"pasjunkotoba"
+				"pasjunkotoba",
+				"tingkotoba"
 			],
 			"definition": "du au sore, du mit plus na ni pasjun"
 		}
@@ -607,7 +616,8 @@
 	{
 		"du": {
 			"category": [
-				"pasjunkotoba"
+				"pasjunkotoba",
+				"tingkotoba"
 			],
 			"definition": "du 🫵",
 			"image": "https://img.freepik.com/free-photo/korean-young-woman-s-half-length-portrait-blue-space-female-model-white-shirt-showing-pointing-something_155003-26640.jpg",
@@ -618,7 +628,7 @@
 		"durianfrauta": {
 			"category": [
 				"frauta",
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "durianfrauta kjero frauta du deki nam mit midori, kiki piel.",
 			"image": "https://img.freepik.com/free-photo/durian-fruit-isolated_1203-6892.jpg",
@@ -628,7 +638,7 @@
 	{
 		"ehote": {
 			"category": [
-				"namting",
+				"namting", "tingkotoba",
 				"ovosji"
 			],
 			"definition": "🫛 - midori, cisai ovosji du deki nam.",
@@ -655,7 +665,7 @@
 	{
 		"elk": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🫎 - dur",
 			"image": "https://img.freepik.com/free-photo/male-elk-surrounded-by-grass-trees_181624-25246.jpg",
@@ -673,7 +683,7 @@
 	{
 		"erba": {
 			"category": [
-				"namting",
+				"namting", "tingkotoba",
 				"ovosji"
 			],
 			"definition": "🥬 - midori ovosji du deki nam.",
@@ -685,7 +695,8 @@
 		"espanjo-": {
 			"category": [
 				"festakotoba",
-				"ples"
+				"ples",
+				"tingkotoba"
 			],
 			"definition": "espanjo- lyk ting f'espanjolant 🇪🇸."
 		}
@@ -693,7 +704,7 @@
 	{
 		"etlet": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🍜 - pika namting mahajena na alk.",
 			"image": "https://img.freepik.com/free-photo/flat-lay-uncooked-assortment-noodles-wooden-background_23-2148377401.jpg",
@@ -731,7 +742,7 @@
 	{
 		"fluter": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🦋 - dur",
 			"image": "https://img.freepik.com/free-photo/common-blue-butterfly-craspedia-sunlight-garden-with-blurry_181624-36772.jpg",
@@ -751,7 +762,7 @@
 		"frauta": {
 			"category": [
 				"frauta",
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "ringo, banan, portokali al frauta.",
 			"image": "https://img.freepik.com/free-photo/grapes-strawberries-pineapple-kiwi-apricot-banana-whole-pineapple_23-2147968680.jpg",
@@ -778,7 +789,7 @@
 	{
 		"fugel": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐦🕊️🦉🦜🦢🐔 - dur",
 			"image": "https://img.freepik.com/free-photo/closeup-shot-hummingbird-perched-tree-branch_181624-50947.jpg",
@@ -788,7 +799,8 @@
 	{
 		"fun": {
 			"category": [
-				"tyd"
+				"tyd",
+				"tingkotoba"
 			],
 			"definition": "60 fun = 1 djikan"
 		}
@@ -796,7 +808,7 @@
 	{
 		"gazjepan": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🧇 - brun namting du deki nam.",
 			"image": "https://img.freepik.com/free-photo/fruit-sweet-food-bakery-warm_1203-6170.jpg",
@@ -807,7 +819,7 @@
 		"gjunju": {
 			"category": [
 				"glugting",
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🥛 - sjiro glugting du deki glug.",
 			"image": "https://img.freepik.com/free-photo/close-up-man-with-bottle-goats-milk_23-2148673055.jpg",
@@ -837,7 +849,7 @@
 		"glugting": {
 			"category": [
 				"glugting",
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "iske, gjunju, saft al glugting.",
 			"image": "https://img.freepik.com/free-photo/assortment-milkshake-glasses-with-fruits-chocolate_23-2148707756.jpg",
@@ -855,7 +867,7 @@
 	{
 		"gorengli": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🍟 - kjero namting f'kartofel du deki nam.",
 			"image": "https://img.freepik.com/free-photo/crispy-french-fries-with-ketchup-mayonnaise_1150-26588.jpg",
@@ -882,7 +894,7 @@
 		"gua": {
 			"category": [
 				"frauta",
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🍈 - zjelon frauta du deki nam.",
 			"image": "https://img.freepik.com/free-photo/melon_74190-4894.jpg",
@@ -902,7 +914,7 @@
 	{
 		"hamtaro": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐹 - dur",
 			"image": "https://img.freepik.com/free-photo/cute-gerbil-fat-tail-crawls-red-flower-garbil-fat-tail-flower_488145-3228.jpg",
@@ -912,7 +924,7 @@
 	{
 		"hanufugel": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🦜 - dur",
 			"image": "https://img.freepik.com/free-photo/closeup-macaws_488145-20.jpg",
@@ -930,7 +942,7 @@
 	{
 		"harimau": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐯🐅 - dur",
 			"image": "https://img.freepik.com/free-photo/selective-focus-shot-tiger_181624-19226.jpg",
@@ -948,7 +960,8 @@
 	{
 		"hej": {
 			"category": [
-				"pasjunkotoba"
+				"pasjunkotoba",
+				"tingkotoba"
 			],
 			"definition": "sore au sore, sore mit plus na ni pasjun"
 		}
@@ -964,7 +977,7 @@
 	{
 		"hember": {
 			"category": [
-				"namting",
+				"namting", "tingkotoba",
 				"ovosji"
 			],
 			"definition": "🫚 - brun au kjero ovosji du deki nam.",
@@ -985,7 +998,7 @@
 	{
 		"henzjest": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐴🏇🐎 - dur",
 			"image": "https://img.freepik.com/free-photo/horse-iceland_658691-460.jpg",
@@ -1003,7 +1016,7 @@
 	{
 		"hiraskaban": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐨 - dur",
 			"image": "https://img.freepik.com/free-photo/koala-bear-tree-branch_1268-30481.jpg",
@@ -1031,7 +1044,7 @@
 	{
 		"hoz": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐷 - dur",
 			"image": "https://img.freepik.com/free-photo/selective-closeup-shot-pink-pigs-barn_181624-4482.jpg",
@@ -1041,7 +1054,7 @@
 	{
 		"hualejng": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🥜 - brun, cisai dodo du deki nam.",
 			"image": "https://img.freepik.com/free-photo/side-view-peanuts-shell-from-bag-wooden-table_141793-7219.jpg",
@@ -1051,7 +1064,7 @@
 	{
 		"hund": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐕🐶🐕‍🦺🐩 - dur",
 			"image": "https://img.freepik.com/free-photo/cute-dog-outdoors_23-2149004543.jpg",
@@ -1069,7 +1082,7 @@
 	{
 		"hytin": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🦟 - dur",
 			"image": "https://img.freepik.com/free-photo/mosquito_1150-7972.jpg",
@@ -1079,7 +1092,7 @@
 	{
 		"ij": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🧈 - kjero namting f'gjunju du deki nam.",
 			"image": "https://img.freepik.com/free-photo/arrangement-different-ingredients-delicious-recipe_23-2148882460.jpg",
@@ -1089,7 +1102,7 @@
 	{
 		"ikor": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐿️ - dur",
 			"image": "https://img.freepik.com/free-photo/vertical-selective-focus-shot-squirrel-forest_181624-32397.jpg",
@@ -1115,7 +1128,7 @@
 	{
 		"inuri": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐜 - dur",
 			"image": "https://img.freepik.com/free-photo/brown-ant-white-background_1112-478.jpg",
@@ -1126,7 +1139,7 @@
 		"iske": {
 			"category": [
 				"glugting",
-				"namting",
+				"namting", "tingkotoba",
 				"stofvas"
 			],
 			"definition": "💦💧🌊 - klar glugting du deki glug.",
@@ -1138,7 +1151,8 @@
 		"italja-": {
 			"category": [
 				"festakotoba",
-				"ples"
+				"ples",
+				"tingkotoba"
 			],
 			"definition": "italja- lyk ting f'italjalant 🇮🇹."
 		}
@@ -1146,7 +1160,7 @@
 	{
 		"jaice": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🥚 - brun au sjiro namting f'kurica du deki nam.",
 			"image": "https://img.freepik.com/free-photo/eggs-top-view_1417-1530.jpg",
@@ -1156,7 +1170,7 @@
 	{
 		"jalakasi": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🕷️ - dur",
 			"image": "https://img.freepik.com/free-photo/closeup-shot-spider-with-striped-legs-spinning-web-with-blurry-greenery_181624-20130.jpg",
@@ -1166,7 +1180,7 @@
 	{
 		"jelo": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🧊 - upas ting hent bli iske.",
 			"image": "https://img.freepik.com/free-photo/ice-cubes-table_144627-8775.jpg",
@@ -1196,7 +1210,7 @@
 		"kafej": {
 			"category": [
 				"glugting",
-				"namting",
+				"namting", "tingkotoba",
 				"varge"
 			],
 			"definition": "☕ - brun glugting du deki glug.<br><span style=\"color:#78350f;\">afto varge kafej</span>",
@@ -1208,7 +1222,7 @@
 		"kalamansi": {
 			"category": [
 				"frauta",
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🍋‍🟩 - syr midori frauta du deki nam",
 			"image": "https://img.freepik.com/free-photo/fresh-lime-fruit-isolated_144627-30038.jpg",
@@ -1218,7 +1232,7 @@
 	{
 		"kamome": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🦆 - dur",
 			"image": "https://img.freepik.com/free-photo/view-mallard-duck-lake_181624-46715.jpg",
@@ -1229,7 +1243,8 @@
 		"kanada-": {
 			"category": [
 				"festakotoba",
-				"ples"
+				"ples",
+				"tingkotoba"
 			],
 			"definition": "kanada- lyk ting f'kanadalant 🇨🇦."
 		}
@@ -1237,7 +1252,7 @@
 	{
 		"kanak": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🦭 - dur",
 			"image": "https://img.freepik.com/free-photo/seal-beach-dune-island-near-helgoland_475641-192.jpg",
@@ -1247,7 +1262,7 @@
 	{
 		"kapusta": {
 			"category": [
-				"namting",
+				"namting", "tingkotoba",
 				"ovosji"
 			],
 			"definition": "🥦 - midori ovosji du deki nam.",
@@ -1258,7 +1273,7 @@
 	{
 		"kargu": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐻 - dur",
 			"image": "https://img.freepik.com/free-photo/brown-bear-catching-fish-river-alaska_181624-25518.jpg",
@@ -1268,7 +1283,8 @@
 	{
 		"karta": {
 			"category": [
-				"ples"
+				"ples",
+				"tingkotoba"
 			],
 			"definition": "karta lyk 🗺️ riso f'lant",
 			"image": "https://img.freepik.com/free-photo/3d-render-red-location-pin-map-with-route_107791-14915.jpg",
@@ -1278,7 +1294,7 @@
 	{
 		"kartofel": {
 			"category": [
-				"namting",
+				"namting", "tingkotoba",
 				"ovosji"
 			],
 			"definition": "🥔 - brun ovosji du deki nam.",
@@ -1305,7 +1321,7 @@
 	{
 		"kaukau": {
 			"category": [
-				"namting",
+				"namting", "tingkotoba",
 				"ovosji"
 			],
 			"definition": "🍠 - murasaki au kjero ovosji du deki nam.",
@@ -1324,7 +1340,7 @@
 	{
 		"kekso": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🍪 - brun namting mahajena na alk au coki du deki nam.",
 			"image": "https://img.freepik.com/free-photo/delicious-cookies-table_23-2148837156.jpg",
@@ -1343,7 +1359,7 @@
 		"kerfrauta": {
 			"category": [
 				"frauta",
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🍓 - ros, cisai frauta du deki nam.",
 			"image": "https://img.freepik.com/free-photo/strawberries-cut-half-whole-berries-ripe-berries-top-view-background-ripe-strawberries-delicious-natural-dessert_166373-2358.jpg",
@@ -1353,7 +1369,7 @@
 	{
 		"kiki": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🦔 - dur",
 			"image": "https://img.freepik.com/free-photo/cute-baby-hedgehog-closeup-moss-with-black-background_488145-1549.jpg",
@@ -1363,7 +1379,7 @@
 	{
 		"kinji": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🦢 - dur",
 			"image": "https://img.freepik.com/free-photo/beautiful-swan-lake-amazing-bird-nature-habitat_475641-337.jpg",
@@ -1374,7 +1390,7 @@
 		"kirkas": {
 			"category": [
 				"glugting",
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🍺🍷🥃🍶🍻🥂🍾 - glugting du deki glug.",
 			"image": "https://img.freepik.com/free-photo/barman-filling-glass-alcohol_8353-12083.jpg",
@@ -1384,7 +1400,7 @@
 	{
 		"kitsune": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🦊 - dur",
 			"image": "https://img.freepik.com/free-photo/beautiful-shot-black-backed-sand-fox-her-baby-playing-sand-covered-ground_181624-6263.jpg",
@@ -1394,7 +1410,8 @@
 	{
 		"kiwen": {
 			"category": [
-				"stofvas"
+				"stofvas",
+				"tingkotoba"
 			],
 			"definition": "kiwen vas f'iske jelo. kiwen iskelyk.",
 			"image": "https://img.freepik.com/free-vector/state-matter-science-experiment-solid-liquid-gas_1308-153860.jpg"
@@ -1419,7 +1436,7 @@
 	{
 		"kokosila": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐊 - dur",
 			"image": "https://img.freepik.com/free-photo/alligator-closeup-sand_649448-4938.jpg",
@@ -1448,7 +1465,7 @@
 	{
 		"kot": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐈😺🐱🐈‍⬛ - dur",
 			"image": "https://img.freepik.com/free-photo/closeup-shot-one-ginger-cat-hugging-licking-other-isolated-white-wall_181624-32893.jpg",
@@ -1459,7 +1476,7 @@
 		"kruska": {
 			"category": [
 				"frauta",
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🍐 - midori frauta du deki nam.",
 			"image": "https://img.freepik.com/free-photo/green-pears-wooden-box-high-angle-view-white-table_176474-8545.jpg",
@@ -1467,9 +1484,9 @@
 		}
 	},
 	{
-		"ku": {
+		"gju": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐮 - dur",
 			"image": "https://img.freepik.com/free-photo/closeup-shot-cows-grazing-field-sunny-afternoon_181624-40286.jpg",
@@ -1477,11 +1494,11 @@
 		}
 	},
 	{
-		"kulus": {
+		"culus": {
 			"category": [
 				"varge"
 			],
-			"definition": "<span style=\"color:#34d399;\">afto varge kulus</span>"
+			"definition": "<span style=\"color:#34d399;\">afto varge culus</span>"
 		}
 	},
 	{
@@ -1497,7 +1514,7 @@
 	{
 		"kuneli": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐇🐰 - dur",
 			"image": "https://img.freepik.com/free-photo/portrait-cute-fluffy-gray-rabbit-with-ears-natural-green_78492-3801.jpg",
@@ -1508,7 +1525,7 @@
 		"kunja": {
 			"category": [
 				"glugting",
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "kunja lyk maha namting.",
 			"image": "https://img.freepik.com/free-photo/boiling-pot-with-cooking-spaghetti-pasta-kitchen-closeup_1220-5519.jpg",
@@ -1536,7 +1553,8 @@
 	{
 		"lant": {
 			"category": [
-				"ples"
+				"ples",
+				"tingkotoba"
 			],
 			"definition": "lant lyk 🇯🇵 🇰🇷 🇩🇪 🇨🇳 🇺🇸 🇫🇷 🇪🇸 🇮🇹 🇷🇺 🇬🇧, tatoeba anglolant, amerikalant, franslant.",
 			"image": "https://img.freepik.com/free-photo/hands-waving-flags-china-germany-india-south-africa-russia_53876-30888.jpg",
@@ -1546,7 +1564,8 @@
 	{
 		"lantdai": {
 			"category": [
-				"ples"
+				"ples",
+				"tingkotoba"
 			],
 			"definition": "lantdai lyk stur iskelant f'mange lant, tatoeba asjalantdai, juropalantdai, afrikalantdai.",
 			"image": "https://img.freepik.com/free-photo/free-blank-map-asia_53876-145019.jpg",
@@ -1556,7 +1575,8 @@
 	{
 		"lantnen": {
 			"category": [
-				"ples"
+				"ples",
+				"tingkotoba"
 			],
 			"definition": "lantnen lyk cisai lant ine lant, tatoeba sjikagopolis ine ilinojlantnen ine amerikalant."
 		}
@@ -1564,7 +1584,8 @@
 	{
 		"lapsi": {
 			"category": [
-				"pasjun"
+				"pasjun",
+				"tingkotoba"
 			],
 			"definition": "lapsi lapsi pasjun.",
 			"image": "https://img.freepik.com/free-photo/children-with-their-hands-up_23-2148022497.jpg",
@@ -1574,7 +1595,8 @@
 	{
 		"lasku": {
 			"category": [
-				"lasku"
+				"lasku",
+				"tingkotoba"
 			],
 			"definition": "lasku lyk 1, 2, 3, 4 auauau.<br><br>tatoeba: 12 = ten-ni, 361 = tre-hyaku eksi-ten en."
 		}
@@ -1591,7 +1613,7 @@
 		"limon": {
 			"category": [
 				"frauta",
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🍋 - kjero frauta du deki nam.",
 			"image": "https://img.freepik.com/free-photo/lemon-table_144627-22176.jpg",
@@ -1610,7 +1632,7 @@
 	{
 		"ljetamys": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🦇 - dur",
 			"image": "https://img.freepik.com/free-photo/full-moon-night-sky_53876-139860.jpg",
@@ -1620,7 +1642,8 @@
 	{
 		"luft": {
 			"category": [
-				"stofvas"
+				"stofvas",
+				"tingkotoba"
 			],
 			"definition": "luft vas f'iske iskeluft (vapadai luft f'iske).",
 			"image": "https://img.freepik.com/free-photo/blue-smoke-collection-white-background_1112-1486.jpg",
@@ -1630,7 +1653,8 @@
 	{
 		"luna": {
 			"category": [
-				"pogoda"
+				"pogoda",
+				"tingkotoba"
 			],
 			"definition": "luna lyk 🌙🌑🌒🌓🌔🌕🌖🌗🌘🌚🌝🌛🌛",
 			"image": "https://img.freepik.com/free-photo/landscape-shot-white-full-moon-with-black-color-background_181624-11907.jpg",
@@ -1640,7 +1664,7 @@
 	{
 		"lunapan": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🥐 - pan mit lunafal kara franslant",
 			"image": "https://img.freepik.com/free-photo/fresh-french-croissants-tablecloth_144627-4424.jpg",
@@ -1650,7 +1674,7 @@
 	{
 		"lupo": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐺 - dur",
 			"image": "https://img.freepik.com/free-photo/grey-wolf-canis-lupus-standing-winter_167946-137.jpg",
@@ -1660,7 +1684,7 @@
 	{
 		"luvan": {
 			"category": [
-				"namting",
+				"namting", "tingkotoba",
 				"ovosji"
 			],
 			"definition": "🥕 - portokali ovosji du deki nam.",
@@ -1697,7 +1721,7 @@
 	{
 		"maki": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "namting f'nihonlant mahajena na mi, sakana au mareleti.",
 			"image": "https://img.freepik.com/free-photo/sushi-rolls-topped-with-caviar_140725-4235.jpg",
@@ -1707,7 +1731,7 @@
 	{
 		"makis": {
 			"category": [
-				"namting",
+				"namting", "tingkotoba",
 				"ovosji"
 			],
 			"definition": "🌽 - kjero ovosji du deki nam.",
@@ -1719,7 +1743,7 @@
 		"manga": {
 			"category": [
 				"frauta",
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🥭 - ros, kjero os midorii frauta du deki nam.",
 			"image": "https://img.freepik.com/free-photo/mango_1203-8850.jpg",
@@ -1730,7 +1754,7 @@
 		"mangis": {
 			"category": [
 				"frauta",
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "sot sjiro frauta mit makot isjilyk piel",
 			"image": "https://img.freepik.com/free-photo/mangosteen-thai-popular-fruits-tropical-fruit-with-sweet-juicy-white-segments-flesh-inside-thick-reddish-brown-rind_1150-13543.jpg",
@@ -1740,7 +1764,7 @@
 	{
 		"marejaka": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐙 - dur",
 			"image": "https://img.freepik.com/free-photo/close-up-delicious-octopus-table_23-2148290447.jpg",
@@ -1750,7 +1774,7 @@
 	{
 		"mareleti": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "midori os murasaki namting f'mare.",
 			"image": "https://img.freepik.com/free-photo/top-view-delicious-seaweed-eating_23-2150695267.jpg",
@@ -1760,7 +1784,7 @@
 	{
 		"maresvinja": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐬 - dur",
 			"image": "https://img.freepik.com/free-photo/dolphin-with-ball_1160-93.jpg",
@@ -1770,7 +1794,7 @@
 	{
 		"masala": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "kuro, piman pudra du deki nam.",
 			"image": "https://img.freepik.com/free-photo/still-life-dispenser-bottle_23-2150992108.jpg",
@@ -1781,7 +1805,8 @@
 		"meksiko-": {
 			"category": [
 				"festakotoba",
-				"ples"
+				"ples",
+				"tingkotoba"
 			],
 			"definition": "meksiko- lyk ting f'meksikolant 🇲🇽."
 		}
@@ -1797,7 +1822,7 @@
 	{
 		"mi": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🍚 - sjiro cisai namting du deki nam.",
 			"image": "https://img.freepik.com/free-photo/rice-bowl_1387-181.jpg",
@@ -1825,7 +1850,8 @@
 	{
 		"mies": {
 			"category": [
-				"pasjun"
+				"pasjun",
+				"tingkotoba"
 			],
 			"definition": "mies ♂️ pasjun.",
 			"image": "https://img.freepik.com/free-photo/young-handsome-asian-business-man-black-suit_1303-26721.jpg",
@@ -1835,7 +1861,7 @@
 	{
 		"milita": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐝 - dur",
 			"image": "https://img.freepik.com/free-photo/vibrant-yellow-bee-pollinating-beautiful-flower-generative-ai_188544-9096.jpg",
@@ -1853,7 +1879,7 @@
 	{
 		"minti": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "midori leti du deki nam.",
 			"image": "https://img.freepik.com/free-photo/closeup-shot-fresh-green-mint-plant-pot_181624-42386.jpg",
@@ -1871,7 +1897,7 @@
 	{
 		"miraseng": {
 			"category": [
-				"namting",
+				"namting", "tingkotoba",
 				"ovosji"
 			],
 			"definition": "🍆 - makot, pika ovosji du deki nam.",
@@ -1882,7 +1908,7 @@
 	{
 		"mis": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐭🐁 - dur. deki awen impuku.",
 			"image": "https://img.freepik.com/free-photo/closeup-marsh-rice-rat-sunlight-with-blurry-background_181624-36058.jpg",
@@ -1918,7 +1944,8 @@
 	{
 		"muaj": {
 			"category": [
-				"tyd"
+				"tyd",
+				"tingkotoba"
 			],
 			"definition": "28/29/30/31 dag = 1 muaj"
 		}
@@ -1934,7 +1961,7 @@
 	{
 		"mylkargu": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🦝 - dur",
 			"image": "https://img.freepik.com/free-photo/raccoon-park-montreal-canada_649448-4368.jpg",
@@ -1961,16 +1988,6 @@
 		}
 	},
 	{
-		"nakt": {
-			"category": [
-				"tyd"
-			],
-			"definition": "nakt lyk 🌃",
-			"image": "https://img.freepik.com/free-photo/beautiful-sky-full-stars-trona-ca_181624-31703.jpg",
-			"image2": "https://img.freepik.com/free-photo/3d-render-abstract-tree-landscape-with-space-sky_1048-14314.jpg"
-		}
-	},
-	{
 		"nam": {
 			"category": [
 				"surukotoba"
@@ -1983,7 +2000,7 @@
 	{
 		"namting": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "frauta, ovosji, glugting, auauau al namting.",
 			"image": "https://img.freepik.com/free-photo/delicious-vietnamese-food-including-pho-ga-noodles-spring-rolls-white-table_181624-34062.jpg",
@@ -2017,7 +2034,7 @@
 	{
 		"nene": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🦦 - dur",
 			"image": "https://img.freepik.com/free-photo/asian-smallclawed-otter-nature-habitat_475641-737.jpg",
@@ -2036,7 +2053,7 @@
 		"nihonfrauta": {
 			"category": [
 				"frauta",
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🍒 - ros, cisai frauta du deki nam.",
 			"image": "https://img.freepik.com/free-photo/red-cherries-plate-bowl-gray-table_114579-9864.jpg",
@@ -2047,7 +2064,7 @@
 		"nijca": {
 			"category": [
 				"glugting",
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🧋 - sjiro au brun glugting f'gjunju au ca du deki glug.",
 			"image": "https://img.freepik.com/free-photo/arrangement-with-delicious-traditional-thai-tea_23-2148994370.jpg",
@@ -2066,7 +2083,7 @@
 	{
 		"nipan": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🥪🍔 - namting f'plus na ni pan mit pomodoro, erba, sjyt du deki nam.",
 			"image": "https://img.freepik.com/free-photo/big-sandwich-hamburger-burger-with-beef-red-onion-tomato-fried-bacon_2829-5398.jpg",
@@ -2076,7 +2093,7 @@
 	{
 		"nja": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐆 - dur",
 			"image": "https://img.freepik.com/free-photo/african-leopard-sitting-tree-looking-around-jungle_181624-32685.jpg",
@@ -2086,7 +2103,7 @@
 	{
 		"njocilpig": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐞 - dur",
 			"image": "https://img.freepik.com/free-photo/closeup-ladybug-green-leaf_181624-35314.jpg",
@@ -2097,7 +2114,7 @@
 		"njog": {
 			"category": [
 				"frauta",
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🥥 - brun au sjiro frauta du deki nam.",
 			"image": "https://img.freepik.com/free-photo/coconut-fruit_1203-2413.jpg",
@@ -2118,7 +2135,7 @@
 	{
 		"norhenzjest": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🦄 - dur",
 			"image": "https://img.freepik.com/free-photo/magnificent-unicorn-nature_23-2149547486.jpg",
@@ -2136,7 +2153,7 @@
 	{
 		"oisjifrauta": {
 			"category": [
-				"namting",
+				"namting", "tingkotoba",
 				"ovosji"
 			],
 			"definition": "🧅 - portokali os murasaki ovosji du deki nam.",
@@ -2165,7 +2182,8 @@
 	{
 		"ona": {
 			"category": [
-				"pasjun"
+				"pasjun",
+				"tingkotoba"
 			],
 			"definition": "mies ♀️ pasjun.",
 			"image": "https://img.freepik.com/free-photo/portrait-young-asia-lady-with-positive-expression-arms-crossed-smile-broadly-dressed-casual-clothing-looking-camera-pink-background_7861-3201.jpg",
@@ -2175,7 +2193,7 @@
 	{
 		"orke": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐐 - dur",
 			"image": "https://img.freepik.com/free-photo/adorable-black-goat-with-brown-patterns-zoo_181624-47837.jpg",
@@ -2193,7 +2211,8 @@
 	{
 		"otona": {
 			"category": [
-				"pasjun"
+				"pasjun",
+				"tingkotoba"
 			],
 			"definition": "otona gamel pasjun.",
 			"image": "https://img.freepik.com/free-photo/lifestyle-beauty-fashion-people-emotions-concept-young-asian-female-office-manager-ceo-with-pleased-expression-standing-white-background-smiling-with-arms-crossed-chest_1258-59329.jpg",
@@ -2204,7 +2223,7 @@
 		"ovosji": {
 			"category": [
 				"frauta",
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "pomodoro, erba, kapusta al ovosji.",
 			"image": "https://img.freepik.com/free-photo/bottom-view-fruits-vegetables-radish-cherry-tomatoes-persimmon-tomatoes-kiwi-cucumber-apples-red-cabbage-parsley-quince-aubergines-blue-table_140725-146174.jpg",
@@ -2214,7 +2233,7 @@
 	{
 		"ovosjiusci": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "usci men shiro, fuwafuwa au mahajena na ovosji",
 			"image": "https://img.freepik.com/free-photo/tofu-made-from-soybeans-food-nutrition-concept_1150-26360.jpg",
@@ -2224,7 +2243,7 @@
 	{
 		"palaina": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐋 - dur",
 			"image": "https://img.freepik.com/free-photo/female-diver-water-with-whale-sharks-rhincodon-typus_181624-57183.jpg",
@@ -2234,7 +2253,7 @@
 	{
 		"palkaban": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🦘 - dur",
 			"image": "https://img.freepik.com/free-photo/close-shot-baby-kangaroo-standing-grassy-field-with-blurred-background_181624-10134.jpg",
@@ -2244,7 +2263,7 @@
 	{
 		"pan": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🍞🥐🥖 - brun namting du deki nam.",
 			"image": "https://img.freepik.com/free-photo/delicious-bread-table_144627-12454.jpg",
@@ -2254,7 +2273,7 @@
 	{
 		"pana": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🍮 - fuwafuwa namting mahajena na gjunju au sokeri du deki nam.",
 			"image": "https://img.freepik.com/free-photo/spanish-dessert-flan-with-sauce-served-plate-closeup_1220-6710.jpg",
@@ -2264,7 +2283,7 @@
 	{
 		"paneku": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🥞 - brun namting du deki nam.",
 			"image": "https://img.freepik.com/free-photo/composition-tasty-breakfast-pancakes_23-2148829556.jpg",
@@ -2274,7 +2293,7 @@
 	{
 		"panisja": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "sjiro namting f'brun ruti du deki nam.",
 			"image": "https://img.freepik.com/free-photo/vanilla-stick_144627-27505.jpg",
@@ -2292,7 +2311,8 @@
 	{
 		"pasjun": {
 			"category": [
-				"pasjun"
+				"pasjun",
+				"tingkotoba"
 			],
 			"definition": "pasjun 🧑",
 			"image": "https://img.freepik.com/free-photo/lifestyle-beauty-fashion-people-emotions-concept-young-asian-female-office-manager-ceo-with-pleased-expression-standing-white-background-smiling-with-arms-crossed-chest_1258-59329.jpg",
@@ -2302,7 +2322,8 @@
 	{
 		"pasjunkotoba": {
 			"category": [
-				"pasjunkotoba"
+				"pasjunkotoba",
+				"tingkotoba"
 			],
 			"definition": "un, du, sore, vi, dok, hej auauau al pasjunkotoba."
 		}
@@ -2321,7 +2342,7 @@
 		"persus": {
 			"category": [
 				"frauta",
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🍑 - rosa frauta du deki nam.",
 			"image": "https://img.freepik.com/free-photo/peach-table_144627-17514.jpg",
@@ -2331,7 +2352,7 @@
 	{
 		"pica": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🍕 - pan f'italjalant mit pomodoro, usci au sjyt.",
 			"image": "https://img.freepik.com/free-photo/pizza-with-salami-tomato-cheese-mushrooms_2829-20005.jpg",
@@ -2349,7 +2370,7 @@
 	{
 		"piman": {
 			"category": [
-				"namting",
+				"namting", "tingkotoba",
 				"ovosji"
 			],
 			"definition": "🌶️🫑 - ros, pika os midori ovosji du deki nam.",
@@ -2360,7 +2381,7 @@
 	{
 		"pinguin": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐧 - dur",
 			"image": "https://img.freepik.com/free-photo/rockhopper_658691-212.jpg",
@@ -2370,7 +2391,7 @@
 	{
 		"pio": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐤 - dur",
 			"image": "https://img.freepik.com/free-photo/closeup-shot-brown-chick-cloth_181624-53564.jpg",
@@ -2380,7 +2401,7 @@
 	{
 		"pitkagorla": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🦒 - dur",
 			"image": "https://img.freepik.com/free-photo/closeup-shot-two-giraffes-walking-green-field-daytime_181624-26398.jpg",
@@ -2390,7 +2411,7 @@
 	{
 		"pjedur": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐚 - dur",
 			"image": "https://img.freepik.com/free-photo/seashell-isolated-white-background_181624-47937.jpg",
@@ -2410,7 +2431,8 @@
 	{
 		"pogoda": {
 			"category": [
-				"pogoda"
+				"pogoda",
+				"tingkotoba"
 			],
 			"definition": "pogoda lyk ☀️☁️⛈️🌧️🌨️❄️💨🌪️🌫️⚡🌈",
 			"image": "https://img.freepik.com/free-photo/3d-weather-forecast-icons-set-white-background_107791-17771.jpg",
@@ -2420,7 +2442,8 @@
 	{
 		"polis": {
 			"category": [
-				"ples"
+				"ples",
+				"tingkotoba"
 			],
 			"definition": "polis 🏙️🌇🌃🌆 ples ine lant, tatoeba londonpolis, njujorkpolis, berlinpolis.",
 			"image": "https://img.freepik.com/free-photo/tourism-peninsula-urban-scenery-office-river_1417-878.jpg",
@@ -2430,7 +2453,7 @@
 	{
 		"pomodoro": {
 			"category": [
-				"namting",
+				"namting", "tingkotoba",
 				"ovosji"
 			],
 			"definition": "🍅 - ros ovosji du deki nam.",
@@ -2442,7 +2465,7 @@
 		"portokali": {
 			"category": [
 				"frauta",
-				"namting",
+				"namting", "tingkotoba",
 				"varge"
 			],
 			"definition": "🍊 - portokali frauta du deki nam.<br><span style=\"color:#fb923c;\">afto varge portokali</span>",
@@ -2453,7 +2476,8 @@
 	{
 		"pranvera": {
 			"category": [
-				"tyd"
+				"tyd",
+				"tingkotoba"
 			],
 			"definition": "pranvera lyk tosjitel fu 🌸🌷🌳.",
 			"image": "https://img.freepik.com/free-photo/cherry-blossoms-fuji-mountain-spring-sunrise-shizuoka-japan_335224-110.jpg",
@@ -2482,7 +2506,7 @@
 		"ringo": {
 			"category": [
 				"frauta",
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🍎🍏 - ros os midori frauta du deki nam.",
 			"image": "https://img.freepik.com/free-photo/two-red-apples-isolated-white_114579-73124.jpg",
@@ -2493,7 +2517,7 @@
 		"rime": {
 			"category": [
 				"frauta",
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "sot sjiro frauta mit brun isjilyk piel",
 			"image": "https://img.freepik.com/free-photo/sugary-delicious-yellow-tropic-isolate_1417-311.jpg",
@@ -2511,7 +2535,7 @@
 	{
 		"rju": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐉 - dur",
 			"image": "https://img.freepik.com/free-photo/multi-colored-dragon-statue-symbolizes-chinese-spirituality-generated-by-ai_188544-41837.jpg"
@@ -2520,7 +2544,7 @@
 	{
 		"rjubage": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🪱 - dur",
 			"image": "https://img.freepik.com/free-photo/compost-still-life-concept-with-earthworms_23-2149068942.jpg"
@@ -2564,7 +2588,7 @@
 		"saft": {
 			"category": [
 				"glugting",
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🧃🍹 - glugting f'frauta du deki glug.",
 			"image": "https://img.freepik.com/free-photo/immunity-boosting-food-healthy-lifestyle-with-citrus_23-2149211498.jpg",
@@ -2574,7 +2598,7 @@
 	{
 		"sakana": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐟🐠🎣 - dur",
 			"image": "https://img.freepik.com/free-photo/top-view-fish-lemon_23-2148708633.jpg",
@@ -2584,7 +2608,7 @@
 	{
 		"salat": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "sama sjucai. namting f'mange ovosji.",
 			"image": "https://img.freepik.com/free-photo/frame-healthy-salad_23-2148515423.jpg",
@@ -2594,7 +2618,7 @@
 	{
 		"sangju": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐪 - dur",
 			"image": "https://img.freepik.com/free-photo/dromedary-arabian-camel-roaming-sahara-desert-morocco_181624-28490.jpg",
@@ -2604,7 +2628,7 @@
 	{
 		"saubwa": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐼 - dur (stur au baka wa)",
 			"image": "https://img.freepik.com/free-photo/gorgeous-giant-panda-bear-sitting-down_493961-16.jpg",
@@ -2614,7 +2638,7 @@
 	{
 		"sausje": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "namting f'iske au sokeri, sjo, auauau.",
 			"image": "https://img.freepik.com/free-photo/homemade-ketchup-mustard-mayonnaise-sauce_114579-44514.jpg",
@@ -2650,7 +2674,7 @@
 	{
 		"sja": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🦐🍤 - ros, cisai maredur du deki nam.",
 			"image": "https://img.freepik.com/free-photo/two-tail-shrimp-with-fresh-lemon-rosemary-white_2829-18154.jpg",
@@ -2660,7 +2684,8 @@
 	{
 		"sjalgan": {
 			"category": [
-				"pogoda"
+				"pogoda",
+				"tingkotoba"
 			],
 			"definition": "sjalgan lyk ⚡",
 			"image": "https://img.freepik.com/free-photo/lightning-night-sky-mountains-with-trees_181624-4597.jpg",
@@ -2670,7 +2695,7 @@
 	{
 		"sjenhenzjest": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🦓 - dur",
 			"image": "https://img.freepik.com/free-photo/selective-focus-shot-beautiful-zebra-field-covered-with-green-grass_181624-5968.jpg",
@@ -2698,7 +2723,7 @@
 	{
 		"sjo": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🧂 - sjiro, sjo pudra du deki nam.",
 			"image": "https://img.freepik.com/free-photo/salt-wooden-small-plate_1150-35681.jpg",
@@ -2708,7 +2733,8 @@
 	{
 		"sjoi": {
 			"category": [
-				"tyd"
+				"tyd",
+				"tingkotoba"
 			],
 			"definition": "60 sjoi = 1 fun"
 		}
@@ -2716,7 +2742,7 @@
 	{
 		"sjoju": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "brun glugting du nam mit maki.",
 			"image": "https://img.freepik.com/free-photo/soy-sauce-soy-bean-wooden-table_1150-13412.jpg",
@@ -2726,7 +2752,7 @@
 	{
 		"stau": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🥘🍲 - glugting f'iske, erba, sjo, oisjifrauta auauau.",
 			"image": "https://img.freepik.com/free-photo/top-view-ingredients-soup-soup_23-2148486502.jpg",
@@ -2736,7 +2762,7 @@
 	{
 		"sjyt": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🥩 - ros namting du deki nam.",
 			"image": "https://img.freepik.com/free-photo/raw-meats-with-spices-utensils-rustic-cutting-board-dark-wood-top-view-ai-generative_123827-23528.jpg",
@@ -2746,7 +2772,7 @@
 	{
 		"skwalo": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🦈 - dur",
 			"image": "https://img.freepik.com/free-photo/view-shark-swimming-underwater_23-2148976501.jpg",
@@ -2766,7 +2792,7 @@
 	{
 		"sokeri": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "sjiro, syt pudra du deki nam.",
 			"image": "https://img.freepik.com/free-photo/still-life-dispenser-bottle_23-2150992108.jpg",
@@ -2776,7 +2802,8 @@
 	{
 		"sol": {
 			"category": [
-				"pogoda"
+				"pogoda",
+				"tingkotoba"
 			],
 			"definition": "sol lyk ☀️🌞🔆",
 			"image": "https://img.freepik.com/free-photo/sun-rays-cloudy-sky_23-2148824932.jpg",
@@ -2786,7 +2813,8 @@
 	{
 		"sore": {
 			"category": [
-				"pasjunkotoba"
+				"pasjunkotoba",
+				"tingkotoba"
 			],
 			"definition": "sore 👉🙂",
 			"image": "https://img.freepik.com/free-photo/man-woman-casual-clothes-posing_273609-19254.jpg",
@@ -2796,7 +2824,7 @@
 	{
 		"sosizj": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🌭 - ros namting du deki nam.",
 			"image": "https://img.freepik.com/free-photo/mixed-fried-sausages-with-ketchup-mustard_140725-44222.jpg",
@@ -2806,7 +2834,7 @@
 	{
 		"sotupas": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🍦🍧🍨 - sot upas f'gjunju au sokeri.",
 			"image": "https://img.freepik.com/free-photo/delicious-ice-cream-arrangement_23-2150096681.jpg",
@@ -2816,7 +2844,8 @@
 	{
 		"stat": {
 			"category": [
-				"ples"
+				"ples",
+				"tingkotoba"
 			],
 			"definition": "stat lyk cisai polis, tatoeba redingstat (anglolant), santafejstat (njumeksikolantnen, amerikalant), valensiastat (espanjolant).",
 			"image": "https://img.freepik.com/free-photo/aerial-shot-mesmerizing-scenery-waikanae-township-new-zealand_181624-14446.jpg",
@@ -2826,7 +2855,8 @@
 	{
 		"suksa": {
 			"category": [
-				"tyd"
+				"tyd",
+				"tingkotoba"
 			],
 			"definition": "suksa lyk tosjitel fu 🍂🥮🍁.",
 			"image": "https://img.freepik.com/free-photo/park-sunset_1160-774.jpg",
@@ -2845,7 +2875,8 @@
 	{
 		"talvi": {
 			"category": [
-				"tyd"
+				"tyd",
+				"tingkotoba"
 			],
 			"definition": "talvi lyk tosjitel fu 🏂❄️⛄.",
 			"image": "https://img.freepik.com/free-photo/mysterious-winter-landscape-majestic-mountains-winter_146671-14057.jpg",
@@ -2855,7 +2886,7 @@
 	{
 		"tembo": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐘 - dur",
 			"image": "https://img.freepik.com/free-photo/closeup-shot-cute-elephant-walking-dry-grass-with-its-baby-wilderness_181624-15530.jpg",
@@ -2873,7 +2904,7 @@
 	{
 		"terbage": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐛 - dur. bli fluter.",
 			"image": "https://img.freepik.com/free-photo/worm-caterpillars-isolated-white-background_1150-7922.jpg",
@@ -2883,7 +2914,7 @@
 	{
 		"togepan": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🍩 - pan mit gormoj ine mellan",
 			"image": "https://img.freepik.com/free-photo/purple-pink-donuts-white-background_23-2148166195.jpg",
@@ -2893,8 +2924,8 @@
 	{
 		"tori": {
 			"category": [
-				"dur",
-				"namting"
+				"dur", "tingkotoba",
+				"namting", "tingkotoba"
 			],
 			"definition": "🐔🍗 - brun namting f'fugel du deki nam.",
 			"image": "https://img.freepik.com/free-photo/close-up-fried-chicken-tray-with-green-onions_23-2148699085.jpg",
@@ -2904,7 +2935,7 @@
 	{
 		"torta": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🍰🥧🎂 - brun namting mahajena na alk du deki nam.",
 			"image": "https://img.freepik.com/free-photo/strawberry-cheesecake-isolated-white-background_123827-29174.jpg",
@@ -2914,7 +2945,8 @@
 	{
 		"tosjitel": {
 			"category": [
-				"tyd"
+				"tyd",
+				"tingkotoba"
 			],
 			"definition": "jam 4 tosjitel ine 1 tosji: pranvera, vera, suksa, talvi."
 		}
@@ -2922,7 +2954,8 @@
 	{
 		"tosji": {
 			"category": [
-				"tyd"
+				"tyd",
+				"tingkotoba"
 			],
 			"definition": "12 muaj = 1 tosji"
 		}
@@ -2930,7 +2963,7 @@
 	{
 		"trasak": {
 			"category": [
-				"namting",
+				"namting", "tingkotoba",
 				"ovosji"
 			],
 			"definition": "🥒 - midori ovosji du deki nam.",
@@ -2973,7 +3006,8 @@
 	{
 		"tyd": {
 			"category": [
-				"tyd"
+				"tyd",
+				"tingkotoba"
 			],
 			"definition": "tyd lyk 🕐🕑🕒🕓🕔🕕🕖🕗🕘🕙🕚🕛🕜🕝🕞🕟🕠🕡🕢🕣🕤🕥🕦🕧<br>se<a href='/viossa/tyd'>tyd ine viossalibre</a>"
 		}
@@ -2981,7 +3015,7 @@
 	{
 		"ulu": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🦉 - dur",
 			"image": "https://img.freepik.com/free-photo/closeup-shot-screech-owl_181624-25631.jpg",
@@ -2991,7 +3025,8 @@
 	{
 		"un": {
 			"category": [
-				"pasjunkotoba"
+				"pasjunkotoba",
+				"tingkotoba"
 			],
 			"definition": "un 👉🙂👈",
 			"image": "https://img.freepik.com/free-photo/invest-me-i-m-best_329181-721.jpg",
@@ -3001,7 +3036,8 @@
 	{
 		"upas": {
 			"category": [
-				"pogoda"
+				"pogoda",
+				"tingkotoba"
 			],
 			"definition": "upas lyk 🌨️",
 			"image": "https://img.freepik.com/free-photo/3d-winter-landscape-with-snowy-tree_1048-9648.jpg",
@@ -3011,7 +3047,8 @@
 	{
 		"upaslule": {
 			"category": [
-				"pogoda"
+				"pogoda",
+				"tingkotoba"
 			],
 			"definition": "upaslule lyk ❄️",
 			"image": "https://img.freepik.com/free-photo/winter-snowflake-christmas-ornament-macro-photography-remix-photography-by-wilson-bentley_53876-95365.jpg",
@@ -3021,7 +3058,7 @@
 	{
 		"usci": {
 			"category": [
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🧀 - kjero namting f'gjunju du deki nam.",
 			"image": "https://img.freepik.com/free-photo/beautiful-cheeses-kitchen-cheese-food-preparing-concept_1150-13533.jpg",
@@ -3031,7 +3068,8 @@
 	{
 		"vapazma": {
 			"category": [
-				"pogoda"
+				"pogoda",
+				"tingkotoba"
 			],
 			"definition": "vapazma lyk 🌡️, tatoeba 30°C, 88°F, 304°K",
 			"image": "https://img.freepik.com/free-photo/close-up-thermometer-showing-high-temperature_23-2149456737.jpg"
@@ -3040,7 +3078,8 @@
 	{
 		"varge": {
 			"category": [
-				"varge"
+				"varge",
+				"tingkotoba"
 			],
 			"definition": "ros, kjero, blau al varge.",
 			"image": "https://img.freepik.com/free-photo/top-view-colorful-paper_23-2148514697.jpg"
@@ -3049,7 +3088,8 @@
 	{
 		"stofvas": {
 			"category": [
-				"stofvas"
+				"stofvas",
+				"tingkotoba"
 			],
 			"definition": "stofvas lyk jamtropos f'stof.",
 			"image": "https://img.freepik.com/free-vector/state-matter-science-experiment-solid-liquid-gas_1308-153860.jpg"
@@ -3058,7 +3098,7 @@
 	{
 		"veni": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🦌 - dur",
 			"image": "https://img.freepik.com/free-photo/deer-captured-wild-forest_23-2148866334.jpg",
@@ -3068,7 +3108,8 @@
 	{
 		"vera": {
 			"category": [
-				"tyd"
+				"tyd",
+				"tingkotoba"
 			],
 			"definition": "vera lyk tosjitel fu 🌳☀️🏖️.",
 			"image": "https://img.freepik.com/free-photo/beautiful_1203-2633.jpg",
@@ -3088,7 +3129,7 @@
 		"vestfrauta": {
 			"category": [
 				"frauta",
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🍉 - ros au midori frauta du deki nam.",
 			"image": "https://img.freepik.com/free-photo/green-striped-ripe-watermelon-with-slice-cross-section-isolated-white-background-with-copy-space-text-images-special-kind-berry-sweet-pink-flesh-with-black-seeds-side-view_639032-1254.jpg",
@@ -3107,7 +3148,8 @@
 	{
 		"vi": {
 			"category": [
-				"pasjunkotoba"
+				"pasjunkotoba",
+				"tingkotoba"
 			],
 			"definition": "sore 👉🙂🙂👈, un au du, un au sore"
 		}
@@ -3124,7 +3166,7 @@
 		"vinja": {
 			"category": [
 				"glugting",
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🍷 - ros os makot glugting f'vinjafrauta du deki glug.",
 			"image": "https://img.freepik.com/free-photo/side-view-woman-hand-pouring-red-wine-into-glass-different-kinds-cheese-olive-walnut-grape-white-surface-black-background_141793-6461.jpg",
@@ -3135,7 +3177,7 @@
 		"vinjafrauta": {
 			"category": [
 				"frauta",
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🍇 - makot, ros au midori frauta du deki nam.",
 			"image": "https://img.freepik.com/free-photo/bunch-fresh-grapes-hand-black-background-high-quality-photo_114579-44220.jpg",
@@ -3145,7 +3187,8 @@
 	{
 		"vint": {
 			"category": [
-				"pogoda"
+				"pogoda",
+				"tingkotoba"
 			],
 			"definition": "vint lyk 💨",
 			"image": "https://img.freepik.com/free-photo/low-angle-shot-bird-flying-cloudy-sky-daytime_181624-18823.jpg",
@@ -3155,7 +3198,8 @@
 	{
 		"vintkrol": {
 			"category": [
-				"pogoda"
+				"pogoda",
+				"tingkotoba"
 			],
 			"definition": "vintkrol lyk 🌪️",
 			"image": "https://img.freepik.com/free-photo/weather-effects-composition_23-2149853297.jpg",
@@ -3166,7 +3210,7 @@
 		"voiringo": {
 			"category": [
 				"frauta",
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "🥑 - midori frauta du deki nam.",
 			"image": "https://img.freepik.com/free-photo/avocado-products-made-from-avocados-food-nutrition-concept_1150-26277.jpg",
@@ -3176,7 +3220,8 @@
 	{
 		"wik": {
 			"category": [
-				"tyd"
+				"tyd",
+				"tingkotoba"
 			],
 			"definition": "7 dag = 1 wik<br><br>wiknamaj:<br>lunadag, honodag, iskedag/melanwik, baumdag, jerkatdag, terdag, soldag."
 		}
@@ -3184,7 +3229,7 @@
 	{
 		"wonju": {
 			"category": [
-				"dur"
+				"dur", "tingkotoba"
 			],
 			"definition": "🐌 - dur",
 			"image": "https://img.freepik.com/free-photo/giant-snail-side-view-moss_488145-584.jpg",
@@ -3211,7 +3256,7 @@
 		"zvezdafrauta": {
 			"category": [
 				"frauta",
-				"namting"
+				"namting", "tingkotoba"
 			],
 			"definition": "syr au sot kjero frauta mit zvezda-lyk fal",
 			"image": "https://img.freepik.com/free-photo/starfruit_23-2148167222.jpg",
