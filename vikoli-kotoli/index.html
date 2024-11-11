@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Vikoli Kotoli ine Zeleti</title>
+  <meta http-equiv='cache-control' content='no-cache'> 
+  <html lang="en" xml:lang="en" xmlns= "http://www.w3.org/1999/xhtml">
+  <meta http-equiv='expires' content='0'> 
+  <meta http-equiv='pragma' content='no-cache'>
+  <meta name="google" content="notranslate">
+  <meta http-equiv="Content-Language" content="en">
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <!-- https://realfavicongenerator.net/ -->
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#f8fafc">
+  <meta name="theme-color" content="#ffffff">
+  <!-- discord link thing -->
+  <meta property="og:title" content="vikoli kotoli" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://sq.is-a.dev/viossa/vikoli-kotoli" />
+  <meta name="theme-color" content="#22d3ee">
+</head>
+<body>
+  <div class="container">
+    <div class="sidebar">
+      <input type="text" id="search" placeholder="suha per kotoba...">
+      <button id="category-filter-button">kawarijena</button>
+      <div id="category-popup" class="popup">
+        <div class="popup-content">
+          <h2>sentaku klani</h2>
+          <div id="category-checkboxes"></div>
+          <div class="checkbox-controls">
+            <button id="check-all">sentaku alklani</button>
+            <button id="uncheck-all">sentaku nilklani</button>
+          </div>
+          <div class="search-toggle">
+            <input type="checkbox" id="fuzzy-search-toggle" checked>
+            <label for="fuzzy-search-toggle">laki plusmange kotoba</label>
+            <input type="checkbox" id="search-description" checked>
+            <label for="description-search-toggle">suha ine imi</label>
+            <div class="fuzzy-strength">
+              <input type="range" id="fuzzy-strength" min="1" max="10" value="2">
+              <label for="fuzzy-strength">laki kataj kotoba: mono pravda kotoba <--> mange kotoba</label>
+            </div>
+            <label>sentaku varge</label>
+            <select id="color-scheme" onchange="changeColorScheme()">
+              <option value="white">sjiro</option>
+              <option value="black">kuro</option>
+              <option value="blue" selected>sini</option>
+              <option value="teal">kulus</option>
+              <option value="emerald">midori</option>
+            </select>
+          </div>
+          <button id="apply-filters">owari</button>
+        </div>
+      </div>
+      <div id="wordList"></div>
+    </div>
+    <div class="content">
+      <div style="display: flex; justify-content: space-between; align-items: center; box-sizing: border-box;">
+        <h1 style="margin: 0;" id="wordName">kotoba</h1>
+        <div style="display: flex; align-items: center;">
+          <button onclick="copyURL()" id="copy-button">ga zedvera</button>
+          <div id="customAlert" class="custom-alert">
+            <div class="alert-content">
+              <p id="alertMessage"></p>
+              <button id="closeAlert">ok</button>
+            </div>
+          </div>
+          <button onclick="showStats()" id="stats-button" title="kotoba ataj">kotobataj</button>
+        </div>
+      </div>
+      <div id="wordDetails">
+        <h4>klani: kotoba</h4>
+        <p>imi f'kotoba</p>
+      </div>
+    </div>
+  </div>
+  
+  <script src="script.js"></script>
+</body>
+</html>
