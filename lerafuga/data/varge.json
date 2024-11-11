@@ -6,15 +6,57 @@
     }
   },
   {
+    "portokali": {
+      "color": "#f97316",
+      "options": ["patakari", "pertokeli", "patacari"]
+    }
+  },
+  {
     "kjero": {
       "color": "#eab308",
       "options": ["karo", "kot", "ker"]
     }
   },
   {
+    "midori": {
+      "color": "#22c55e",
+      "options": ["mirodi", "mirido", "modori"]
+    }
+  },
+  {
     "blau": {
       "color": "#3b82f6",
       "options": ["blin", "ber", "bira"]
+    }
+  },
+  {
+    "murasaki": {
+      "color": "#a855f7",
+      "options": ["marasuki", "mirasuki", "marusiki"]
+    }
+  },
+  {
+    "roza": {
+      "color": "#ec4899",
+      "options": ["ros", "raso", "rosse"]
+    }
+  },
+  {
+    "shiro": {
+      "color": "#f8fafc",
+      "options": ["shiru", "shinu", "shero"]
+    }
+  },
+  {
+    "gris": {
+      "color": "#64748b",
+      "options": ["glis", "grizh", "kris"]
+    }
+  },
+  {
+    "kuro": {
+      "color": "#020617",
+      "options": ["kjero", "koro", "kjoru"]
     }
   }
 ]
