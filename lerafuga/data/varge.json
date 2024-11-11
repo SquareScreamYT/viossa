@@ -1,19 +1,19 @@
 [
   {
     "ros": {
-      "color": "red",
+      "color": "#ef4444",
       "options": ["roza", "rol", "ruga"]
     }
   },
   {
     "kjero": {
-      "color": "yellow",
+      "color": "#eab308",
       "options": ["karo", "kot", "ker"]
     }
   },
   {
     "blau": {
-      "color": "blue",
+      "color": "#3b82f6",
       "options": ["blin", "ber", "bira"]
     }
   }

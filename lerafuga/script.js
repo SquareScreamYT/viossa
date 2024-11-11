@@ -57,9 +57,21 @@ function showWord() {
 }
 
 function checkAnswer(selected, correct) {
+  const button = event.target;
   if (selected === correct) {
-    currentWordIndex = (currentWordIndex + 1) % words.length;
-    showWord();
+    button.style.backgroundColor = '#4ade80';
+    setTimeout(() => {
+      button.style.backgroundColor = '';
+    }, 500);
+    setTimeout(() => {
+      currentWordIndex = (currentWordIndex + 1) % words.length;
+      showWord();
+    }, 700);
+  } else {
+    button.style.backgroundColor = '#f87171';
+    setTimeout(() => {
+      button.style.backgroundColor = '';
+    }, 500);
   }
 }
 
