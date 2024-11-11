@@ -88,9 +88,12 @@ body {
   box-sizing: border-box;
 }
 
-h1, p {
+h1, h2, p {
   color: var(--text-color);
   margin-bottom: 20px;
+}
+h2 {
+  text-align: center;
 }
 
 .container {
@@ -112,9 +115,16 @@ h1, p {
   padding: 20px;
   box-sizing: border-box;
   transition: background-color 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
 }
 .cardbutton:hover {
   background-color: var(--bg-color-darkest);
+}
+.cardbutton p {
+  margin: 0;
 }
 
 .flashcard {
