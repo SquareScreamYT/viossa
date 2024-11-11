@@ -6,6 +6,7 @@
 - Add everything from https://sq.is-a.dev/viossa
 - Verbs
 - Adjectives
+- Adverbs
 - Celestial Objects
 - Plants
 - Office Supplies
