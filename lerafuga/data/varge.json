@@ -1,0 +1,20 @@
+[
+  {
+    "ros": {
+      "color": "red",
+      "options": ["roza", "rol", "ruga"]
+    }
+  },
+  {
+    "kjero": {
+      "color": "yellow",
+      "options": ["karo", "kot", "ker"]
+    }
+  },
+  {
+    "blau": {
+      "color": "blue",
+      "options": ["blin", "ber", "bira"]
+    }
+  }
+]
