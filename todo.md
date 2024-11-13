@@ -11,6 +11,7 @@
 - Plants
 - Office Supplies
 - More Colors in Flashcards
+- Add other people's kakutropos
 - Common Items
 - More animals https://discord.com/channels/193915435123474432/750379757799211190/1295085000005386310
 - Basic English Words https://en.wiktionary.org/wiki/Appendix:Basic_English_word_list
