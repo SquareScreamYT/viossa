@@ -62,7 +62,7 @@
    1. Namai fu kotoba, tatoeba "ringo".
    2. Klani fu kotoba, tatoeba "tingkotoba".
    3. Imi fu kotoba, tatoeba "ros sot fraut".
-   4. Mahaklarzma, tatoeba "🍎 ros ringo, 🍏 midori ringo".
+   4. Mahaklarzma ine Mellanossa, tatoeba "🍎 ros ringo, 🍏 midori ringo".
    5. Risonen fu kotoba, li har, tatoeba "🍎🍏"
    6. Tatoeba fu kotoba, tatoeba "un dua ringo grun ringo oishi".
    7. Jokuraz aparlykkotoba os kondorkotoba.
