@@ -1,3 +1,11 @@
+<link href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@400;700&display=swap" rel="stylesheet">
+
+<style>
+  body {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+  }
+</style>
+
 # Viossa-Kotobalibre
 
 ## Tingtumam
