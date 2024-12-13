@@ -71,6 +71,50 @@
 
 ## Kotobatumam
 
+### A
+
+### B
+
+### C
+
+### D
+
+### E
+
+### F
+
+### G
+
+### H
+
+### I
+
+### J
+
+### K
+
+### L
+
+### M
+
+### N
+
+### O
+
+### P
+
 ### R
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Ringo** - Tingkotoba. Ros sot fraut. 🍎 ros ringo, 🍏 midori ringo. Risonen fu ringo: 🍎🍏. Tatoeba: "Un dua ringo grun ringo oishi".
+
+### S
+
+### T
+
+### U
+
+### V
+
+### W
+
+### Z
