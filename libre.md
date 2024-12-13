@@ -21,7 +21,7 @@
 
 ### Mitzam
 
-|           | Lepa | Alvjol | Palyaci | Ngangi | Gorla |
+|           | Lepa | Alvjol | Paljaci | Ngangi | Gorla |
 |-----------|------|--------|---------|--------|-------|
 | Hana      | m    | n      |         | ŋ      |       |
 | Bamba     | p b  | t d    |         | k g    |       |
@@ -32,11 +32,11 @@
 
 ### Selbazam
 
-|      | fura | hina |
-|------|------|------|
-| oba  | i    | u    |
-|mellan| e    | o    |
-| unna | a    |      |
+|      | fura |mellan| hina |
+|------|------|------|------|
+| oba  | i    |      | u    |
+|mellan| e    |ə\~œ\~ø|o    |
+| unna |      | a    |      |
 
 ### Kakutropos
 
@@ -49,15 +49,15 @@
 | Slak      |      | r      |         |        |       |
 |Selbazamnen|      | l      | j       | w      |       |
 
-|      | fura | hina |
-|------|------|------|
-| oba  | i    | u    |
-|mellan| e    | o    |
-| unna | a    |      |
+|      | fura |mellan| hina |
+|------|------|------|------|
+| oba  | i    |      | u    |
+|mellan| e    | o, e | o    |
+| unna |      | a    |      |
 
 ## Hur bruk afto libre
 
-1. Al kotoba paryat ine alfakun. Alfakun fu afto libre je:
+1. Al kotoba parjat ine alfakun. Alfakun fu afto libre je:
    - abcdefghijklmnopqrstuvwxyz
 2. Kotoba har 7 tel:
    1. Namai fu kotoba, tatoeba "ringo".
