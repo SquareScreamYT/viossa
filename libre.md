@@ -25,7 +25,7 @@
 |-----------|------|--------|---------|--------|-------|
 | Hana      | m    | n      |         | ŋ      |       |
 | Bamba     | p b  | t d    |         | k g    |       |
-| Bamfendo  |      | t͡s     |         |        |       |
+| Bamfendo  |      | ts     | tɕ dʑ   |        |       |
 | Fendo     | f v  | s z    | ɕ ʑ     |        | h     |
 | Slak      |      | ɾ      |         |        |       |
 |Selbazamnen|      | l      | j       | w      |       |
@@ -44,7 +44,7 @@
 |-----------|------|--------|---------|--------|-------|
 | Hana      | m    | n      |         | ng     |       |
 | Bamba     | p b  | t d    |         | k g    |       |
-| Bamfendo  |      | c      |         |        |       |
+| Bamfendo  |      | c      | c dj     |        |       |
 | Fendo     | f v  | s z    | sh zh   |        | h     |
 | Slak      |      | r      |         |        |       |
 |Selbazamnen|      | l      | j       | w      |       |
@@ -71,8 +71,15 @@
 
 ## Kotobatumam
 
-### \#
+### \#, -
+
 &nbsp;&nbsp;&nbsp;&nbsp;**100100** - Zamkotoba. Zam fu fliere, sama "hahaha", lyk "😂🤣😆😹".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**-ca** - Festakotoba. "x-ca" sama "un vil du har x". Tatoeba, "bramoraca" sama "un vil du har bra mora".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**-dai** - Festakotoba. -dai lyk stur au djong. Kondor -nen. Aparlyk stur.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**-djin** - Tingkotoba. -djin lyk pashun. Tatoeba, 🧑‍🏫 opetadjin, 🧑‍🎓 leradjin, 👨‍⚕️ zdorvadjin.
 
 ### A
 
