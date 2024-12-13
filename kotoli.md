@@ -5,6 +5,7 @@
 1. Ruru fu Viossa
 2. Zamtropos
 3. Hur bruk afto libre
+4. Kotobatumam
 
 ## Ruru fu Viossa
 
@@ -67,3 +68,9 @@
    6. Tatoeba fu kotoba, tatoeba "un dua ringo grun ringo oishi".
    7. Jokuraz aparlykkotoba os kondorkotoba.
    8. Tatoeba: **Ringo** - Tingkotoba. Ros sot fraut. Haastezma 2. 🍎 ros ringo, 🍏 midori ringo. Risonen fu ringo: 🍎🍏. Tatoeba: "Un dua ringo grun ringo oishi".
+
+## Kotobatumam
+
+### R
+
+&nbsp;&nbsp;&nbsp;&nbsp;**Ringo** - Tingkotoba. Ros sot fraut. Haastezma 2. 🍎 ros ringo, 🍏 midori ringo. Risonen fu ringo: 🍎🍏. Tatoeba: "Un dua ringo grun ringo oishi".
