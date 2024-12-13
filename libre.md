@@ -68,6 +68,7 @@
    6. Tatoeba fu kotoba, tatoeba "un dua ringo grun ringo oishi".
    7. Jokuraz aparlykkotoba os kondorkotoba.
    8. Tatoeba: **Ringo** - Tingkotoba. Ros sot fraut. 🍎 ros ringo, 🍏 midori ringo. Risonen fu ringo: 🍎🍏. Tatoeba: "Un dua ringo grun ringo oishi".
+3. Li har kotoba du vil finna men nai ine afto libre, da ping **@sq3c** in Viossa-Diskordserver.
 
 ## Kotobatumam
 
