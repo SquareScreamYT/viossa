@@ -88,7 +88,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**-nen** - Festakotoba. -nen lyk cisai au kawaii. Kondor -dai. Aparlyk cisai.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**-ossa** - Festakotoba. Hobitkotoba fu "glossa". Glossa fu Anglolant sama "Anglossa".
+&nbsp;&nbsp;&nbsp;&nbsp;**-ossa** - Tingkotoba. Hobitkotoba fu "glossa". Glossa fu Anglolant sama "Anglossa".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**-s** - Festakotoba. Bruk de lasku. Tatoeba: 🥇 eins, 🥈 nis, 🥉 tres.
 
