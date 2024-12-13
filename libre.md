@@ -83,7 +83,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**-jena** - Festakotoba. Awen deki -ena. "(un) nam ringo" sama "ringo namena (na un)". Awen deki bruk per hanu ting surudan.
 
+&nbsp;&nbsp;&nbsp;&nbsp;**-ki** - Festakotoba. Hobitkotoba fu "deki". "sore glugkinai gjunju" sama "sore dekinai glug gjunju".
+
 &nbsp;&nbsp;&nbsp;&nbsp;**-nen** - Festakotoba. -nen lyk cisai au kawaii. Kondor -dai. Aparlyk cisai.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**-ossa** - Festakotoba. Hobitkotoba fu "glossa". Glossa fu Anglolant sama "Anglossa".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**-s** - Festakotoba. Bruk de lasku. Tatoeba: 🥇 eins, 🥈 nis, 🥉 tres.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**-tel** - Festakotoba. -tel lyk ein tel fu ting, tatoeba ⅓ = tretel, ⅔ = ni tretel, ⅕ = gotel, auauau.
 
