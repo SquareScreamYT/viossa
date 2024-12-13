@@ -58,14 +58,12 @@
 
 1. Al kotoba paryat ine alfakun. Alfakun fu afto libre je:
    - abcdefghijklmnopqrstuvwxyz
-2. Kotoba har 8 tel:
+2. Kotoba har 7 tel:
    1. Namai fu kotoba, tatoeba "ringo".
    2. Klani fu kotoba, tatoeba "tingkotoba".
-   3. Haastezma fu kotoba, na 1 made 10, tatoeba "1"
-   4. Imi fu kotoba, tatoeba "ros sot fraut".
-   5. Mahaklarzma ine Mellanossa, tatoeba "🍎 ros ringo, 🍏 midori ringo".
-   6. Risonen fu kotoba, li har, tatoeba "🍎🍏"
-   7. Tatoeba fu kotoba, tatoeba "un dua ringo grun ringo oishi".
-   8. Jokuraz aparlykkotoba os kondorkotoba.
-   - Tatoeba:
-      - **Ringo** - Tingkotoba. Ros sot fraut. Haastezma 2. 🍎 ros ringo, 🍏 midori ringo. Risonen fu ringo: 🍎🍏. Tatoeba: "Un dua ringo grun ringo oishi".
+   3. Imi fu kotoba, tatoeba "ros sot fraut".
+   4. Mahaklarzma ine Mellanossa, tatoeba "🍎 ros ringo, 🍏 midori ringo".
+   5. Risonen fu kotoba, li har, tatoeba "🍎🍏"
+   6. Tatoeba fu kotoba, tatoeba "un dua ringo grun ringo oishi".
+   7. Jokuraz aparlykkotoba os kondorkotoba.
+   8. Tatoeba: **Ringo** - Tingkotoba. Ros sot fraut. Haastezma 2. 🍎 ros ringo, 🍏 midori ringo. Risonen fu ringo: 🍎🍏. Tatoeba: "Un dua ringo grun ringo oishi".
