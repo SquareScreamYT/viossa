@@ -81,6 +81,12 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**-djin** - Tingkotoba. -djin lyk pashun. Tatoeba, 🧑‍🏫 opetadjin, 🧑‍🎓 leradjin, 👨‍⚕️ zdorvadjin.
 
+&nbsp;&nbsp;&nbsp;&nbsp;**-jena** - Festakotoba. Awen deki -ena. "(un) nam ringo" sama "ringo namena (na un)". Awen deki bruk per hanu ting surudan.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**-nen** - Festakotoba. -nen lyk cisai au kawaii. Kondor -dai. Aparlyk cisai.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**-tel** - Festakotoba. -tel lyk ein tel fu ting, tatoeba ⅓ = tretel, ⅔ = ni tretel, ⅕ = gotel, auauau.
+
 ### A
 
 ### B
