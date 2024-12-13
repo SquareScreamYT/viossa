@@ -1,6 +1,6 @@
-<link href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@400;700&display=swap" rel="stylesheet">
-
 <style>
+  @import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&display=swap');
+  
   body {
     font-family: 'M PLUS Rounded 1c', sans-serif;
   }
