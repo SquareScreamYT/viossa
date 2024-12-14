@@ -240,6 +240,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**bagge** - Tingkotoba. Cisai dur mit ishilyk pjel. Risonen: 🦋🐛🐜🐝🪲🐞🦗🪳🕷️🦟🪰.
 
+&nbsp;&nbsp;&nbsp;&nbsp;**bai** - Surukotoba. Bai lyk maha jokudjin suru ting.
+
 &nbsp;&nbsp;&nbsp;&nbsp;**baka** - Lykkotoba. Baka lyk har cisai hierne. Baka kondor svinur.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**baksu** - Tingkotoba. Baksu lyk kjerik ting du deki nasi ting ine. Risonen: 📦, (saftbaksu) 🧃, (gavatbaksu) 🎁.
@@ -270,6 +272,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**bidra** - Surukotoba. Bidra aparlyk maha tula. Tatoeba, "un ohare! da bidra namting!".
 
+&nbsp;&nbsp;&nbsp;&nbsp;**bidziau** - Surukotoba. Bidziau lyk se cigauzma na cigau ting. Tatoeba, "du har 2 kekso, du bidziau afto kekso per se kano kekso plusoishi".
+
 &nbsp;&nbsp;&nbsp;&nbsp;**biljon** - Tingkotoba. Biljon lasku 1000000000.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**bingas** - Tingkotoba. Bingas sot shiro fraut mit stur kuro pie au ros pjel mit mange haar.
@@ -292,6 +296,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**blin** - Tingkotoba au telkotoba. Imi 1: paneku. Imi 2: ka du hanu li du acor, booze os trist.
 
+&nbsp;&nbsp;&nbsp;&nbsp;**bliznec** - Tingkotoba. Bliznec lyk ni fu sama ting. Risonen: 🧑‍🤝‍🧑👯.
+
 &nbsp;&nbsp;&nbsp;&nbsp;**blogetta** - Lykkotoba. Blogetta lyk mangedjin shiru afto ting. Tatoeba, "Mona Lisa blogetta riso".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**blume** - Tingkotoba. Blume tel fu ruti. Risonen: 💐🌸💮🪷🌹🌺🌻🌼🌷🪻.
@@ -299,6 +305,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**blumetyd** - Tingkotoba. Blumetyd sama pranvera.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**booze** - Lykkotoba. Booze kokoro. Risonen: 😡😠🤬👿.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**boneka** - Tingkotoba. Boneka spilting per lapsi ka anze lyk pashun os dur.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**botto** - Tingkotoba. Hobitkotoba fu robotto. 
 
