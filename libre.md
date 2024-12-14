@@ -296,6 +296,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**blume** - Tingkotoba. Blume tel fu ruti. Risonen: 💐🌸💮🪷🌹🌺🌻🌼🌷🪻.
 
+&nbsp;&nbsp;&nbsp;&nbsp;**blumetyd** - Tingkotoba. Blumetyd sama pranvera.
+
 &nbsp;&nbsp;&nbsp;&nbsp;**booze** - Lykkotoba. Booze kokoro. Risonen: 😡😠🤬👿.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**botto** - Tingkotoba. Hobitkotoba fu robotto. 
@@ -323,6 +325,32 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**bura** - Tingkotoba. Bura lyk pogoda ka har plui au sjalgan. Risonen: ⛈️.
 
 ### C
+
+&nbsp;&nbsp;&nbsp;&nbsp;**ca** - Tingkotoba. Glugting mahajena na ishke au leti. Risonen: 🍵🫖.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**catain** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**cer** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**cesapi** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**cigaret** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**cigau** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**cisai** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**cjeping** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**cjesu** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**coki** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**cui** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**cumara** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**culus** - 
 
 ### D
 
