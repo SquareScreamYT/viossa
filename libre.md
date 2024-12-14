@@ -304,9 +304,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**blumetyd** - Tingkotoba. Blumetyd sama pranvera.
 
+&nbsp;&nbsp;&nbsp;&nbsp;**bogos** - Tingkotoba. Bogos sama gnarp os eksodjin. Risonen: 👽.
+
 &nbsp;&nbsp;&nbsp;&nbsp;**booze** - Lykkotoba. Booze kokoro. Risonen: 😡😠🤬👿.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**boneka** - Tingkotoba. Boneka spilting per lapsi ka anze lyk pashun os dur.
+&nbsp;&nbsp;&nbsp;&nbsp;**boneka** - Tingkotoba. Boneka cisai spilting per lapsi ka anze lyk pashun os dur.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**botto** - Tingkotoba. Hobitkotoba fu robotto. 
 
@@ -330,35 +332,37 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**brun** - Lykkotoba. Brun varge fu kafe. Risonen: 🟤🟫🤎.
 
+&nbsp;&nbsp;&nbsp;&nbsp;**bunka** - Tingkotoba. Bunka lyk klani fu klupau.
+
 &nbsp;&nbsp;&nbsp;&nbsp;**bura** - Tingkotoba. Bura lyk pogoda ka har plui au sjalgan. Risonen: ⛈️.
 
 ### C
 
 &nbsp;&nbsp;&nbsp;&nbsp;**ca** - Tingkotoba. Glugting mahajena na ishke au leti. Risonen: 🍵🫖.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**catain** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**catain** - Lykkotoba. Catain lyk 100%, lyk du mietta pravda. Tatoeba, "un catain sore nam ringo f'un".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**cer** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**cer** - Surukotoba. Cer lyk maha ting cisai tel made. Tatoeba, "un cer kartofel".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**cesapi** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**cesapi** - Tingkotoba. Shiro dur mit pitka gorla. Risonen: 🦙.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**cigaret** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**cigaret** - Tingkotoba. Ting du bruk per fik. Risonen: 🚬.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**cigau** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**cigau** - Lykkotoba. 🍎 sama 🍎. 🍎 lyk 🍏. 🍎 cigau 🍍. Kondor sama.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**cisai** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**cisai** - Lykkotoba. ⬜ stur. ▫️ cisai. Tatoeba, "tembo stur au fermi cisai". Kondor stur.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**cjeping** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**cjeping** - Surukotoba. Kiwen cjeping au bli ishke. Tatoeba, "jelo cjeping au bli ishke".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**cjesu** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**cjesu** - Tingkotoba. Spil du spil na pol mit 64 kjerik. Risonen: ♟️.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**coki** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**coki** - Tingkotoba. Sot namting mahajena na kakaobaum. Risonen: 🍫.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**cui** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**cui** - Mitkotoba. Cui lyk ka du hanu. Tatoeba, un hanu: "ringo ros. ringo sot. ringo fraut.". un hanu cui ringo.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**cumara** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**cumara** - Lykkotoba. Cumara lyk har mange ting per suru. Kondor cumaranai. Tatoeba, "un dekinai spil med du, ima un cumara".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**culus** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**culus** - Lykkotoba. Culus varge mellan fu midori au sini. Afto risonen apar culus: 🦚🦠
 
 ### D
 
