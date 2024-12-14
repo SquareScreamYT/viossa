@@ -236,6 +236,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**baba** - Tingkotoba. Midori cisai dur. Risonen: 🐸.
 
+&nbsp;&nbsp;&nbsp;&nbsp;**babapol** - Tingkotoba. Cisai midori ruti ka baba swaru oba. Du deki se babapol oba ishkegormoi.
+
 &nbsp;&nbsp;&nbsp;&nbsp;**bagge** - Tingkotoba. Cisai dur mit ishilyk pjel. Risonen: 🦋🐛🐜🐝🪲🐞🦗🪳🕷️🦟🪰.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**baka** - Lykkotoba. Baka lyk har cisai hierne. Baka kondor svinur.
@@ -243,6 +245,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**baksu** - Tingkotoba. Baksu lyk kjerik ting du deki nasi ting ine. Risonen: 📦, (saftbaksu) 🧃, (gavatbaksu) 🎁.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**bamba** - Tingkotoba. Bamba lyk ting ka maha "bam" zam. Risonen: 💣.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**bamdjong** - Surukotoba. Bamdjong lyk maha neo kotoba os fras. Tatoeba, "du bamdjong na Leksember".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**banan** - Tingkotoba. Sot pitka kiro fraut. Risonen: 🍌.
 
@@ -255,6 +259,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**beng** - Surukotoba. Beng lyk 🟢 ine 🚥. Beng kondor jamete.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**ber** - Surukotoba. Ishke ber au bli luft. Tatoeba, "ishke ine mare ber au skoj na sini, de bli plui".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**berzoda** - Tingkotoba. Berzoda glugting fu limonsaft au luft.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**berg** - Tingkotoba. Berg lyk sturdai ishi. Risonen:🏔️⛰️🗻. 
 
@@ -286,13 +292,19 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**blin** - Tingkotoba au telkotoba. Imi 1: paneku. Imi 2: ka du hanu li du acor, booze os trist.
 
+&nbsp;&nbsp;&nbsp;&nbsp;**blogetta** - Lykkotoba. Blogetta lyk mangedjin shiru afto ting. Tatoeba, "Mona Lisa blogetta riso".
+
 &nbsp;&nbsp;&nbsp;&nbsp;**blume** - Tingkotoba. Blume tel fu ruti. Risonen: 💐🌸💮🪷🌹🌺🌻🌼🌷🪻.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**booze** - Lykkotoba. Booze kokoro. Risonen: 😡😠🤬👿.
 
+&nbsp;&nbsp;&nbsp;&nbsp;**botto** - Tingkotoba. Hobitkotoba fu robotto. 
+
 &nbsp;&nbsp;&nbsp;&nbsp;**bouba** - Lykkotoba. Bouba sama har nil kiki. Bouba kondor kiki. Tatoeba, "krais bouba".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**bra** - Lykkotoba. Risonen: 👍.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**bratula** - Telkotoba. Ka du hanu li neodjin tula.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**bracuri** - Tingkotoba. Kirkaskiro ovoshi ka njoi djong. Risonen: 🧄.
 
