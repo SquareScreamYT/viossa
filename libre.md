@@ -44,7 +44,7 @@
 |           | Lepa | Alvjol | Paljaci | Ngangi | Gorla |
 |-----------|------|--------|---------|--------|-------|
 | Hana      | m    | n      |         | ŋ      |       |
-| Bamba     | p b  | t d    |         | k g    |       |
+| Bamba     | p b  | t d    |         | k g    | ʔ     |
 | Bamfendo  |      | ts     | tɕ dʑ   |        |       |
 | Fendo     | f v  | s z    | ɕ ʑ     |        | h     |
 | Slak      |      | ɾ      |         |        |       |
@@ -63,8 +63,8 @@
 |           | Lepa | Alvjol | Palyaci | Ngangi | Gorla |
 |-----------|------|--------|---------|--------|-------|
 | Hana      | m    | n      |         | ng     |       |
-| Bamba     | p b  | t d    |         | k g    |       |
-| Bamfendo  |      | c      | c dj     |        |       |
+| Bamba     | p b  | t d    |         | k g    | '     |
+| Bamfendo  |      | c      | c dj    |        |       |
 | Fendo     | f v  | s z    | sh zh   |        | h     |
 | Slak      |      | r      |         |        |       |
 |Selbazamnen|      | l      | j       | w      |       |
@@ -122,7 +122,11 @@
 
 ### A
 
+&nbsp;&nbsp;&nbsp;&nbsp;**abece** - Tingkotoba. Abece sama alfakun.
+
 &nbsp;&nbsp;&nbsp;&nbsp;**abura** - Tingkotoba. Abura ting du bruk per goreng. Risonen: 🛢️. Abura deki mahajena na solblume au asetona.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**acor** - Lykkotoba. Acor lyk du vil skoj prapa ting made. Risonen: 😨😱.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**acorfraut** - Tingkotoba. Acorfraut portokali fraut, men jokudjin mietta sore ovoshi. Risonen: 🎃, men har nil kau.
 
@@ -130,9 +134,27 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**afefraut** - Tingkotoba. Afefraut fraut mit brun haar. Risonen: 🥝. Afefraut har "afe" ine namai grun afefraut au afe rjoho har brun haar.
 
+&nbsp;&nbsp;&nbsp;&nbsp;**afroidis** - Tingkotoba. Afroidis nis heljo sol made. Tatoeba: "sturzma fu afroidis lyk sturzma fu gaja". 
+
 &nbsp;&nbsp;&nbsp;&nbsp;**afto** - Pashunkotoba. Afto lyk ting her, afto ringo -> 🍎, tuo ringo -----> 🍎, asoko ringo -----------> 🍎. Tatoeba, "afto ringo ros 🍎, tuo ringo midori 🍏".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**ahavja** - Tingkotoba. Ahavja syr makot frautnen, jokuraz sot. Risonen: 🫐. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**ahman** - Surukotoba. Hanu ka du mietta, men nai shiru li pravda os uso. Tatoeba, "pashun a: kano flakka je flakka fu amerikalant? a) 🇺🇸. b) 🇬🇧. pashun b ahman b. (pashun b ahman flakka b flakka fu amerikalant. pashun b ahman uso.) pashun c ahman a. (pashun c ahman pravda).
+
+&nbsp;&nbsp;&nbsp;&nbsp;**ahoj** - Tingkotoba. Kompjudenwa. Risonen: 🤳📱.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**ainlat** - Surukotoba. Ainlat lyk spore per tula. Tatoeba, "un vil du ainlat" sama "un vil du tula".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**airis** - Tingkotoba. Airis kjeres heljo sol made. Tatoeba: "sturzma fu airis minusstur kana sturzma fu gaja". 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**aistia** - Tingkotoba. Aistia lyk cisai katana per cer namting. Risonen: 🔪, (na migi): 🍴🍽️.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**al** - Tingkotoba. Al lyk du har 100% fu ting. Tatoeba: "🍎🍎🍎🍎🍎 al ringo ros. 🍎🍎🍎🍏🍏 nai al ringo ros."
+
+&nbsp;&nbsp;&nbsp;&nbsp;**alfakun** - Tingkotoba. Alfakun "abcdefghijklmnopqrstuvwxyz".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**aja** - Surukotoba. Aja lyk bruk auto. Tatoeba: "sore aja auto na huomi made".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**ak** - Svarkotoba. Hobitkotoba fu "akkurat".
 
@@ -142,7 +164,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**akote** - Perkotoba. Ni krais akote ⭕ ⭕. Aparlyk "para", kondor "prapa".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**akkurat** - Svarkotoba. Aparlyk "🙂‍↕️". Du deki kjannos afto kotoba.
+&nbsp;&nbsp;&nbsp;&nbsp;**akkurat** - Svarkotoba. Aparlyk "🙂‍↕️". Du deki kjannos afto kotoba. Akkurat kondor nai.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**alta** - Tingkotoba. Brun fugel mit shiro atama. Risonen: 🦅.
 
@@ -150,17 +172,47 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**ananas** - Tingkotoba. Kiro sot fraut mit pitka midori leti. Risonen: 🍍.
 
+&nbsp;&nbsp;&nbsp;&nbsp;**ander** - Tingkotoba. Ander lyk ting ka nai ine klani. Tatoeba 1: "usci nai fraut. usci nai ovoshi. usci ander namting". Tatoeba 2: "pashun a har ringo au banan. pashun b: da anta fraut un made. pashun a anta ringo pashun b made. pashun b: nai ringo, un vil ander fraut. pashun a anta banan".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**an-** - Festakotoba. "suru made" sama "ansuru".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**anta** - Surukotoba. Risonen: 🫴. Tatoeba: "un har 1 ringo. du har 0 ringo. un anta 1 ringo du made. un har 0 ringo. du har 1 ringo." Anta kondor sada.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**anze** - Surukotoba. Anze sama "sejena lyk". Aparlyk "se". Tatoeba, "du se ringo, men ringo anze ros".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**apar** - Lykkotoba. Apar lyk har cisai lasku fu ting. Tatoeba: "apar ringo 🍎🍎🍎. mange ringo 🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎". Apar kondor mange.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**apu** - Surukotoba. Risonen: 💁🤝. Tatoeba: "li du dekinai suru ting, du treng apu".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**ar-** - Festakotoba. "suru kara" sama "arsuru".
+
 &nbsp;&nbsp;&nbsp;&nbsp;**aria** - Tingkotoba. Kiro kotdai mit kraisfal haar na gorla. Risonen: 🦁.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**arka** - Surukotoba. Arka lyk har djong warui ryr ine netopa grun cer, slag, auauau.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**asa** - Surukotoba. Asa lyk jamete kola, nai kola. Tatoeba: "du asa ine mora".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**asetona** - Tingkotoba. Midori cisai frautnen deki maha abura. Risonen: 🫒.
 
+&nbsp;&nbsp;&nbsp;&nbsp;**ashor** - Lykkotoba. Ashor sama har mange gelt. Risonen: 🤑. Ashor kondor ven.
+
 &nbsp;&nbsp;&nbsp;&nbsp;**asoko** - Pashunkotoba. Asoko lyk ting der, afto ringo -> 🍎, tuo ringo -----> 🍎, asoko ringo -----------> 🍎. Tatoeba, "asoko zdane pitkadai 🏢".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**atama** - Tingkotoba. Atama tel fu netopa ka har me, hana, kuchi au korva. Risonen: (hanujena atama) 🗣️.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**atamapolis** - Tingkotoba. Atamapolis lestestur au lestevikti polis fu lant. Tatoeba, "Londonpolis atamapolis fu Anglolant".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**ateksi** - Tingkotoba. Cisai dur. Risonen: 🦎. Aparlyk cisai rju.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**au** - Mitkotoba. Aparlyk "+". "un nam kekso au ca" sama "un nam kekso. un nam ca".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**auauau** - Mitkotoba. Aparlyk "...". "abc auauau" sama "abcdefghijklmnopqrstuvwxyz".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**auki** - Surukotoba au Lykkotoba. Risonen: 🔓📂📬📖. Auki kondor kini.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**auto** - Tingkotoba. Risonen: 🚗🚘🚓. Auto ting du bruk per aja.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**avara** - Tingkotoba. Risonen: 🌌. Avara sturdai plas mit mange zvezda au heljo.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**awen** - Mitkotoba. Un lera Viossa. Du lera Viossa awen. Vi rjoho lera Viossa.
 
