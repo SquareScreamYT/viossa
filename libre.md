@@ -230,6 +230,72 @@
 
 ### B
 
+&nbsp;&nbsp;&nbsp;&nbsp;**b** - Tingkotoba. B lyk ting ka maha hant au netopa eins. Tatoeba: "b fu un arka ima, un vil skoj zdorvadjin 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**baba** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**bagge** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**baksu** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**bamba** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**banan** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**baum** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**baungua** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**beawog** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**beng** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**ber** -
+
+&nbsp;&nbsp;&nbsp;&nbsp;**berg** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**biljon** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**bingas** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**bira** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**bistra** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**bitte** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**bjelu** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**bjurki** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**bjurkiplas** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**blau** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**bli** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**blin** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**blume** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**booze** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**bra** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**bracuri** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**breceng** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**breska** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**bruder** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**bruk** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**brun** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**bura** - 
+
 ### C
 
 ### D
