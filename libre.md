@@ -138,7 +138,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**afto** - Pashunkotoba. Afto lyk ting her, afto ringo -> 🍎, tuo ringo -----> 🍎, asoko ringo -----------> 🍎. Tatoeba, "afto ringo ros 🍎, tuo ringo midori 🍏".
 
+&nbsp;&nbsp;&nbsp;&nbsp;**aftrukjen** - Lykkotoba. Li du glug mange kirkaas, sit du bli aftrukjen. Risonen: 🥴😵.
+
 &nbsp;&nbsp;&nbsp;&nbsp;**ahavja** - Tingkotoba. Ahavja syr makot frautnen, jokuraz sot. Risonen: 🫐. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**agro** - Tingkotoba. Plas fu rufne ting. Lyk "nuncang". Tatoeba: "🧑‍🌾 agrodjin".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**ahman** - Surukotoba. Hanu ka du mietta, men nai shiru li pravda os uso. Tatoeba, "pashun a: kano flakka je flakka fu amerikalant? a) 🇺🇸. b) 🇬🇧. pashun b ahman b. (pashun b ahman flakka b flakka fu amerikalant. pashun b ahman uso.) pashun c ahman a. (pashun c ahman pravda).
 
@@ -149,10 +153,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**airis** - Tingkotoba. Airis kjeres heljo sol made. Tatoeba: "sturzma fu airis minusstur kana sturzma fu gaja". 
 
 &nbsp;&nbsp;&nbsp;&nbsp;**aistia** - Tingkotoba. Aistia lyk cisai katana per cer namting. Risonen: 🔪, (na migi): 🍴🍽️.
-
-&nbsp;&nbsp;&nbsp;&nbsp;**al** - Tingkotoba. Al lyk du har 100% fu ting. Tatoeba: "🍎🍎🍎🍎🍎 al ringo ros. 🍎🍎🍎🍏🍏 nai al ringo ros."
-
-&nbsp;&nbsp;&nbsp;&nbsp;**alfakun** - Tingkotoba. Alfakun "abcdefghijklmnopqrstuvwxyz".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**aja** - Surukotoba. Aja lyk bruk auto. Tatoeba: "sore aja auto na huomi made".
 
@@ -165,6 +165,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**akote** - Perkotoba. Ni krais akote ⭕ ⭕. Aparlyk "para", kondor "prapa".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**akkurat** - Svarkotoba. Aparlyk "🙂‍↕️". Du deki kjannos afto kotoba. Akkurat kondor nai.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**al** - Tingkotoba. Al lyk du har 100% fu ting. Tatoeba: "🍎🍎🍎🍎🍎 al ringo ros. 🍎🍎🍎🍏🍏 nai al ringo ros."
+
+&nbsp;&nbsp;&nbsp;&nbsp;**alting** - Tingkotoba. Alting sama al ting. Tatoeba: "ka du vil nam? alting deki".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**alfakun** - Tingkotoba. Alfakun "abcdefghijklmnopqrstuvwxyz".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**alta** - Tingkotoba. Brun fugel mit shiro atama. Risonen: 🦅.
 
@@ -181,6 +187,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**anze** - Surukotoba. Anze sama "sejena lyk". Aparlyk "se". Tatoeba, "du se ringo, men ringo anze ros".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**apar** - Lykkotoba. Apar lyk har cisai lasku fu ting. Tatoeba: "apar ringo 🍎🍎🍎. mange ringo 🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎". Apar kondor mange.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**apartyd** - Lykkotoba. Apar lyk jokuraz, os hobit tyd.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**apu** - Surukotoba. Risonen: 💁🤝. Tatoeba: "li du dekinai suru ting, du treng apu".
 
@@ -211,6 +219,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**auki** - Surukotoba au Lykkotoba. Risonen: 🔓📂📬📖. Auki kondor kini.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**auto** - Tingkotoba. Risonen: 🚗🚘🚓. Auto ting du bruk per aja.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**autobus** - Tingkotoba. Risonen: 🚌🚍. Autobus lyk stur auto per aja mangedjin.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**avara** - Tingkotoba. Risonen: 🌌. Avara sturdai plas mit mange zvezda au heljo.
 
