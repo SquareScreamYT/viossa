@@ -3,9 +3,10 @@
 ## Tingtumam
 
 1. Ruru fu Viossa
-2. Zamtropos
-3. Hur bruk afto libre
-4. Kotobatumam
+2. Ka Viossa?
+3. Zamtropos
+4. Hur bruk afto libre
+5. Kotobatumam
 
 ## Ruru fu Viossa
 
@@ -16,6 +17,10 @@
    - Nai
    - Fsto
    - Ka
+
+## Ka Viossa?
+
+&nbsp;&nbsp;&nbsp;&nbsp;Viossa viskmahossa, sintuadan na julmuai 2014. Vikti glossa kara Viossa mahena Russossa, Suomiossa, Shkiperossa, Hellenikossa, Nihonossa, Norskossa au Sveiclant-Doicossa, men jam ander glossa ka anta apar kotoba, tatoeba Gelgossa, Fransossa au Latinossa.
   
 ## Zamtropos
 
@@ -93,6 +98,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**-s** - Festakotoba. Bruk de lasku. Tatoeba: 🥇 eins, 🥈 nis, 🥉 tres.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**-tel** - Festakotoba. -tel lyk ein tel fu ting, tatoeba ⅓ = tretel, ⅔ = ni tretel, ⅕ = gotel, auauau.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**-ti** - Festakotoba. Imi aparlyk nai har ting men li har ting, de bra. Tatoeba: "un vilti nam ringo" sama "un ima har nil ringo, men li har ringo, un nam ringo".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**-zma** - Festakotoba. Maha kotoba tingkotoba. Tatoeba: vapa 🔥, vapazma 🌡️.
 
 ### A
 
