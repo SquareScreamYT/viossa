@@ -208,6 +208,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**atama** - Tingkotoba. Atama tel fu netopa ka har me, hana, kuchi au korva. Risonen: (hanujena atama) 🗣️.
 
+&nbsp;&nbsp;&nbsp;&nbsp;**atamabet** - Tingkotoba. Atamabet lyk cisai bet per atama.
+
 &nbsp;&nbsp;&nbsp;&nbsp;**atamapolis** - Tingkotoba. Atamapolis lestestur au lestevikti polis fu lant. Tatoeba, "Londonpolis atamapolis fu Anglolant".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**ateksi** - Tingkotoba. Cisai dur. Risonen: 🦎. Aparlyk cisai rju.
@@ -250,63 +252,63 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**beawog** - Tingkotoba. Ros pitka ovoshi mit midori leti. Li du nam leti, du bli bjurki.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**beng** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**beng** - Surukotoba. Beng lyk 🟢 ine 🚥. Beng kondor jamete.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**ber** -
+&nbsp;&nbsp;&nbsp;&nbsp;**ber** - Surukotoba. Ishke ber au bli luft. Tatoeba, "ishke ine mare ber au skoj na sini, de bli plui".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**berg** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**berg** - Tingkotoba. Berg lyk sturdai ishi. Risonen:🏔️⛰️🗻. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;**bet** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**bet** - Tingkotoba. Bet lyk ting du kola oba. Risonen: 🛏️.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**bides** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**bides** - Perkotoba. Bides lyk skojinejena na tel fu ting au skeksojena na ander tel fu ting. Tatoeba, "du deki se bides glas".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**bidra** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**bidra** - Surukotoba. Bidra aparlyk maha tula. Tatoeba, "un ohare! da bidra namting!".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**biljon** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**biljon** - Tingkotoba. Biljon lasku 1000000000.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**bingas** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**bingas** - Tingkotoba. Bingas sot shiro fraut mit stur kuro pie au ros pjel mit mange haar.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**bira** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**bira** - Tingkotoba. Bira kirkaas au glugting ka maha du aftrukjen. Risonen: 🍺🍻.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**bistra** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**bistra** - Lykkotoba. Bistra lyk suru ting ine cisai tyd. Bistra kondor hiras. Tatoeba: "🐇🐆 bistra dur, 🐢🦥 hiras dur".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**bitte** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**bitte** - Telkotoba. Du hanu bitte li du vil ting. Risonen: 🥺🙏. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;**bjelu** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**bjelu** - Tingkotoba. Bjelu ting du bruk per maha zam. Risonen: 🔔🛎️.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**bjurki** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**bjurki** - Lykkotoba. Bjurki lyk du vona warui. Risonen: 😷🤒🤢🤮🤧.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**bjurkiplas** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**bjurkiplas** - Tingkotoba. Bjurkiplas plas ka har mange zdorvadjin. Risonen: 🧑🏥.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**blau** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**blau** - Lykkotoba. Blau varge fu mare. Risonen: 🟦🔵🔷.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**bli** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**bli** - Surukotoba. Bli lyk mirai maha selba na ting. Tatoeba, "🐛 bli 🦋".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**blin** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**blin** - Tingkotoba au telkotoba. Imi 1: paneku. Imi 2: ka du hanu li du acor, booze os trist.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**blume** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**blume** - Tingkotoba. Blume tel fu ruti. Risonen: 💐🌸💮🪷🌹🌺🌻🌼🌷🪻.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**booze** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**booze** - Lykkotoba. Booze kokoro. Risonen: 😡😠🤬👿.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**bouba** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**bouba** - Lykkotoba. Bouba sama har nil kiki. Bouba kondor kiki. Tatoeba, "krais bouba".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**bra** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**bra** - Lykkotoba. Risonen: 👍.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**bracuri** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**bracuri** - Tingkotoba. Kirkaskiro ovoshi ka njoi djong. Risonen: 🧄.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**breceng** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**breceng** - Tingkotoba. Pan ka pitka au har mange festa. Breceng mahajena na bret au sjen. Risonen: 🥨.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**breska** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**breska** - Tingkotoba. Midori dur ka har ishilyk djido. Risonen: 🐢
 
-&nbsp;&nbsp;&nbsp;&nbsp;**bret** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**bret** - Surukotoba au tingkotoba. Bret lyk maha festa, jokuraz mit haar.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**bruder** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**bruder** - Tingkotoba. Bruder mies ka har sama papa mit du.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**bruk** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**bruk** - Surukotoba. Tatoeba, "du bruk stift per kaku, bruk kuci per hanu au me per se".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**brun** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**brun** - Lykkotoba. Brun varge fu kafe. Risonen: 🟤🟫🤎.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**bura** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**bura** - Tingkotoba. Bura lyk pogoda ka har plui au sjalgan. Risonen: ⛈️.
 
 ### C
 
