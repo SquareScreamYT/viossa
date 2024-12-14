@@ -236,6 +236,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**bagge** - 
 
+&nbsp;&nbsp;&nbsp;&nbsp;**baka** -
+
 &nbsp;&nbsp;&nbsp;&nbsp;**baksu** - 
 
 &nbsp;&nbsp;&nbsp;&nbsp;**bamba** - 
@@ -253,6 +255,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**ber** -
 
 &nbsp;&nbsp;&nbsp;&nbsp;**berg** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**bet** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**bides** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**bidra** - 
 
 &nbsp;&nbsp;&nbsp;&nbsp;**biljon** - 
 
@@ -279,6 +287,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**blume** - 
 
 &nbsp;&nbsp;&nbsp;&nbsp;**booze** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**bouba** - 
 
 &nbsp;&nbsp;&nbsp;&nbsp;**bra** - 
 
