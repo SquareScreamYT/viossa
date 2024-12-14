@@ -2,11 +2,26 @@
 
 ## Tingtumam
 
-1. Ruru fu Viossa
-2. Ka Viossa?
-3. Zamtropos
-4. Hur bruk afto libre
-5. Kotobatumam
+1. [Ruru fu Viossa](#ruru-fu-viossa)
+2. [Ka Viossa?](#ka-viossa)
+3. [Zamtropos](#zamtropos)
+   - [Mitzam](#mitzam)
+   - [Selbazam](#selbazam)
+   - [Kakutropos](#kakutropos)
+4. [Hur bruk afto libre](#hur-bruk-afto-libre)
+5. [Kotobatumam](#kotobatumam)
+   - [#](#--), [A](#a)
+   - [B](#b), [C](#c)
+   - [D](#d), [E](#e)
+   - [F](#f), [G](#g)
+   - [H](#h), [I](#i)
+   - [J](#j), [K](#k)
+   - [L](#l), [M](#m)
+   - [N](#n), [O](#o)
+   - [P](#p), [R](#r)
+   - [S](#s), [T](#t)
+   - [U](#u), [V](#v)
+   - [W](#w-x), [Z](#z)
 
 ## Ruru fu Viossa
 
@@ -81,6 +96,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**100100** - Zamkotoba. Zam fu fliere, sama "hahaha", lyk "😂🤣😆😹".
 
+&nbsp;&nbsp;&nbsp;&nbsp;**-atai** - Tingkotoba. Aparlyk "ka mange". Tatoeba, "huinatai" sama "ka mange huin".
+
 &nbsp;&nbsp;&nbsp;&nbsp;**-ca** - Festakotoba. "x-ca" sama "un vil du har x". Tatoeba, "bramoraca" sama "un vil du har bra mora".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**-dai** - Festakotoba. -dai lyk stur au djong. Kondor -nen. Aparlyk stur.
@@ -147,6 +164,6 @@
 
 ### V
 
-### W
+### W, X
 
 ### Z
