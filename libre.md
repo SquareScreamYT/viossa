@@ -232,23 +232,23 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**b** - Tingkotoba. B lyk ting ka maha hant au netopa eins. Tatoeba: "b fu un arka ima, un vil skoj zdorvadjin 
 
-&nbsp;&nbsp;&nbsp;&nbsp;**baba** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**baba** - Tingkotoba. Midori cisai dur. Risonen: 🐸.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**bagge** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**bagge** - Tingkotoba. Cisai dur mit ishilyk pjel. Risonen: 🦋🐛🐜🐝🪲🐞🦗🪳🕷️🦟🪰.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**baka** -
+&nbsp;&nbsp;&nbsp;&nbsp;**baka** - Lykkotoba. Baka lyk har cisai hierne. Baka kondor svinur.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**baksu** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**baksu** - Tingkotoba. Baksu lyk kjerik ting du deki nasi ting ine. Risonen: 📦, (saftbaksu) 🧃, (gavatbaksu) 🎁.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**bamba** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**bamba** - Tingkotoba. Bamba lyk ting ka maha "bam" zam. Risonen: 💣.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**banan** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**banan** - Tingkotoba. Sot pitka kiro fraut. Risonen: 🍌.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**baum** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**baum** - Tingkotoba. Risonen: 🌲🌳🌴🎄.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**baungua** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**baungua** - Tingkotoba. Portokali fraut mit midori pjel au mange kuro mjahfal pie.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**beawog** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**beawog** - Tingkotoba. Ros pitka ovoshi mit midori leti. Li du nam leti, du bli bjurki.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**beng** - 
 
@@ -297,6 +297,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**breceng** - 
 
 &nbsp;&nbsp;&nbsp;&nbsp;**breska** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**bret** - 
 
 &nbsp;&nbsp;&nbsp;&nbsp;**bruder** - 
 
