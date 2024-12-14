@@ -122,6 +122,50 @@
 
 ### A
 
+&nbsp;&nbsp;&nbsp;&nbsp;**abura** - Tingkotoba. Abura ting du bruk per goreng. Risonen: 🛢️. Abura deki mahajena na solblume au asetona.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**acorfraut** - Tingkotoba. Acorfraut portokali fraut, men jokudjin mietta sore ovoshi. Risonen: 🎃, men har nil kau.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**afe** - Tingkotoba. Afe dur mit brun haar. Risonen: 🐒🐵🙈🙉🙊. Tatoeba: "afe dua nam banan".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**afefraut** - Tingkotoba. Afefraut fraut mit brun haar. Risonen: 🥝. Afefraut har "afe" ine namai grun afefraut au afe rjoho har brun haar.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**afto** - Pashunkotoba. Afto lyk ting her, afto ringo -> 🍎, tuo ringo -----> 🍎, asoko ringo -----------> 🍎. Tatoeba, "afto ringo ros 🍎, tuo ringo midori 🍏".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**ahavja** - Tingkotoba. Ahavja syr makot frautnen, jokuraz sot. Risonen: 🫐. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**ak** - Svarkotoba. Hobitkotoba fu "akkurat".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**akote** - Perkotoba. Ni krais akote ⭕ ⭕. Aparlyk "para", kondor "prapa".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**akrep** - Tingkotoba. Maredur mit ishilyk pjel. Risonen: 🦞. Li kunjajena, varge fu sore bli ros.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**akote** - Perkotoba. Ni krais akote ⭕ ⭕. Aparlyk "para", kondor "prapa".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**akkurat** - Svarkotoba. Aparlyk "🙂‍↕️". Du deki kjannos afto kotoba.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**alta** - Tingkotoba. Brun fugel mit shiro atama. Risonen: 🦅.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**amuspe** - Tingkotoba. Maredur mit ishilyk pjel. Risonen: 🦀.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**ananas** - Tingkotoba. Kiro sot fraut mit pitka midori leti. Risonen: 🍍.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**aria** - Tingkotoba. Kiro kotdai mit kraisfal haar na gorla. Risonen: 🦁.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**asetona** - Tingkotoba. Midori cisai frautnen deki maha abura. Risonen: 🫒.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**asoko** - Pashunkotoba. Asoko lyk ting der, afto ringo -> 🍎, tuo ringo -----> 🍎, asoko ringo -----------> 🍎. Tatoeba, "asoko zdane pitkadai 🏢".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**ateksi** - Tingkotoba. Cisai dur. Risonen: 🦎. Aparlyk cisai rju.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**au** - Mitkotoba. Aparlyk "+". "un nam kekso au ca" sama "un nam kekso. un nam ca".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**auauau** - Mitkotoba. Aparlyk "...". "abc auauau" sama "abcdefghijklmnopqrstuvwxyz".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**awen** - Mitkotoba. Un lera Viossa. Du lera Viossa awen. Vi rjoho lera Viossa.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**azuki** - Tingkotoba. Cisai ros dodo. Risonen: 🫘.
+
 ### B
 
 ### C
