@@ -376,6 +376,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**da** - Telkotoba. Bruk li du vil pashun suru ting. Tatoeba, li du vil namting, du hanu "da bidra namting!".
 
+&nbsp;&nbsp;&nbsp;&nbsp;**dado** - Tingkotoba. Dado lyk kjerik ting. Dado lyk zari. Risonen: 🎲.
+
 &nbsp;&nbsp;&nbsp;&nbsp;**dag** - Tingkotoba. Tel du tyd ka sama 24 djikan. Tatoeba, "🌅 na 🌇 sama han fu dag".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**dalacini** - Tingkotoba. Brun efles masala mahajena na ganjau baumpjel. 
@@ -421,6 +423,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**djiju** - Tingkotoba. Djiju lyk du deki suru ting na vil. Djiju kondor darem. Tatoeba, mangedjin hanu "Amerikalant mange djiju".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**djong** - Lykkotoba. Djong lyk deki suru mange ting. Risonen: 💪. Djong kondor shvant.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**djotri** - Lykkotoba. Djotri lyk vil ishke. Djotri kondor pulap.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**dodo** - Tingkotoba. Dodo lyk ganjau frautnen. Risonen: 🥜🫘. Tatoeba, "hualeing au azuki dodo".
 
