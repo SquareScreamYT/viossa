@@ -172,6 +172,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**alfakun** - Tingkotoba. Alfakun "abcdefghijklmnopqrstuvwxyz".
 
+&nbsp;&nbsp;&nbsp;&nbsp;**alk** - Tingkotoba. Alk pudra mahajena na panmun os mi. Du deki bruk alk per maha pan.
+
 &nbsp;&nbsp;&nbsp;&nbsp;**alta** - Tingkotoba. Brun fugel mit shiro atama. Risonen: 🦅.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**amuspe** - Tingkotoba. Maredur mit ishilyk pjel. Risonen: 🦀.
@@ -449,6 +451,30 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**dvera** - Tingkotoba. Dvera ting na tumam ka du bruk per skojine au skekso. Risonen: 🚪.
 
 ### E
+
+&nbsp;&nbsp;&nbsp;&nbsp;**efles** - Lykkotoba. Efles lyk har bra njoi. Risonen: 👃👍
+
+&nbsp;&nbsp;&nbsp;&nbsp;**ehote** - Tingkotoba. Cisai ovoshinen ine midori kaban. Risonen: 🫛.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**eksi** - Tingkotoba. Eksi lasku 6.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**ekso** - Mitkotoba. <-- [🚶] pashun skoj ekso baksu. Ekso kondor ine.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**elk** - Tingkotoba. Elk brun dur. Risonen: 🫎.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**en** - Tingkotoba. En lasku 1.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**ende** - Lykkotoba. Ende lyk "dan au ima". Tatoeba, "pashun a: du vil namting? pashun b: un nam ende".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**enterrena** - Lykkotoba. Hobitkotoba fu "ine ter -jena". Bruk per hanu afto ting ine ter. Tatoeba, "afto bagge vona enterrena".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**erba** - Tingkotoba. Ovoshi ka har mange midori au shiro leti. Risonen: 🥬.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**ergo** - Surukotoba. Pashun ergo per gelt. Tatoeba fu ergo: zdorvadjin, nuncangdjin, ajadjin.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**ergoplas** - Tingkotoba. Ting ka pashun ergo ine. Risonen: 🏢.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**etlet** - Tingkotoba. Pitkadai hosoi namting mahajena na alk. Risonen: 🍜🍝.
 
 ### F
 
