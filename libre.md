@@ -456,6 +456,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**ehote** - Tingkotoba. Cisai ovoshinen ine midori kaban. Risonen: 🫛.
 
+&nbsp;&nbsp;&nbsp;&nbsp;**ekran** - Tingkotoba. Ting du bruk per se zeriso. Tatoeba, "ahoj-ekran, kompju-ekran".
+
 &nbsp;&nbsp;&nbsp;&nbsp;**eksi** - Tingkotoba. Eksi lasku 6.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**ekso** - Mitkotoba. <-- [🚶] pashun skoj ekso baksu. Ekso kondor ine.
@@ -466,6 +468,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**ende** - Lykkotoba. Ende lyk "dan au ima". Tatoeba, "pashun a: du vil namting? pashun b: un nam ende".
 
+&nbsp;&nbsp;&nbsp;&nbsp;**engau** - Mitkotoba. "a engau b" sama "li b, sit a".
+
 &nbsp;&nbsp;&nbsp;&nbsp;**enterrena** - Lykkotoba. Hobitkotoba fu "ine ter -jena". Bruk per hanu afto ting ine ter. Tatoeba, "afto bagge vona enterrena".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**erba** - Tingkotoba. Ovoshi ka har mange midori au shiro leti. Risonen: 🥬.
@@ -475,6 +479,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**ergoplas** - Tingkotoba. Ting ka pashun ergo ine. Risonen: 🏢.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**etlet** - Tingkotoba. Pitkadai hosoi namting mahajena na alk. Risonen: 🍜🍝.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**etuni** - Surukotoba. Etuni lyk ting ryr ander ting altyd. Tatoeba, "mjalt au etunishke etuni". Risonen: (etunipaperi) 🩹.
 
 ### F
 
