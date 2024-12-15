@@ -238,6 +238,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**babapol** - Tingkotoba. Cisai midori ruti ka baba swaru oba. Du deki se babapol oba ishkegormoi.
 
+&nbsp;&nbsp;&nbsp;&nbsp;**badjel** - Tingkotoba. Badjel ting du nasi ishke ine. Risonen: 🪣.
+
 &nbsp;&nbsp;&nbsp;&nbsp;**bagge** - Tingkotoba. Cisai dur mit ishilyk pjel. Risonen: 🦋🐛🐜🐝🪲🐞🦗🪳🕷️🦟🪰.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**bai** - Surukotoba. Bai lyk maha jokudjin suru ting.
@@ -396,7 +398,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**de** - Mitkotoba. De lyk ka suru li ting owari. De kondor za.  Tatoeba, "1 de 2 de 3", os "13 djikan du nam. 14 djikan du ergo. du nam de du ergo".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**delabdel** - Surukotoba. Delabdel lyk kawari plas fu 2 ting. Tatoeba, du har "abcde". Du delabdel plas fu "b" au "d". DU ima har "adcbe".
+&nbsp;&nbsp;&nbsp;&nbsp;**delabdel** - Surukotoba. Delabdel lyk kawari plas fu 2 ting. Tatoeba, du har "abcde". Du delabdel plas fu "b" au "d". Du ima har "adcbe".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**dengwai** - Surukotoba. Dengwai lyk li du vil nam na namplas au vilnai vent du mus dengwai.
 
