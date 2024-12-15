@@ -342,6 +342,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**catain** - Lykkotoba. Catain lyk 100%, lyk du mietta pravda. Tatoeba, "un catain sore nam ringo f'un".
 
+&nbsp;&nbsp;&nbsp;&nbsp;**catto** - Tingkotoba. Catto lyk zekaku, ting du hanu na kompju.
+
 &nbsp;&nbsp;&nbsp;&nbsp;**cer** - Surukotoba. Cer lyk maha ting cisai tel made. Tatoeba, "un cer kartofel".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**cesapi** - Tingkotoba. Shiro dur mit pitka gorla. Risonen: 🦙.
@@ -360,11 +362,75 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**cui** - Mitkotoba. Cui lyk ka du hanu. Tatoeba, un hanu: "ringo ros. ringo sot. ringo fraut.". un hanu cui ringo.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**cumara** - Lykkotoba. Cumara lyk har mange ting per suru. Kondor cumaranai. Tatoeba, "un dekinai spil med du, ima un cumara".
+&nbsp;&nbsp;&nbsp;&nbsp;**cumara** - Lykkotoba. Hobitkotoba fu "cumaranai".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**culus** - Lykkotoba. Culus varge mellan fu midori au sini. Afto risonen apar culus: 🦚🦠
 
 ### D
+
+&nbsp;&nbsp;&nbsp;&nbsp;**da** - Telkotoba. Bruk li du vil pashun suru ting. Tatoeba, li du vil namting, du hanu "da bidra namting!".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**dag** - Tingkotoba. Tel du tyd ka sama 24 djikan. Tatoeba, "🌅 na 🌇 sama han fu dag".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**dalacini** - Tingkotoba. Brun efles masala mahajena na ganjau baumpjel. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**dan** - Tingkotoba. Dan zatyd. Risonen: ⬅️🕰️.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**danke** - Telkotoba. Danke lyk ting du hanu li pashun suru brating per du. Risonen: 🙏. Tatoeba, li jokudjin anta ringo per du, du hanu "danke".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**dare** - Tingkotoba. Dare lyk "ka pashun?". Tatoeba, "dare nam ringo f'un?".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**darem** - Surukotoba. Darem lyk gha ting. Tatoeba, "daremdjin darem waruidjin".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**daremdjin** - Tingkotoba. Daremdjin lyk pashun ka darem waruidjin. Risonen: 👮.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**dasos** - Tingkotoba. Dasos lyk klani fu mange baum. Tatoeba, "Amazon dasosdai".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**davai** - Telkotoba. Davai lyk ting du hanu li du vil ting owari bistra. Risonen: 🎉🥳🎊👏. Tatoeba, li mik fu du para owarisjen, du hanu "davai! davai!".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**deki** - Surukotoba. Deki lyk impla du suru ting. Tatoeba, "du deki nam ringo men du dekinai nam auto".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**de** - Mitkotoba. De lyk ka suru li ting owari. De kondor za.  Tatoeba, "1 de 2 de 3", os "13 djikan du nam. 14 djikan du ergo. du nam de du ergo".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**denwa** - Tingkotoba. Denwa lyk ting du bruk per ring. Risonen: ☎️📞. Tatoeba, "ahoj deki suru ting denwa dekinai suru".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**der** - Tingkotoba. Der lyk asoko plas. Tatoeba, "zdane der pitkadai!".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**dino** - Tingkotoba. Dino sama protofugel. Risonen: 🦖🦕.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**diskord** - Tingkotoba. Diskord zeting du bruk per catto. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**diskordserver** - Tingkotoba. Diskordserver klani ine Diskord du bruk per hanu cui ting.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**djarper** - Tingkotoba. Djarper pitka dur. Risonen: 🐍.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**djikan** - Tingkotoba. Djikan lyk tel fu tyd. 24 djikan maha 1 dag. 60 fun maha 1 djikan.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**djido** - Tingkotoba. Djido lyk pitka tel fu baum. Risonen: 🪵.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**djong** - Lykkotoba. Djong lyk deki suru mange ting. Risonen: 💪. Djong kondor shvant.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**dodo** - Tingkotoba. Dodo lyk ganjau frautnen. Risonen: 🥜🫘. Tatoeba, "hualeing au azuki dodo".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**dok** - Pashunkotoba. Dok lyk du men plusmange kana 2.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**doko** - Tingkotoba. Doko lyk "ka plas?". Tatoeba, "doko ringo f'un?".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**dronet** - Tingkotoba. Dronet lyk onna konig. Risonen: 👸. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**du** - Pashunkotoba. Du nis pashun. Risonen: 🫵. Tatoeba, "du lera Viossa".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**dua** - Surukotoba. Dua lyk gustdai. Risonen: 😍💕❤️. Tatoeba, "vi dua ringo".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**dur** - Tingkotoba. Dur klani fu vonating. Risonen: 🐶😺🐟🐸🐝🕷️🐔.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**durplas** - Tingkotoba. Plas ka du deki se mange dur. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**durianfraut** - Tingkotoba. Kiro fraut mit stur brun pie au kiki midori pjel. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**dush** - Surukotoba. Dush lyk maha selba sodzi. Risonen: 🛀🚿.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**dvera** - Tingkotoba. Dvera ting na tumam ka du bruk per skojine au skekso. Risonen: 🚪.
 
 ### E
 
