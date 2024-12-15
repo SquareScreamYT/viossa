@@ -346,6 +346,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**cer** - Surukotoba. Cer lyk maha ting cisai tel made. Tatoeba, "un cer kartofel".
 
+&nbsp;&nbsp;&nbsp;&nbsp;**cerpol** - Tingkotoba. Cerpol ting du cer namting oba.
+
 &nbsp;&nbsp;&nbsp;&nbsp;**cesapi** - Tingkotoba. Shiro dur mit pitka gorla. Risonen: 🦙.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**cigaret** - Tingkotoba. Ting du bruk per fik. Risonen: 🚬.
@@ -354,7 +356,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**cisai** - Lykkotoba. ⬜ stur. ▫️ cisai. Tatoeba, "tembo stur au fermi cisai". Kondor stur.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**cjeping** - Surukotoba. Kiwen cjeping au bli ishke. Tatoeba, "jelo cjeping au bli ishke".
+&nbsp;&nbsp;&nbsp;&nbsp;**cjeping** - Surukotoba. Ishke cjeping au bli kiwen. Tatoeba, "ishke cjeping au bli jelo".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**cjepingarka** - Tingkotoba. Cjepingarka lyk arka du har li netopa li samuidai.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**cjesu** - Tingkotoba. Spil du spil na pol mit 64 kjerik. Risonen: ♟️.
 
@@ -392,6 +396,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**de** - Mitkotoba. De lyk ka suru li ting owari. De kondor za.  Tatoeba, "1 de 2 de 3", os "13 djikan du nam. 14 djikan du ergo. du nam de du ergo".
 
+&nbsp;&nbsp;&nbsp;&nbsp;**delabdel** - Surukotoba. Delabdel lyk kawari plas fu 2 ting. Tatoeba, du har "abcde". Du delabdel plas fu "b" au "d". DU ima har "adcbe".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**dengwai** - Surukotoba. Dengwai lyk li du vil nam na namplas au vilnai vent du mus dengwai.
+
 &nbsp;&nbsp;&nbsp;&nbsp;**denwa** - Tingkotoba. Denwa lyk ting du bruk per ring. Risonen: ☎️📞. Tatoeba, "ahoj deki suru ting denwa dekinai suru".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**der** - Tingkotoba. Der lyk asoko plas. Tatoeba, "zdane der pitkadai!".
@@ -407,6 +415,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**djikan** - Tingkotoba. Djikan lyk tel fu tyd. 24 djikan maha 1 dag. 60 fun maha 1 djikan.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**djido** - Tingkotoba. Djido lyk pitka tel fu baum. Risonen: 🪵.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**djiju** - Tingkotoba. Djiju lyk du deki suru ting na vil. Djiju kondor darem. Tatoeba, mangedjin hanu "Amerikalant mange djiju".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**djong** - Lykkotoba. Djong lyk deki suru mange ting. Risonen: 💪. Djong kondor shvant.
 
