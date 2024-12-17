@@ -104,6 +104,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**-djin** - Tingkotoba. -djin lyk pashun. Tatoeba, 🧑‍🏫 opetadjin, 🧑‍🎓 leradjin, 👨‍⚕️ zdorvadjin.
 
+&nbsp;&nbsp;&nbsp;&nbsp;**-ik** - Tingkotoba. x-ik lyk falfal mit x fal. Tatoeba, "🔺 treik, 🟥 kjerik, 🛑 kasik".
+
 &nbsp;&nbsp;&nbsp;&nbsp;**-jena** - Festakotoba. Awen deki -ena. "(un) nam ringo" sama "ringo namena (na un)". Awen deki bruk per hanu ting surudan.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**-ki** - Festakotoba. Hobitkotoba fu "deki". "sore glugkinai gjunju" sama "sore dekinai glug gjunju".
@@ -148,7 +150,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**ahoj** - Tingkotoba. Kompjudenwa. Risonen: 🤳📱.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**ainlat** - Surukotoba. Ainlat lyk spore per tula. Tatoeba, "un vil du ainlat" sama "un vil du tula".
+&nbsp;&nbsp;&nbsp;&nbsp;**ainlat** - Surukotoba. Ainlat lyk spore per tulla. Tatoeba, "un vil du ainlat" sama "un vil du tulla".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**airis** - Tingkotoba. Airis kjeres heljo sol made. Tatoeba: "sturzma fu airis minusstur kana sturzma fu gaja". 
 
@@ -274,7 +276,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**bides** - Perkotoba. Bides lyk skojinejena na tel fu ting au skeksojena na ander tel fu ting. Tatoeba, "du deki se bides glas".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**bidra** - Surukotoba. Bidra aparlyk maha tula. Tatoeba, "un ohare! da bidra namting!".
+&nbsp;&nbsp;&nbsp;&nbsp;**bidra** - Surukotoba. Bidra aparlyk maha tulla. Tatoeba, "un ohare! da bidra namting!".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**bidziau** - Surukotoba. Bidziau lyk se cigauzma na cigau ting. Tatoeba, "du har 2 kekso, du bidziau afto kekso per se kano kekso plusoishi".
 
@@ -320,7 +322,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**bra** - Lykkotoba. Risonen: 👍.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**bratula** - Telkotoba. Ka du hanu li neodjin tula.
+&nbsp;&nbsp;&nbsp;&nbsp;**bratulla** - Telkotoba. Ka du hanu li neodjin tulla.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**bracuri** - Tingkotoba. Kirkaskiro ovoshi ka njoi djong. Risonen: 🧄.
 
@@ -468,9 +470,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**ende** - Lykkotoba. Ende lyk "dan au ima". Tatoeba, "pashun a: du vil namting? pashun b: un nam ende".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**engau** - Mitkotoba. "a engau b" sama "li b, sit a".
+&nbsp;&nbsp;&nbsp;&nbsp;**engau** - Surukotoba. Tatoeba, "🎣 sakana engau na sjen".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**enterrena** - Lykkotoba. Hobitkotoba fu "ine ter -jena". Bruk per hanu afto ting ine ter. Tatoeba, "afto bagge vona enterrena".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**er-** - Surukotoba. Er lyk suru ting au jamete mono grun shinu. Tatoeba, "sore erergo" sama "sore ergo au jamete mono grun sore shinu".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**erba** - Tingkotoba. Ovoshi ka har mange midori au shiro leti. Risonen: 🥬.
 
@@ -478,11 +482,69 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**ergoplas** - Tingkotoba. Ting ka pashun ergo ine. Risonen: 🏢.
 
+&nbsp;&nbsp;&nbsp;&nbsp;**esku** - Surukotoba. Esku lyk apu rufne. Tatoeba, "papa au mama esku vauva".
+
 &nbsp;&nbsp;&nbsp;&nbsp;**etlet** - Tingkotoba. Pitkadai hosoi namting mahajena na alk. Risonen: 🍜🍝.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**etuni** - Surukotoba. Etuni lyk ting ryr ander ting altyd. Tatoeba, "mjalt au etunishke etuni". Risonen: (etunipaperi) 🩹.
 
 ### F
+
+&nbsp;&nbsp;&nbsp;&nbsp;**fal** - Tingkotoba. Fal lyk klani fu jokuting. Tatoeba, 4 cigau fal fu toki: 🕰️, ⏲️, ⏰, 🕛; 5 fal fu "a": **a**, *a*, `a`, 🅰️, ***a***.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**falfal** - Tingkotoba. Falfal lyk hur ting anze. Tatoeba, krais, ker, kjerik al falfal. Risonen: 🔴🟥🔺🛑❤️.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**fami** - Tingkotoba. Fami pashun ka har samalyk vonishke mit du. Risonen: 👨‍👩‍👧‍👦.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**fan** - Tingkotoba. Li du suru mange warui ting, du skoj na fan. Fan holiplas fu hono. Deki bruk aparlyk "blin".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**farza** - Surukotoba. Farza lyk finna ka kataj fu jokuting. Risonen: 📏🌡️📐. Tatoeba: "da farza 2 klinje fu ishke".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**fen** - Lykkotoba. Fen lyk har mange varge. Tatoeba, "feri fendai".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**feri** - Tingkotoba. Helena ting mit mange varge ka du deki se li plui men sol pohar kirkas. Risonen: 🌈🏳️‍🌈.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**fermi** - Tingkotoba. Cisai dur mit 6 jalaka. Risonen: 🐜.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**festa** - Tingkotoba. Festa lyk helena sjen du bruk per maha ting ein. Risonen: 🎀🎗️, (afto ting har festa) 💝🎁.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**festakotoba** - Tingkotoba. Festakotoba lyk kotoba du deki bruk na owari fu kotoba.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**fi** - Tingkotoba. Pashun ka mipi fu rjodjin fu du. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**fik** - Lykkotoba. Fik lyk gvirnai.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**film** - Tingkotoba. Film lyk ting ka zeme ufne. Risonen: 🎞️.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**finna** - Surukotoba. Finna lyk suha au se. Tatoeba, "Google apu du finna zeleti".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**flakka** - Tingkotoba. Flakka lyk kleja. Risonen: ⛳🏁🚩🏴🏳️🏳️‍🌈🏳️‍⚧️🎌.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**fliere** - Surukotoba au lykkotoba. Fliere lyk zam "hahaha". Risonen: 😆🤣😂. Li ting fliere, sore maha du fliere.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**floreng** - Lykkotoba. Floreng lyk warui per njoi.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**fluter** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**forgor** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**fras** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**fraut** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**fsto** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**fu** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**fuga** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**fugel** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**fun** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**fura** - 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**fuwafuwa** - 
 
 ### G
 
