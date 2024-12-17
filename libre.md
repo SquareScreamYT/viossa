@@ -524,13 +524,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**floreng** - Lykkotoba. Floreng lyk warui per njoi.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**fluter** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**fluter** - Tingkotoba. Fluter dur mit stur ljetta. Risonen: 🦋.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**forgor** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**forgor** - Tingkotoba. Forgor lyk pone fu atama. Risonen: 💀.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**fras** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**fras** - Tingkotoba. Fras lyk mange kotoba. Tatoeba, "r" kirain, "ringo" kotoba, "un nam ringo" fras.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**fraut** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**fraut** - Tingkotoba. Fraut lyk ting mit saft du deki nam. Risonen: 🍎🍌🍊🍍🍈🍇🍐.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**fsto** - 
 
