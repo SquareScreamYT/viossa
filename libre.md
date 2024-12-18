@@ -71,7 +71,7 @@
 
 |      | fura |mellan| hina |
 |------|------|------|------|
-| oba  | i    |      | u    |
+| oba  | i, y |      | u    |
 |mellan| e    | o, e | o    |
 | unna |      | a    |      |
 
@@ -490,6 +490,8 @@
 
 ### F
 
+&nbsp;&nbsp;&nbsp;&nbsp;**f'-** - Perkotoba. Hobitkotoba fu "fu". Tatoeba, "ringo f'du" sama "ringo fu du".
+
 &nbsp;&nbsp;&nbsp;&nbsp;**fal** - Tingkotoba. Fal lyk klani fu jokuting. Tatoeba, 4 cigau fal fu toki: 🕰️, ⏲️, ⏰, 🕛; 5 fal fu "a": **a**, *a*, `a`, 🅰️, ***a***.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**falfal** - Tingkotoba. Falfal lyk hur ting anze. Tatoeba, krais, ker, kjerik al falfal. Risonen: 🔴🟥🔺🛑❤️.
@@ -532,19 +534,21 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**fraut** - Tingkotoba. Fraut lyk ting mit saft du deki nam. Risonen: 🍎🍌🍊🍍🍈🍇🍐.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**fsto** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**fsto** - Surukotoba. Aparlyk "🤔 -> 😊💡👍". Du deki kjannos afto kotoba. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;**fu** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**fu** - Perkotoba. Ting fu jokudjin lyk jokudjin har ting. Tatoeba, "un har ringo. ringo fu un. un anta ringo du made. ringo fu du".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**fuga** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**fuga** - Tingkotoba. Fuga hosoi ting, glaubi mahajena na paperi. Risonen: 🃏🎴💳.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**fugel** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**fugel** - Tingkotoba. Fugel dur ka har ljetta. Risonen: 🦜🦚🪿🦆🐧🐥🦃🐦🦉.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**fun** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**fuksa** - Lykkotoba. Fuksa lyk haaste per fshto. Tatoeba, "joku kotoba fuksa".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**fura** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**fun** -  Tingkotoba. Fun lyk tel fu tyd. 60 fun maha 1 djikan.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**fuwafuwa** - 
+&nbsp;&nbsp;&nbsp;&nbsp;**fura** - Lykkotoba. Fura lyk ting na plas ka du deki se. Fura kondor hina.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**fuwafuwa** - Lykkotoba. Fuwafuwa aparlyk gumi. Fuwafuwa kondor ishilyk. Tatoeba, "bet fuwafuwa".
 
 ### G
 
