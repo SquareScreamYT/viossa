@@ -28,14 +28,14 @@
 1. Danai kjannos Viossa.
 2. Li fsto, sit Viossa.
 3. Jam 4 kotoba du deki kjannos:
-   - Akk 
+   - Akk
    - Nai
    - Fsto
    - Ka
 
 ## Ka Viossa?
 
-&nbsp;&nbsp;&nbsp;&nbsp;Viossa viskmahossa, sintuadan na julmuai 2014. Vikti glossa kara Viossa mahena Russossa, Suomiossa, Shkiperossa, Hellenikossa, Nihonossa, Norskossa au Sveiclant-Doicossa, men jam ander glossa ka anta apar kotoba, tatoeba Gelgossa, Fransossa au Latinossa.
+&nbsp;&nbsp;&nbsp;&nbsp;Viossa viskmahossa, sintuadan na julmuai 2014. Vikti glossa kara Viossa mahena Russossa, Suomiossa, Shkiperossa, Hellenikossa, Nihonossa, Norskossa au Helvetiossa, men jam ander glossa ka anta apar kotoba, tatoeba Gelgossa, Fransossa au Latinossa.
   
 ## Zamtropos
 
@@ -110,6 +110,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**-ki** - Festakotoba. Hobitkotoba fu "deki". "sore glugkinai gjunju" sama "sore dekinai glug gjunju".
 
+&nbsp;&nbsp;&nbsp;&nbsp;**-li** - Festakotoba. -li sama -nen.
+
 &nbsp;&nbsp;&nbsp;&nbsp;**-nen** - Festakotoba. -nen lyk cisai au kawaii. Kondor -dai. Aparlyk cisai.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**-ossa** - Tingkotoba. Hobitkotoba fu "glossa". Glossa fu Anglolant sama "Anglossa".
@@ -136,13 +138,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**afefraut** - Tingkotoba. Afefraut fraut mit brun haar. Risonen: 🥝. Afefraut har "afe" ine namai grun afefraut au afe rjoho har brun haar.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**afroidis** - Tingkotoba. Afroidis nis heljo sol made. Tatoeba: "sturzma fu afroidis lyk sturzma fu gaja". 
+&nbsp;&nbsp;&nbsp;&nbsp;**afroidis** - Tingkotoba. Afroidis nis heljo sol made. Tatoeba: "sturzma fu afroidis lyk sturzma fu gaja".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**afto** - Pashunkotoba. Afto lyk ting her, afto ringo -> 🍎, tuo ringo -----> 🍎, asoko ringo -----------> 🍎. Tatoeba, "afto ringo ros 🍎, tuo ringo midori 🍏".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**aftrukjen** - Lykkotoba. Li du glug mange kirkaas, sit du bli aftrukjen. Risonen: 🥴😵.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**ahavja** - Tingkotoba. Ahavja syr makot frautnen, jokuraz sot. Risonen: 🫐. 
+&nbsp;&nbsp;&nbsp;&nbsp;**ahavja** - Tingkotoba. Ahavja syr makot frautnen, jokuraz sot. Risonen: 🫐.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**agro** - Tingkotoba. Plas fu rufne ting. Lyk "nuncang". Tatoeba: "🧑‍🌾 agrodjin".
 
@@ -152,7 +154,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**ainlat** - Surukotoba. Ainlat lyk spore per tulla. Tatoeba, "un vil du ainlat" sama "un vil du tulla".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**airis** - Tingkotoba. Airis kjeres heljo sol made. Tatoeba: "sturzma fu airis minusstur kana sturzma fu gaja". 
+&nbsp;&nbsp;&nbsp;&nbsp;**airis** - Tingkotoba. Airis kjeres heljo sol made. Tatoeba: "sturzma fu airis minusstur kana sturzma fu gaja".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**aistia** - Tingkotoba. Aistia lyk cisai katana per cer namting. Risonen: 🔪, (na migi): 🍴🍽️.
 
@@ -236,7 +238,7 @@
 
 ### B
 
-&nbsp;&nbsp;&nbsp;&nbsp;**b** - Tingkotoba. B lyk ting ka maha hant au netopa eins. Tatoeba: "b fu un arka ima, un vil skoj zdorvadjin 
+&nbsp;&nbsp;&nbsp;&nbsp;**b** - Tingkotoba. B lyk ting ka maha hant au netopa eins. Tatoeba: "b fu un arka ima, un vil skoj zdorvadjin
 
 &nbsp;&nbsp;&nbsp;&nbsp;**baba** - Tingkotoba. Midori cisai dur. Risonen: 🐸.
 
@@ -270,7 +272,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**berzoda** - Tingkotoba. Berzoda glugting fu limonsaft au luft.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**berg** - Tingkotoba. Berg lyk sturdai ishi. Risonen:🏔️⛰️🗻. 
+&nbsp;&nbsp;&nbsp;&nbsp;**berg** - Tingkotoba. Berg lyk sturdai ishi. Risonen:🏔️⛰️🗻.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**bet** - Tingkotoba. Bet lyk ting du kola oba. Risonen: 🛏️.
 
@@ -288,7 +290,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**bistra** - Lykkotoba. Bistra lyk suru ting ine cisai tyd. Bistra kondor hiras. Tatoeba: "🐇🐆 bistra dur, 🐢🦥 hiras dur".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**bitte** - Telkotoba. Du hanu bitte li du vil ting. Risonen: 🥺🙏. 
+&nbsp;&nbsp;&nbsp;&nbsp;**bitte** - Telkotoba. Du hanu bitte li du vil ting. Risonen: 🥺🙏.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**bjelu** - Tingkotoba. Bjelu ting du bruk per maha zam. Risonen: 🔔🛎️.
 
@@ -316,7 +318,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**boneka** - Tingkotoba. Boneka cisai spilting per lapsi ka anze lyk pashun os dur.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**botto** - Tingkotoba. Hobitkotoba fu robotto. 
+&nbsp;&nbsp;&nbsp;&nbsp;**botto** - Tingkotoba. Hobitkotoba fu robotto.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**bouba** - Lykkotoba. Bouba sama har nil kiki. Bouba kondor kiki. Tatoeba, "krais bouba".
 
@@ -384,7 +386,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**dag** - Tingkotoba. Tel du tyd ka sama 24 djikan. Tatoeba, "🌅 na 🌇 sama han fu dag".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**dalacini** - Tingkotoba. Brun efles masala mahajena na ganjau baumpjel. 
+&nbsp;&nbsp;&nbsp;&nbsp;**dalacini** - Tingkotoba. Brun efles masala mahajena na ganjau baumpjel.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**dan** - Tingkotoba. Dan zatyd. Risonen: ⬅️🕰️.
 
@@ -414,7 +416,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**dino** - Tingkotoba. Dino sama protofugel. Risonen: 🦖🦕.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**diskord** - Tingkotoba. Diskord zeting du bruk per catto. 
+&nbsp;&nbsp;&nbsp;&nbsp;**diskord** - Tingkotoba. Diskord zeting du bruk per catto.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**diskordserver** - Tingkotoba. Diskordserver klani ine Diskord du bruk per hanu cui ting.
 
@@ -436,17 +438,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**doko** - Tingkotoba. Doko lyk "ka plas?". Tatoeba, "doko ringo f'un?".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**dronet** - Tingkotoba. Dronet lyk onna konig. Risonen: 👸. 
+&nbsp;&nbsp;&nbsp;&nbsp;**dronet** - Tingkotoba. Dronet lyk onna konig. Risonen: 👸.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**du** - Pashunkotoba. Du nis pashun. Risonen: 🫵. Tatoeba, "du lera Viossa".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**dua** - Surukotoba. Dua lyk gustdai. Risonen: 😍💕❤️. Tatoeba, "vi dua ringo".
+&nbsp;&nbsp;&nbsp;&nbsp;**dua** - Surukotoba. Dua lyk gustdai. Risonen: 😍💕❤️. Dua kondor viha. Tatoeba, "vi dua ringo".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**dur** - Tingkotoba. Dur klani fu vonating. Risonen: 🐶😺🐟🐸🐝🕷️🐔.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**durplas** - Tingkotoba. Plas ka du deki se mange dur. 
+&nbsp;&nbsp;&nbsp;&nbsp;**durplas** - Tingkotoba. Plas ka du deki se mange dur.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**durianfraut** - Tingkotoba. Kiro fraut mit stur brun pie au kiki midori pjel. 
+&nbsp;&nbsp;&nbsp;&nbsp;**durianfraut** - Tingkotoba. Kiro fraut mit stur brun pie au kiki midori pjel.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**dush** - Surukotoba. Dush lyk maha selba sodzi. Risonen: 🛀🚿.
 
@@ -512,7 +514,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**festakotoba** - Tingkotoba. Festakotoba lyk kotoba du deki bruk na owari fu kotoba.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**fi** - Tingkotoba. Pashun ka mipi fu rjodjin fu du. 
+&nbsp;&nbsp;&nbsp;&nbsp;**fi** - Tingkotoba. Pashun ka mipi fu rjodjin fu du.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**fik** - Lykkotoba. Fik lyk gvirnai.
 
@@ -534,7 +536,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**fraut** - Tingkotoba. Fraut lyk ting mit saft du deki nam. Risonen: 🍎🍌🍊🍍🍈🍇🍐.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**fsto** - Surukotoba. Aparlyk "🤔 -> 😊💡👍". Du deki kjannos afto kotoba. 
+&nbsp;&nbsp;&nbsp;&nbsp;**fsto** - Surukotoba. Aparlyk "🤔 -> 😊💡👍". Du deki kjannos afto kotoba.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**fu** - Perkotoba. Ting fu jokudjin lyk jokudjin har ting. Tatoeba, "un har ringo. ringo fu un. un anta ringo du made. ringo fu du".
 
@@ -551,6 +553,64 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**fuwafuwa** - Lykkotoba. Fuwafuwa aparlyk gumi. Fuwafuwa kondor ishilyk. Tatoeba, "bet fuwafuwa".
 
 ### G
+
+&nbsp;&nbsp;&nbsp;&nbsp;**gaja** -
+
+&nbsp;&nbsp;&nbsp;&nbsp;**gammel** -
+
+&nbsp;&nbsp;&nbsp;&nbsp;**gavat** -
+
+&nbsp;&nbsp;&nbsp;&nbsp;**gazhe** -
+
+&nbsp;&nbsp;&nbsp;&nbsp;**gazhepan** -
+
+&nbsp;&nbsp;&nbsp;&nbsp;**gelt** -
+
+&nbsp;&nbsp;&nbsp;&nbsp;**gen** -
+
+&nbsp;&nbsp;&nbsp;&nbsp;**gju** -
+
+&nbsp;&nbsp;&nbsp;&nbsp;**gjunju** -
+
+&nbsp;&nbsp;&nbsp;&nbsp;**glas** -
+
+&nbsp;&nbsp;&nbsp;&nbsp;**glau** -
+
+&nbsp;&nbsp;&nbsp;&nbsp;**glaubi** -
+
+&nbsp;&nbsp;&nbsp;&nbsp;**glossa** -
+
+&nbsp;&nbsp;&nbsp;&nbsp;**glug** -
+
+&nbsp;&nbsp;&nbsp;&nbsp;**glugting** -
+
+&nbsp;&nbsp;&nbsp;&nbsp;**go** -
+
+&nbsp;&nbsp;&nbsp;&nbsp;**godja** -
+
+&nbsp;&nbsp;&nbsp;&nbsp;**gomen** -
+
+&nbsp;&nbsp;&nbsp;&nbsp;**goreng** -
+
+&nbsp;&nbsp;&nbsp;&nbsp;**gorengli** -
+
+&nbsp;&nbsp;&nbsp;&nbsp;**govor** -
+
+&nbsp;&nbsp;&nbsp;&nbsp;**gris** -
+
+&nbsp;&nbsp;&nbsp;&nbsp;**grun** -
+
+&nbsp;&nbsp;&nbsp;&nbsp;**gua** -
+
+&nbsp;&nbsp;&nbsp;&nbsp;**gumi** -
+
+&nbsp;&nbsp;&nbsp;&nbsp;**gust** -
+
+&nbsp;&nbsp;&nbsp;&nbsp;**gvel** -
+
+&nbsp;&nbsp;&nbsp;&nbsp;**gvir** -
+
+&nbsp;&nbsp;&nbsp;&nbsp;**gvprckvni** -
 
 ### H
 
