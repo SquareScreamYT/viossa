@@ -116,9 +116,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**-ossa** - Tingkotoba. Hobitkotoba fu "glossa". Glossa fu Anglolant sama "Anglossa".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**-s** - Festakotoba. Bruk de lasku. Tatoeba: 🥇 eins, 🥈 nis, 🥉 tres.
+&nbsp;&nbsp;&nbsp;&nbsp;**-s** - Festakotoba. Bruk de lasku. Tatoeba: 🥇 ens, 🥈 nis, 🥉 tres.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**-tel** - Festakotoba. -tel lyk ein tel fu ting, tatoeba ⅓ = tretel, ⅔ = ni tretel, ⅕ = gotel, auauau.
+&nbsp;&nbsp;&nbsp;&nbsp;**-tel** - Festakotoba. -tel lyk en tel fu ting, tatoeba ⅓ = tretel, ⅔ = ni tretel, ⅕ = gotel, auauau.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**-ti** - Festakotoba. Imi aparlyk nai har ting men li har ting, de bra. Tatoeba: "un vilti nam ringo" sama "un ima har nil ringo, men li har ringo, un nam ringo".
 
@@ -238,7 +238,7 @@
 
 ### B
 
-&nbsp;&nbsp;&nbsp;&nbsp;**b** - Tingkotoba. B lyk ting ka maha hant au netopa eins. Tatoeba: "b fu un arka ima, un vil skoj zdorvadjin
+&nbsp;&nbsp;&nbsp;&nbsp;**b** - Tingkotoba. B lyk ting ka maha hant au netopa en. Tatoeba: "b fu un arka ima, un vil skoj zdorvadjin
 
 &nbsp;&nbsp;&nbsp;&nbsp;**baba** - Tingkotoba. Midori cisai dur. Risonen: 🐸.
 
@@ -458,6 +458,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**efles** - Lykkotoba. Efles lyk har bra njoi. Risonen: 👃👍
 
+&nbsp;&nbsp;&nbsp;&nbsp;**egal** - Lykkotoba. Egal lyk nai vikti. Egal kondor vikti.
+
 &nbsp;&nbsp;&nbsp;&nbsp;**ehote** - Tingkotoba. Cisai ovoshinen ine midori kaban. Risonen: 🫛.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**ekran** - Tingkotoba. Ting du bruk per se zeriso. Tatoeba, "ahoj-ekran, kompju-ekran".
@@ -510,7 +512,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**fermi** - Tingkotoba. Cisai dur mit 6 jalaka. Risonen: 🐜.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**festa** - Tingkotoba. Festa lyk helena sjen du bruk per maha ting ein. Risonen: 🎀🎗️, (afto ting har festa) 💝🎁.
+&nbsp;&nbsp;&nbsp;&nbsp;**festa** - Tingkotoba. Festa lyk helena sjen du bruk per maha ting en. Risonen: 🎀🎗️, (afto ting har festa) 💝🎁.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**festakotoba** - Tingkotoba. Festakotoba lyk kotoba du deki bruk na owari fu kotoba.
 
@@ -554,6 +556,8 @@
 
 ### G
 
+&nbsp;&nbsp;&nbsp;&nbsp;**gadant** - Surukotoba. Gadant lyk benga. Risonen: 🫂🤗.
+
 &nbsp;&nbsp;&nbsp;&nbsp;**gaja** - Tingkotoba. Gaja lyk heljo vi vona oba. Risonen: 🌍🌎🌏.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**gammel** - Lykkotoba. Gammel lyk ting vona na mange tyd. Gammel kondor neo. Tatoeba, "gammeldjin".
@@ -566,7 +570,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**gelt** - Tingkotoba. Gelt lyk ting du gha ergo made. Risonen: 💵💰.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**gen** - Tingkotoba. Gen lyk du suru ting ein plus raz. Risonen: 🔄🔁.
+&nbsp;&nbsp;&nbsp;&nbsp;**gen** - Tingkotoba. Gen lyk du suru ting en plus raz. Risonen: 🔄🔁.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**gha** - Surukotoba. Gha lyk sada. Gha kondor nasi. Tatoeba, "sore gha ringo ringobaum made".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**gi** - Surukotoba. Gi lyk ka du mietta. Aparlyk iken.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**gju** - Tingkotoba. Gju dur ka maha mange nju. Risonen: 🐄🐮.
 
@@ -586,6 +594,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**go** - Tingkotoba. Go lasku 5.
 
+&nbsp;&nbsp;&nbsp;&nbsp;**gotova** - Surukotoba. Gotova lyk maha ting plussimper per mirai. Tatoeba, "sore gotova per hishful".
+
 &nbsp;&nbsp;&nbsp;&nbsp;**gnarp** - Tingkotoba. Gnarp sama bogos os eksodjin. Risonen: 👽.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**godja** - Tingkotoba. Godja lyk ting ka pjelitena netopa fu du. Tatoeba, "👍" har kiro godja au "👍🏾" har brun godja.
@@ -595,6 +605,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**goreng** - Surukotoba. Goreng lyk kunja namting ine abura.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**gorengli** - Tingkotoba. Gorengli lyk namting mahajena na kartoffel du goreng. Risonen: 🍟.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**gorla** - Tingkotoba. Gorla ting ka maha atama au netopa en.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**gormoi** - Tingkotoba. Gormoi lyk ting ka har niltingine na pol. Risonen: 🕳️, (na flakka) ⛳.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**govor** - Surukotoba. Govor lyk glossanen. Tatoeba, Anglossa jam mange govor: Amerikagovor, Britengovor, Kymrugovor.
 
