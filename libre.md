@@ -106,11 +106,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**-ik** - Tingkotoba. x-ik lyk falfal mit x fal. Tatoeba, "🔺 treik, 🟥 kjerik, 🛑 kasik".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**-jena** - Festakotoba. Awen deki -ena. "(un) nam ringo" sama "ringo namena (na un)". Awen deki bruk per hanu ting surudan.
+&nbsp;&nbsp;&nbsp;&nbsp;**-jena** - Festakotoba. Awen deki -ena. "(un) nam ringo" sama "ringo namena (na un)". Awen deki bruk per hanu ting suru ende.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**-ki** - Festakotoba. Hobitkotoba fu "deki". "sore glugkinai gjunju" sama "sore dekinai glug gjunju".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**-li** - Festakotoba. -li sama -nen.
+&nbsp;&nbsp;&nbsp;&nbsp;**-li** - Festakotoba. -li sama -nen men plussonpin. Tatoeba, "kotnen" imi vauva os cisai kot, men "kotli" imi vikti kawai kot.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**-nen** - Festakotoba. -nen lyk cisai au kawaii. Kondor -dai. Aparlyk cisai.
 
@@ -554,65 +554,65 @@
 
 ### G
 
-&nbsp;&nbsp;&nbsp;&nbsp;**gaja** -
+&nbsp;&nbsp;&nbsp;&nbsp;**gaja** - Tingkotoba. Gaja lyk heljo vi vona oba. Risonen: 🌍🌎🌏.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**gammel** -
+&nbsp;&nbsp;&nbsp;&nbsp;**gammel** - Lykkotoba. Gammel lyk ting vona na mange tyd. Gammel kondor neo. Tatoeba, "gammeldjin".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**gavat** -
+&nbsp;&nbsp;&nbsp;&nbsp;**gavat** - Tingkotoba. Gavat lyk ting du anta per jokudjin. Risonen: 🎁.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**gazhe** -
+&nbsp;&nbsp;&nbsp;&nbsp;**gazhe** - Tingkotoba. Gazhe lyk ting ka harmange kjerik. Tatoeba, "𝄜".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**gazhepan** -
+&nbsp;&nbsp;&nbsp;&nbsp;**gazhepan** - Tingkotoba. Gazhepan lyk pan ka anze lyk gazhe. Risonen: 🧇.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**gelt** -
+&nbsp;&nbsp;&nbsp;&nbsp;**gelt** - Tingkotoba. Gelt lyk ting du gha ergo made. Risonen: 💵💰.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**gen** -
+&nbsp;&nbsp;&nbsp;&nbsp;**gen** - Tingkotoba. Gen lyk du suru ting ein plus raz. Risonen: 🔄🔁.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**gju** -
+&nbsp;&nbsp;&nbsp;&nbsp;**gju** - Tingkotoba. Gju dur ka maha mange nju. Risonen: 🐄🐮.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**gjunju** -
+&nbsp;&nbsp;&nbsp;&nbsp;**gjunju** - Tingkotoba. Gjunju lyk shiro ishke mahajena na jokudur. Risonen: 🥛🍼.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**glas** -
+&nbsp;&nbsp;&nbsp;&nbsp;**glas** - Tingkotoba. Glas lyk ting du deki se bides. Glas mahajena na san. Risonen: (afto ting mahajena na glas) 🪟🔍🔎👓🕶️. Tatoeba, "glas as ishke klar".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**glau** -
+&nbsp;&nbsp;&nbsp;&nbsp;**glau** - Lykkotoba. Glau aparlyk bra. Risonen: 😀😃😄😁😆😊☺️. Glau kondor trist.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**glaubi** -
+&nbsp;&nbsp;&nbsp;&nbsp;**glaubi** - Telkotoba. Li akkurat 100% au nai 0%, de glaubi 50%.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**glossa** -
+&nbsp;&nbsp;&nbsp;&nbsp;**glossa** - Tingkotoba. Glossa lyk ting du hanu. Tatoeba: "Viossa glossa".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**glug** -
+&nbsp;&nbsp;&nbsp;&nbsp;**glug** - Surukotoba. Glug lyk nam ishke. Tatoeba: "un glug ca".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**glugting** -
+&nbsp;&nbsp;&nbsp;&nbsp;**glugting** - Tingkotoba. Glugting lyk ting du deki glug. Risonen: 🥤🧃☕🍵🫖.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**go** -
+&nbsp;&nbsp;&nbsp;&nbsp;**go** - Tingkotoba. Go lasku 5.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**gnarp** -
+&nbsp;&nbsp;&nbsp;&nbsp;**gnarp** - Tingkotoba. Gnarp sama bogos os eksodjin. Risonen: 👽.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**godja** -
+&nbsp;&nbsp;&nbsp;&nbsp;**godja** - Tingkotoba. Godja lyk ting ka pjelitena netopa fu du. Tatoeba, "👍" har kiro godja au "👍🏾" har brun godja.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**gomen** -
+&nbsp;&nbsp;&nbsp;&nbsp;**gomen** - Telkotoba. Gomen lyk ting du hanu li du suru warui ting. Risonen: 🙇.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**goreng** -
+&nbsp;&nbsp;&nbsp;&nbsp;**goreng** - Surukotoba. Goreng lyk kunja namting ine abura.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**gorengli** -
+&nbsp;&nbsp;&nbsp;&nbsp;**gorengli** - Tingkotoba. Gorengli lyk namting mahajena na kartoffel du goreng. Risonen: 🍟.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**govor** -
+&nbsp;&nbsp;&nbsp;&nbsp;**govor** - Surukotoba. Govor lyk glossanen. Tatoeba, Anglossa jam mange govor: Amerikagovor, Britengovor, Kymrugovor.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**gris** -
+&nbsp;&nbsp;&nbsp;&nbsp;**gris** - Lykkotoba. Gris varge mellan fu shiro au kuro. Risonen: 🩶🖇️🌫️.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**grun** -
+&nbsp;&nbsp;&nbsp;&nbsp;**grun** - Mitkotoba. Grun lyk naze ting sluca. Tatoeba, "du kola grun du mude".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**gua** -
+&nbsp;&nbsp;&nbsp;&nbsp;**gua** - Tingkotoba. Gua stur fraut. Risonen: 🍉🍈.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**gumi** -
+&nbsp;&nbsp;&nbsp;&nbsp;**gumi** - Tingkotoba. Gumi lyk fuwafuwa men apar plusishilyk. Risonen: (gumikargu) 🧸🍬.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**gust** -
+&nbsp;&nbsp;&nbsp;&nbsp;**gust** - Tingkotoba. Gust lyk duanen, os ting du dua men nai duadai. Risonen: ❤️.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**gvel** -
+&nbsp;&nbsp;&nbsp;&nbsp;**gvel** - Tingkotoba. Gvel lyk tyd mellan fu dag au nakt. Risonen: 🌇.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**gvir** -
+&nbsp;&nbsp;&nbsp;&nbsp;**gvir** - Surukotoba. Gvir lyk ting jam ine velt. Gvir kondor fik. Tatoeba, "hengest gvir men norhengest fik".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**gvprckvni** -
+&nbsp;&nbsp;&nbsp;&nbsp;**gvprckvni** - Tingkotoba. Gvprckvni lyk gha pjel. Tatoeba, "du gvprckvni banan".
 
 ### H
 
