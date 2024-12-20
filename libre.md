@@ -618,7 +618,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**gua** - Tingkotoba. Gua stur fraut. Risonen: 🍉🍈.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**gumi** - Tingkotoba. Gumi lyk fuwafuwa men apar plusishilyk. Risonen: (gumikargu) 🧸🍬.
+&nbsp;&nbsp;&nbsp;&nbsp;**gumi** - Lykkotoba. Gumi lyk fuwafuwa men apar plusishilyk. Risonen: (gumikargu) 🧸🍬.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**gust** - Tingkotoba. Gust lyk duanen, os ting du dua men nai duadai. Risonen: ❤️.
 
