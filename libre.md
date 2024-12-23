@@ -374,7 +374,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**cui** - Mitkotoba. Cui lyk ka du hanu. Tatoeba, un hanu: "ringo ros. ringo sot. ringo fraut.". un hanu cui ringo.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**cumara** - Lykkotoba. Hobitkotoba fu "cumaranai".
+&nbsp;&nbsp;&nbsp;&nbsp;**cumaranai** - Lykkotoba. Cumaranai lyk har nilting per suru.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**culus** - Lykkotoba. Culus varge mellan fu midori au sini. Afto risonen apar culus: 🦚🦠
 
