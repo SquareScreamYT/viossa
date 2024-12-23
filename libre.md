@@ -41,22 +41,22 @@
 
 ### Mitzam
 
-|           | Lepa | Alvjol | Paljaci | Ngangi | Gorla |
-|-----------|------|--------|---------|--------|-------|
-| Hana      | m    | n      |         | ŋ      |       |
-| Bamba     | p b  | t d    |         | k g    | ʔ     |
-| Bamfendo  |      | ts     | tɕ dʑ   |        |       |
-| Fendo     | f v  | s z    | ɕ ʑ     |        | h     |
-| Slak      |      | ɾ      |         |        |       |
-|Selbazamnen|      | l      | j       | w      |       |
+|             | Lepa | Alvjol | Paljaci | Ngangi | Gorla |
+|-------------|------|--------|---------|--------|-------|
+| Hana        | m    | n      |         | ŋ      |       |
+| Bamba       | p b  | t d    |         | k g    | ʔ     |
+| Bamfendo    |      | ts     | tɕ dʑ   |        |       |
+| Fendo       | f v  | s z    | ɕ ʑ     |        | h     |
+| Slak        |      | ɾ      |         |        |       |
+| Selbazamnen |      | l      | j       | w      |       |
 
 ### Selbazam
 
-|      | fura |mellan| hina |
-|------|------|------|------|
-| oba  | i    |      | u    |
-|mellan| e    |ə\~œ\~ø|o    |
-| unna |      | a    |      |
+|        | fura | mellan | hina |
+|--------|------|--------|------|
+|   oba  | i    |        | u    |
+| mellan | e    | ə\~œ\~ø| o    |
+|  unna  |      | a      |      |
 
 ### Kakutropos
 
