@@ -212,7 +212,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**asoko** - Pashunkotoba. Asoko lyk ting der, afto ringo -> 🍎, tuo ringo -----> 🍎, asoko ringo -----------> 🍎. Tatoeba, "asoko zdane pitkadai 🏢".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**atama** - Tingkotoba. Atama tel fu netopa ka har me, hana, kuchi au korva. Risonen: (hanujena atama) 🗣️.
+&nbsp;&nbsp;&nbsp;&nbsp;**atama** - Tingkotoba. Atama tel fu netopa ka har me, hana, kuci au korva. Risonen: (hanujena atama) 🗣️.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**atamabet** - Tingkotoba. Atamabet lyk cisai bet per atama.
 
@@ -358,7 +358,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**cesapi** - Tingkotoba. Shiro dur mit pitka gorla. Risonen: 🦙.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**cigaret** - Tingkotoba. Ting du bruk per fik. Risonen: 🚬.
+&nbsp;&nbsp;&nbsp;&nbsp;**cigaret** - Tingkotoba. Ting du bruk per fyk. Risonen: 🚬.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**cigau** - Lykkotoba. 🍎 sama 🍎. 🍎 lyk 🍏. 🍎 cigau 🍍. Kondor sama.
 
@@ -554,6 +554,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**fuwafuwa** - Lykkotoba. Fuwafuwa aparlyk gumi. Fuwafuwa kondor ishilyk. Tatoeba, "bet fuwafuwa".
 
+&nbsp;&nbsp;&nbsp;&nbsp;**fyk** - Surukotoba. Fyk lyk bruk cigaret. Risonen: 🚬, (danai fyk) 🚭.
+
 ### G
 
 &nbsp;&nbsp;&nbsp;&nbsp;**gadant** - Surukotoba. Gadant lyk benga. Risonen: 🫂🤗.
@@ -630,6 +632,92 @@
 
 ### H
 
+&nbsp;&nbsp;&nbsp;&nbsp;**haaste** - Lykkotoba. Haaste lyk treng mange tyd, ergo, zeus, mietta auauau per suru. Tatoeba, "jokuraz shirutropos haaste". Haaste kondor simper.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**hadji** - Tingkotoba. Hadji kondor owari. Risonen: 🏁 (owari) <----- 🏎️ (hadji).
+
+&nbsp;&nbsp;&nbsp;&nbsp;**haisa** - Tingkotoba. Haisa lyk har namai. Tatoeba, "sore haisa nai huin fu sore".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**hakbang** - Tingkotoba. Hakbang lyk ting du mus skoj na mit jalaka. Risonen: (mange hakbang) 🪜.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**hammas** - Tingkotoba au surukotoba. Hammas lyk shiro ishilyk ting ine kuci per nam. Risonen: 🦷. Hammas awen imi maha gormoi (ine namting) mit hammas.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**hamtaro** - Tingkotoba. Hamtaro cisai huomidur. Risonen: 🐹.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**han** - Tingkotoba. Han sama ½.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**hana** - Tingkotoba. Hana lyk ting du bruk per njoi. Risonen: 👃.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**hanasu** - Surukotoba. Hanasu sama hanu.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**hant** - Tingkotoba. Hant lyk ting ka har 5 jubi. Risonen: 🤚🖐️✋🫱🫲.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**hanu** - Surukotoba. Hanu lyk maha zam mit kuchi. Risonen: 🗣️.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**hanufugel** - Tingkotoba. Hanufugel lyk fugel ka deki hanu. Risonen: 🦜.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**hapigo** - Tingkotoba. Hapigo lyk asoko plas.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**harimau** - Tingkotoba. Harimau lyk stur kot mit kuro au portokali haar. Risonen: 🐯🐅.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**harma** - Lykkotoba. Harma gris varge men apar portokali. Risonen: 🛠️.
+<!---
+&nbsp;&nbsp;&nbsp;&nbsp;**hej** - Telkotoba. Hej lyk ting du hanu li du se jokudjin. Risonen: 👋.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**hel** - Tingkotoba. Hel lyk plas ka har mange kiro. Risonen: 🔥.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**helena** - Lykkotoba. Helena lyk har mange fen. Helena kondor warui.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**helenakaku** - Tingkotoba. Helenakaku lyk kaku ka har mange varge. Risonen: 🎨.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**heljo** - Tingkotoba. Heljo lyk ting ka maha gaja kiro. Risonen: ☀️.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**hember** - Tingkotoba. Hember lyk ting du bruk per nam ishke. Risonen: 🥄.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**henge** - Tingkotoba. Henge lyk ting du bruk per maha dvera kini. Risonen: 🔑.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**hent** - Surukotoba. Hent lyk gha ting mit godja. Risonen: 🤲.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**hengest** - Tingkotoba. Hengest lyk stur dur ka har mange haar. Risonen: 🐎.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**her** - Tingkotoba. Her lyk afto plas. Tatoeba, "zdane her pitkadai!".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**hierne** - Tingkotoba. Hierne lyk ting ine atama per fsto. Risonen: 🧠.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**hina** - Lykkotoba. Hina lyk ting na plas ka du dekinai se. Hina kondor fura.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**hiras** - Lykkotoba. Hiras lyk suru ting ine mange tyd. Hiras kondor bistra.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**hiraskaban** - Tingkotoba. Hiraskaban lyk dur ka suru ting hiras. Risonen: 🐌.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**hishful** - Tingkotoba. Hishful lyk tyd ka mange pashun kola. Risonen: 🌙.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**hjaku** - Tingkotoba. Hjaku lasku 100.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**hobit** - Tingkotoba. Hobit lyk cisai fras fu kotoba. Tatoeba, "-ki" hobit fu "deki".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**hono** - Tingkotoba. Hono lyk plas ka har mange pashun. Risonen: 🏠🏡.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**hore** - Tingkotoba. Hore lyk ting ka maha netopa en. Risonen: 💇‍♂️.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**hoz** - Tingkotoba. Hoz lyk ting du bruk per maha ishke ine baum. Risonen: 🚿.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**hualeing** - Tingkotoba. Hualeing lyk dodo ka har mange varge. Risonen: 🥜.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**huin** - Tingkotoba. Huin lyk ishke ka maha ting kiro. Risonen: 🔥.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**huomi** - Tingkotoba. Huomi lyk plas ka pashun vona. Risonen: 🏠.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**huomileti** - Tingkotoba. Huomileti lyk ting ka maha huomi kiro. Risonen: 💡.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**hur** - Tingkotoba. Hur lyk "ka tropos?". Tatoeba, "hur du suru afto?".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**huske** - Tingkotoba. Huske lyk dur ka har mange haar. Risonen: 🐕.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**hyfli** - Tingkotoba. Hyfli lyk namting mahajena na alk au sjen. Risonen: 🥨.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**hytin** - Tingkotoba. Hytin lyk cisai hono. Risonen: 🏕️.
+--->
 ### I
 
 ### J
