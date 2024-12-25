@@ -96,6 +96,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**100100** - Zamkotoba. Zam fu fliere, sama "hahaha", lyk "😂🤣😆😹".
 
+&nbsp;&nbsp;&nbsp;&nbsp;**-a** - Festakotoba. -a lyk har plus kana 2 fu ting. Tatoeba, "en huin, ni huina".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**-ara** - Festakotoba. -a lyk har plus kana 3 fu ting, lyk mange fu ting. Tatoeba, "en huin, mange huinara".
+
 &nbsp;&nbsp;&nbsp;&nbsp;**-atai** - Tingkotoba. Aparlyk "ka mange". Tatoeba, "huinatai" sama "ka mange huin".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**-ca** - Festakotoba. "x-ca" sama "un vil du har x". Tatoeba, "bramoraca" sama "un vil du har bra mora".
@@ -649,6 +653,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**hana** - Tingkotoba. Hana lyk ting du bruk per njoi. Risonen: 👃.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**hanasu** - Surukotoba. Hanasu sama hanu.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**handzai** - Tingkotoba. Handzai lyk plas ka du deki vent per rofai os cjip, au rofai os cjip jamete der.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**hant** - Tingkotoba. Hant lyk ting ka har 5 jubi. Risonen: 🤚🖐️✋🫱🫲.
 
