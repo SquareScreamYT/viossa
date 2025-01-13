@@ -703,11 +703,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**hjaku** - Tingkotoba. Hjaku lasku 100.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**hobit** - Tingkotoba. Hobit lyk cisai na sjen. Tatoeba, "-- hobit, ---------- pitka". Hobit kondor pitka.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**hono** - Tingkotoba. Hono lyk vapa ting ka har portokali, kiro os ros varge. Risonen:  🔥.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**hore** - Tingkotoba. Hore lyk se zam. Risonen: 🔊➡️👂.
 <!--
-&nbsp;&nbsp;&nbsp;&nbsp;**hono** - Tingkotoba. Hono lyk plas ka har mange pashun. Risonen: 🏠🏡.
-
-&nbsp;&nbsp;&nbsp;&nbsp;**hore** - Tingkotoba. Hore lyk ting ka maha netopa en. Risonen: 💇‍♂️.
-
 &nbsp;&nbsp;&nbsp;&nbsp;**hoz** - Tingkotoba. Hoz lyk ting du bruk per maha ishke ine baum. Risonen: 🚿.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**hualeing** - Tingkotoba. Hualeing lyk dodo ka har mange varge. Risonen: 🥜.
