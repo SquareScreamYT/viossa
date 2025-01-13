@@ -242,7 +242,7 @@
 
 ### B
 
-&nbsp;&nbsp;&nbsp;&nbsp;**b** - Tingkotoba. B lyk ting ka maha hant au netopa en. Tatoeba: "b fu un arka ima, un vil skoj zdorvadjin
+&nbsp;&nbsp;&nbsp;&nbsp;**b** - Tingkotoba. B lyk ting ka cunaga hant au netopa. Tatoeba: "b fu un arka ima, un vil skoj zdorvadjin
 
 &nbsp;&nbsp;&nbsp;&nbsp;**baba** - Tingkotoba. Midori cisai dur. Risonen: 🐸.
 
@@ -520,7 +520,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**fermi** - Tingkotoba. Cisai dur mit 6 jalaka. Risonen: 🐜.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**festa** - Tingkotoba. Festa lyk helena sjen du bruk per maha ting en. Risonen: 🎀🎗️, (afto ting har festa) 💝🎁.
+&nbsp;&nbsp;&nbsp;&nbsp;**festa** - Tingkotoba. Festa lyk helena sjen du bruk per cunaga ting. Risonen: 🎀🎗️, (afto ting har festa) 💝🎁.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**festakotoba** - Tingkotoba. Festakotoba lyk kotoba du deki bruk na owari fu kotoba.
 
@@ -616,7 +616,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**gorengli** - Tingkotoba. Gorengli lyk namting mahajena na kartoffel du goreng. Risonen: 🍟.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**gorla** - Tingkotoba. Gorla ting ka maha atama au netopa en.
+&nbsp;&nbsp;&nbsp;&nbsp;**gorla** - Tingkotoba. Gorla ting ka cunaga atama au netopa.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**gormoi** - Tingkotoba. Gormoi lyk ting ka har niltingine na pol. Risonen: 🕳️, (na flakka) ⛳.
 
