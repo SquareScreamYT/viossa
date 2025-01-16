@@ -55,7 +55,7 @@
 |        | fura | mellan | hina |
 |--------|------|--------|------|
 |   oba  | i    |        | u    |
-| mellan | e    | ə\~œ\~ø| o    |
+| mellan |e œ\~ø| ə      | o    |
 |  unna  |      | a      |      |
 
 ### Kakutropos
