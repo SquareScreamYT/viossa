@@ -56,8 +56,8 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 |        | fura | mellan | hina |
 |--------|------|--------|------|
-|  oba   | i    |        | u    |
-| mellan | e    | ə\~œ\~ø| o    |
+|   oba  | i    |        | u    |
+| mellan |e œ\~ø| ə      | o    |
 |  unna  |      | a      |      |
 
 ### Kakutropos
@@ -244,7 +244,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 ### B
 
-&nbsp;&nbsp;&nbsp;&nbsp;**b** - Tingkotoba. B lyk ting ka maha hant au netopa en. Tatoeba: "b fu un arka ima, un vil skoj zdorvadjin
+&nbsp;&nbsp;&nbsp;&nbsp;**b** - Tingkotoba. B lyk ting ka cunaga hant au netopa. Tatoeba: "b fu un arka ima, un vil skoj zdorvadjin
 
 &nbsp;&nbsp;&nbsp;&nbsp;**baba** - Tingkotoba. Midori cisai dur. Risonen: 🐸.
 
@@ -464,6 +464,8 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 ### E
 
+&nbsp;&nbsp;&nbsp;&nbsp;**e** - Surukotoba. E kopula, sama je, jest, est, es auauau.
+
 &nbsp;&nbsp;&nbsp;&nbsp;**efles** - Lykkotoba. Efles lyk har bra njoi. Risonen: 👃👍
 
 &nbsp;&nbsp;&nbsp;&nbsp;**egal** - Lykkotoba. Egal lyk nai vikti. Egal kondor vikti.
@@ -520,7 +522,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**fermi** - Tingkotoba. Cisai dur mit 6 jalaka. Risonen: 🐜.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**festa** - Tingkotoba. Festa lyk helena sjen du bruk per maha ting en. Risonen: 🎀🎗️, (afto ting har festa) 💝🎁.
+&nbsp;&nbsp;&nbsp;&nbsp;**festa** - Tingkotoba. Festa lyk helena sjen du bruk per cunaga ting. Risonen: 🎀🎗️, (afto ting har festa) 💝🎁.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**festakotoba** - Tingkotoba. Festakotoba lyk kotoba du deki bruk na owari fu kotoba.
 
@@ -616,7 +618,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**gorengli** - Tingkotoba. Gorengli lyk namting mahajena na kartoffel du goreng. Risonen: 🍟.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**gorla** - Tingkotoba. Gorla ting ka maha atama au netopa en.
+&nbsp;&nbsp;&nbsp;&nbsp;**gorla** - Tingkotoba. Gorla ting ka cunaga atama au netopa.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**gormoi** - Tingkotoba. Gormoi lyk ting ka har niltingine na pol. Risonen: 🕳️, (na flakka) ⛳.
 
@@ -707,29 +709,29 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 &nbsp;&nbsp;&nbsp;&nbsp;**hjaku** - Tingkotoba. Hjaku lasku 100.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**hobit** - Tingkotoba. Hobit lyk cisai na sjen. Tatoeba, "-- hobit, ---------- pitka". Hobit kondor pitka.
-<!--
-&nbsp;&nbsp;&nbsp;&nbsp;**hono** - Tingkotoba. Hono lyk vapa ting ka li du ryr, maha arka. Risonen: 🔥.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**hore** - Tingkotoba. Hore lyk ting ka maha netopa en. Risonen: 💇‍♂️.
+&nbsp;&nbsp;&nbsp;&nbsp;**hono** - Tingkotoba. Hono lyk vapa ting ka har portokali, kiro os ros varge ka li du ryr, maha arka. Risonen:  🔥.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**hoz** - Tingkotoba. Hoz lyk ting du bruk per maha ishke ine baum. Risonen: 🚿.
+&nbsp;&nbsp;&nbsp;&nbsp;**hore** - Tingkotoba. Hore lyk se zam. Risonen: 🔊➡️👂.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**hualeing** - Tingkotoba. Hualeing lyk dodo ka har mange varge. Risonen: 🥜.
+&nbsp;&nbsp;&nbsp;&nbsp;**hoz** - Tingkotoba. Hoz roza, shiro os brun dur. Risonen: 🐷.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**huin** - Tingkotoba. Huin lyk ishke ka maha ting kiro. Risonen: 🔥.
+&nbsp;&nbsp;&nbsp;&nbsp;**hualeing** - Tingkotoba. Hualeing cisai brun dodo. Risonen: 🥜.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**huin** - Tingkotoba. Huin huomidur. Risonen: 🐕🐶.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**huomi** - Tingkotoba. Huomi lyk plas ka pashun vona. Risonen: 🏠.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**huomileti** - Tingkotoba. Huomileti lyk ting ka maha huomi kiro. Risonen: 💡.
+&nbsp;&nbsp;&nbsp;&nbsp;**huomileti** - Tingkotoba. Huomileti lyk leti ka du ens se na zeleti.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**hur** - Tingkotoba. Hur lyk "ka tropos?". Tatoeba, "hur du suru afto?".
+&nbsp;&nbsp;&nbsp;&nbsp;**hur** - Tingkotoba. Hur lyk "ka tropos?". Tatoeba, "mit hant e hur du tasta".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**huske** - Tingkotoba. Huske lyk dur ka har mange haar. Risonen: 🐕.
+&nbsp;&nbsp;&nbsp;&nbsp;**huske** - Surukotoba. Huske du gha ting de du shiru. Huske kondor vasu.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**hyfli** - Tingkotoba. Hyfli lyk namting mahajena na alk au sjen. Risonen: 🥨.
+&nbsp;&nbsp;&nbsp;&nbsp;**hyfli** - Lykkotoba. Hyfli lyk suru os hanu mange bra ting. Hyfli kondor kusipa os sonpin. Risonen: (hyfli kleja) 🤵, (sonpin kleja) 👕. Tatoeba: "bitte au danke hyflikotoba, blin au sheise kusipakotoba".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**hytin** - Tingkotoba. Hytin lyk cisai hono. Risonen: 🏕️.
--->
+&nbsp;&nbsp;&nbsp;&nbsp;**hytin** - Tingkotoba. Hytin lyk bagge ka glug vonishke. Risonen: 🦟.
+
 ### I
 
 ### J
