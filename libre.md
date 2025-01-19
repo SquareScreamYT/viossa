@@ -39,6 +39,8 @@
   
 ## Zamtropos
 
+Al kotoba ine Mellanlant Zamkirain Alfakun.
+
 ### Mitzam
 
 |             | Lepa | Alvjol | Paljaci | Ngangi | Gorla |
@@ -54,7 +56,7 @@
 
 |        | fura | mellan | hina |
 |--------|------|--------|------|
-|   oba  | i    |        | u    |
+|  oba   | i    |        | u    |
 | mellan | e    | ə\~œ\~ø| o    |
 |  unna  |      | a      |      |
 
@@ -626,6 +628,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**gua** - Tingkotoba. Gua stur fraut. Risonen: 🍉🍈.
 
+&nbsp;&nbsp;&nbsp;&nbsp;**guau** - Zamkotoba. Guau lyk ka du hanu li du se bradai ting.
+
 &nbsp;&nbsp;&nbsp;&nbsp;**gumi** - Lykkotoba. Gumi lyk fuwafuwa men apar plusishilyk. Risonen: (gumikargu) 🧸🍬.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**gust** - Tingkotoba. Gust lyk duanen, os ting du dua men nai duadai. Risonen: ❤️.
@@ -704,7 +708,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**hobit** - Tingkotoba. Hobit lyk cisai na sjen. Tatoeba, "-- hobit, ---------- pitka". Hobit kondor pitka.
 <!--
-&nbsp;&nbsp;&nbsp;&nbsp;**hono** - Tingkotoba. Hono lyk plas ka har mange pashun. Risonen: 🏠🏡.
+&nbsp;&nbsp;&nbsp;&nbsp;**hono** - Tingkotoba. Hono lyk vapa ting ka li du ryr, maha arka. Risonen: 🔥.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**hore** - Tingkotoba. Hore lyk ting ka maha netopa en. Risonen: 💇‍♂️.
 
