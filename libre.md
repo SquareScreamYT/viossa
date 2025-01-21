@@ -94,7 +94,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 ## Kotobatumam
 
-### \#, -
+### #, -
 
 &nbsp;&nbsp;&nbsp;&nbsp;**100100** - Zamkotoba. Zam fu fliere, sama "hahaha", lyk "😂🤣😆😹".
 
