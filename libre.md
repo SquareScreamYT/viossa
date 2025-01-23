@@ -32,7 +32,7 @@
    - Nai
    - Fsto
    - Ka
-
+ 
 ## Ka Viossa?
 
 &nbsp;&nbsp;&nbsp;&nbsp;Viossa viskmahossa, sintuadan na julmuai 2014. Vikti glossa kara Viossa mahena Russossa, Suomiossa, Shkiperossa, Hellenikossa, Nihonossa, Norskossa au Helvetiossa, men jam ander glossa ka anta apar kotoba, tatoeba Gelgossa, Fransossa au Latinossa.
