@@ -530,6 +530,8 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**fik** - Lykkotoba. Fik lyk gvirnai.
 
+&nbsp;&nbsp;&nbsp;&nbsp;**fiks** - Surukotoba. Fiks lyk maha gammel os perpajena ting na neo os deki suru ting bra gjen. Fiks lyk reforma.
+
 &nbsp;&nbsp;&nbsp;&nbsp;**film** - Tingkotoba. Film lyk ting ka zeme ufne. Risonen: 🎞️.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**finna** - Surukotoba. Finna lyk suha au se. Tatoeba, "Google apu du finna zeleti".
