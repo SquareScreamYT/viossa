@@ -32,7 +32,7 @@
    - Nai
    - Fsto
    - Ka
- 
+
 ## Ka Viossa?
 
 &nbsp;&nbsp;&nbsp;&nbsp;Viossa viskmahossa, sintuadan na julmuai 2014. Vikti glossa kara Viossa mahena Russossa, Suomiossa, Shkiperossa, Hellenikossa, Nihonossa, Norskossa au Helvetiossa, men jam ander glossa ka anta apar kotoba, tatoeba Gelgossa, Fransossa au Latinossa.
@@ -622,7 +622,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**gormoi** - Tingkotoba. Gormoi lyk ting ka har niltingine na pol. Risonen: 🕳️, (na flakka) ⛳.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**govor** - Surukotoba. Govor lyk glossanen. Tatoeba, Anglossa jam mange govor: Amerikagovor, Britengovor, Kymrugovor.
+&nbsp;&nbsp;&nbsp;&nbsp;**govor** - Tingkotoba. Govor lyk glossanen. Tatoeba, Anglossa jam mange govor: Amerikagovor, Britengovor, Kymrugovor.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**gris** - Lykkotoba. Gris varge mellan fu shiro au kuro. Risonen: 🩶🖇️🌫️.
 
@@ -634,13 +634,15 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**gumi** - Lykkotoba. Gumi lyk fuwafuwa men apar plusishilyk. Risonen: (gumikargu) 🧸🍬.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**gust** - Tingkotoba. Gust lyk duanen, os ting du dua men nai duadai. Risonen: ❤️.
+&nbsp;&nbsp;&nbsp;&nbsp;**gusho** - Surukotoba. Gusho lyk maha ting bidra. Risonen: 🫸📦➡️. Gusho kondor tuni.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**gust** - Surukotoba. Gust lyk duanen, os ting du dua men nai duadai. Risonen: ❤️.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**gvel** - Tingkotoba. Gvel lyk tyd mellan fu dag au nakt. Risonen: 🌇.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**gvir** - Surukotoba. Gvir lyk ting jam ine velt. Gvir kondor fik. Tatoeba, "hengest gvir men norhengest fik".
+&nbsp;&nbsp;&nbsp;&nbsp;**gvir** - Lykkotoba. Gvir lyk ting jam ine velt. Gvir kondor fik. Tatoeba, "hengest gvir men norhengest fik".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**gvprckvni** - Tingkotoba. Gvprckvni lyk gha pjel. Tatoeba, "du gvprckvni banan".
+&nbsp;&nbsp;&nbsp;&nbsp;**gvprckvni** - Surukotoba. Gvprckvni lyk gha pjel. Tatoeba, "du gvprckvni banan".
 
 ### H
 
