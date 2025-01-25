@@ -244,7 +244,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 ### B
 
-&nbsp;&nbsp;&nbsp;&nbsp;**b** - Tingkotoba. B lyk ting ka cunaga hant au netopa. Tatoeba: "b fu un arka ima, un vil skoj zdorvadjin
+&nbsp;&nbsp;&nbsp;&nbsp;**b** - Tingkotoba. B lyk ting ka cunaga hant au netopa. Tatoeba: "b fu un arka ima, un vil skoj zdorvadjin".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**baba** - Tingkotoba. Midori cisai dur. Risonen: 🐸.
 
@@ -252,7 +252,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**badjel** - Tingkotoba. Badjel ting du nasi ishke ine. Risonen: 🪣.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**bagge** - Tingkotoba. Cisai dur mit ishilyk pjel. Risonen: 🦋🐛🐜🐝🪲🐞🦗🪳🕷️🦟🪰.
+&nbsp;&nbsp;&nbsp;&nbsp;**bagge** - Tingkotoba. Cisai dur mit ishilyk godja. Risonen: 🦋🐛🐜🐝🪲🐞🦗🪳🕷️🦟🪰.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**bai** - Surukotoba. Bai lyk maha jokudjin suru ting.
 
