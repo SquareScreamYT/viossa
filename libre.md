@@ -694,9 +694,9 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**henge** - Surukotoba. Henge lyk bruk hana per maha luft skojine luftkaban. Henge kondor rausim.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**hent** - Surukotoba. Hent sama cjeping.
-
 &nbsp;&nbsp;&nbsp;&nbsp;**hengest** - Tingkotoba. Hengest lyk stur dur ka du deki swaru na. Risonen: 🐎.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**hent** - Surukotoba. Hent sama cjeping.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**her** - Tingkotoba. Her lyk afto plas. Tatoeba, "her vi har ringo".
 
@@ -738,6 +738,44 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 ### I
 
+&nbsp;&nbsp;&nbsp;&nbsp;**ij** - Tingkotoba.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**ike** - Lykkotoba.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**iken** - Surukotoba.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**ikor** - Tingkotoba.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**ilo** - Tingkotoba.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**ima** - Tingkotoba.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**imang** - Tingkotoba.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**imi** - Tingkotoba au Surukotoba.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**impla** - Surukotoba.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**ine** - Mitkotoba.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**inuri** - Tingkotoba.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**ip-** - Tingkotoba.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**ishi** - Tingkotoba.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**ishilyk** - Lykkotoba.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**ishke** - Mitkotoba.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**ishu** - Tingkotoba.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**iskat** - Tingkotoba au Surukotoba.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**isu** - Tingkotoba.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**iwai** - Tingkotoba au Surukotoba.
+
 ### J
 
 ### K
@@ -754,7 +792,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 ### R
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Ringo** - Tingkotoba. Ros sot fraut. 🍎 ros ringo, 🍏 midori ringo. Risonen fu ringo: 🍎🍏. Tatoeba: "Un dua ringo grun ringo oishi".
+&nbsp;&nbsp;&nbsp;&nbsp;**ringo** - Tingkotoba. Ros sot fraut. 🍎 ros ringo, 🍏 midori ringo. Risonen fu ringo: 🍎🍏. Tatoeba: "Un dua ringo grun ringo oishi".
 
 ### S
 
