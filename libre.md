@@ -738,17 +738,17 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 ### I
 
-&nbsp;&nbsp;&nbsp;&nbsp;**ij** - Tingkotoba.
+&nbsp;&nbsp;&nbsp;&nbsp;**ij** - Tingkotoba. Kiro namting fu gjunju du deki nam. Risonen: 🧈.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**ike** - Lykkotoba.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**iken** - Surukotoba.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**ikor** - Tingkotoba.
+&nbsp;&nbsp;&nbsp;&nbsp;**ikor** - Tingkotoba. Dur mit brun haar. Risonen: 🐿️.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**ilo** - Tingkotoba.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**ima** - Tingkotoba.
+&nbsp;&nbsp;&nbsp;&nbsp;**ima** - Tingkotoba. Ima lyk afto tyd. Risonen: 🕰️⬇️.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**imang** - Tingkotoba.
 
@@ -756,9 +756,9 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**impla** - Surukotoba.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**ine** - Mitkotoba.
+&nbsp;&nbsp;&nbsp;&nbsp;**ine** - Mitkotoba. [.] jam en pik ine baksu. [ ] jam nil pik ine baksu. [ ]<--🚶 pashun skoj ine boksu.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**inuri** - Tingkotoba.
+&nbsp;&nbsp;&nbsp;&nbsp;**inuri** - Tingkotoba. Cisai kuro bagge. Risonen: 🐜.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**ip-** - Tingkotoba.
 
@@ -766,7 +766,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**ishilyk** - Lykkotoba.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**ishke** - Mitkotoba.
+&nbsp;&nbsp;&nbsp;&nbsp;**ishke** - Tingkotoba. Klar glugting du treng per vona. Risonen: 💦💧🌊.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**ishu** - Tingkotoba.
 
