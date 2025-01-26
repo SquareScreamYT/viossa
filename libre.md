@@ -746,11 +746,11 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**ikor** - Tingkotoba. Dur mit brun haar. Risonen: 🐿️.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**ilo** - Tingkotoba.
+&nbsp;&nbsp;&nbsp;&nbsp;**ilo** - Tingkotoba. Ilo lyk brukting. Tatoeba, "ilo per shahta sama ting du bruk per shahta sama koilara".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**ima** - Tingkotoba. Ima lyk afto tyd. Risonen: 🕰️⬇️.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**imang** - Tingkotoba.
+&nbsp;&nbsp;&nbsp;&nbsp;**imang** - Tingkotoba. Imang jerkat ka tsunaga ander imang au jerkat. Risonen: 🧲.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**imi** - Tingkotoba au Surukotoba.
 
