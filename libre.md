@@ -756,7 +756,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**impla** - Surukotoba.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**ine** - Mitkotoba. [.] jam en pik ine baksu. [ ] jam nil pik ine baksu. [ ]<--🚶 pashun skoj ine boksu.
+&nbsp;&nbsp;&nbsp;&nbsp;**ine** - Mitkotoba. [.] jam en pik ine baksu. [ ] jam nil pik ine baksu. [ ]<--🚶 pashun skoj ine baksu.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**inuri** - Tingkotoba. Cisai kuro bagge. Risonen: 🐜.
 
@@ -772,9 +772,9 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**iskat** - Tingkotoba au Surukotoba.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**isu** - Tingkotoba.
+&nbsp;&nbsp;&nbsp;&nbsp;**isu** - Tingkotoba. Isu lyk raumting ka du swaru na. Risonen: 🪑💺.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**iwai** - Tingkotoba au Surukotoba.
+&nbsp;&nbsp;&nbsp;&nbsp;**iwai** - Tingkotoba au Surukotoba. Iwai lyk suru ting grun bradai ting sluca. Risonen: 🙌🍾🥂🎉🥳🎆🎇🎈. Tatoeba, "juldag, neotoshidag al iwaidag".
 
 ### J
 
