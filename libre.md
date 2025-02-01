@@ -122,6 +122,8 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**-ossa** - Tingkotoba. Hobitkotoba fu "glossa". Glossa fu Anglolant sama "Anglossa".
 
+&nbsp;&nbsp;&nbsp;&nbsp;**-ova**
+
 &nbsp;&nbsp;&nbsp;&nbsp;**-s** - Festakotoba. Bruk de lasku. Tatoeba: 🥇 ens, 🥈 nis, 🥉 tres.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**-tel** - Festakotoba. -tel lyk en tel fu ting, tatoeba ⅓ = tretel, ⅔ = ni tretel, ⅕ = gotel, auauau.
