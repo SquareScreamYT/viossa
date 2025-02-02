@@ -584,6 +584,8 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**gazhepan** - Tingkotoba. Gazhepan lyk pan ka anze lyk gazhe. Risonen: 🧇.
 
+&nbsp;&nbsp;&nbsp;&nbsp;**gdjent** -
+
 &nbsp;&nbsp;&nbsp;&nbsp;**gelt** - Tingkotoba. Gelt lyk ting du gha ergo made. Risonen: 💵💰.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**gen** - Tingkotoba. Gen lyk du suru ting en plus raz. Risonen: 🔄🔁.
