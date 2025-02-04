@@ -62,7 +62,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 ### Kakutropos
 
-|           | Lepa | Alvjol | Palyaci | Ngangi | Gorla |
+|           | Lepa | Alvjol | Paljaci | Ngangi | Gorla |
 |-----------|------|--------|---------|--------|-------|
 | Hana      | m    | n      |         | ng     |       |
 | Bamba     | p b  | t d    |         | k g    | '     |
