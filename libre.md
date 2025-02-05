@@ -54,11 +54,11 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 ### Selbazam
 
-|        | fura | mellan | hina |
+|        | Fura | Mellan | Hina |
 |--------|------|--------|------|
-|   oba  | i    |        | u    |
-| mellan |e œ\~ø| ə      | o    |
-|  unna  |      | a      |      |
+|   Oba  | i    |        | u    |
+| Mellan |e œ\~ø| ə      | o    |
+|  Unna  |      | a      |      |
 
 ### Kakutropos
 
@@ -71,11 +71,11 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 | Slak      |      | r      |         |        |       |
 |Selbazamnen|      | l      | j       | w      |       |
 
-|      | fura |mellan| hina |
+|      | Fura |Mellan| Hina |
 |------|------|------|------|
-| oba  | i, y |      | u    |
-|mellan| e    | o, e | o    |
-| unna |      | a    |      |
+| Oba  | i, y |      | u    |
+|Mellan| e    | o, e | o    |
+| Unna |      | a    |      |
 
 ## Hur bruk afto libre
 
