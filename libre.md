@@ -122,7 +122,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**-ossa** - Tingkotoba. Hobitkotoba fu "glossa". Glossa fu Anglolant sama "Anglossa".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**-ova**
+&nbsp;&nbsp;&nbsp;&nbsp;**-ova** - Festakotoba. -ova maha tibg onna. Tatoeba, "huin mies/onna, huinova onna".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**-s** - Festakotoba. Bruk de lasku. Tatoeba: 🥇 ens, 🥈 nis, 🥉 tres.
 
