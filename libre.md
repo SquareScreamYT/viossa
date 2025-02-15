@@ -110,15 +110,23 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**-djin** - Tingkotoba. -djin lyk pashun. Tatoeba, 🧑‍🏫 opetadjin, 🧑‍🎓 leradjin, 👨‍⚕️ zdorvadjin.
 
+&nbsp;&nbsp;&nbsp;&nbsp;**-dui** - Festakotoba. -dui sama "fu du". Tatoeba, "ringodui sama ringo fu du".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**-hui** - Festakotoba. -hui sama "fu hej". Tatoeba, "ringohui sama ringo fu hej".
+
 &nbsp;&nbsp;&nbsp;&nbsp;**-ik** - Tingkotoba. x-ik lyk falfal mit x fal. Tatoeba, "🔺 treik, 🟥 kjerik, 🛑 kasik".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**-jena** - Festakotoba. Awen deki -ena. "(un) nam ringo" sama "ringo namena (na un)". Awen deki bruk per hanu ting suru ende.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**-ki** - Festakotoba. Hobitkotoba fu "deki". "sore glugkinai gjunju" sama "sore dekinai glug gjunju".
 
+&nbsp;&nbsp;&nbsp;&nbsp;**-kui** - Festakotoba. -kui sama "fu dok". Tatoeba, "ringokui sama ringo fu dok".
+
 &nbsp;&nbsp;&nbsp;&nbsp;**-li** - Festakotoba. -li sama -nen men plussonpin. Tatoeba, "kotnen" imi vauva os cisai kot, men "kotli" imi vikti kawai kot.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**-nen** - Festakotoba. -nen lyk cisai au kawaii. Kondor -dai. Aparlyk cisai.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**-nui** - Festakotoba. -nui sama "fu un". Tatoeba, "ringonui sama ringo fu un".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**-ossa** - Tingkotoba. Hobitkotoba fu "glossa". Glossa fu Anglolant sama "Anglossa".
 
@@ -126,9 +134,13 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**-s** - Festakotoba. Bruk de lasku. Tatoeba: 🥇 ens, 🥈 nis, 🥉 tres.
 
+&nbsp;&nbsp;&nbsp;&nbsp;**-sui** - Festakotoba. -sui sama "fu sore". Tatoeba, "ringosui sama ringo fu sore".
+
 &nbsp;&nbsp;&nbsp;&nbsp;**-tel** - Festakotoba. -tel lyk en tel fu ting, tatoeba ⅓ = tretel, ⅔ = ni tretel, ⅕ = gotel, auauau.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**-ti** - Festakotoba. Imi aparlyk nai har ting men li har ting, de bra. Tatoeba: "un vilti nam ringo" sama "un ima har nil ringo, men li har ringo, un nam ringo".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**-vui** - Festakotoba. -sui sama "fu vi". Tatoeba, "ringovui sama ringo fu vi".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**-zma** - Festakotoba. Maha kotoba tingkotoba. Tatoeba: vapa 🔥, vapazma 🌡️.
 
@@ -756,7 +768,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**imang** - Tingkotoba. Imang jerkat ka tsunaga ander imang au jerkat. Risonen: 🧲.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**imi** - Tingkotoba au Surukotoba.
+&nbsp;&nbsp;&nbsp;&nbsp;**imi** - Tingkotoba. Imi sama znaci men per tingkotoba mono. Imi lyk ka ting e, bruk imi per mahaklar. Tatoeba, "imi fu ringo ros sot fraut".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**impla** - Surukotoba.
 
