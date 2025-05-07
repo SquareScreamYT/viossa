@@ -772,7 +772,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**imi** - Tingkotoba. Imi sama znaci men per tingkotoba mono. Imi lyk ka ting e, bruk imi per mahaklar. Tatoeba, "imi fu ringo ros sot fraut".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**impla** - Surukotoba. Impla aparlyk imi. Tatoeba, "ros, oishi, kraislyk au deki nam" impla ringo. Impla mahaklar lykkotoba cui en ting, hanu lykko fu afto ting.
+&nbsp;&nbsp;&nbsp;&nbsp;**impla** - Surukotoba. Impla aparlyk imi. Tatoeba, "ros, oishi, kraislyk au deki nam" impla ringo. Impla mahaklar lykkotoba cui en ting, hanu lykko fu afto ting. Tatoeba, "un ohare" impla "un vil nam".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**ine** - Mitkotoba. [.] jam en pik ine baksu. [ ] jam nil pik ine baksu. [ ]<--🚶 pashun skoj ine baksu.
 
