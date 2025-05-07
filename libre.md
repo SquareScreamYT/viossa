@@ -244,6 +244,8 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**auauau** - Mitkotoba. Aparlyk "...". "abc auauau" sama "abcdefghijklmnopqrstuvwxyz".
 
+&nbsp;&nbsp;&nbsp;&nbsp;**aubo** - Surukotoba. Aubo kunjatropos, lyk kunja mit vapadai ishke. Aparlyk goreng men mit ishke au nai abura.
+
 &nbsp;&nbsp;&nbsp;&nbsp;**auki** - Surukotoba au Lykkotoba. Risonen: 🔓📂📬📖. Auki kondor kini.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**auto** - Tingkotoba. Risonen: 🚗🚘🚓. Auto ting du bruk per aja.
