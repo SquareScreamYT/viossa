@@ -186,8 +186,6 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**akrep** - Tingkotoba. Maredur mit ishilyk pjel. Risonen: 🦞. Li kunjajena, varge fu sore bli ros.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**akote** - Perkotoba. Ni krais akote ⭕ ⭕. Aparlyk "para", kondor "prapa".
-
 &nbsp;&nbsp;&nbsp;&nbsp;**akkurat** - Svarkotoba. Aparlyk "🙂‍↕️". Du deki kjannos afto kotoba. Akkurat kondor nai.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**al** - Tingkotoba. Al lyk du har 100% fu ting. Tatoeba: "🍎🍎🍎🍎🍎 al ringo ros. 🍎🍎🍎🍏🍏 nai al ringo ros."
@@ -244,7 +242,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**auauau** - Mitkotoba. Aparlyk "...". "abc auauau" sama "abcdefghijklmnopqrstuvwxyz".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**aubo** - Surukotoba. Aubo kunjatropos, lyk kunja mit vapadai ishke. Aparlyk goreng men mit ishke au nai abura.
+&nbsp;&nbsp;&nbsp;&nbsp;**aubo** - Surukotoba. Aubo kunjatropos, lyk kunja mit vapadai ishke. Aparlyk goreng men mit ishke au nai abura. Tatoeba, "un aubo kartoffel per nam".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**auki** - Surukotoba au Lykkotoba. Risonen: 🔓📂📬📖. Auki kondor kini.
 
@@ -374,7 +372,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**catto** - Tingkotoba. Catto lyk zekaku, ting du hanu na kompju.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**cer** - Surukotoba. Cer lyk maha ting cisai tel made. Tatoeba, "un cer kartofel".
+&nbsp;&nbsp;&nbsp;&nbsp;**cer** - Surukotoba. Cer lyk maha ting cisai tel made. Tatoeba, "un cer kartoffel".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**cerpol** - Tingkotoba. Cerpol ting du cer namting oba.
 
