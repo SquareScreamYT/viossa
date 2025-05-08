@@ -400,7 +400,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**cunaga** - Surukotoba. Cunaga lyk maha ni ting ine en. Risonen: 🧩➡️⬅️🧩
 
-&nbsp;&nbsp;&nbsp;&nbsp;**czopma** - Tingkotoba. Czopma lyk mange ting raznasi na ander ting. Risonen: (czopma fu libre) 📚
+&nbsp;&nbsp;&nbsp;&nbsp;**czopma** - Tingkotoba. Czopma lyk mange ting raznasi na ander ting. Risonen: (czopma fu libre) 📚.
 
 ### D
 
