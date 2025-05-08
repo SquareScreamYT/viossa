@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>Viossalibre</title>
+  <link rel="stylesheet" href="sqmd_style.css">
+</head>
+<body>
+  <div id="markdown-body" class="markdown-body"></div>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+      async function getMarkdownSource(url) {
+      try {
+        const response = await fetch(url);
+        if (!response.ok) {
+          throw new Error(`HTTP error! Status: ${response.status}`);
+        }
+        const markdownText = await response.text();
+        return markdownText;
+      } catch (error) {
+        console.error('Error fetching Markdown:', error);
+        return null;
+      }
+    }
+
+    getMarkdownSource('https://sq.is-a.dev/viossa/libre.md')
+      .then(markdown => {
+        if (markdown !== null) {
+          document.getElementById('markdown-body').innerHTML =
+      marked.parse(markdown);
+        }
+      });
+  </script>
+</body>
+</html>

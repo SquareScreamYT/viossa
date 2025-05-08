@@ -47,8 +47,8 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 |-------------|------|--------|---------|--------|-------|
 | Hana        | m    | n      |         | ŋ      |       |
 | Bamba       | p b  | t d    |         | k g    | ʔ     |
-| Bamfendo    |      | ts     | tɕ dʑ   |        |       |
-| Fendo       | f v  | s z    | ɕ ʑ     |        | h     |
+| Bamfendo    |      | ts     | tʃ dʒ   |        |       |
+| Fendo       | f v  | s z    | ʃ ʒ     |        | h     |
 | Slak        |      | ɾ      |         |        |       |
 | Selbazamnen |      | l      | j       | w      |       |
 
