@@ -38,7 +38,8 @@ body {
   word-wrap: break-word;
   height: 100%;
   width: 100%;
-  padding: 10%;
+  padding: 15%;
+  padding-top: 0;
 }
 
 .markdown-body .octicon {
