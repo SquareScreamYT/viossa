@@ -446,11 +446,13 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**djarper** - Tingkotoba. Djarper pitka dur. Risonen: 🐍.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**djikan** - Tingkotoba. Djikan lyk tel fu tyd. 24 djikan maha 1 dag. 60 fun maha 1 djikan.
-
 &nbsp;&nbsp;&nbsp;&nbsp;**djido** - Tingkotoba. Djido lyk pitka tel fu baum. Risonen: 🪵.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**djiju** - Tingkotoba. Djiju lyk du deki suru ting na vil. Djiju kondor darem. Tatoeba, mangedjin hanu "Amerikalant mange djiju".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**djikan** - Tingkotoba. Djikan lyk tel fu tyd. 24 djikan maha 1 dag. 60 fun maha 1 djikan.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**djima** - Surukotoba. Djima lyk gha kataj fu ting. Risonen: 📏📐.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**djong** - Lykkotoba. Djong lyk deki suru mange ting. Risonen: 💪. Djong kondor shvant.
 
