@@ -18,7 +18,6 @@ html, body {
   color: #f0f6fc;
   height: 100%;
   width: 100%;
-  zoom: 1.05;
 }
 
 body {
@@ -33,7 +32,7 @@ body {
   margin: 0;
   color: #f0f6fc;
   background-color: #0d1117;
-  font-family: "Nunito", "M PLUS Rounded 1c", -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji";
+  font-family: "Nunito", "M PLUS Rounded 1c", "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
   word-wrap: break-word;
