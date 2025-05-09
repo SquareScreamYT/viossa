@@ -18,11 +18,40 @@ html, body {
   color: #f0f6fc;
   height: 100%;
   width: 100%;
+  zoom: 1.05;
 }
 
 body {
   display: flex;
   justify-content: center;
+}
+
+@media (max-width: 1024px) {
+  .markdown-body {
+    padding: 10%;
+    padding-top: 7%;
+    padding-bottom: 7%;
+  }
+}
+
+@media (max-width: 768px) {
+  html, body {
+    zoom: 1;
+  }
+  
+  .markdown-body {
+    padding: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  .markdown-body {
+    padding: 15px;
+    font-size: 16px;
+  }
 }
 
 .markdown-body {
@@ -38,7 +67,7 @@ body {
   word-wrap: break-word;
   height: 100%;
   width: 100%;
-  padding: 2rem;
+  padding: 15%;
   padding-top: 10%;
   padding-bottom: 10%;
 }
