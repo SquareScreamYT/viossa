@@ -9,7 +9,8 @@
    - [Selbazam](#selbazam)
    - [Kakutropos](#kakutropos)
 4. [Hur bruk afto libre](#hur-bruk-afto-libre)
-5. [Kotobatumam](#kotobatumam)
+5. [Kotobaranja](#kotobaranja)
+6. [Kotobatumam](#kotobatumam)
    - [#](#--), [A](#a)
    - [B](#b), [C](#c)
    - [D](#d), [E](#e)
@@ -91,6 +92,21 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
    7. Jokuraz aparlykkotoba os kondorkotoba.
    8. Tatoeba: **Ringo** - Tingkotoba. Ros sot fraut. 🍎 ros ringo, 🍏 midori ringo. Risonen fu ringo: 🍎🍏. Tatoeba: "Un dua ringo grun ringo oishi".
 3. Li har kotoba du vil finna men nai ine afto libre, da ping **@sq3c** in Viossa-Diskordserver.
+
+## Kotobaranja
+
+[Alkotumám](https://docs.google.com/spreadsheets/d/1-YkCeynx_-KYdubvt14augSPo37_20YgUv_f-i8HVwY/edit?gid=0#gid=0)  
+[Viossa Kotoba na Ranya](https://docs.google.com/spreadsheets/d/1bVrRyQ3YQOSE9TrrcXMTDShkz85SejhSkn2d3ZwGl0A/edit?gid=0#gid=0)  
+[Kotoli](https://docs.google.com/spreadsheets/d/1KZohaNzVswhlxDMc656-90-ehedrrwWtOCm2IyRd268/edit?gid=321072920#gid=321072920)  
+[All Koto](https://docs.google.com/spreadsheets/d/1YJkb5oCEoKCYbCmHoqxo5bkYA2YGnqbITDYAQWufunI/edit?gid=0#gid=0)  
+[Viossa](https://docs.google.com/spreadsheets/d/1uBA-EVzawJSeNmzUMzYtnWayM6oPqQXtsXKXErLCksg/edit?gid=1329244818#gid=1329244818)  
+[Alunossa Kotoli 2](https://docs.google.com/spreadsheets/d/1oFum4MBhoqxTrPSzcK6_rJPNJUge0DHS_bFHwz4cAAs/edit?gid=0#gid=0)  
+[Viossa Katai Kotoba](https://docs.google.com/spreadsheets/d/1Q-Xsohqn2IyQGTYFJMXuCbKIt0oRTxDpM4K_YIGjesU/edit?gid=0#gid=0)  
+[Vjosali](https://v8.zsnout.com/vjosali)  
+[Kotoli fu Kerdjin](https://drive.google.com/file/d/11TJUZaaDUWjaF5WiA1DxmKpy7OQFGiNK/view)  
+[Kotolinui](https://sq.is-a.dev/viossa/kotobalibre/)  
+[Kotoli na Vikoli](https://vikoli.org/Kotobalibre)  
+[Viossa-Diskordserver](https://discord.viossa.net/)
 
 ## Kotobatumam
 
