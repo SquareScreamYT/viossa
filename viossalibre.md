@@ -164,6 +164,8 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**abece** - Tingkotoba. Abece sama alfakun.
 
+&nbsp;&nbsp;&nbsp;&nbsp;**abia** - Lykkotoba.
+
 &nbsp;&nbsp;&nbsp;&nbsp;**abura** - Tingkotoba. Abura ting du bruk per goreng. Risonen: 🛢️. Abura deki mahajena na solblume au asetona.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**acor** - Lykkotoba. Acor lyk du vil skoj prapa ting made. Risonen: 😨😱.
@@ -213,6 +215,8 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 &nbsp;&nbsp;&nbsp;&nbsp;**alk** - Tingkotoba. Alk pudra mahajena na panmun os mi. Du deki bruk alk per maha pan.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**alta** - Tingkotoba. Brun fugel mit shiro atama. Risonen: 🦅.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**alvan** - Tingkotoba. Alvan lyk protokami, vona na velt fu vi au krig med rjoho.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**amuspe** - Tingkotoba. Maredur mit ishilyk pjel. Risonen: 🦀.
 
@@ -350,15 +354,17 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**bogos** - Tingkotoba. Bogos sama gnarp os eksodjin. Risonen: 👽.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**booze** - Lykkotoba. Booze kokoro. Risonen: 😡😠🤬👿.
+&nbsp;&nbsp;&nbsp;&nbsp;**bolka** - Tingkotoba. Bolka ting ka du deki aja au har ni krais, lyk auto men treng bruk jalaka. Risonen: 🚲.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**boneka** - Tingkotoba. Boneka cisai spilting per lapsi ka anze lyk pashun os dur.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**booze** - Lykkotoba. Booze kokoro. Risonen: 😡😠🤬👿.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**botto** - Tingkotoba. Hobitkotoba fu robotto.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**bouba** - Lykkotoba. Bouba sama har nil kiki. Bouba kondor kiki. Tatoeba, "krais bouba".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**bra** - Lykkotoba. Risonen: 👍.
+&nbsp;&nbsp;&nbsp;&nbsp;**bra** - Lykkotoba. Risonen: 👍. Kondor warui.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**bratulla** - Telkotoba. Ka du hanu li neodjin tulla.
 
@@ -485,6 +491,8 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 &nbsp;&nbsp;&nbsp;&nbsp;**du** - Pashunkotoba. Du nis pashun. Risonen: 🫵. Tatoeba, "du lera Viossa".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**dua** - Surukotoba. Dua lyk gustdai. Risonen: 😍💕❤️. Dua kondor viha. Tatoeba, "vi dua ringo".
+
+&nbsp;&nbsp;&nbsp;&nbsp;**dukovo** -
 
 &nbsp;&nbsp;&nbsp;&nbsp;**dur** - Tingkotoba. Dur klani fu vonating. Risonen: 🐶😺🐟🐸🐝🕷️🐔.
 
@@ -682,6 +690,8 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**gvprckvni** - Surukotoba. Gvprckvni lyk gha pjel. Tatoeba, "du gvprckvni banan".
 
+&nbsp;&nbsp;&nbsp;&nbsp;**gzhkni** - Lykkotoba. Gzhkni kondor ike. Gzhkni koske deki hanu alting oba selba au nai kokoro warui. Risonen: 😇👼.
+
 ### H
 
 &nbsp;&nbsp;&nbsp;&nbsp;**haaste** - Lykkotoba. Haaste lyk treng mange tyd, ergo, zeus, mietta auauau per suru. Tatoeba, "jokuraz shirutropos haaste". Haaste kondor simper.
@@ -754,6 +764,8 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**hore** - Tingkotoba. Hore lyk se zam. Risonen: 🔊➡️👂.
 
+&nbsp;&nbsp;&nbsp;&nbsp;**hosoi** -
+
 &nbsp;&nbsp;&nbsp;&nbsp;**hoz** - Tingkotoba. Hoz roza, shiro os brun dur. Risonen: 🐷.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**hualeing** - Tingkotoba. Hualeing cisai brun dodo. Risonen: 🥜.
@@ -776,9 +788,9 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**ij** - Tingkotoba. Kiro namting fu gjunju du deki nam. Risonen: 🧈.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**ike** - Lykkotoba.
+&nbsp;&nbsp;&nbsp;&nbsp;**ike** - Lykkotoba. Kondor gzhkni. Aparlyk warui kokoro, deki maha trist, booze, rovo auauau.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**iken** - Surukotoba.
+&nbsp;&nbsp;&nbsp;&nbsp;**iken** - Surukotoba. Iken lyk hur du kokoro os mietta cui jokuting. Tatoeba, "pashun a: ka du iken cui skola? pashun b: warui grun sore haastedai au har mange ergo."
 
 &nbsp;&nbsp;&nbsp;&nbsp;**ikor** - Tingkotoba. Dur mit brun haar. Risonen: 🐿️.
 
@@ -796,17 +808,17 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**inuri** - Tingkotoba. Cisai kuro bagge. Risonen: 🐜.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**ip-** - Tingkotoba.
+&nbsp;&nbsp;&nbsp;&nbsp;**ip-** - Tingkotoba. Ip- lyk 000. Tatoeba: "1000 ipen, 1000000 ipni, 2000 ni-ipen auauau".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**ishi** - Tingkotoba.
+&nbsp;&nbsp;&nbsp;&nbsp;**ishi** - Tingkotoba. Ishi ishilyk ting du deki finna ine gaja. Risonen: 🪨.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**ishilyk** - Lykkotoba.
+&nbsp;&nbsp;&nbsp;&nbsp;**ishilyk** - Lykkotoba. Ishilyk lyk ting sama ishi, haaste per perpa. Ishilyk kondor fuwafuwa. Tatoeba, "jerkat, ishi, baum al ishilyk.".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**ishke** - Tingkotoba. Klar glugting du treng per vona. Risonen: 💦💧🌊.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**ishu** - Tingkotoba.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**iskat** - Tingkotoba au Surukotoba.
+&nbsp;&nbsp;&nbsp;&nbsp;**iskat** - Tingkotoba au Surukotoba. Iskat lyk suru per shiru we deki. Iskat awen ting (mangeraz paperi os zeleti) per se hur mange ting du shiru, auauau.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**isu** - Tingkotoba. Isu lyk raumting ka du swaru na. Risonen: 🪑💺.
 
