@@ -394,7 +394,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**catto** - Tingkotoba. Catto lyk zekaku, ting du hanu na kompju.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**ceki** - Tingkotoba and Surukotoba. Ceki ting ka du deki bruk kljuc per kini os auki, au dekinai auki li harnai kljuc. Awen deki bruk per hanu ting ka ine ting mit ceki. Risonen: 🔒. Tatoeba, "daremdjin ceki waruidjin".
+&nbsp;&nbsp;&nbsp;&nbsp;**ceki** - Tingkotoba and Surukotoba. Aparlyk jinsu. Ceki ting ka du deki bruk kljuc per kini os auki, au dekinai auki li harnai kljuc. Awen deki bruk per hanu ting ka ine ting mit ceki. Risonen: 🔒. Tatoeba, "daremdjin ceki waruidjin".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**cer** - Surukotoba. Cer lyk maha ting cisai tel made. Tatoeba, "un cer kartoffel".
 
