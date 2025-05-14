@@ -300,7 +300,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**banan** - Tingkotoba. Sot pitka kiro fraut. Risonen: 🍌.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**baum** - Tingkotoba. Risonen: 🌲🌳🌴🎄.
+&nbsp;&nbsp;&nbsp;&nbsp;**baum** - Tingkotoba. Baum lyk stur ruti. Risonen: 🌲🌳🌴🎄.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**baungua** - Tingkotoba. Portokali fraut mit midori pjel au mange kuro mjahfal pie.
 
@@ -442,7 +442,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**dare** - Tingkotoba. Dare lyk "ka pashun?". Tatoeba, "dare nam ringo f'un?".
 
-&nbsp;&nbsp;&nbsp;&nbsp;**darem** - Surukotoba. Darem lyk gha ting. Tatoeba, "daremdjin darem waruidjin".
+&nbsp;&nbsp;&nbsp;&nbsp;**darem** - Surukotoba. Darem lyk gha ting au glaubi jinsu os maha ting dekinai suru joku ting. Tatoeba, "daremdjin darem waruidjin na gulag" os "un darem bagge na klinje".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**daremdjin** - Tingkotoba. Daremdjin lyk pashun ka darem waruidjin. Risonen: 👮.
 
