@@ -360,7 +360,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**booze** - Lykkotoba. Booze kokoro. Risonen: 😡😠🤬👿.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**borte** - Surukotoba. Borte kondor suruk. Borte aparlyk xnopyt.
+&nbsp;&nbsp;&nbsp;&nbsp;**borte** - Surukotoba. Borte kondor suruk. Borte aparlyk xnopyt. Borte lyk nai jam, nai her.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**botto** - Tingkotoba. Hobitkotoba fu robotto.
 
