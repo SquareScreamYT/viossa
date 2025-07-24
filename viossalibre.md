@@ -562,6 +562,8 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**farza** - Surukotoba. Farza lyk finna ka kataj fu jokuting. Risonen: 📏🌡️📐. Tatoeba: "da farza 2 klinje fu ishke".
 
+&nbsp;&nbsp;&nbsp;&nbsp;**fdrigi** - Surukotoba. Fdrigi lyk maha jalba ting (tatoeba, paperi) na ni han, sit nis han oba ens han. Risonen: (fu paperi) 📁.
+
 &nbsp;&nbsp;&nbsp;&nbsp;**fen** - Lykkotoba. Fen lyk har mange varge. Tatoeba, "feri fendai".
 
 &nbsp;&nbsp;&nbsp;&nbsp;**feri** - Tingkotoba. Helena ting mit mange varge ka du deki se li plui men sol pohar kirkas. Risonen: 🌈🏳️‍🌈.
