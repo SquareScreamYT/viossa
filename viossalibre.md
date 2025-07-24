@@ -402,6 +402,8 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**cesapi** - Tingkotoba. Shiro dur mit pitka gorla. Risonen: 🦙.
 
+&nbsp;&nbsp;&nbsp;&nbsp;**cibang** - Tingkotoba. Cibang ting ka fugel au joku bagge har per ljetta. Risonen: 🪽.
+
 &nbsp;&nbsp;&nbsp;&nbsp;**cigaret** - Tingkotoba. Ting du bruk per fyk. Risonen: 🚬.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**cigau** - Lykkotoba. 🍎 sama 🍎. 🍎 lyk 🍏. 🍎 cigau 🍍. Kondor sama.
