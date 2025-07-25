@@ -498,7 +498,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 **dua** - Surukotoba. Dua lyk gustdai. Risonen: 😍💕❤️. Dua kondor viha. Tatoeba, "vi dua ringo".
 
-**dukovo** -
+**dukovo** - Lykkotoba. Dukovo aparlyk pitka. Dukovo kondor jalba. Tatoeba, "libre dukovo, paperi jalba".
 
 **dur** - Tingkotoba. Dur klani fu vonating. Risonen: 🐶😺🐟🐸🐝🕷️🐔.
 
@@ -835,6 +835,48 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 **iwai** - Tingkotoba au Surukotoba. Iwai lyk suru ting grun bradai ting sluca. Risonen: 🙌🍾🥂🎉🥳🎆🎇🎈. Tatoeba, "juldag, neotoshidag al iwaidag".
 
 ### J
+
+**jaa** - Telkotoba. Jaa lyk ting du hanu li pashun tulla. Risonen: 👋.
+
+**jaice** - Tingkotoba. Shiro os kiro ting ka joku dur maha per har vauva. Risonen: 🥚🍳.
+
+**jalaka** - Tingkotoba. Pitka tel fu netopa per skoj. Risonen: 🦵.
+
+**jalakasi** - Tingkotoba. Bagge mit kasi jalaka. Hobitkotoba fu "jalaka kasi". Risonen: 🕷️.
+
+**jalba** - Lykkotoba. Jalba lyk paperilyk. Jalba kondor dukovo. Tatoeba, "en paperi jalba, mange paperi dukovo".
+
+**jam** - Surukotoba. Jam lyk ting har vona os deki finna. Tatoeba, "afto libre jam ine huomi".
+
+**jamete** - Surukotoba. Jamete lyk nai plusergo os nai plussuru. Jamete kondor hadji. Tatoeba, "jamete spil!".
+
+**jari** - Surukotoba. Jari lyk nasi ting na pol. Jari kondor kiva. Tatoeba, "un jari libre na pol".
+
+**jelo** - Tingkotoba. Jelo ishke ka bli ishilyk grun samuidai. Risonen: 🧊.
+
+**jerkat** - Tingkotoba. Jerkat ishilyk ting ka deki bli imang. Risonen: 🪙⚙️🔩.
+
+**jewalt** - Tingkotoba. Jewalt aparlyk konig. Jewalt maha ruru au maha plas ziha per aldjin. Risonen: 🧑‍⚖️.
+
+**jing** - Surukotoba. Jing lyk bli lestebra na spil. Risonen: 🏆🥇.
+
+**jingsai** - Surukotoba. Jingsai lyk skoj bistra mit jalaka. Risonen: 🏃.
+
+**jit** - Surukotoba. Jit lyk bidra ting na ander prapa plas mit hant. Risonen: 🤾.
+
+**joku** - Tingkotoba. Joku aparlyk "apar" men awen nai nil, al os mange. Tatoeba, "joku pashun dekinai ojogi".
+
+**joss** - Tingkotoba. Jos lyk stof na josstumam, lyk ishkeluft, djongkat, sjokat auauau. Risonen: ⚛️.
+
+**jubi** - Tingkotoba. Pitka cisai tel fu hant. Risonen: 👆. Tatoeba, "hant har 5 jubi".
+
+**jugent** - Surukotoba. Jugent lyk bli tel fu klani. Tatoeba, "un jugent diskordserver".
+
+**jul** - Tingkotoba. Jul iwaidag fu Jesusdag. Risonen: 🎄🎅. Tatoeba, "juldag iwaidag".
+
+**julbaum** - Tingkotoba. Julbaum lyk julbaum au baum du bruk na jul per iwai. Risonen: 🌲🎄.
+
+**juwur** - Tingkotoba. Juwur lyk shiro sot namting mahajena na nju. Risonen: 🥛.
 
 ### K
 
