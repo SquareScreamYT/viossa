@@ -514,6 +514,8 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 **e** - Surukotoba. E kopula, sama je, jest, est, es auauau.
 
+**edenst** - Lykkotoba. Edenst kondor fliire. Risonen: 😐🫡.
+
 **efles** - Lykkotoba. Efles lyk har bra njoi. Risonen: 👃👍
 
 **egal** - Lykkotoba. Egal lyk nai vikti. Egal kondor vikti.
