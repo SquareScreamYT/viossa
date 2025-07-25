@@ -172,6 +172,8 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 **acorfraut** - Tingkotoba. Acorfraut portokali fraut, men jokudjin mietta sore ovoshi. Risonen: 🎃, men har nil kau.
 
+**adjektiv** - Tingkotoba. Adjektiv sama lykkotoba.
+
 **afe** - Tingkotoba. Afe dur mit brun haar. Risonen: 🐒🐵🙈🙉🙊. Tatoeba: "afe dua nam banan".
 
 **afefraut** - Tingkotoba. Afefraut fraut mit brun haar. Risonen: 🥝. Afefraut har "afe" ine namai grun afefraut au afe rjoho har brun haar.
@@ -838,6 +840,8 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 **jaa** - Telkotoba. Jaa lyk ting du hanu li pashun tulla. Risonen: 👋.
 
+**jad** -
+
 **jaice** - Tingkotoba. Shiro os kiro ting ka joku dur maha per har vauva. Risonen: 🥚🍳.
 
 **jalaka** - Tingkotoba. Pitka tel fu netopa per skoj. Risonen: 🦵.
@@ -872,11 +876,11 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 **jugent** - Surukotoba. Jugent lyk bli tel fu klani. Tatoeba, "un jugent diskordserver".
 
-**jul** - Tingkotoba. Jul iwaidag fu Jesusdag. Risonen: 🎄🎅. Tatoeba, "juldag iwaidag".
+**jul** - Tingkotoba. Jul iwaidag fu kristovjeri. Risonen: 🎄🎅. Tatoeba, "juldag iwaidag".
 
-**julbaum** - Tingkotoba. Julbaum lyk julbaum au baum du bruk na jul per iwai. Risonen: 🌲🎄.
+**julbaum** - Tingkotoba. Julbaum baum ka har pitka falfal fu leti, awen deki bruk per juldag. Risonen: 🌲🎄.
 
-**juwur** - Tingkotoba. Juwur lyk shiro sot namting mahajena na nju. Risonen: 🥛.
+**juwur** - Tingkotoba. Juwur lyk shiro syr namting mahajena na nju mit bra kagau. Risonen: 🥛.
 
 ### K
 
