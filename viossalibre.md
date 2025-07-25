@@ -108,6 +108,8 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 [Kotoli na Vikoli](https://vikoli.org/Kotobalibre)  
 [Viossa-Diskordserver](https://discord.viossa.net/)
 
+[**Zedvera na Selba**](https://sq.is-a.dev/viossa/libre)
+
 ## Kotobatumam
 
 ### #, -
