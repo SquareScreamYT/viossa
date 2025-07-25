@@ -166,7 +166,9 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 **abece** - Tingkotoba. Abece sama alfakun.
 
-**abia** - Lykkotoba.
+**abia** -
+
+**absolutna** -
 
 **abura** - Tingkotoba. Abura ting du bruk per goreng. Risonen: 🛢️. Abura deki mahajena na solblume au asetona.
 
@@ -830,7 +832,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 **ishke** - Tingkotoba. Klar glugting du treng per vona. Risonen: 💦💧🌊.
 
-**ishu** - Tingkotoba.
+**ishu** - Tingkotoba. Ishu lyk helena ting ka pashun maha per se au gust. Muzik, vaha, alt ishu. Risonen: 🎨🖼️🎭.
 
 **iskat** - Tingkotoba au Surukotoba. Iskat lyk suru per shiru we deki. Iskat awen ting (mangeraz paperi os zeleti) per se hur mange ting du shiru, auauau.
 
