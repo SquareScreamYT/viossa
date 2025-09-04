@@ -7,7 +7,6 @@
 3. [Zamtropos](#zamtropos)
    - [Mitzam](#mitzam)
    - [Selbazam](#selbazam)
-   - [Kakutropos](#kakutropos)
 4. [Hur bruk afto libre](#hur-bruk-afto-libre)
 5. [Kotobaranja](#kotobaranja)
 6. [Kotobatumam](#kotobatumam)
@@ -41,6 +40,8 @@ Viossa viskmahossa, sintuadan na julmuai 2014. Vikti glossa kara Viossa mahena R
 ## Zamtropos
 
 Al kotoba ine Mellanlant Zamkirain Alfakun.
+
+<!-- Gammel
 
 ### Mitzam
 
@@ -77,6 +78,27 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 | Oba  | i, y |      | u    |
 |Mellan| e    | o, e | o    |
 | Unna |      | a    |      |
+
+-->
+
+### Mitzam
+
+|             | Lepa | Alvjol | Paljaci | Ngangi | Gorla |
+|-------------|------|--------|---------|--------|-------|
+| Hana        | m    | n      |         | ŋ      |       |
+| Bamba       | p b  | t d    |         | k g    | ʔ     |
+| Bamfendo    |      | ts     | tʃ dʒ   |        |       |
+| Fendo       | f v  | s z    | ʃ ʒ     |        | h     |
+| Slak        |      | ɾ      |         |        |       |
+| Selbazamnen |      | l      | j       | w      |       |
+
+### Selbazam
+
+|        | Fura | Mellan | Hina |
+|--------|------|--------|------|
+|   Oba  | i    |        | u    |
+| Mellan |e œ\~ø| ə      | o    |
+|  Unna  |      | a      |      |
 
 ## Hur bruk afto libre
 
@@ -856,9 +878,13 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 **jam** - Surukotoba. Jam lyk ting har vona os deki finna. Tatoeba, "afto libre jam ine huomi".
 
-**jamete** - Surukotoba. Jamete lyk nai plusergo os nai plussuru. Jamete kondor hadji. Tatoeba, "jamete spil!".
+**jamete** - Surukotoba. Jamete kondor beng. Risonen: 🛑.
 
 **jari** - Surukotoba. Jari lyk nasi ting na pol. Jari kondor kiva. Tatoeba, "un jari libre na pol".
+
+**jatazahul** -
+
+<!-- i can just put translations here and no one will notice,, -->
 
 **jelo** - Tingkotoba. Jelo ishke ka bli ishilyk grun samuidai. Risonen: 🧊.
 
