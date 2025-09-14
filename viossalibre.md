@@ -142,6 +142,9 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 <!-- dual -->
 **-a** - Festakotoba. -a lyk har plus kana 2 fu ting. Tatoeba, "en huin, ni huina".
 
+<!-- place -->
+**-an** - Festakotoba. -an lyk plas per jokuting. Tatoeba, "ventan sama plas per vent".
+
 <!-- plural -->
 **-ara** - Festakotoba. -a lyk har plus kana 3 fu ting, lyk mange fu ting. Tatoeba, "en huin, mange huinara".
 
