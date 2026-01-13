@@ -303,6 +303,9 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 <!-- god -->
 **alvan** - Tingkotoba. Alvan lyk protokami, vona na velt fu vi au krig med rjoho.
 
+<!-- yawn -->
+**amnu** - Surukotoba. Amnu lyk auki kuci per henge luft, grun mude os cumaranai. Tatoeba, "da kola, du ima amnu."
+
 <!-- crab -->
 **amuspe** - Tingkotoba. Maredur mit ishilyk pjel. Risonen: 🦀.
 
@@ -318,7 +321,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 <!-- give -->
 **anta** - Surukotoba. Risonen: 🫴. Tatoeba: "un har 1 ringo. du har 0 ringo. un anta 1 ringo du made. un har 0 ringo. du har 1 ringo." Anta kondor sada.
 
-<!-- same -->
+<!-- look like -->
 **anze** - Surukotoba. Anze sama "sejena lyk". Aparlyk "se". Tatoeba, "du se ringo, men ringo anze ros".
 
 <!-- a little -->
@@ -438,7 +441,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 **beng** - Surukotoba. Beng lyk 🟢 ine 🚥. Beng kondor jamete.
 
 <!-- evaporate -->
-**ber** - Surukotoba. Ishke ber au bli luft. Tatoeba, "ishke ine mare ber au skoj na sini, de bli plui".
+**ber** - Surukotoba. Ishke ber au bli luft. Tatoeba, "ishke ine mare ber au skoj na celo, de bli plui".
 
 <!-- soda -->
 **berzoda** - Tingkotoba. Berzoda glugting fu limonsaft au luft.
@@ -571,6 +574,9 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 <!-- lock -->
 **ceki** - Tingkotoba and Surukotoba. Aparlyk jinsu. Ceki ting ka du deki bruk kljuc per kini os auki, au dekinai auki li harnai kljuc. Awen deki bruk per hanu ting ka ine ting mit ceki. Risonen: 🔒. Tatoeba, "daremdjin ceki waruidjin na gulag".
 
+<!-- sky -->
+**celo** - Tingkotoba. Celo lyk plas ka kami vona ine, har mange kumo. Risonen: (naktcelo) 🌌. Tatoeba, "celo imadag sinidai".
+
 <!-- cut -->
 **cer** - Surukotoba. Cer lyk maha ting cisai tel made. Tatoeba, "un cer kartoffel".
 
@@ -603,6 +609,9 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 <!-- chocolate -->
 **coki** - Tingkotoba. Sot namting mahajena na kakaobaum. Risonen: 🍫.
+
+<!-- slop (art/posts) -->
+**congot** - Lykkotoba. Congot lyk warui ishu os posta. Tatoeba, "afto film congot! un ende shiru ka ti sluca na owaris tel!"
 
 <!-- about -->
 **cui** - Mitkotoba. Cui lyk ka du hanu. Tatoeba, un hanu: "ringo ros. ringo sot. ringo fraut.". un hanu cui ringo.
@@ -1305,6 +1314,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 ### R
 
 <!-- apple -->
+
 **ringo** - Tingkotoba. Ros sot fraut. 🍎 ros ringo, 🍏 midori ringo. Risonen fu ringo: 🍎🍏. Tatoeba: "Un dua ringo grun ringo oishi".
 
 ### S
