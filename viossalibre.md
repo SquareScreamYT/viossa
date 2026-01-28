@@ -464,7 +464,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 **cunaga** - Surukotoba. Cunaga lyk maha ni ting ine en. Risonen: 🧩➡️⬅️🧩
 
-**czopma** - Tingkotoba. Czopma lyk mange ting raznasi na ander ting. Risonen: (czopma fu libre) 📚.
+**copma** - Tingkotoba. Copma lyk mange ting raznasi na ander ting. Risonen: (copma fu libre) 📚.
 
 ### D
 
@@ -919,6 +919,202 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 **juwur** - Tingkotoba. Juwur lyk shiro syr namting mahajena na nju mit bra kagau. Risonen: 🥛.
 
 ### K
+
+**ka** -
+
+**kaban** -
+
+**kaif** -
+
+**kaiser** -
+
+**kaku** -
+
+**kalamansi** -
+
+**kalap** -
+
+**kamag** -
+
+**kami** -
+
+**kamome** -
+
+**kanele** -
+
+**kano** -
+
+**kanze** -
+
+**kapusta** -
+
+**kar** -
+
+**kara** -
+
+**kargu** -
+
+**karoten** -
+
+**karta** -
+
+**kartofel** -
+
+**kasi** -
+
+**katai** -
+
+**katana** -
+
+**kau** -
+
+**kaukau** -
+
+**kaupa** -
+
+**kava** -
+
+**kaveg** -
+
+**kawaj** -
+
+**kawari** -
+
+**kawarikun** -
+
+**kazif** -
+
+**ke** -
+
+**keksa** -
+
+**ker** -
+
+**kerai** -
+
+**kere** -
+
+**kerfraut** -
+
+**keshite** -
+
+**kicune** -
+
+**kini** -
+
+**kirain** -
+
+**kirkaas** -
+
+**kirkas** -
+
+**kiro** -
+
+**kiva** -
+
+**kiwen** -
+
+**kjannos** -
+
+**kjoka** -
+
+**kjomi** -
+
+**kjomuske** -
+
+**klani** -
+
+**kleja** -
+
+**kletka** -
+
+**klinje** -
+
+**kljuc** -
+
+**kn-** -
+
+**koilara** -
+
+**kola** -
+
+**kokoro** -
+
+**kokosila** -
+
+**komoske** -
+
+**kompju** -
+
+**kompjuglossa** -
+
+**kondor** -
+
+**konfuz** -
+
+**koni** -
+
+**koniciwa** -
+
+**koning** -
+
+**konsonanta** -
+
+**kopula** -
+
+**korokoro** -
+
+**korva** -
+
+**koske** -
+
+**kot** -
+
+**kotoba** -
+
+**kotobalibre** -
+
+**kova** -
+
+**koza** -
+
+**krais** -
+
+**kraisret** -
+
+**kreu** -
+
+**krig** -
+
+**kriz** -
+
+**krungut** -
+
+**kruska** -
+
+**kuaizy** -
+
+**kuam** -
+
+**kucusta** -
+
+**kuci** -
+
+**kumo** -
+
+**kun** -
+
+**kuneli** -
+
+**kunja** -
+
+**kungca** -
+
+**kuro** -
+
+**kurica** -
+
+**kusipa** -
 
 ### L
 
