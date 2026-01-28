@@ -466,6 +466,8 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 **copma** - Tingkotoba. Copma lyk mange ting raznasi na ander ting. Risonen: (copma fu libre) 📚.
 
+**covit** - Tingkotoba. Covit lyk ting ka maha du bjurki. Afto ting nai vona. Risonen: (aparlyk): 🦠.
+
 ### D
 
 **da** - Telkotoba. Bruk li du vil pashun suru ting. Tatoeba, li du vil namting, du hanu "da bidra namting!".
