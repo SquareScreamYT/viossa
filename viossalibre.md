@@ -918,6 +918,8 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 **julbaum** - Tingkotoba. Julbaum baum ka har pitka falfal fu leti, awen deki bruk per juldag. Risonen: 🌲🎄.
 
+**juriste** - 
+
 **juwur** - Tingkotoba. Juwur lyk shiro syr namting mahajena na nju mit bra kagau. Risonen: 🥛.
 
 ### K
@@ -1085,6 +1087,8 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 **kraisret** -
 
 **kreu** -
+
+**kreska** - 
 
 **krig** -
 
