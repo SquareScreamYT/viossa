@@ -676,6 +676,8 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 **gdjent** - Tingkotoba. Gdjent lyk ting ka maha tumam. Risonen: 🧱.
 
+**gele** - 
+
 **gelt** - Tingkotoba. Gelt lyk ting du gha ergo made. Risonen: 💵💰.
 
 **gen** - Tingkotoba. Gen lyk du suru ting en plus raz. Risonen: 🔄🔁.
