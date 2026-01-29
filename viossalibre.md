@@ -354,6 +354,8 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 **bidziau** - Surukotoba. Bidziau lyk se cigauzma na cigau ting. Tatoeba, "du har 2 kekso, du bidziau afto kekso per se kano kekso plusoishi".
 
+**bikus** - 
+
 **biljon** - Tingkotoba. Biljon lasku 1000000000.
 
 **bingas** - Tingkotoba. Bingas sot shiro fraut mit stur kuro pie au ros pjel mit mange haar.
@@ -833,6 +835,8 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 **hytin** - Tingkotoba. Hytin lyk bagge ka glug vonishke. Risonen: 🦟.
 
 ### I
+
+**idzau** -
 
 **ij** - Tingkotoba. Kiro namting fu gjunju du deki nam. Risonen: 🧈.
 
