@@ -686,6 +686,8 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **gi** - Surukotoba. Gi lik ka du mietta. Aparlik iken.
 
+**gjaku** -
+
 **gju** - Tingkotoba. Gju dur ke maha mange nju. Risonen: 🐄🐮.
 
 **gjunju** - Tingkotoba. Gjunju lik sziro iske mahajena na jokudur. Risonen: 🥛🍼.
@@ -935,6 +937,8 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 **ka** -
 
 **kaban** -
+
+**kafan** -
 
 **kaif** -
 
