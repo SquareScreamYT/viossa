@@ -910,6 +910,8 @@ Al kotoba ine Mellanlant Zamkirain Alfakun.
 
 **jingsai** - Surukotoba. Jingsai lyk skoj bistra mit jalaka. Risonen: 🏃.
 
+**jinsu** -
+
 **jit** - Surukotoba. Jit lyk bidra ting na ander prapa plas mit hant. Risonen: 🤾.
 
 **joku** - Tingkotoba. Joku aparlyk "apar" men awen nai nil, al os mange. Tatoeba, "joku pashun dekinai ojogi".
