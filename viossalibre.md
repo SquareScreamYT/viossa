@@ -210,9 +210,9 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **aftrukjen** - Likkotoba. Li du glug mange kirkaas, sit du bli aftrukjen. Risonen: 🥴😵.
 
-**ahavja** - Tingkotoba. Ahavja syr makot frautnen, jokuraz sot. Risonen: 🫐.
-
 **agro** - Tingkotoba. Plas fu rufne ting. Lik "nunczang". Tatoeba: "🧑‍🌾 agrozsin".
+
+**ahavja** - Tingkotoba. Ahavja syr makot frautnen, jokuraz sot. Risonen: 🫐.
 
 **ahman** - Surukotoba. Hanu ke du mietta, men nai sziru li pravda os uso. Tatoeba, "paszun a: kano flakka je flakka fu amerikalant? a) 🇺🇸. b) 🇬🇧. paszun b ahman b. (paszun b ahman flakka b flakka fu amerikalant. paszun b ahman uso.) paszun c ahman a. (paszun c ahman pravda).
 
@@ -228,15 +228,13 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **ak** - Svarkotoba. Hobitkotoba fu "akkurat".
 
+**akkurat** - Svarkotoba. Aparlik "🙂‍↕️". Du deki kjannos afto kotoba. Akkurat kondor nai.
+
 **akote** - Perkotoba. Ni krais akote ⭕ ⭕. Aparlik "para", kondor "prapa".
 
 **akrep** - Tingkotoba. Maredur mit iszilik pjel. Risonen: 🦞. Li kunjajena, varge fu sore bli ros.
 
-**akkurat** - Svarkotoba. Aparlik "🙂‍↕️". Du deki kjannos afto kotoba. Akkurat kondor nai.
-
 **al** - Tingkotoba. Al lik du har 100% fu ting. Tatoeba: "🍎🍎🍎🍎🍎 al ringo ros. 🍎🍎🍎🍏🍏 nai al ringo ros."
-
-**alting** - Tingkotoba. Alting sama al ting. Tatoeba: "ka du vil nam? alting deki".
 
 **alfakun** - Tingkotoba. Alfakun "abcdefghijklmnopqrstuvwxyz".
 
@@ -244,17 +242,19 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **alta** - Tingkotoba. Brun fugel mit sziro atama. Risonen: 🦅.
 
+**alting** - Tingkotoba. Alting sama al ting. Tatoeba: "ka du vil nam? alting deki".
+
 **alvan** - Tingkotoba. Alvan lik protokami, vona na velt fu vi au krig med rjoho.
 
 **amnu** - Surukotoba. Amnu lik auki kuczi per henge luft, grun mude os cumaranai. Tatoeba, "da kola, du ima amnu."
 
 **amuspe** - Tingkotoba. Maredur mit iszilik pjel. Risonen: 🦀.
 
+**an-** - Festakotoba. "suru made" sama "ansuru".
+
 **ananas** - Tingkotoba. Kiro sot fraut mit pitka midori leti. Risonen: 🍍.
 
 **ander** - Tingkotoba. Ander lik ting ke nai ine klani. Tatoeba 1: "usczi nai fraut. usczi nai ovoszi. usczi ander namting". Tatoeba 2: "paszun a har ringo au banan. paszun b: da anta fraut un made. paszun a anta ringo paszun b made. paszun b: nai ringo, un vil ander fraut. paszun a anta banan".
-
-**an-** - Festakotoba. "suru made" sama "ansuru".
 
 **anta** - Surukotoba. Risonen: 🫴. Tatoeba: "un har 1 ringo. du har 0 ringo. un anta 1 ringo du made. un har 0 ringo. du har 1 ringo." Anta kondor sada.
 
@@ -316,8 +316,6 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **babapol** - Tingkotoba. Czisai midori ruti ke baba swaru oba. Du deki se babapol oba iskegormoi.
 
-**bazsel** - Tingkotoba. Bazsel ting du nasi iske ine. Risonen: 🪣.
-
 **bagge** - Tingkotoba. Czisai dur mit iszilik gozsa. Risonen: 🦋🐛🐜🐝🪲🐞🦗🪳🕷️🦟🪰.
 
 **bai** - Surukotoba. Bai lik maha jokuzsin suru ting. Tatoeba: "opeta lik bai lera, vras lik bai szinu".
@@ -336,15 +334,17 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **baungua** - Tingkotoba. Portokali fraut mit midori pjel au mange kuro mjahfal pie.
 
+**bazsel** - Tingkotoba. Bazsel ting du nasi iske ine. Risonen: 🪣.
+
 **beawog** - Tingkotoba. Ros pitka ovoszi mit midori leti. Li du nam leti, du bli bjurki.
 
 **beng** - Surukotoba. Beng lik 🟢 ine 🚥. Beng kondor jamete.
 
 **ber** - Surukotoba. Iske ber au bli luft. Tatoeba, "iske ine mare ber au skoj na celo, de bli plui".
 
-**berzoda** - Tingkotoba. Berzoda glugting fu limonsaft au luft.
-
 **berg** - Tingkotoba. Berg lik sturdai iszi. Risonen:🏔️⛰️🗻.
+
+**berzoda** - Tingkotoba. Berzoda glugting fu limonsaft au luft.
 
 **bet** - Tingkotoba. Bet lik ting du kola oba. Risonen: 🛏️.
 
@@ -354,7 +354,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **bidziau** - Surukotoba. Bidziau lik se czigauzma na czigau ting. Tatoeba, "du har 2 kekso, du bidziau afto kekso per se kano kekso plusoiszi".
 
-**bikus** - 
+**bikus** -
 
 **biljon** - Tingkotoba. Biljon lasku 1000000000.
 
@@ -402,9 +402,9 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **bra** - Likkotoba. Risonen: 👍. Kondor warui.
 
-**bratulla** - Telkotoba. Ting ke du hanu li neozsin tulla.
-
 **braczuri** - Tingkotoba. Kirkaskiro ovoszi ke njoi zsong. Risonen: 🧄.
+
+**bratulla** - Telkotoba. Ting ke du hanu li neozsin tulla.
 
 **breceng** - Tingkotoba. Pan ke pitka au har mange festa. Breceng mahajena na bret au sjen. Risonen: 🥨.
 
@@ -428,8 +428,6 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **catain** - Likkotoba. Catain lik 100%, lik du mietta pravda. Tatoeba, "un catain sore nam ringo f'un".
 
-**czatto** - Tingkotoba. Czatto lik zekaku, ting du hanu na kompju.
-
 **ceki** - Tingkotoba and Surukotoba. Aparlik jinsu. Ceki ting ke du deki bruk kljucz per kini os auki, au dekinai auki li harnai kljucz. Awen deki bruk per hanu ting ke ine ting mit ceki. Risonen: 🔒. Tatoeba, "daremzsin ceki waruizsin na gulag".
 
 **celo** - Tingkotoba. Celo lik plas ke kami vona ine, har mange kumo. Risonen: (naktcelo) 🌌. Tatoeba, "celo imadag sinidai".
@@ -438,37 +436,39 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **cerpol** - Tingkotoba. Cerpol ting du cer namting oba.
 
-**czesapi** - Tingkotoba. Sziro dur mit pitka gorla. Risonen: 🦙.
-
-**czibang** - Tingkotoba. Czibang ting ke fugel au joku bagge har per ljetta. Risonen: 🪽.
-
 **cigaret** - Tingkotoba. Ting du bruk per fik. Risonen: 🚬.
 
-**czigau** - Likkotoba. 🍎 sama 🍎. 🍎 lik 🍏. 🍎 czigau 🍍. Kondor sama.
+**congot** - Likkotoba. Congot lik warui iszu os posta. Tatoeba, "afto film congot! un ende sziru ke ti sluca na owaris tel!"
 
-**czisai** - Likkotoba. ⬜ stur. ▫️ czisai. Tatoeba, "tembo stur au fermi czisai". Kondor stur.
+**copma** - Tingkotoba. Copma lik mange ting raznasi na ander ting. Risonen: (copma fu libre) 📚.
+
+**covit** - Tingkotoba. Covit lik ting ke maha du bjurki. Afto ting nai vona. Risonen: (aparlik): 🦠.
+
+**cui** - Mitkotoba. Cui lik ke du hanu. Tatoeba, un hanu: "ringo ros. ringo sot. ringo fraut.". un hanu cui ringo.
+
+**culus** - Likkotoba. Culus varge mellan fu midori au sini. Afto risonen apar culus: 🦚🦠
+
+**cumaranai** - Likkotoba. Cumaranai lik har nilting per suru.
+
+**cunaga** - Surukotoba. Cunaga lik maha ni ting ine en. Risonen: 🧩➡️⬅️🧩
+
+**czatto** - Tingkotoba. Czatto lik zekaku, ting du hanu na kompju.
 
 **czeping** - Surukotoba. Iske czeping au bli kiwen. Tatoeba, "iske czeping au bli jelo".
 
 **czepingarka** - Tingkotoba. Czepingarka lik arka du har li netopa li samuidai.
 
+**czesapi** - Tingkotoba. Sziro dur mit pitka gorla. Risonen: 🦙.
+
 **czesu** - Tingkotoba. Spil du spil na pol mit 64 kjerik. Risonen: ♟️.
 
+**czibang** - Tingkotoba. Czibang ting ke fugel au joku bagge har per ljetta. Risonen: 🪽.
+
+**czigau** - Likkotoba. 🍎 sama 🍎. 🍎 lik 🍏. 🍎 czigau 🍍. Kondor sama.
+
+**czisai** - Likkotoba. ⬜ stur. ▫️ czisai. Tatoeba, "tembo stur au fermi czisai". Kondor stur.
+
 **czoki** - Tingkotoba. Sot namting mahajena na kakaobaum. Risonen: 🍫.
-
-**congot** - Likkotoba. Congot lik warui iszu os posta. Tatoeba, "afto film congot! un ende sziru ke ti sluca na owaris tel!"
-
-**cui** - Mitkotoba. Cui lik ke du hanu. Tatoeba, un hanu: "ringo ros. ringo sot. ringo fraut.". un hanu cui ringo.
-
-**cumaranai** - Likkotoba. Cumaranai lik har nilting per suru.
-
-**culus** - Likkotoba. Culus varge mellan fu midori au sini. Afto risonen apar culus: 🦚🦠
-
-**cunaga** - Surukotoba. Cunaga lik maha ni ting ine en. Risonen: 🧩➡️⬅️🧩
-
-**copma** - Tingkotoba. Copma lik mange ting raznasi na ander ting. Risonen: (copma fu libre) 📚.
-
-**covit** - Tingkotoba. Covit lik ting ke maha du bjurki. Afto ting nai vona. Risonen: (aparlik): 🦠.
 
 ### D
 
@@ -494,9 +494,9 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **davai** - Telkotoba. Davai lik ting du hanu li du vil ting owari bistra. Risonen: 🎉🥳🎊👏. Tatoeba, li mik fu du para owarisjen, du hanu "davai! davai!".
 
-**deki** - Surukotoba. Deki lik impla du suru ting. Tatoeba, "du deki nam ringo men du dekinai nam auto".
-
 **de** - Mitkotoba. De lik ke suru li ting owari. De kondor za.  Tatoeba, "1 de 2 de 3", os "13 zsikan du nam. 14 zsikan du ergo. du nam de du ergo".
+
+**deki** - Surukotoba. Deki lik impla du suru ting. Tatoeba, "du deki nam ringo men du dekinai nam auto".
 
 **delabdel** - Surukotoba. Delabdel lik kawari plas fu 2 ting. Tatoeba, du har "abcde". Du delabdel plas fu "b" au "d". Du ima har "adcbe".
 
@@ -511,20 +511,6 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 **diskord** - Tingkotoba. Diskord zeting du bruk per czatto.
 
 **diskordserver** - Tingkotoba. Diskordserver klani ine Diskord du bruk per hanu cui ting.
-
-**zsarper** - Tingkotoba. Zsarper pitka dur. Risonen: 🐍.
-
-**zsido** - Tingkotoba. Zsido lik pitka tel fu baum. Risonen: 🪵.
-
-**zsiju** - Tingkotoba. Zsiju lik du deki suru ting na vil. Zsiju kondor darem. Tatoeba, mangezsin hanu "Amerikalant mange zsiju".
-
-**zsikan** - Tingkotoba. Zsikan lik tel fu tid. 24 zsikan maha 1 dag. 60 fun maha 1 zsikan.
-
-**zsima** - Surukotoba. Zsima lik finna kataj fu ting. Risonen: 📏📐. Lik farza.
-
-**zsong** - Likkotoba. Zsong lik deki suru mange ting. Risonen: 💪. Zsong kondor szvant.
-
-**zsotri** - Likkotoba. Zsotri lik vil iske. Zsotri kondor pulap.
 
 **dodo** - Tingkotoba. Dodo lik ganjau frautnen. Risonen: 🥜🫘. Tatoeba, "hualeing au azuki dodo".
 
@@ -542,13 +528,27 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **dur** - Tingkotoba. Dur klani fu vonating. Risonen: 🐶😺🐟🐸🐝🕷️🐔.
 
-**durplas** - Tingkotoba. Plas ke du deki se mange dur.
-
 **durianfraut** - Tingkotoba. Kiro fraut mit stur brun pie au kiki midori pjel.
+
+**durplas** - Tingkotoba. Plas ke du deki se mange dur.
 
 **dusz** - Surukotoba. Dusz lik maha selba sodzi. Risonen: 🛀🚿.
 
 **dvera** - Tingkotoba. Dvera ting na tumam ke du bruk per skojine au skekso. Risonen: 🚪.
+
+**zsarper** - Tingkotoba. Zsarper pitka dur. Risonen: 🐍.
+
+**zsido** - Tingkotoba. Zsido lik pitka tel fu baum. Risonen: 🪵.
+
+**zsiju** - Tingkotoba. Zsiju lik du deki suru ting na vil. Zsiju kondor darem. Tatoeba, mangezsin hanu "Amerikalant mange zsiju".
+
+**zsikan** - Tingkotoba. Zsikan lik tel fu tid. 24 zsikan maha 1 dag. 60 fun maha 1 zsikan.
+
+**zsima** - Surukotoba. Zsima lik finna kataj fu ting. Risonen: 📏📐. Lik farza.
+
+**zsong** - Likkotoba. Zsong lik deki suru mange ting. Risonen: 💪. Zsong kondor szvant.
+
+**zsotri** - Likkotoba. Zsotri lik vil iske. Zsotri kondor pulap.
 
 ### E
 
@@ -622,6 +622,8 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **fik** - Likkotoba. Fik lik gvirnai.
 
+**fik** - Surukotoba. Fik lik bruk cigaret. Risonen: 🚬, (danai fik) 🚭.
+
 **fiks** - Surukotoba. Fiks lik maha gammel os perpajena ting na neo os deki suru ting bra gjen. Fiks lik reforma.
 
 **film** - Tingkotoba. Film lik ting ke zeme ufne. Risonen: 🎞️.
@@ -658,8 +660,6 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **fuwafuwa** - Likkotoba. Fuwafuwa aparlik gumi. Fuwafuwa kondor iszilik. Tatoeba, "bet fuwafuwa".
 
-**fik** - Surukotoba. Fik lik bruk cigaret. Risonen: 🚬, (danai fik) 🚭.
-
 ### G
 
 **gadant** - Surukotoba. Gadant lik benga. Risonen: 🫂🤗.
@@ -676,7 +676,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **gdient** - Tingkotoba. Gdient lik ting ke maha tumam. Risonen: 🧱.
 
-**gele** - 
+**gele** -
 
 **gelt** - Tingkotoba. Gelt lik ting du gha ergo made. Risonen: 💵💰.
 
@@ -704,13 +704,9 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **glugting** - Tingkotoba. Glugting lik ting du deki glug. Risonen: 🥤🧃☕🍵🫖.
 
-**go** - Tingkotoba. Go lasku 5.
-
-**gotova** - Surukotoba. Gotova lik maha ting plussimper per mirai. Tatoeba, "sore gotova per hiszful".
-
 **gnarp** - Tingkotoba. Gnarp sama bogos os eksozsin. Risonen: 👽.
 
-**gozsa** - Tingkotoba. Gozsa lik ting ke pjelitena netopa fu du. Tatoeba, "👍" har kiro gozsa au "👍🏾" har brun gozsa.
+**go** - Tingkotoba. Go lasku 5.
 
 **gomen** - Telkotoba. Gomen lik ting du hanu li du suru warui ting. Risonen: 🙇.
 
@@ -722,7 +718,11 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **gormoi** - Tingkotoba. Gormoi lik ting ke har niltingine na pol. Risonen: 🕳️, (na flakka) ⛳.
 
+**gotova** - Surukotoba. Gotova lik maha ting plussimper per mirai. Tatoeba, "sore gotova per hiszful".
+
 **govor** - Tingkotoba. Govor lik glossanen. Tatoeba, Anglossa jam mange govor: Amerikagovor, Britengovor, Kymrugovor.
+
+**gozsa** - Tingkotoba. Gozsa lik ting ke pjelitena netopa fu du. Tatoeba, "👍" har kiro gozsa au "👍🏾" har brun gozsa.
 
 **gris** - Likkotoba. Gris varge mellan fu sziro au kuro. Risonen: 🩶🖇️🌫️.
 
@@ -734,9 +734,9 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **gumi** - Likkotoba. Gumi lik fuwafuwa men apar plusiszilik. Risonen: (gumikargu) 🧸🍬.
 
-**guszo** - Surukotoba. Guszo lik maha ting bidra. Risonen: 🫸📦➡️. Guszo kondor tuni.
-
 **gust** - Surukotoba. Gust lik duanen, os ting du dua men nai duadai. Risonen: ❤️.
+
+**guszo** - Surukotoba. Guszo lik maha ting bidra. Risonen: 🫸📦➡️. Guszo kondor tuni.
 
 **gvel** - Tingkotoba. Gvel lik tid mellan fu dag au nakt. Risonen: 🌇.
 
@@ -749,8 +749,6 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 ### H
 
 **haaste** - Likkotoba. Haaste lik treng mange tid, ergo, zeus, mietta auauau per suru. Tatoeba, "jokuraz szirutropos haaste". Haaste kondor simper.
-
-**hazsi** - Tingkotoba. Hazsi kondor owari. Risonen: 🏁 (owari) <----- 🏎️ (hazsi).
 
 **haisa** - Tingkotoba. Haisa lik har namai. Tatoeba, "sore haisa nai huin fu sore".
 
@@ -779,6 +777,8 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 **harimau** - Tingkotoba. Harimau lik stur kot mit kuro au portokali haar. Risonen: 🐯🐅.
 
 **harma** - Likkotoba. Harma gris varge men apar portokali. Risonen: 🛠️.
+
+**hazsi** - Tingkotoba. Hazsi kondor owari. Risonen: 🏁 (owari) <----- 🏎️ (hazsi).
 
 **hej** - Paszunkotoba. Hej lik sore men plusmange kana 2.
 
@@ -866,17 +866,17 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **ip-** - Tingkotoba. Ip- lik 000. Tatoeba: "1000 ipen, 1000000 ipni, 2000 ni-ipen auauau".
 
+**iskat** - Tingkotoba au Surukotoba. Iskat lik suru per sziru we deki. Iskat awen ting (mangeraz paperi os zeleti) per se hur mange ting du sziru, auauau.
+
+**iske** - Tingkotoba. Klar glugting du treng per vona. Risonen: 💦💧🌊.
+
+**isu** - Tingkotoba. Isu lik raumting ke du swaru na. Risonen: 🪑💺.
+
 **iszi** - Tingkotoba. Iszi iszilik ting du deki finna ine gaja. Risonen: 🪨.
 
 **iszilik** - Likkotoba. Iszilik lik ting sama iszi, haaste per perpa. Iszilik kondor fuwafuwa. Tatoeba, "jerkat, iszi, baum al iszilik.".
 
-**iske** - Tingkotoba. Klar glugting du treng per vona. Risonen: 💦💧🌊.
-
 **iszu** - Tingkotoba. Iszu lik helena ting ke paszun maha per se au gust. Muzik, vaha, alt iszu. Risonen: 🎨🖼️🎭.
-
-**iskat** - Tingkotoba au Surukotoba. Iskat lik suru per sziru we deki. Iskat awen ting (mangeraz paperi os zeleti) per se hur mange ting du sziru, auauau.
-
-**isu** - Tingkotoba. Isu lik raumting ke du swaru na. Risonen: 🪑💺.
 
 **iwai** - Tingkotoba au Surukotoba. Iwai lik suru ting grun bradai ting slucza. Risonen: 🙌🍾🥂🎉🥳🎆🎇🎈. Tatoeba, "juldag, neotoszidag al iwaidag".
 
@@ -928,7 +928,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **julbaum** - Tingkotoba. Julbaum baum ke har pitka falfal fu leti, awen deki bruk per juldag. Risonen: 🌲🎄.
 
-**juriste** - 
+**juriste** -
 
 **juwur** - Tingkotoba. Juwur lik sziro syr namting mahajena na nju mit bra kagau. Risonen: 🥛.
 
@@ -1052,11 +1052,11 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **koilara** -
 
-**kola** -
-
 **kokoro** -
 
 **kokosila** -
+
+**kola** -
 
 **komoske** -
 
@@ -1098,9 +1098,9 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **kraisret** -
 
-**kreu** -
+**kreska** -
 
-**kreska** - 
+**kreu** -
 
 **krig** -
 
@@ -1114,9 +1114,9 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **kuam** -
 
-**kuczusta** -
-
 **kuczi** -
+
+**kuczusta** -
 
 **kumo** -
 
@@ -1124,13 +1124,13 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **kuneli** -
 
-**kunja** -
-
 **kungcza** -
 
-**kuro** -
+**kunja** -
 
 **kurica** -
+
+**kuro** -
 
 **kusipa** -
 
