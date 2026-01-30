@@ -1058,6 +1058,8 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **kola** -
 
+**kolumna** -
+
 **komoske** -
 
 **kompju** -
