@@ -146,52 +146,63 @@
       }
     };
 
-    // inline extras !!
-    const inlineExtrasExtension = {
-      name: "inlineExtras",
+    // ==highlight==
+    const highlightExtension = {
+      name: "highlight",
       level: "inline",
 
       start(src) {
-        const match = src.match(/==|\|\|/);
+        const match = src.match(/==/);
         return match ? match.index : -1;
       },
 
       tokenizer(src) {
-        // ==highlight==
-        const highlight = /^==([^=\n]+)==/.exec(src);
-        if (highlight) {
+        const rule = /^==([^=\n]+)==/;
+        const match = rule.exec(src);
+
+        if (match) {
           return {
             type: "highlight",
-            raw: highlight[0],
-            text: highlight[1],
-            tokens: this.lexer.inlineTokens(highlight[1])
-          };
-        }
-
-        // ||spoiler||
-        const spoiler = /^\|\|([^\|\n]+)\|\|/.exec(src);
-        if (spoiler) {
-          return {
-            type: "spoiler",
-            raw: spoiler[0],
-            text: spoiler[1],
-            tokens: this.lexer.inlineTokens(spoiler[1])
+            raw: match[0],
+            tokens: this.lexer.inlineTokens(match[1])
           };
         }
       },
 
-      renderer: {
-        highlight(token) {
-          return `<mark>${this.parser.parseInline(token.tokens)}</mark>`;
-        },
-
-        spoiler(token) {
-          return `<span class="spoiler">${this.parser.parseInline(token.tokens)}</span>`;
-        }
+      renderer(token) {
+        return `<mark>${this.parser.parseInline(token.tokens)}</mark>`;
       }
     };
 
-    marked.use({ extensions: [admonitionExtension, inlineExtrasExtension] });
+    // ||spoiler||
+    const spoilerExtension = {
+      name: "spoiler",
+      level: "inline",
+
+      start(src) {
+        const match = src.match(/\|\|/);
+        return match ? match.index : -1;
+      },
+
+      tokenizer(src) {
+        const rule = /^\|\|([^\|\n]+)\|\|/;
+        const match = rule.exec(src);
+
+        if (match) {
+          return {
+            type: "spoiler",
+            raw: match[0],
+            tokens: this.lexer.inlineTokens(match[1])
+          };
+        }
+      },
+
+      renderer(token) {
+        return `<span class="spoiler">${this.parser.parseInline(token.tokens)}</span>`;
+      }
+    };
+
+    marked.use({ extensions: [admonitionExtension, highlightExtension, spoilerExtension] });
 
     // get markdown source error catching
     async function getMarkdownSource(url) {
