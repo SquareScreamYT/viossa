@@ -250,16 +250,26 @@
     }
 
     // get markdown source
-    getMarkdownSource(markdownSource)
-      .then(markdown => {
-        if (markdown !== null) {
-          const match = markdown.match(/^#\s+(.+)$/m);
-          if (match) {
-            document.title = match[1].trim();
-          }
-          document.getElementById('markdown-body').innerHTML = marked.parse(markdown);
+    (async () => {
+      let markdown = await getMarkdownSource(markdownSource);
+      if (markdown !== null) {
+        // replace @include
+        try {
+          markdown = await resolveIncludes(markdown);
+        } catch (err) {
+          console.error(err);
         }
-      });
+
+        // set title if first line is heading
+        const match = markdown.match(/^#\s+(.+)$/m);
+        if (match) {
+          document.title = match[1].trim();
+        }
+
+        // render
+        document.getElementById('markdown-body').innerHTML = marked.parse(markdown);
+      }
+    })();
   </script>
 </body>
 </html>
