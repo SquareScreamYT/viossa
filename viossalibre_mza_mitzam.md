@@ -14,9 +14,9 @@
 <th colspan="2">Hammas</th>
 <th colspan="2">Alvjol</th>
 <th colspan="2">Alvjolhira</th>
-<th colspan="2">Glosafurakrisja</th>
+<th colspan="2">Furakrisja</th>
 <th colspan="2">Paljatsi</th>
-<th colspan="2">Glossahirakrisja</th>
+<th colspan="2">Ngangi</th>
 <th colspan="2">Glossanen</th>
 <th colspan="2">Gorlaoba</th>
 <th colspan="2">Gorlauna
