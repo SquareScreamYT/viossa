@@ -157,43 +157,41 @@
       },
 
       tokenizer(src) {
-        // highlight ==text==
-        const highlightRule = /^==([^=\n]+)==/;
-        const highlightMatch = highlightRule.exec(src);
-        if (highlightMatch) {
+        // ==highlight==
+        const highlight = /^==([^=\n]+)==/.exec(src);
+        if (highlight) {
           return {
             type: "highlight",
-            raw: highlightMatch[0],
-            text: highlightMatch[1],
-            tokens: this.lexer.inlineTokens(highlightMatch[1])
+            raw: highlight[0],
+            text: highlight[1],
+            tokens: this.lexer.inlineTokens(highlight[1])
           };
         }
 
-        // spoiler ||text||
-        const spoilerRule = /^\|\|([^\|\n]+)\|\|/;
-        const spoilerMatch = spoilerRule.exec(src);
-        if (spoilerMatch) {
+        // ||spoiler||
+        const spoiler = /^\|\|([^\|\n]+)\|\|/.exec(src);
+        if (spoiler) {
           return {
             type: "spoiler",
-            raw: spoilerMatch[0],
-            text: spoilerMatch[1],
-            tokens: this.lexer.inlineTokens(spoilerMatch[1])
+            raw: spoiler[0],
+            text: spoiler[1],
+            tokens: this.lexer.inlineTokens(spoiler[1])
           };
-        }
-      },
-
-      renderer(token) {
-        if (token.type === "highlight") {
-          return `<mark>${this.parser.parseInline(token.tokens)}</mark>`;
-        }
-
-        if (token.type === "spoiler") {
-          return `<span class="spoiler">${this.parser.parseInline(token.tokens)}</span>`;
         }
       }
     };
 
-    marked.use({ extensions: [admonitionExtension, inlineExtrasExtension] });
+    marked.use({
+      renderer: {
+        highlight(token) {
+          return `<mark>${this.parser.parseInline(token.tokens)}</mark>`;
+        },
+        spoiler(token) {
+          return `<span class="spoiler">${this.parser.parseInline(token.tokens)}</span>`;
+        }
+      },
+      extensions: [admonitionExtension, inlineExtrasExtension]
+    });
 
     // get markdown source error catching
     async function getMarkdownSource(url) {
