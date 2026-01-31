@@ -178,20 +178,20 @@
             tokens: this.lexer.inlineTokens(spoiler[1])
           };
         }
-      }
-    };
+      },
 
-    marked.use({
       renderer: {
         highlight(token) {
           return `<mark>${this.parser.parseInline(token.tokens)}</mark>`;
         },
+
         spoiler(token) {
           return `<span class="spoiler">${this.parser.parseInline(token.tokens)}</span>`;
         }
-      },
-      extensions: [admonitionExtension, inlineExtrasExtension]
-    });
+      }
+    };
+
+    marked.use({ extensions: [admonitionExtension, inlineExtrasExtension] });
 
     // get markdown source error catching
     async function getMarkdownSource(url) {
