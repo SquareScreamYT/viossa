@@ -1249,3 +1249,32 @@ body {
   padding-right: .5rem;
   transform: translateY(1px);
 }
+
+mark {
+  background-color: var(--bgColor-attention-muted);
+  color: inherit;
+  padding: 0 0.2em;
+  border-radius: 4px;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+  font-size: 16px;
+  line-height: 1.5;
+  word-wrap: break-word;
+}
+
+.spoiler {
+  background-color: var(--bgColor-muted);
+  color: transparent;
+  border-radius: 4px;
+  padding: 0 0.2em;
+  cursor: pointer;
+  transition: color 0.2s ease;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+  font-size: 16px;
+  line-height: 1.5;
+  word-wrap: break-word;
+}
+
+.spoiler:hover {
+  background-color: var(--bgColor-default);
+  color: var(--fgColor-default);
+}
