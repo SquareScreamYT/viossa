@@ -57,6 +57,7 @@ colored text
 
   <div id="markdown-body" class="markdown-body"></div>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked-gfm-heading-id/lib/index.umd.js"></script>
   <script>
     // change this to whatever md you want to render
     const markdownSource = "viossalibre.md";
@@ -104,10 +105,7 @@ colored text
     });
 
     // marked enable ids for linking
-    marked.setOptions({
-      headerIds: true,
-      mangle: false
-    });
+    marked.use(markedGfmHeadingId());
 
     // github alert style and stuff
     // format:
