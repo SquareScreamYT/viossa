@@ -1197,6 +1197,12 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 @include viossalibre_mza_mitzam.md
 
+Acat: [ʘ ǀ ǁ ǂ ǃ]
+
+pʼ tʼ kʼ sʼ ɬʼ
+
+plus?
+
 #### Selbazam fu MZA
 
 |           | Fura | Mellan | Hina |
@@ -1208,6 +1214,10 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 | Unamellan | ɛ œ  | ɜ ɞ    | ɔ    |
 | Unanen    | æ    | ɐ      |      |
 | Una       | a ɶ  | ä ɒ̈    | ɑ ɒ  |
+
+~ au plustingy..
+
+[na wikipedia](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet#Diacritics_and_prosodic_notation)
 
 ### Stoftumam
 
