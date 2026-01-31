@@ -105,7 +105,11 @@ colored text
     });
 
     // marked enable ids for linking
-    marked.use(markedGfmHeadingId());
+    const { gfmHeadingId } = window.markedGfmHeadingId;
+    const options = {
+      prefix: "",
+    };
+    marked.use(gfmHeadingId(options));
 
     // github alert style and stuff
     // format:
