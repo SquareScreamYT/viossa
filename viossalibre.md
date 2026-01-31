@@ -22,6 +22,8 @@
    - [S](#s), [T](#t)
    - [U](#u), [V](#v)
    - [W](#w-x), [Z](#z)
+7. [Riso au Skalla](#riso-au-skalla)
+   - musn nasi zedvera her (da hanu na un)
 
 ## Ruru fu Viossa
 
