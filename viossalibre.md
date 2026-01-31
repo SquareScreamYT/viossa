@@ -243,7 +243,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **ak** - Svarkotoba. Hobitkotoba fu "akkurat".
 
-**akkurat** - Svarkotoba. Aparlik "🙂‍↕️". Du deki kjannos afto kotoba. Akkurat kondor nai.
+**akkurat** - Svarkotoba. Aparlik "🙂‍↕️". Du deki kjannos afto kotoba. Akkurat kondor nai. Anglossa: ||yes||.
 
 **akote** - Perkotoba. Ni krais akote ⭕ ⭕. Aparlik "para", kondor "prapa".
 
@@ -647,7 +647,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **fraut** - Tingkotoba. Fraut lik ting mit saft du deki nam. Risonen: 🍎🍌🍊🍍🍈🍇🍐.
 
-**fsto** - Surukotoba. Aparlik "🤔 -> 😊💡👍". Du deki kjannos afto kotoba.
+**fsto** - Surukotoba. Aparlik "🤔 -> 😊💡👍". Du deki kjannos afto kotoba. Anglossa: ||understand||.
 
 **fu** - Perkotoba. Ting fu jokuzsin lik jokuzsin har ting. Tatoeba, "un har ringo. ringo fu un. un anta ringo du made. ringo fu du".
 
@@ -943,7 +943,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 ### K
 
-**ka** - Telkotoba. Aparlik "❓❔". Du deki kjannos afto kotoba. Ka kotoba du brukena li du szirunai jokuting.
+**ka** - Telkotoba. Aparlik "❓❔". Du deki kjannos afto kotoba. Ka kotoba du brukena li du szirunai jokuting. Anglossa: ||what||.
 
 **kaban** -
 
@@ -1197,7 +1197,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 @include viossalibre_mza_mitzam.md
 
-Acat: [ʘ ǀ ǁ ǂ ǃ]
+Cik: [ʘ ǀ ǁ ǂ ǃ]
 
 pʼ tʼ kʼ sʼ ɬʼ
 
