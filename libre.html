@@ -1,3 +1,16 @@
+<!--
+TODO
+
+tabs
+underline
+superscript & subscript
+kbd
+video embed
+collapsible
+colored text
+
+-->
+
 <!doctype html>
 <html>
 <head>
@@ -90,10 +103,38 @@
           : '<i class="fa-solid fa-moon"></i>';
     });
 
+    // slugify :3
+    function slugify(text) {
+      return text.toLowerCase().trim().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-').replace(/-+/g, '-');
+    }
+
+    // heading ids
+    const headingIdsExtension = {
+      name: 'headingIds',
+      level: 'block',
+      tokenizer(src) {
+        const rule = /^(#{1,6})\s+(.*)$/m;
+        const match = rule.exec(src);
+        if (match) {
+          return {
+            type: 'heading',
+            raw: match[0],
+            depth: match[1].length,
+            text: match[2].trim(),
+            tokens: this.lexer.inlineTokens(match[2].trim())
+          };
+        }
+      },
+      renderer(token) {
+        const id = slugify(token.text);
+        return `<h${token.depth} id="${id}">${this.parser.parseInline(token.tokens)}</h${token.depth}>`;
+      }
+    };
+
     // github alert style and stuff
     // format:
     // > [!NOTE/TIP/IMPORTANT/WARNING/CAUTION]  
-    // > Highlights information that users should take into account, even when skimming.
+    // > text
     const admonitionExtension = {
       name: "admonition",
       level: "block",
@@ -202,7 +243,7 @@
       }
     };
 
-    marked.use({ extensions: [admonitionExtension, highlightExtension, spoilerExtension] });
+    marked.use({ extensions: [headingIdsExtension, admonitionExtension, highlightExtension, spoilerExtension] });
 
     // get markdown source error catching
     async function getMarkdownSource(url) {
