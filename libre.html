@@ -9,6 +9,13 @@ video embed
 collapsible
 colored text
 
+current features!! :3
+- spoilers using ||text||
+- highlight using ==text==
+- include using @include file.md
+- github style admonitions
+- dark/light mode switchers
+
 -->
 
 <!doctype html>
@@ -77,6 +84,7 @@ colored text
     // theme stuff
     let savedTheme = localStorage.getItem("theme");
 
+    // check for save
     if (savedTheme === "dark") {
       body.setAttribute("data-theme", "dark");
       toggleButton.innerHTML = '<i class="fa-solid fa-sun"></i>';
@@ -84,6 +92,7 @@ colored text
       body.setAttribute("data-theme", "light");
       toggleButton.innerHTML = '<i class="fa-solid fa-moon"></i>';
     } else {
+      // if dont have then look for default (system theme/light/dark/whatever)
       const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
       body.setAttribute("data-theme", prefersDark ? "dark" : "light");
       toggleButton.innerHTML = prefersDark
@@ -91,6 +100,7 @@ colored text
         : '<i class="fa-solid fa-moon"></i>';
     }
 
+    // clickle
     toggleButton.addEventListener("click", () => {
       const current = body.getAttribute("data-theme");
       const next = current === "dark" ? "light" : "dark";
@@ -223,6 +233,7 @@ colored text
       }
     };
 
+    // marked enable these extensions for extra styles!
     marked.use({ extensions: [admonitionExtension, highlightExtension, spoilerExtension] });
 
     // get markdown source error catching
@@ -240,7 +251,8 @@ colored text
       }
     }
 
-    // @include file.md creates an iframe-like embed
+    // @include file.md creates an iframe like embed
+    // basically like sourcing parts of the md from elsewhere
     async function resolveIncludes(markdown, basePath = "", seen = new Set()) {
       const includeRegex = /^@include\s+(.+)$/gm;
 
