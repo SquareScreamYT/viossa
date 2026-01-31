@@ -98,7 +98,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 |--------|------|--------|------|
 | Oba    | i    | ɨ ⟨y⟩  | u    |
 | Mellan | e    |        | o    |
-| Unna   |      | a      |      |
+| Una    |      | a      |      |
 
 ## Hur bruk afto libre
 
@@ -1115,6 +1115,8 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **krig** -
 
+**krisja** -
+
 **kriz** -
 
 **krungut** -
@@ -1188,6 +1190,50 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 ## Riso au Skalla
 
 ### Mellanlant Zamkirain Alfakun
+
+#### Mitzam fu MZA
+
+|             | Lepa | Alvjol | Paljaci | Ngangi | Gorla |
+|-------------|------|--------|---------|--------|-------|
+| Hana        | m    | n      |         | ŋ      |       |
+| Bamba       | p b  | t d    |         | k g    | ʔ     |
+| Bamfendo    |      | ts     | tʃ      |        |       |
+| Fendo       | f v  | s z    | ʃ ʒ     |        | h     |
+| Slak        |      | ɾ      |         |        |       |
+| Selbazamnen |      | l      | j       | w      |       |
+
+|                        | Bilabial | Labio-dental | Linguo-labial | Dental | Alveolar | Palato-alveolar | Retroflex | Alveolo-palatal | Palatal | Velar | Uvular | Pharyngeal / Epiglottal | Glottal |
+|------------------------|:--------:|:------------:|:-------------:|:------:|:--------:|:---------------:|:---------:|:---------------:|:-------:|:-----:|:------:|:-----------------------:|:-------:|
+| Nasal                  |   m̥ m    |      ɱ       |      n̼̊ n̼      |        |   n̥ n    |                 |    ɳ̊ ɳ    |                 |   ɲ̊ ɲ   |  ŋ̊ ŋ  |  ɴ̥ ɴ   |           — —           |   — —   |
+| Stop                   |   p b    |     p̪ b̪      |      t̼ d̼      |        |   t d    |                 |    ʈ ɖ    |                 |   c ɟ   |  k ɡ  |  q ɢ   |            ʡ            |   ʔ —   |
+| Sibilant affricate     |   — —    |     — —      |      — —      |        |  ts dz   |      tʃ dʒ      |   ʈʂ ɖʐ   |      tɕ dʑ      |   — —   |  — —  |  — —   |           — —           |   — —   |
+| Non-sibilant affricate |  pɸ bβ   |    p̪f b̪v     |               | tθ dð  |  tθ̠ dð̠   |     t̠ɹ̠̊˔ d̠ɹ̠˔     |           |                 |  cç ɟʝ  | kx ɡɣ |   qχ   |          ʡħ ʡʕ          |  ʔh —   |
+| Sibilant fricative     |   — —    |     — —      |      — —      |        |   s z    |       ʃ ʒ       |    ʂ ʐ    |       ɕ ʑ       |   — —   |  — —  |  — —   |           — —           |   — —   |
+| Non-sibilant fricative |   ɸ β    |     f v      |      θ̼ ð̼      |  θ ð   |   θ̱ ð̠    |      ɹ̠̊˔ ɹ̠˔      |           |                 |   ç ʝ   |  x ɣ  |  χ ʁ   |           ħ ʕ           |  h ɦ ʔ̞  |
+| Approximant            |    ɸ˕    |      ʋ       |               |   θ̞    |   ɹ̥ ɹ    |                 |    ɻ̊ ɻ    |                 |   j̊ j   |  ɰ̊ ɰ  |        |                         |         |
+| Flap or tap            |    ⱱ̟     |      ⱱ       |       ɾ̼       |        |   ɾ̥ ɾ    |                 |    ɽ̊ ɽ    |       — —       |   — —   |  — —  |   ɢ̆    |            ʡ̮            |   — —   |
+| Trill                  |    ʙ     |              |       r̼       |        |   r̥ r    |                 |   ɽr̥ ɽr   |       — —       |   — —   |  — —  |  ʀ̥ ʀ   |           ʜ ʢ           |   — —   |
+| Lateral affricate      |   — —    |     — —      |               |        |  tɬ dɮ   |                 |    ʈɭ̊˔    |                 |   cʎ̥˔   | kʟ̝̊ ɡʟ̝ |        |           — —           |   — —   |
+| Lateral fricative      |   — —    |     — —      |               |        |   ɬ ɮ    |                 |    ɭ̊˔     |                 |  ʎ̥˔ ʎ̝   |  ʟ̝̊ ʟ̝  |        |           — —           |   — —   |
+| Lateral approximant    |   — —    |     — —      |       l̼       |        |   l̥ l    |                 |    ɭ̊ ɭ    |                 |   ʎ̥ ʎ   |   ʟ   |   ʟ̠    |           — —           |   — —   |
+| Lateral flap           |   — —    |     — —      |       ɺ̼       |        |    ɺ     |                 |     ɭ̆     |                 |    ʎ̮    |       |        |           — —           |   — —   |
+
+@include /viossalibre_mza_mitzam.md
+
+==highlight==
+||spoiler||
+
+#### Selbazam fu MZA
+
+|           | Fura | Mellan | Hina |
+|-----------|------|--------|------|
+| Oba       | i y  | ɨ ʉ    | u    |
+| Obanen    | ɪ ʏ  | ᵻ ᵿ    | ʊ    |
+| Obamellan | e ø  | ɘ ɵ    | o    |
+| Mellan    | e̞ ø̞  | ə ɵ̞    | ɤ̞ o̞  |
+| Unamellan | ɛ œ  | ɜ ɞ    | ɔ    |
+| Unanen    | æ    | ɐ      |      |
+| Una       | a ɶ  | ä ɒ̈    | ɑ ɒ  |
 
 ### Stoftumam
 

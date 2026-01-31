@@ -91,6 +91,9 @@
     });
 
     // github alert style and stuff
+    // format:
+    // > [!NOTE/TIP/IMPORTANT/WARNING/CAUTION]  
+    // > Highlights information that users should take into account, even when skimming.
     const admonitionExtension = {
       name: "admonition",
       level: "block",
@@ -143,7 +146,54 @@
       }
     };
 
-    marked.use({ extensions: [admonitionExtension] });
+    // inline extras !!
+    const inlineExtrasExtension = {
+      name: "inlineExtras",
+      level: "inline",
+
+      start(src) {
+        const match = src.match(/==|\|\|/);
+        return match ? match.index : -1;
+      },
+
+      tokenizer(src) {
+        // highlight ==text==
+        const highlightRule = /^==([^=\n]+)==/;
+        const highlightMatch = highlightRule.exec(src);
+        if (highlightMatch) {
+          return {
+            type: "highlight",
+            raw: highlightMatch[0],
+            text: highlightMatch[1],
+            tokens: this.lexer.inlineTokens(highlightMatch[1])
+          };
+        }
+
+        // spoiler ||text||
+        const spoilerRule = /^\|\|([^\|\n]+)\|\|/;
+        const spoilerMatch = spoilerRule.exec(src);
+        if (spoilerMatch) {
+          return {
+            type: "spoiler",
+            raw: spoilerMatch[0],
+            text: spoilerMatch[1],
+            tokens: this.lexer.inlineTokens(spoilerMatch[1])
+          };
+        }
+      },
+
+      renderer(token) {
+        if (token.type === "highlight") {
+          return `<mark>${this.parser.parseInline(token.tokens)}</mark>`;
+        }
+
+        if (token.type === "spoiler") {
+          return `<span class="spoiler">${this.parser.parseInline(token.tokens)}</span>`;
+        }
+      }
+    };
+
+    marked.use({ extensions: [admonitionExtension, inlineExtrasExtension] });
 
     // get markdown source error catching
     async function getMarkdownSource(url) {
@@ -158,6 +208,36 @@
         console.error('Error fetching Markdown:', error);
         return null;
       }
+    }
+
+    // @include file.md creates an iframe-like embed
+    async function resolveIncludes(markdown, basePath = "", seen = new Set()) {
+      const includeRegex = /^@include\s+(.+)$/gm;
+
+      let match;
+      while ((match = includeRegex.exec(markdown)) !== null) {
+        const file = match[1].trim();
+
+        if (seen.has(file)) {
+          throw new Error(`Recursive include detected: ${file}`);
+        }
+        seen.add(file);
+
+        const response = await fetch(basePath + file);
+        if (!response.ok) {
+          throw new Error(`Failed to include ${file}`);
+        }
+
+        let included = await response.text();
+        included = await resolveIncludes(included, basePath, seen);
+
+        markdown =
+          markdown.slice(0, match.index) +
+          included +
+          markdown.slice(match.index + match[0].length);
+      }
+
+      return markdown;
     }
 
     // get markdown source
