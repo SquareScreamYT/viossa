@@ -1218,10 +1218,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 | Lateral approximant    |   — —    |     — —      |       l̼       |        |   l̥ l    |                 |    ɭ̊ ɭ    |                 |   ʎ̥ ʎ   |   ʟ   |   ʟ̠    |           — —           |   — —   |
 | Lateral flap           |   — —    |     — —      |       ɺ̼       |        |    ɺ     |                 |     ɭ̆     |                 |    ʎ̮    |       |        |           — —           |   — —   |
 
-@include /viossalibre_mza_mitzam.md
-
-==highlight==
-||spoiler||
+@include /viossa/viossalibre_mza_mitzam.md
 
 #### Selbazam fu MZA
 
