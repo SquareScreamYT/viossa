@@ -218,7 +218,7 @@
 <td>ɦ
 </td></tr>
 <tr>
-<th colspan="4">Selbanen
+<th colspan="4">Selbazamnen
 </th>
 <td style="border-right-color:transparent"></td>
 <td></td>
