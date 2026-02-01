@@ -751,6 +751,8 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 ### H
 
+**haar** - Tingkotoba. Haar lik pitka ting ke rupne na atama. Tatoeba, "haar fu du helena".
+
 **haaste** - Likkotoba. Haaste lik treng mange tid, ergo, zeus, mietta auauau per suru. Tatoeba, "jokuraz szirutropos haaste". Haaste kondor simper.
 
 **haisa** - Tingkotoba. Haisa lik har namai. Tatoeba, "sore haisa nai huin fu sore".
@@ -776,6 +778,8 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 **hanufugel** - Tingkotoba. Hanufugel lik fugel ke deki hanu. Risonen: 🦜.
 
 **hapigo** - Tingkotoba. Hapigo lik asoko plas.
+
+**har** - Surukotoba. Har lik jam akote selba. Tatoeba, "un har ringo".
 
 **harimau** - Tingkotoba. Harimau lik stur kot mit kuro au portokali haar. Risonen: 🐯🐅.
 
@@ -945,7 +949,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **ka** - Telkotoba. Aparlik "❓❔". Du deki kjannos afto kotoba. Ka kotoba du brukena li du szirunai jokuting. Anglossa: ||what||.
 
-**kaban** -
+**kaban** - Tingkotoba. Kaban lik ting ke deki har jokuting ine afto. Risonen: 👜🎒💼🛍️👝.
 
 **kafan** - Telkotoba. Kafan lik ka, men plusstur. Aparlik "kadai". Risonen: ⁉️.
 
