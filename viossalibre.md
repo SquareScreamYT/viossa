@@ -1199,7 +1199,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 Cik: [ʘ ǀ ǁ ǂ ǃ]
 
-pʼ tʼ kʼ sʼ ɬʼ
+Jit: [pʼ tʼ kʼ sʼ ɬʼ]
 
 plus?
 
@@ -1208,16 +1208,14 @@ plus?
 |           | Fura | Mellan | Hina |
 |-----------|------|--------|------|
 | Oba       | i y  | ɨ ʉ    | u    |
-| Obanen    | ɪ ʏ  | ᵻ ᵿ    | ʊ    |
+| Akotoba   | ɪ ʏ  | ᵻ ᵿ    | ʊ    |
 | Obamellan | e ø  | ɘ ɵ    | o    |
 | Mellan    | e̞ ø̞  | ə ɵ̞    | ɤ̞ o̞  |
 | Unamellan | ɛ œ  | ɜ ɞ    | ɔ    |
-| Unanen    | æ    | ɐ      |      |
+| Akotuna   | æ    | ɐ      |      |
 | Una       | a ɶ  | ä ɒ̈    | ɑ ɒ  |
 
 ~ au plustingy..
-
-[na wikipedia](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet#Diacritics_and_prosodic_notation)
 
 ### Stoftumam
 
