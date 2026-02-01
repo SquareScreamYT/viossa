@@ -21,7 +21,8 @@
    - [P](#p), [R](#r)
    - [S](#s), [T](#t)
    - [U](#u), [V](#v)
-   - [W](#w-x), [Z](#z)
+   - [W](#w), [X](#x)
+   - [Y](#y), [Z](#z)
 7. [Riso au Skalla](#riso-au-skalla)
    - musn nasi zedvera her (da hanu na un)
 
@@ -855,8 +856,6 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **idzau** - Surukotoba. Idzau lik sama fu ni os mange ting. Risonen: ⚖️.
 
-**ij** - Tingkotoba. Kiro namting fu gjunju du deki nam. Risonen: 🧈.
-
 **ike** - Likkotoba. Kondor gzskni. Aparlik warui kokoro, deki maha trist, booze, rovo auauau.
 
 **iken** - Surukotoba. Iken lik hur du kokoro os mietta cui jokuting. Tatoeba, "paszun a: ka du iken cui skola? paszun b: warui grun sore haastedai au har mange ergo."
@@ -1175,7 +1174,13 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 ### V
 
-### W, X
+### W
+
+### X
+
+### Y
+
+**ij** - Tingkotoba. Kiro namting fu gjunju du deki nam. Risonen: 🧈.
 
 ### Z
 
