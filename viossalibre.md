@@ -204,6 +204,8 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **abece** - Tingkotoba. Abece sama alfakun.
 
+**abestia** - Tingkotoba. Abestia sama musik.
+
 **abia** - Likkotoba. Abia lik pitkatai os pollik. Abia aparlik makipot. Tatoeba, paperi abia.
 
 **abrus** - Surukotoba. Abrus lik joku gvellik. Tatoeba, "li rofai skoj na 8, au du tulla na 8:10, sit du abrus rofai".
@@ -358,7 +360,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **ber** - Surukotoba. Iske ber au bli luft. Tatoeba, "iske ine mare ber au skoj na celo, de bli plui".
 
-**berg** - Tingkotoba. Berg lik sturdai iszi. Risonen:🏔️⛰️🗻.
+**berg** - Tingkotoba. Berg lik sturdai iszi. Risonen: 🏔️⛰️🗻.
 
 **berzoda** - Tingkotoba. Berzoda glugting fu limonsaft au luft.
 
@@ -952,13 +954,13 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **kafan** - Telkotoba. Kafan lik ka, men plusstur. Aparlik "kadai". Risonen: ⁉️.
 
-**kaif** -
+**kaif** - Likkotoba. Kaif lik panpi, lik bra kokoro. Risonen: 😌.
 
-**kaiser** -
+**kaiser** - Tingkotoba. Kaiser lik jewaltzsin fu jokulant, aparlik konig.
 
-**kaku** -
+**kaku** - Surukotoba. Kaku lik vaha kotoba os fras na paperi os ander ting. Risonen: ✍️📝.
 
-**kalamansi** -
+**kalamansi** - Tingkotoba. Kalamansi lik midori limon. Risonen: 🍋‍🟩.
 
 **kalap** -
 
