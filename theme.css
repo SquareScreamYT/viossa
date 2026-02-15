@@ -1,4 +1,4 @@
-/*
+@import url('https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=swap');/*
 
 dark mode
 
@@ -140,8 +140,6 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
-
-@import url('https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=swap');
 
 .markdown-body {
   -ms-text-size-adjust: 100%;
