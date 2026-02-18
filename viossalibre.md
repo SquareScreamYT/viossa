@@ -134,7 +134,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 [Viossa-Diskordserver](https://discord.viossa.net/)  
 [Abivikoli](https://discord.com/channels/193915435123474432/1455099500199936132)
 
-[**Zedvera na Selba**](https://sq.is-a.dev/viossa/libre)
+[**Zedvera na Sebia**](https://sq.is-a.dev/viossa/libre)
 
 ## Kotobatumam
 
@@ -266,7 +266,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **alvan** - Tingkotoba. Alvan lik protokami, vona na velt fu vi au krig med rjoho.
 
-**amnu** - Surukotoba. Amnu lik auki kuczi per henge luft, grun mude os cumaranai. Tatoeba, "da kola, du ima amnu."
+**amnu** - Surukotoba. Amnu lik auki kuczi per hengi luft, grun mude os cumaranai. Tatoeba, "da kola, du ima amnu."
 
 **amuspe** - Tingkotoba. Maredur mit iszilik pjel. Risonen: 🦀.
 
@@ -394,7 +394,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **blau** - Likkotoba. Blau varge fu mare. Risonen: 🟦🔵🔷.
 
-**bli** - Surukotoba. Bli lik mirai maha selba na ting. Tatoeba, "🐛 bli 🦋".
+**bli** - Surukotoba. Bli lik mirai maha sebia na ting. Tatoeba, "🐛 bli 🦋".
 
 **blin** - Tingkotoba au telkotoba. Imi 1: paneku. Imi 2: ka du hanu li du aczor, booze os trist.
 
@@ -552,7 +552,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **durplas** - Tingkotoba. Plas ke du deki se mange dur.
 
-**dusz** - Surukotoba. Dusz lik maha selba sodzi. Risonen: 🛀🚿.
+**dusz** - Surukotoba. Dusz lik maha sebia sodzi. Risonen: 🛀🚿.
 
 **dvera** - Tingkotoba. Dvera ting na tumam ke du bruk per skoiine au skekso. Risonen: 🚪.
 
@@ -752,7 +752,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **gvprckvni** - Surukotoba. Gvprckvni lik gha pjel. Tatoeba, "du gvprckvni banan".
 
-**gzskni** - Likkotoba. Gzskni kondor ike. Gzskni koske deki hanu alting oba selba au nai kokoro warui. Risonen: 😇👼.
+**gzskni** - Likkotoba. Gzskni kondor ike. Gzskni koske deki hanu alting oba sebia au nai kokoro warui. Risonen: 😇👼.
 
 ### H
 
@@ -784,7 +784,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **hapigo** - Tingkotoba. Hapigo lik asoko plas.
 
-**har** - Surukotoba. Har lik jam akote selba. Tatoeba, "un har ringo".
+**har** - Surukotoba. Har lik jam akote sebia. Tatoeba, "un har ringo".
 
 **harimau** - Tingkotoba. Harimau lik stur kot mit kuro au portokali haar. Risonen: 🐯🐅.
 
@@ -806,9 +806,9 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **hember** - Tingkotoba. Hember lik brun au kiro ovoszi. Risonen: 🫚.
 
-**henge** - Surukotoba. Henge lik bruk hana per maha luft skoiine luftkaban. Henge kondor rausim.
-
 **hengest** - Tingkotoba. Hengest lik stur dur ke du deki swaru na. Risonen: 🐎.
+
+**hengi** - Surukotoba. Hengi lik bruk hana per maha luft skoiine luftkaban. Hengi kondor rausim.
 
 **hent** - Surukotoba. Hent sama czeping.
 
@@ -964,7 +964,7 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 **kalamansi** - Tingkotoba. Kalamansi lik midori limon. Risonen: 🍋‍🟩.
 
-**kalap** -
+**kalap** - Tingkotoba. Kalap lik kokoro koske paszun hore os se jit strani, ventnaino, tun, klarnai. Risonen: 😮😲🤯.
 
 **kamag** -
 
