@@ -136,6 +136,8 @@ Al kotoba ine Mellanlant Zamkirain Alfakun. Kotoba fu MZA na ljeva, kakutropos n
 
 [**Zedvera na Sebia**](https://sq.is-a.dev/viossa/libre)
 
+<!-- https://discord.com/channels/193915435123474432/1301708980284031016/1301713256452460605 -->
+
 ## Kotobatumam
 
 ### #, -
